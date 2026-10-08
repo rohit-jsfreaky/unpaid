@@ -1,0 +1,2962 @@
+{
+ "model": "google/gemini-3.8-flash",
+ "llm_calls": 0,
+ "llm_cost_usd": 0.0,
+ "videos": [
+  {
+   "video_id": "ZRVRBnrSNnc",
+   "uses": [
+    {
+     "phone": "Samsung Galaxy M56",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "decent performance.",
+     "meaning_en": "The Samsung Galaxy M56 delivers decent performance.",
+     "source": "transcript",
+     "time_text": "1:25",
+     "url": "https://www.youtube.com/watch?v=ZRVRBnrSNnc&t=85s"
+    },
+    {
+     "phone": "POCO X8",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "has a decent performance.",
+     "meaning_en": "The POCO X8 provides decent performance.",
+     "source": "transcript",
+     "time_text": "1:44",
+     "url": "https://www.youtube.com/watch?v=ZRVRBnrSNnc&t=104s"
+    },
+    {
+     "phone": "POCO X8",
+     "area": "display",
+     "verdict": "good",
+     "quote": "great display!",
+     "meaning_en": "The POCO X8 has a great display.",
+     "source": "transcript",
+     "time_text": "2:14",
+     "url": "https://www.youtube.com/watch?v=ZRVRBnrSNnc&t=134s"
+    },
+    {
+     "phone": "POCO X8",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "if multimedia, battery & durability are important for you, then you can definitely look at it.",
+     "meaning_en": "The reviewer recommends the POCO X8 if battery life is important to you.",
+     "source": "transcript",
+     "time_text": "2:20",
+     "url": "https://www.youtube.com/watch?v=ZRVRBnrSNnc&t=140s"
+    },
+    {
+     "phone": "Realme P3 Ultra",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "the performance is one of the best.",
+     "meaning_en": "The Realme P3 Ultra offers some of the best performance in this segment.",
+     "source": "transcript",
+     "time_text": "2:27",
+     "url": "https://www.youtube.com/watch?v=ZRVRBnrSNnc&t=147s"
+    },
+    {
+     "phone": "Realme P3 Ultra",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "The camera is also decent.",
+     "meaning_en": "The camera on the Realme P3 Ultra is decent.",
+     "source": "transcript",
+     "time_text": "2:51",
+     "url": "https://www.youtube.com/watch?v=ZRVRBnrSNnc&t=171s"
+    },
+    {
+     "phone": "OPPO K13 Turbo",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "if performance is important for you & you play games, then I think the Oppo K13 Turbo is excellent!",
+     "meaning_en": "The Oppo K13 Turbo is an excellent choice for gaming and high performance.",
+     "source": "transcript",
+     "time_text": "2:58",
+     "url": "https://www.youtube.com/watch?v=ZRVRBnrSNnc&t=178s"
+    },
+    {
+     "phone": "OPPO K13 Turbo",
+     "area": "camera",
+     "verdict": "weak",
+     "quote": "I won't suggest it for the camera.",
+     "meaning_en": "The reviewer does not recommend the Oppo K13 Turbo for its camera.",
+     "source": "transcript",
+     "time_text": "3:26",
+     "url": "https://www.youtube.com/watch?v=ZRVRBnrSNnc&t=206s"
+    },
+    {
+     "phone": "Motorola Edge 70",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "For the camera, I'd say the Edge 70 is quite good.",
+     "meaning_en": "The Motorola Edge 70 has quite a good camera.",
+     "source": "transcript",
+     "time_text": "3:26",
+     "url": "https://www.youtube.com/watch?v=ZRVRBnrSNnc&t=206s"
+    },
+    {
+     "phone": "Infinix GT 30 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "you want a gaming & performance phone, then you can look at the GT30 Pro.",
+     "meaning_en": "The reviewer recommends the GT 30 Pro if you are looking for strong gaming and performance.",
+     "source": "transcript",
+     "time_text": "3:48",
+     "url": "https://www.youtube.com/watch?v=ZRVRBnrSNnc&t=228s"
+    },
+    {
+     "phone": "Infinix GT 30 Pro",
+     "area": "software",
+     "verdict": "good",
+     "quote": "I'd say the software is good",
+     "meaning_en": "The software experience on the Infinix GT 30 Pro is good.",
+     "source": "transcript",
+     "time_text": "4:07",
+     "url": "https://www.youtube.com/watch?v=ZRVRBnrSNnc&t=247s"
+    }
+   ],
+   "dropped": []
+  },
+  {
+   "video_id": "JUzsrqTqmf8",
+   "uses": [
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "इनफैक्ट जो इसका कैमरा है 50 मेगापिक्सल मेन, 13 मेगापिक्सल अल्ट्रा वाइड, 32 मेगापिक्सल सेल्फी इससे आप सही फोटो भी निकाल सकते हो। अच्छी फोटो ले लेता है ये।",
+     "meaning_en": "In fact, with its 50MP main, 13MP ultra-wide, and 32MP selfie camera, it takes good and decent photos.",
+     "source": "transcript",
+     "time_text": "1:36",
+     "url": "https://www.youtube.com/watch?v=JUzsrqTqmf8&t=96s"
+    },
+    {
+     "phone": "iQOO Z10",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "और जो इसमें कैमरा सेटअप दिया हुआ है 50 मेन 8 अल्ट्रा वाइड 32 सेल्फी फोटो भी आपकी सही आ जाएंगी।",
+     "meaning_en": "The provided camera setup takes good and decent photos.",
+     "source": "transcript",
+     "time_text": "3:03",
+     "url": "https://www.youtube.com/watch?v=JUzsrqTqmf8&t=183s"
+    },
+    {
+     "phone": "Realme P4 Power",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "तो यह कॉम्बिनेशन नॉर्मल यूजर के लिए सही परफॉरमेंस दे देगा।",
+     "meaning_en": "This combination will deliver good performance for normal users.",
+     "source": "transcript",
+     "time_text": "3:54",
+     "url": "https://www.youtube.com/watch?v=JUzsrqTqmf8&t=234s"
+    },
+    {
+     "phone": "Realme P4 Power",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "और कैमरा की बात करें 50 मेगापिक्सल में 8 अल्ट्रा वाइड और 16 मेगापिक्सल सेल्फी है। डिसेंट फोटो ये भी आपको निकाल के दे देगा।",
+     "meaning_en": "Speaking of the camera, it will also deliver decent photos for you.",
+     "source": "transcript",
+     "time_text": "4:23",
+     "url": "https://www.youtube.com/watch?v=JUzsrqTqmf8&t=263s"
+    },
+    {
+     "phone": "Realme P4 Power",
+     "area": "performance",
+     "verdict": "weak",
+     "quote": "बहुत ज्यादा यह हैवी परफॉर्मेंस टारगेटेड नहीं है।",
+     "meaning_en": "It is not really targeted at heavy performance.",
+     "source": "transcript",
+     "time_text": "4:32",
+     "url": "https://www.youtube.com/watch?v=JUzsrqTqmf8&t=272s"
+    },
+    {
+     "phone": "Nothing Phone 4b",
+     "area": "performance",
+     "verdict": "weak",
+     "quote": "एक्स्ट्रा ऑर्डिनरी परफॉर्मेंस वगैरह तो नहीं है।",
+     "meaning_en": "It does not have extraordinary performance.",
+     "source": "transcript",
+     "time_text": "5:05",
+     "url": "https://www.youtube.com/watch?v=JUzsrqTqmf8&t=305s"
+    }
+   ],
+   "dropped": []
+  },
+  {
+   "video_id": "duBKXZrsKg8",
+   "uses": [
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "display",
+     "verdict": "good",
+     "quote": "Because it has a great display with a 1.5'' quad curved AMOLED display with 144Hz.",
+     "meaning_en": "The phone features a great display.",
+     "source": "transcript",
+     "time_text": "0:42",
+     "url": "https://www.youtube.com/watch?v=duBKXZrsKg8&t=42s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "In this price range, there are a lot of compromises in the camera. Again, not here.",
+     "meaning_en": "Unlike other phones in this price bracket, it does not compromise on the camera.",
+     "source": "transcript",
+     "time_text": "0:53",
+     "url": "https://www.youtube.com/watch?v=duBKXZrsKg8&t=53s"
+    },
+    {
+     "phone": "OPPO K13 Turbo Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "And if you want performance & gaming is the most important, then I'd say it's the Oppo K13 Turbo Pro.",
+     "meaning_en": "It is recommended if performance and gaming are your top priorities.",
+     "source": "transcript",
+     "time_text": "1:27",
+     "url": "https://www.youtube.com/watch?v=duBKXZrsKg8&t=87s"
+    },
+    {
+     "phone": "OPPO K13 Turbo Pro",
+     "area": "camera",
+     "verdict": "weak",
+     "quote": "In negatives, it has a 50MP main camera & a 2MP secondary camera which doesn't make sense.",
+     "meaning_en": "The camera setup is considered a negative point.",
+     "source": "transcript",
+     "time_text": "1:39",
+     "url": "https://www.youtube.com/watch?v=duBKXZrsKg8&t=99s"
+    },
+    {
+     "phone": "Realme P4 Power",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "If battery is important for you, then I'd say the Realme P4 Power.",
+     "meaning_en": "Recommended if you prioritize battery life.",
+     "source": "transcript",
+     "time_text": "1:58",
+     "url": "https://www.youtube.com/watch?v=duBKXZrsKg8&t=118s"
+    },
+    {
+     "phone": "Realme P4 Power",
+     "area": "display",
+     "verdict": "good",
+     "quote": "It has a good display & I'd say it's Dimensity 7400 Ultra.",
+     "meaning_en": "The phone has a good display.",
+     "source": "transcript",
+     "time_text": "2:05",
+     "url": "https://www.youtube.com/watch?v=duBKXZrsKg8&t=125s"
+    },
+    {
+     "phone": "Samsung Galaxy F70 Pro",
+     "area": "software",
+     "verdict": "good",
+     "quote": "If you're looking for long term software updates, then it's Samsung. You can look at Samsung Galaxy F70 Pro.",
+     "meaning_en": "Recommended if you want long-term software update support.",
+     "source": "transcript",
+     "time_text": "2:20",
+     "url": "https://www.youtube.com/watch?v=duBKXZrsKg8&t=140s"
+    },
+    {
+     "phone": "Samsung Galaxy F70 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "Everything else is fine, it has a good display & a 6th Gen 3 processor.",
+     "meaning_en": "The phone comes with a good display.",
+     "source": "transcript",
+     "time_text": "2:28",
+     "url": "https://www.youtube.com/watch?v=duBKXZrsKg8&t=148s"
+    },
+    {
+     "phone": "Samsung Galaxy F70 Pro",
+     "area": "performance",
+     "verdict": "weak",
+     "quote": "In terms of performance, it's not all that great.",
+     "meaning_en": "Its performance is not very good.",
+     "source": "transcript",
+     "time_text": "2:28",
+     "url": "https://www.youtube.com/watch?v=duBKXZrsKg8&t=148s"
+    },
+    {
+     "phone": "Nothing Phone 4",
+     "area": "design",
+     "verdict": "good",
+     "quote": "If you're a techie or a nerd & you're looking for a unique design, then you get the Nothing Phone 4 at a good price.",
+     "meaning_en": "Recommended if you are looking for a unique design.",
+     "source": "transcript",
+     "time_text": "2:46",
+     "url": "https://www.youtube.com/watch?v=duBKXZrsKg8&t=166s"
+    }
+   ],
+   "dropped": []
+  },
+  {
+   "video_id": "EqkttDCDhaA",
+   "uses": [
+    {
+     "phone": "Realme P4",
+     "area": "display",
+     "verdict": "good",
+     "quote": "Now, the number one pro here has to be the display and speakers.",
+     "meaning_en": "The display is one of the top pros of the Realme P4.",
+     "source": "transcript",
+     "time_text": "2:28",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=148s"
+    },
+    {
+     "phone": "Realme P4",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "Now, the second reason to recommend the Realme P4 is performance.",
+     "meaning_en": "The phone's performance is a major reason to recommend it.",
+     "source": "transcript",
+     "time_text": "2:53",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=173s"
+    },
+    {
+     "phone": "Realme P4",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "Now, the third pro here has to be the battery. It has a 7,000 mAh battery and it easily lasts one full day with even heavy usage.",
+     "meaning_en": "The battery easily lasts an entire day under heavy usage.",
+     "source": "transcript",
+     "time_text": "3:16",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=196s"
+    },
+    {
+     "phone": "Realme P4",
+     "area": "charging",
+     "verdict": "good",
+     "quote": "What's good here is along with a bigger battery, you also get faster charging. You get 80 watt fast charging and the charger comes inside the box.",
+     "meaning_en": "The phone features fast 80W charging with the charger included.",
+     "source": "transcript",
+     "time_text": "3:24",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=204s"
+    },
+    {
+     "phone": "Realme P4",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "Now, the fourth pro here are the cameras. It comes with a dual camera setup. So, daylight photos, it comes out well.",
+     "meaning_en": "The camera setup is a pro and produces good daylight photos.",
+     "source": "transcript",
+     "time_text": "3:24",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=204s"
+    },
+    {
+     "phone": "Realme P4",
+     "area": "software",
+     "verdict": "weak",
+     "quote": "And number two, the P4 has 3 plus 4 years of software updates, out of which it has already received one update. So you will only get 2 plus 3 years of software updates more.",
+     "meaning_en": "The remaining software update support is a downside since one year has already passed.",
+     "source": "transcript",
+     "time_text": "3:58",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=238s"
+    },
+    {
+     "phone": "Realme GT 70",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "it has one of the best performance in this price bracket.",
+     "meaning_en": "The phone delivers among the best performance for its price point.",
+     "source": "transcript",
+     "time_text": "4:37",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=277s"
+    },
+    {
+     "phone": "Realme GT 70",
+     "area": "display",
+     "verdict": "good",
+     "quote": "The display and the camera specs are also good.",
+     "meaning_en": "The display specifications are good.",
+     "source": "transcript",
+     "time_text": "4:54",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=294s"
+    },
+    {
+     "phone": "Realme GT 70",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "The display and the camera specs are also good.",
+     "meaning_en": "The camera specifications are good.",
+     "source": "transcript",
+     "time_text": "4:54",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=294s"
+    },
+    {
+     "phone": "Samsung Galaxy M56 5G",
+     "area": "display",
+     "verdict": "good",
+     "quote": "And the number one pro in this [music] price has to be the display.",
+     "meaning_en": "The display is the biggest pro at this price point.",
+     "source": "transcript",
+     "time_text": "5:02",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=302s"
+    },
+    {
+     "phone": "Samsung Galaxy M56 5G",
+     "area": "design",
+     "verdict": "good",
+     "quote": "Now the second pro of the M565G has to be the design. It has a clean design with a raised camera island and surprisingly it also gets a glass back.",
+     "meaning_en": "The phone has a clean, premium design with a glass back.",
+     "source": "transcript",
+     "time_text": "5:20",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=320s"
+    },
+    {
+     "phone": "Samsung Galaxy M56 5G",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "Now the third pro of the M56 has to be the cameras.",
+     "meaning_en": "The camera system is another key pro of the phone.",
+     "source": "transcript",
+     "time_text": "5:38",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=338s"
+    },
+    {
+     "phone": "Samsung Galaxy M56 5G",
+     "area": "software",
+     "verdict": "good",
+     "quote": "Now the fourth pro of the M56 or any Samsung phone has to be the software. Like 1 UI is so featurerich.",
+     "meaning_en": "The software is a major strength because One UI is very feature-packed.",
+     "source": "transcript",
+     "time_text": "6:02",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=362s"
+    },
+    {
+     "phone": "Samsung Galaxy M56 5G",
+     "area": "battery",
+     "verdict": "weak",
+     "quote": "Also, by 2026 standard, the battery is less. It comes with a 5,000 mAh battery, so it will last one full day on a normal or average usage, but don't expect too much.",
+     "meaning_en": "By current standards, the battery capacity is on the lower side.",
+     "source": "transcript",
+     "time_text": "6:20",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=380s"
+    },
+    {
+     "phone": "Samsung Galaxy M56 5G",
+     "area": "performance",
+     "verdict": "weak",
+     "quote": "So, the performance for day-to-day task is fine, but if you push it into gaming or you want to play long sessions, the M56 will stutter.",
+     "meaning_en": "Gaming performance is weak and the device stutters during longer sessions.",
+     "source": "transcript",
+     "time_text": "6:35",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=395s"
+    },
+    {
+     "phone": "OPPO K13 Turbo",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "Now the number one pro of the OPPO K13 Turbo has to be the performance.",
+     "meaning_en": "Performance is the number one advantage of the OPPO K13 Turbo.",
+     "source": "transcript",
+     "time_text": "6:58",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=418s"
+    },
+    {
+     "phone": "OPPO K13 Turbo",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "And even [music] with heavy usage, the 7,000 mAh battery lasts one full day.",
+     "meaning_en": "The battery provides a full day of endurance even with heavy use.",
+     "source": "transcript",
+     "time_text": "7:34",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=454s"
+    },
+    {
+     "phone": "OPPO K13 Turbo",
+     "area": "display",
+     "verdict": "good",
+     "quote": "Now, the second pro here has to be the display. It comes with a 120 Hz AMOLED display and the colors look good on it.",
+     "meaning_en": "The display is a strong point, offering nice colors on a 120Hz AMOLED panel.",
+     "source": "transcript",
+     "time_text": "7:38",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=458s"
+    },
+    {
+     "phone": "OPPO K13 Turbo",
+     "area": "design",
+     "verdict": "good",
+     "quote": "Now, number three, and this is a bit subjective, but the design of the phone is pretty unique.",
+     "meaning_en": "The design of the phone is unique and attractive.",
+     "source": "transcript",
+     "time_text": "7:42",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=462s"
+    },
+    {
+     "phone": "OPPO K13 Turbo",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "Along with that, it has a 50 map main camera, which takes good pictures.",
+     "meaning_en": "The main camera performs well and takes good photos.",
+     "source": "transcript",
+     "time_text": "7:50",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=470s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "Motorola Edge 60 Pro (Best Value & Cameras)",
+     "meaning_en": "The Motorola Edge 60 Pro offers the best value and cameras in this range.",
+     "source": "description",
+     "time_text": null,
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "Like, the first pro has to be the cameras.",
+     "meaning_en": "The cameras are the foremost positive feature of the phone.",
+     "source": "transcript",
+     "time_text": "8:27",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=507s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "Along with the camera, the second pro here is the performance.",
+     "meaning_en": "Performance is another key strength of the phone.",
+     "source": "transcript",
+     "time_text": "9:00",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=540s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "Along with performance, the display, battery, charging, everything is pretty top of the line that you get around 30,000 in 2026.",
+     "meaning_en": "The display is top-tier for its price category.",
+     "source": "transcript",
+     "time_text": "9:24",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=564s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "Along with performance, the display, battery, charging, everything is pretty top of the line that you get around 30,000 in 2026.",
+     "meaning_en": "The battery is top-of-the-line for this budget class.",
+     "source": "transcript",
+     "time_text": "9:24",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=564s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "charging",
+     "verdict": "good",
+     "quote": "Along with performance, the display, battery, charging, everything is pretty top of the line that you get around 30,000 in 2026.",
+     "meaning_en": "Charging capabilities are among the best available around ₹30,000.",
+     "source": "transcript",
+     "time_text": "9:24",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=564s"
+    }
+   ],
+   "dropped": []
+  },
+  {
+   "video_id": "D9ExDmHsov8",
+   "uses": [
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "അത്യാവശ്യം ക്യാമറ പരിപാടിയൊക്കെ നോക്കുന്നവർക്ക് പറ്റിയ സാധനമാണ്.",
+     "meaning_en": "It is a suitable phone for those who are looking for decent camera performance.",
+     "source": "transcript",
+     "time_text": "3:30",
+     "url": "https://www.youtube.com/watch?v=D9ExDmHsov8&t=210s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "display",
+     "verdict": "good",
+     "quote": "നല്ലൊരു ബ്രൈറ്റ് ആയിട്ടുള്ള ഡിസ്പ്ലേ ആണ് ഈ സാധനം തന്നിരിക്കുന്നത്.",
+     "meaning_en": "This device offers a nice and bright display.",
+     "source": "transcript",
+     "time_text": "3:40",
+     "url": "https://www.youtube.com/watch?v=D9ExDmHsov8&t=220s"
+    },
+    {
+     "phone": "Samsung Galaxy A36 5G",
+     "area": "software",
+     "verdict": "good",
+     "quote": "Samsung ന്റെ സോഫ്റ്റ്‌വെയർ എക്സ്പീരിയൻസ് ആണ് ഇതിന്റെ ഒരു മെയിൻ ഹൈലൈറ്റ്.",
+     "meaning_en": "Samsung's software experience is one of its main highlights.",
+     "source": "transcript",
+     "time_text": "6:38",
+     "url": "https://www.youtube.com/watch?v=D9ExDmHsov8&t=398s"
+    },
+    {
+     "phone": "Samsung Galaxy A36 5G",
+     "area": "performance",
+     "verdict": "weak",
+     "quote": "ഭയങ്കര വലിയ ഒരു ജെമിട്ടം പെർഫോമൻസ് ഒന്നും ഇതിന്റകത്ത് കിട്ടത്തില്ല.",
+     "meaning_en": "You will not get massive or top-tier performance on this device.",
+     "source": "transcript",
+     "time_text": "6:41",
+     "url": "https://www.youtube.com/watch?v=D9ExDmHsov8&t=401s"
+    },
+    {
+     "phone": "Samsung Galaxy A36 5G",
+     "area": "display",
+     "verdict": "good",
+     "quote": "അത്യാവശ്യം നല്ലൊരു ഡിസ്പ്ലേയും കാര്യങ്ങളഒക്കെ ഇതിന്റകത്ത് കൊടുത്തിട്ടുണ്ട്.",
+     "meaning_en": "It comes with a fairly good display and features.",
+     "source": "transcript",
+     "time_text": "7:16",
+     "url": "https://www.youtube.com/watch?v=D9ExDmHsov8&t=436s"
+    },
+    {
+     "phone": "Samsung Galaxy A36 5G",
+     "area": "software",
+     "verdict": "good",
+     "quote": "അത്യാവശ്യം സോഫ്റ്റ്വെയറിനെ പറ്റി ചിന്തിക്കുന്നവർക്ക് പറ്റിയ ഒരു ഫോണാണ്",
+     "meaning_en": "It is a suitable phone for those who prioritize software.",
+     "source": "transcript",
+     "time_text": "7:48",
+     "url": "https://www.youtube.com/watch?v=D9ExDmHsov8&t=468s"
+    }
+   ],
+   "dropped": []
+  },
+  {
+   "video_id": "WWpRe3fA9YE",
+   "uses": [
+    {
+     "phone": "Realme P4 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "डिस्प्ले की क्वालिटी बेहतरीन आपको मिलेगी।",
+     "meaning_en": "You get excellent display quality.",
+     "source": "transcript",
+     "time_text": "1:07",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=67s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "सेल्फी कैमरा भी इसके अच्छे निकल के आते हैं।",
+     "meaning_en": "The selfie camera also produces good results.",
+     "source": "transcript",
+     "time_text": "1:29",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=89s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "तो आपको नॉर्मल यूजर्स के अंदर परफॉर्मेंस स्मूथ मिलती है।",
+     "meaning_en": "Performance is smooth in everyday usage.",
+     "source": "transcript",
+     "time_text": "1:46",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=106s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "इवन गेमिंग भी ये काफी अच्छी वाली आपको करा के देगा।",
+     "meaning_en": "It will provide quite good gaming performance.",
+     "source": "transcript",
+     "time_text": "1:54",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=114s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "डेढ़ से दो दिन वाला बैटरी बैकअप बहुत आराम से इसके अंदर निकल जाता है।",
+     "meaning_en": "It easily delivers one and a half to two days of battery backup.",
+     "source": "transcript",
+     "time_text": "2:19",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=139s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "डिस्प्ले की क्वालिटी बेहतरीन आपको मिल जाएगी।",
+     "meaning_en": "You get excellent display quality.",
+     "source": "transcript",
+     "time_text": "3:00",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=180s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "साथ में परफॉर्मेंस में इसमें कोई कमी नहीं आती है",
+     "meaning_en": "There are no shortcomings in performance.",
+     "source": "transcript",
+     "time_text": "3:18",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=198s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "अच्छी बिना किसी हीटिंग के आपको इसके अंदर जो गेमिंग है वो आप कर लोगे।",
+     "meaning_en": "You can game nicely on it without any heating issues.",
+     "source": "transcript",
+     "time_text": "3:44",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=224s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "आप वैसे चेक आउट इसके कैमरा को भी कर लो क्योंकि इसके मेन सेंसर टेलीोटो के शॉट्स क्या बेहतरीन निकल के आते हैं।",
+     "meaning_en": "The camera shots from the main and telephoto sensors come out great.",
+     "source": "transcript",
+     "time_text": "4:15",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=255s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "साथ में यार इसमें 6000 एमh की बैटरी आती है। एक दिन वाला बैटरी बैकअप आपके लिए आराम से निकाल देगी।",
+     "meaning_en": "The 6000mAh battery easily provides a full day of battery backup.",
+     "source": "transcript",
+     "time_text": "4:23",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=263s"
+    },
+    {
+     "phone": "Realme P3 Ultra",
+     "area": "display",
+     "verdict": "good",
+     "quote": "डिस्प्ले क्वालिटी अच्छी आपको मिल जाएगी।",
+     "meaning_en": "You get good display quality.",
+     "source": "transcript",
+     "time_text": "5:22",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=322s"
+    },
+    {
+     "phone": "Realme P3 Ultra",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "इवन Bजीएमआई की गेमिंग भी इसके अंदर बहुत बेहतरीन हो जाती है।",
+     "meaning_en": "Even BGMI gaming runs very well on it.",
+     "source": "transcript",
+     "time_text": "5:41",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=341s"
+    },
+    {
+     "phone": "Infinix GT 30 Pro",
+     "area": "design",
+     "verdict": "good",
+     "quote": "बैक से डिज़ाइन देखोगे पूरी Infinix की वो गेमिंग वाली वाइब आपको देखने के लिए इसके अंदर मिल जाएगी। बेहतरीन लगता है।",
+     "meaning_en": "The back design gives a full gaming vibe and looks great.",
+     "source": "transcript",
+     "time_text": "6:40",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=400s"
+    },
+    {
+     "phone": "Infinix GT 30 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "अल्टीमेट परफॉर्मेंस निकाल के देता है।",
+     "meaning_en": "It delivers ultimate performance.",
+     "source": "transcript",
+     "time_text": "6:57",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=417s"
+    },
+    {
+     "phone": "Infinix GT 30 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "गेमिंग के लिए 90fps में तो यह काफी ज्यादा ऑप्टिमाइज मुझे लगा है।",
+     "meaning_en": "It feels very well-optimized for 90fps gaming.",
+     "source": "transcript",
+     "time_text": "6:57",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=417s"
+    },
+    {
+     "phone": "Infinix GT 30 Pro",
+     "area": "camera",
+     "verdict": "weak",
+     "quote": "बाकी कैमरास अगर आप देखोगे फोटो इसके अंदर डिसेंट सी निकल के आती है। डे लाइट के अंदर तो ठीक-ठाक सी है। लो लाइट में थोड़ा सा ये स्ट्रगल करता हुआ जरूर से मुझे लगा",
+     "meaning_en": "The cameras produce only decent photos in daylight and struggle in low light.",
+     "source": "transcript",
+     "time_text": "7:34",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=454s"
+    },
+    {
+     "phone": "Infinix GT 30 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "एमोलेड डिस्प्ले पतले बैजल्स फ्लैट वाली क्या बेहतरीन डिस्प्ले लगती है। अच्छी क्वालिटी है।",
+     "meaning_en": "The flat AMOLED display with slim bezels looks great and has good quality.",
+     "source": "transcript",
+     "time_text": "7:50",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=470s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "बैटरी 7000 एमh की काफी बड़ी है जो कि डेढ़ से 2 दिन वाला बैटरी बैकअप निकाल देती है।",
+     "meaning_en": "The large 7000mAh battery delivers 1.5 to 2 days of battery backup.",
+     "source": "transcript",
+     "time_text": "8:26",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=506s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "नॉर्मल परफॉर्मेंस भी आपको इसके अंदर अच्छी मिल",
+     "meaning_en": "You get good normal performance with this phone.",
+     "source": "transcript",
+     "time_text": "8:34",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=514s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "performance",
+     "verdict": "weak",
+     "quote": "गेमिंग के लिए मैं कहूंगा 90fps में भी यहां पे थोड़ा सा स्ट्रगल करता हुआ आपको मिलेगा।",
+     "meaning_en": "For gaming, it struggles a bit even at 90fps.",
+     "source": "transcript",
+     "time_text": "8:41",
+     "url": "https://www.youtube.com/watch?v=WWpRe3fA9YE&t=521s"
+    }
+   ],
+   "dropped": [
+    {
+     "kind": "use:software",
+     "quote": "लंबा सॉफ्टवेयर सपोर्ट जो है आपको इसके अंदर देखने के लिए मिलेगा।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:display",
+     "quote": "अच्छी क्वालिटी की आपको यहां पर डिस्प्ले भी मिलेगी।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:performance",
+     "quote": "नॉर्मल यूज़ में ठीक है। आपको स्मूथ परफॉर्मेंस भी देखने को मिलेगी।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:performance",
+     "quote": "बहुत हैवी गेमिंग वगैरह आप इसके अंदर नहीं कर सकते।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:camera",
+     "quote": "ओवरऑल आपको कैमरा वगैरह में बहुत ज्यादा निराशा हाथ नहीं लगेगी।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:battery",
+     "quote": "बाकी बैटरी जो है 5000 एमh की मिलती है जो कि थोड़े से कम साइड में मुझे लगी है।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:design",
+     "quote": "बैक से दिखने में डिज़ाइन वगैरह थोड़ी प्रीमियम फील जरूर से निकाल के देता है।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:software",
+     "quote": "लंबा सॉफ्टवेयर सपोर्ट जो है आपको इसके अंदर देखने के लिए मिलेगा।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:display",
+     "quote": "अच्छी क्वालिटी की आपको यहां पर डिस्प्ले भी मिलेगी।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:performance",
+     "quote": "नॉर्मल यूज़ में ठीक है। आपको स्मूथ परफॉर्मेंस भी देखने को मिलेगी।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:performance",
+     "quote": "बहुत हैवी गेमिंग वगैरह आप इसके अंदर नहीं कर सकते।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:camera",
+     "quote": "ओवरऑल आपको कैमरा वगैरह में बहुत ज्यादा निराशा हाथ नहीं लगेगी।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:battery",
+     "quote": "बाकी बैटरी जो है 5000 एमh की मिलती है जो कि थोड़े से कम साइड में मुझे लगी है।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:design",
+     "quote": "बैक से दिखने में डिज़ाइन वगैरह थोड़ी प्रीमियम फील जरूर से निकाल के देता है।",
+     "reason": "the same sentence was credited to several phones"
+    }
+   ]
+  },
+  {
+   "video_id": "O503oD5pWbg",
+   "uses": [
+    {
+     "phone": "Lava VAT Curve",
+     "area": "software",
+     "verdict": "good",
+     "quote": "सॉफ्टवेयर क्लीन आपको इसमें मिलता है।",
+     "meaning_en": "The software is clean on this phone.",
+     "source": "transcript",
+     "time_text": "0:56",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=56s"
+    },
+    {
+     "phone": "Lava VAT Curve",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "6000 एमh की आपको बड़ी बैटरी भी मिलती है।",
+     "meaning_en": "You also get a large 6000mAh battery.",
+     "source": "transcript",
+     "time_text": "1:04",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=64s"
+    },
+    {
+     "phone": "Lava VAT Curve",
+     "area": "software",
+     "verdict": "weak",
+     "quote": "वही सॉफ्टवेयर अभी थोड़ा सा पुराना इनका फील होता है। उतना अच्छा नहीं है।",
+     "meaning_en": "Their software feels a bit outdated and is not that good.",
+     "source": "transcript",
+     "time_text": "1:12",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=72s"
+    },
+    {
+     "phone": "Lava VAT Curve",
+     "area": "camera",
+     "verdict": "weak",
+     "quote": "कैमरा उतना अच्छा आपको नहीं मिल रहा है।",
+     "meaning_en": "The camera you get is not that good.",
+     "source": "transcript",
+     "time_text": "1:21",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=81s"
+    },
+    {
+     "phone": "Infinix Note H",
+     "area": "software",
+     "verdict": "good",
+     "quote": "Infinix का जो सॉफ्टवेयर है बहुत इंप्रूव हो चुका है। तो यहां पे सॉफ्टवेयर एक्सपीरियंस भी आपको अच्छा मिल रहा है",
+     "meaning_en": "Infinix's software has improved a lot, so you get a good software experience.",
+     "source": "transcript",
+     "time_text": "1:54",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=114s"
+    },
+    {
+     "phone": "Infinix Note H",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "बैटरी भी बड़ी 6500 एमh की बैटरी मिलती है।",
+     "meaning_en": "You get a large 6500mAh battery.",
+     "source": "transcript",
+     "time_text": "2:01",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=121s"
+    },
+    {
+     "phone": "Infinix Note H",
+     "area": "camera",
+     "verdict": "weak",
+     "quote": "इसमें भी आप कैमरा ही नेगेटिव थोड़ा रख सकते हो।",
+     "meaning_en": "The camera can be considered a slight negative on this phone too.",
+     "source": "transcript",
+     "time_text": "2:08",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=128s"
+    },
+    {
+     "phone": "Vivo T5X",
+     "area": "software",
+     "verdict": "good",
+     "quote": "और इसका तो सॉफ्टवेयर भी आपको अच्छा मिलता है।",
+     "meaning_en": "And you get good software on this phone as well.",
+     "source": "transcript",
+     "time_text": "2:51",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=171s"
+    },
+    {
+     "phone": "Vivo T5X",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "7200 एमh की काफी बड़ी बैटरी है।",
+     "meaning_en": "It has quite a large 7200mAh battery.",
+     "source": "transcript",
+     "time_text": "2:58",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=178s"
+    },
+    {
+     "phone": "Vivo T5X",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "50M का जो मेन कैमरा है वो अच्छी फोटोज निकालता है डिटेल अच्छी है स्पेशली लो लाइट के अंदर भी",
+     "meaning_en": "The 50MP main camera takes good photos with good details, especially in low light.",
+     "source": "transcript",
+     "time_text": "3:02",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=182s"
+    },
+    {
+     "phone": "Oppo K13 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "इसकी भी परफॉर्मेंस आपको अच्छी मिलेगी",
+     "meaning_en": "You will get good performance on this phone as well.",
+     "source": "transcript",
+     "time_text": "3:53",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=233s"
+    },
+    {
+     "phone": "Oppo K13 Pro",
+     "area": "software",
+     "verdict": "good",
+     "quote": "सॉफ्टवेयर भी आपको अच्छा मिल रहा है।",
+     "meaning_en": "You get good software as well.",
+     "source": "transcript",
+     "time_text": "3:53",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=233s"
+    },
+    {
+     "phone": "Oppo K13 Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "Vivo से और बड़ी 8000 एमh की बैटरी आपको मिलती है।",
+     "meaning_en": "You get an even larger 8000mAh battery than the Vivo.",
+     "source": "transcript",
+     "time_text": "4:01",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=241s"
+    },
+    {
+     "phone": "Oppo K13 Pro",
+     "area": "camera",
+     "verdict": "weak",
+     "quote": "इसमें जो सेल्फी कैमरा वो 16M का है। एंड सेल्फीज़ आई थिंक इसमें काफी खराब आएंगी।",
+     "meaning_en": "The selfie camera is 16MP and I think selfies will come out quite poorly.",
+     "source": "transcript",
+     "time_text": "4:10",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=250s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "नॉर्मल टास्क भी अच्छे और थोड़ी सी गेमिंग भी आप कर पाओगे।",
+     "meaning_en": "It handles normal tasks well and you can do some gaming on it too.",
+     "source": "transcript",
+     "time_text": "5:09",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=309s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "7000 एमh की बहुत बड़ी बैटरी आपको मिलती है।",
+     "meaning_en": "You get a very large 7000mAh battery.",
+     "source": "transcript",
+     "time_text": "5:09",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=309s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "मेन कैमरे से भी अच्छी फोटो निकालता है।",
+     "meaning_en": "It takes good photos with the main camera as well.",
+     "source": "transcript",
+     "time_text": "5:25",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=325s"
+    },
+    {
+     "phone": "Motorola Edge 70",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "इसका कैमरे में Moto S70 फ्यूजन से आपको बेटर मिलता है।",
+     "meaning_en": "Its camera is better than the Moto Edge 70 Fusion.",
+     "source": "transcript",
+     "time_text": "6:20",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=380s"
+    },
+    {
+     "phone": "Motorola Edge 70",
+     "area": "battery",
+     "verdict": "weak",
+     "quote": "इसमें उतनी अच्छी बैटरी लाइफ नहीं है।",
+     "meaning_en": "It does not have as good battery life.",
+     "source": "transcript",
+     "time_text": "6:29",
+     "url": "https://www.youtube.com/watch?v=O503oD5pWbg&t=389s"
+    }
+   ],
+   "dropped": []
+  },
+  {
+   "video_id": "d0k2lEcbw14",
+   "uses": [
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "దీంట్లో కెమెరా అవుట్పుట్ బెటర్ ఉంటుంది.",
+     "meaning_en": "The camera output is better in this phone compared to other phones in this segment.",
+     "source": "transcript",
+     "time_text": "1:57",
+     "url": "https://www.youtube.com/watch?v=d0k2lEcbw14&t=117s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "సో మీరు ఒకవేళ పర్ఫార్మెన్స్ వైపు చూస్తున్నా గాని దీన్ని మీరు పిక్ చేసుకోవచ్చు.",
+     "meaning_en": "If you are looking at performance, you can definitely pick this phone.",
+     "source": "transcript",
+     "time_text": "2:20",
+     "url": "https://www.youtube.com/watch?v=d0k2lEcbw14&t=140s"
+    },
+    {
+     "phone": "Realme P4 Power 5G",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "ముఖ్యంగా మీకు బ్యాటరీ ఓరియంటెడ్ పర్సన్ అయి ఉండిఉంటే అండ్ డిస్ప్లే ఓరియంటెడ్ పర్సన్ అయి ఉంటే కచ్చితంగా ఈ ఫోన్ మీ లిస్ట్ లో ఉండాలి.",
+     "meaning_en": "Especially if you are a battery-oriented and display-oriented person, this phone should definitely be on your list.",
+     "source": "transcript",
+     "time_text": "2:52",
+     "url": "https://www.youtube.com/watch?v=d0k2lEcbw14&t=172s"
+    },
+    {
+     "phone": "Realme P4 Power 5G",
+     "area": "display",
+     "verdict": "good",
+     "quote": "అందులో మొదటిగా నాకు నచ్చింది దీంట్లో డిస్ప్లే బాగుంటుంది.",
+     "meaning_en": "First of all, what I liked about this phone is that the display is good.",
+     "source": "transcript",
+     "time_text": "3:14",
+     "url": "https://www.youtube.com/watch?v=d0k2lEcbw14&t=194s"
+    }
+   ],
+   "dropped": []
+  },
+  {
+   "video_id": "2c-uoW-NPIQ",
+   "uses": [
+    {
+     "phone": "Nothing Phone 4B",
+     "area": "display",
+     "verdict": "good",
+     "quote": "डिस्प्ले भी एमोलेड है 120 हर्टz के साथ में तो वहां पर भी अच्छी डिस्प्ले मिल जाएगी",
+     "meaning_en": "The display is AMOLED at 120Hz, providing a good viewing experience.",
+     "source": "transcript",
+     "time_text": "5:02",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=302s"
+    },
+    {
+     "phone": "Nothing Phone 4B",
+     "area": "performance",
+     "verdict": "weak",
+     "quote": "Snapdragon 64 प्रोसेसर है ना वो आपका गेमिंग तो ज्यादा कोई तगड़ा नहीं करवा के देगा",
+     "meaning_en": "The Snapdragon processor will not deliver very strong gaming performance.",
+     "source": "transcript",
+     "time_text": "5:18",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=318s"
+    },
+    {
+     "phone": "Poco X8",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "अच्छी खासी लॉन्ग टर्म बैटरी चाहिए तो ये फोन ऑफर करता है",
+     "meaning_en": "This phone provides good long-term battery life.",
+     "source": "transcript",
+     "time_text": "7:43",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=463s"
+    },
+    {
+     "phone": "Poco X8",
+     "area": "performance",
+     "verdict": "weak",
+     "quote": "गेमिंग को लेके रेकमेंडेड नहीं है मेरी तरफ से",
+     "meaning_en": "I do not recommend this phone for gaming.",
+     "source": "transcript",
+     "time_text": "7:58",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=478s"
+    },
+    {
+     "phone": "Poco X8",
+     "area": "display",
+     "verdict": "good",
+     "quote": "कंटेंट के लिए डिस्प्ले जो एमोलेड आता है वो पॉजिटिव हो जाता है",
+     "meaning_en": "The AMOLED display is a positive aspect for content consumption.",
+     "source": "transcript",
+     "time_text": "8:11",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=491s"
+    },
+    {
+     "phone": "Realme P4 Pro 5G",
+     "area": "display",
+     "verdict": "good",
+     "quote": "एक तो डिस्प्ले अच्छी है",
+     "meaning_en": "The display is good.",
+     "source": "transcript",
+     "time_text": "9:30",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=570s"
+    },
+    {
+     "phone": "Realme P4 Pro 5G",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "बैटरी भी 7000 एमh है तो वो भी पॉजिटिव है",
+     "meaning_en": "The 7000mAh battery is also a positive point.",
+     "source": "transcript",
+     "time_text": "9:47",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=587s"
+    },
+    {
+     "phone": "Realme P4 Pro 5G",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "Realme ने इस फोन के अंदर कैमरा में सच में काफी अच्छा काम किया था",
+     "meaning_en": "Realme really did a great job on the camera in this phone.",
+     "source": "transcript",
+     "time_text": "9:54",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=594s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "परफॉर्मेंस भी बेंचमार्क स्कोर्स भी काफी अच्छे निकल कर आते हैं",
+     "meaning_en": "The performance and benchmark scores turn out very good.",
+     "source": "transcript",
+     "time_text": "10:38",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=638s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "display",
+     "verdict": "good",
+     "quote": "डिस्प्ले को लेकर सारे प्रीमियम फीचर्स हैं",
+     "meaning_en": "The display comes with all the premium features.",
+     "source": "transcript",
+     "time_text": "11:10",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=670s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "बैटरी भी अच्छी है",
+     "meaning_en": "The battery is also good.",
+     "source": "transcript",
+     "time_text": "11:19",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=679s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "अच्छा कैमरा फोन चाहिए ना तो यह भी वो सारी चीजें ऑफर करता है",
+     "meaning_en": "If you want a good camera phone, this device offers all of that.",
+     "source": "transcript",
+     "time_text": "11:28",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=688s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "कैमरा की प्रोसेसिंग भी काफी ज्यादा बेटर है",
+     "meaning_en": "The camera image processing is significantly better.",
+     "source": "transcript",
+     "time_text": "11:47",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=707s"
+    },
+    {
+     "phone": "Motorola Edge 70",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "इससे बेटर कैमरा वो आपको निकाल के दे देगा",
+     "meaning_en": "It will provide you with an even better camera than this one.",
+     "source": "transcript",
+     "time_text": "12:10",
+     "url": "https://www.youtube.com/watch?v=2c-uoW-NPIQ&t=730s"
+    }
+   ],
+   "dropped": [
+    {
+     "kind": "use:battery",
+     "quote": "बैटरी 7200 एमh के साथ में अच्छा लॉन्ग टर्म बैटरी बैकअप निकाल के देगा",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:camera",
+     "quote": "और इवन इसका जो मेन कैमरा है जो सिंगल एक काम का है वो अच्छी फोटो निकाल देगा",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:battery",
+     "quote": "बैटरी 7200 एमh के साथ में अच्छा लॉन्ग टर्म बैटरी बैकअप निकाल के देगा",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:camera",
+     "quote": "और इवन इसका जो मेन कैमरा है जो सिंगल एक काम का है वो अच्छी फोटो निकाल देगा",
+     "reason": "the same sentence was credited to several phones"
+    }
+   ]
+  },
+  {
+   "video_id": "pg2HubRUVdY",
+   "uses": [
+    {
+     "phone": "Realme GT 7T",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "मतलब परफॉर्मेंस में भाई यह फास्ट है और एक्चुअली में फास्ट फील होता है।",
+     "meaning_en": "The performance is genuinely fast and feels responsive.",
+     "source": "transcript",
+     "time_text": "2:45",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=165s"
+    },
+    {
+     "phone": "Realme GT 7T",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "अबव एवरेज आपको इसमें कैमरा देखने को मिलेगा। आपका काम चल जाएगा। आप खुश रहोगे भाई कैमरा से।",
+     "meaning_en": "The cameras are above average and you will be pleased with them.",
+     "source": "transcript",
+     "time_text": "3:07",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=187s"
+    },
+    {
+     "phone": "Realme GT 7T",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "तो बैटरी एंड चार्जिंग से भी आपको कोई परेशानी नहीं होगी। ऑलमोस्ट दो दिन की बैटरी लाइफ मिलेगी।",
+     "meaning_en": "You will have no issues with the battery as it provides nearly two days of battery life.",
+     "source": "transcript",
+     "time_text": "3:13",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=193s"
+    },
+    {
+     "phone": "Realme GT 7T",
+     "area": "charging",
+     "verdict": "good",
+     "quote": "तो बैटरी एंड चार्जिंग से भी आपको कोई परेशानी नहीं होगी।",
+     "meaning_en": "You will have no problems regarding battery and charging.",
+     "source": "transcript",
+     "time_text": "3:13",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=193s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "display",
+     "verdict": "good",
+     "quote": "लेकिन डिस्प्ले की क्वालिटी इज फैंटास्टिक। आपको डिस्प्ले से कोई परेशानी नहीं होगी।",
+     "meaning_en": "The display quality is fantastic and hassle-free.",
+     "source": "transcript",
+     "time_text": "3:56",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=236s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "जो परफॉर्मेंस है वो भी बढ़िया है। डेली परफॉर्मेंस काफी अच्छा है।",
+     "meaning_en": "The daily performance is very good.",
+     "source": "transcript",
+     "time_text": "3:56",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=236s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "कैमरास की बात करूं 50 मेगापिक्सल मेन 13 मेगापिक्सल अल्ट्रा वाइड 32 मेगापिक्सेल सेल्फी कैमरा एंड ट्रस्ट मी भाई इस प्राइस रेंज में यह बहुत अच्छा कैमरा सेटअप देता है।",
+     "meaning_en": "It offers a very good camera setup in this price segment.",
+     "source": "transcript",
+     "time_text": "4:04",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=244s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "software",
+     "verdict": "good",
+     "quote": "लेकिन Motorola का जो क्लीन Android एक्सपीरियंस है वो भी बढ़िया है भाई। उसमें कोई परेशानी नहीं है।",
+     "meaning_en": "The clean Android software experience is nice and problem-free.",
+     "source": "transcript",
+     "time_text": "4:50",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=290s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "मतलब डेली परफॉर्मेंस में आपको ज्यादा परेशानी नहीं है।",
+     "meaning_en": "You won't face any issues in everyday performance.",
+     "source": "transcript",
+     "time_text": "5:06",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=306s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "एंड डिस्प्ले की क्वालिटी इज़ आल्सो वैरी नाइस।",
+     "meaning_en": "The display quality is also very nice.",
+     "source": "transcript",
+     "time_text": "5:13",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=313s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "ओवरऑल बढ़िया कैमरा एक्सपीरियंस भी आपको इसमें मिल जाएगा।",
+     "meaning_en": "You get an overall good camera experience on this phone.",
+     "source": "transcript",
+     "time_text": "5:21",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=321s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "बड़ी 7000 एमh की बैटरी, 80 W की चार्जिंग। तो 1ढ़ दिन की बैटरी लाइफ प्यार से मिल जाएगी।",
+     "meaning_en": "With the 7000mAh battery, you easily get one and a half days of battery life.",
+     "source": "transcript",
+     "time_text": "5:28",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=328s"
+    },
+    {
+     "phone": "OPPO K13 Turbo Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "भाई जो प्राइस में आ रहा है वो प्राइस में बाप फोन है। स्पेसिफिकली परफॉर्मेंस के मामले में गेमिंग के मामले में।",
+     "meaning_en": "It is unmatched for its price, specifically in performance and gaming.",
+     "source": "transcript",
+     "time_text": "7:15",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=435s"
+    },
+    {
+     "phone": "OPPO K13 Turbo Pro",
+     "area": "camera",
+     "verdict": "weak",
+     "quote": "कैमरास जो है बड़े ही एवरेज है ऑफ कोर्स गेमिंग सेंट्रिक फोन है।",
+     "meaning_en": "The cameras are quite average since it is a gaming-centric device.",
+     "source": "transcript",
+     "time_text": "7:41",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=461s"
+    },
+    {
+     "phone": "OPPO K13 Turbo",
+     "area": "camera",
+     "verdict": "weak",
+     "quote": "इसका भी कैमरा बड़ा ही एवरेज है।",
+     "meaning_en": "Its camera is also quite average.",
+     "source": "transcript",
+     "time_text": "8:07",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=487s"
+    },
+    {
+     "phone": "OPPO K13 Turbo",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "गेमिंग के लिए यह फोन भी काफी ज्यादा दमदार है।",
+     "meaning_en": "This phone is also very powerful for gaming.",
+     "source": "transcript",
+     "time_text": "8:11",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=491s"
+    },
+    {
+     "phone": "Infinix GT 30 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "गेमिंग भी अच्छी कर लोगे आप",
+     "meaning_en": "You can game well on it.",
+     "source": "transcript",
+     "time_text": "8:34",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=514s"
+    },
+    {
+     "phone": "Infinix GT 30 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "कैमरा भी इसका डिसेंट है। आपको मतलब इसमें अल्ट्रा वाइड भी देखने को मिल जाता है। तो ओवरऑल डिसेंट कैमरा है।",
+     "meaning_en": "The camera is decent overall, including an ultrawide lens.",
+     "source": "transcript",
+     "time_text": "8:34",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=514s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "मतलब परफॉर्मेंस में बाप है भाई ये फ़ोन।",
+     "meaning_en": "The phone offers top-tier performance.",
+     "source": "transcript",
+     "time_text": "9:05",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=545s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "मतलब डिस्प्ले की क्वालिटी इज आल्सो वैरी नाइस।",
+     "meaning_en": "The display quality is also very nice.",
+     "source": "transcript",
+     "time_text": "9:14",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=554s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "लेकिन सबसे बेस्ट चीज है भाई इसके कैमरास।",
+     "meaning_en": "The best aspect of this phone is its cameras.",
+     "source": "transcript",
+     "time_text": "9:23",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=563s"
+    },
+    {
+     "phone": "Nothing Phone (4a)",
+     "area": "design",
+     "verdict": "good",
+     "quote": "भाई बहुत ही यूनिक डिज़ाइन है फर्स्ट ऑफ़ ऑल।",
+     "meaning_en": "First of all, it has a very unique design.",
+     "source": "transcript",
+     "time_text": "10:04",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=604s"
+    },
+    {
+     "phone": "Nothing Phone (4a)",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "मेन इसका कैमरा अच्छा है।",
+     "meaning_en": "Mainly, its camera is good.",
+     "source": "transcript",
+     "time_text": "10:14",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=614s"
+    },
+    {
+     "phone": "Nothing Phone (4a)",
+     "area": "software",
+     "verdict": "good",
+     "quote": "सॉफ्टवेयर इसका क्लीन है तो डेली चलाने का एक्सपीरियंस आपको बढ़िया मिलेगा।",
+     "meaning_en": "Its clean software provides a great daily user experience.",
+     "source": "transcript",
+     "time_text": "10:23",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=623s"
+    },
+    {
+     "phone": "Nothing Phone (4a)",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "5400 होने के बावजूद भी आपको बढ़िया बैटरी लाइफ देगा ये फोन।",
+     "meaning_en": "Despite being 5400mAh, the phone delivers great battery life.",
+     "source": "transcript",
+     "time_text": "10:54",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=654s"
+    },
+    {
+     "phone": "Samsung Galaxy M56",
+     "area": "performance",
+     "verdict": "weak",
+     "quote": "गेमिंग एक्सपेक्ट मत करना भाई। Samsung का फोन है तो गेमिंग एक्सपेक्ट मत करो।",
+     "meaning_en": "Do not expect good gaming performance on it.",
+     "source": "transcript",
+     "time_text": "11:44",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=704s"
+    },
+    {
+     "phone": "Samsung Galaxy F56",
+     "area": "performance",
+     "verdict": "weak",
+     "quote": "गेमिंग एक्सपेक्ट मत करना भाई। Samsung का फोन है तो गेमिंग एक्सपेक्ट मत करो।",
+     "meaning_en": "Do not expect good gaming performance on it.",
+     "source": "transcript",
+     "time_text": "11:44",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=704s"
+    },
+    {
+     "phone": "Nothing Phone (3a)",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "7s Zen चिप है। डिसेंट परफॉर्मेंस आपको मिल जाएगी।",
+     "meaning_en": "It gives you decent performance with the chip.",
+     "source": "transcript",
+     "time_text": "13:02",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=782s"
+    },
+    {
+     "phone": "Nothing Phone (4b)",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "इसका परफॉर्मेंस भी आपको काफी अच्छा मिलेगा।",
+     "meaning_en": "You will get quite good performance from this phone as well.",
+     "source": "transcript",
+     "time_text": "13:21",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=801s"
+    },
+    {
+     "phone": "POCO X8",
+     "area": "display",
+     "verdict": "good",
+     "quote": "और कितना मस्त बज़लस डिस्प्ले है भाई। काफी खूबसूरत।",
+     "meaning_en": "The bezel-less display looks great and beautiful.",
+     "source": "transcript",
+     "time_text": "14:02",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=842s"
+    },
+    {
+     "phone": "POCO X8",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "लेकिन इसमें 9000 एमh की बैटरी है ऑलमोस्ट आपको 2 दिन की बैटरी लाइफ फुल कंप्लीट दो दिन की बैटरी लाइफ मिलेगी।",
+     "meaning_en": "With the 9000mAh battery, you get a full two days of battery life.",
+     "source": "transcript",
+     "time_text": "14:10",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=850s"
+    },
+    {
+     "phone": "POCO X8 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "तो ओवरऑल बहुत ही तगड़ा फोन है। परफॉर्मेंस वाइज बहुत दमदार है।",
+     "meaning_en": "It is an overall strong device and very powerful in terms of performance.",
+     "source": "transcript",
+     "time_text": "15:06",
+     "url": "https://www.youtube.com/watch?v=pg2HubRUVdY&t=906s"
+    }
+   ],
+   "dropped": [
+    {
+     "kind": "use:design",
+     "quote": "क्लीन डिज़ाइन है। ज्यादा मगजमारी नहीं है।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:camera",
+     "quote": "कैमरास वेरी वेरीरी सॉलिड।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:software",
+     "quote": "इसके अंदर सॉफ्टवेयर सपोर्ट बहुत तगड़ा वाला मिलता है भाई।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:design",
+     "quote": "क्लीन डिज़ाइन है। ज्यादा मगजमारी नहीं है।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:camera",
+     "quote": "कैमरास वेरी वेरीरी सॉलिड।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:software",
+     "quote": "इसके अंदर सॉफ्टवेयर सपोर्ट बहुत तगड़ा वाला मिलता है भाई।",
+     "reason": "the same sentence was credited to several phones"
+    }
+   ]
+  },
+  {
+   "video_id": "hnkajx6OItY",
+   "uses": [
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "ఈవెన్ గేమింగ్ ని కూడా ఇది బాగానే హ్యాండిల్ చేస్తది.",
+     "meaning_en": "It even handles gaming quite well.",
+     "source": "transcript",
+     "time_text": "1:34",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=94s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "display",
+     "verdict": "good",
+     "quote": "డిస్ప్లే మంచి డిస్ప్లే ఉంటది.",
+     "meaning_en": "It has a good display.",
+     "source": "transcript",
+     "time_text": "1:34",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=94s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "display",
+     "verdict": "good",
+     "quote": "డిస్ప్లే క్వాలిటీ కూడా ప్రాక్టికల్ లైఫ్ లో యూస్ చేస్తున్నప్పుడు చాలా బాగుంటుంది.",
+     "meaning_en": "The display quality is also very good when using it in practical life.",
+     "source": "transcript",
+     "time_text": "1:40",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=100s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "ఈవెన్ కెమెరా క్వాలిటీ కూడా చాలా బాగుంటది.",
+     "meaning_en": "Even the camera quality is very good.",
+     "source": "transcript",
+     "time_text": "2:00",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=120s"
+    },
+    {
+     "phone": "Nothing Phone 4a",
+     "area": "display",
+     "verdict": "good",
+     "quote": "డిస్ప్లే మంచి క్వాలిటీ డిస్ప్లే ఉంటది.",
+     "meaning_en": "The display is of good quality.",
+     "source": "transcript",
+     "time_text": "3:22",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=202s"
+    },
+    {
+     "phone": "Nothing Phone 4a",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "పర్టిక్యులర్ గా కెమెరాస్ బాగుంటాయి.",
+     "meaning_en": "Particularly, the cameras are good.",
+     "source": "transcript",
+     "time_text": "3:31",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=211s"
+    },
+    {
+     "phone": "Nothing Phone 4a",
+     "area": "software",
+     "verdict": "good",
+     "quote": "క్లీన్ సాఫ్ట్వేర్ ఎక్స్పీరియన్స్ కోసం అంత ప్రైస్ పెట్టొచ్చు దీనికి పర్లేదు.",
+     "meaning_en": "It is okay to pay that price for a clean software experience.",
+     "source": "transcript",
+     "time_text": "4:02",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=242s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "ఈవెన్ గేమ్స్ కూడా దీనిలో మంచిగానే ఆడుకోవచ్చు.",
+     "meaning_en": "You can even play games quite well on this.",
+     "source": "transcript",
+     "time_text": "4:23",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=263s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "కెమెరాస్ కూడా బాగుంటాయి.",
+     "meaning_en": "The cameras are also good.",
+     "source": "transcript",
+     "time_text": "4:26",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=266s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "డిస్ప్లే క్వాలిటీ కూడా బాగుంటది.",
+     "meaning_en": "The display quality is also good.",
+     "source": "transcript",
+     "time_text": "4:39",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=279s"
+    },
+    {
+     "phone": "Vivo T5 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "జనరల్ యూసెస్ కైనా గేమింగ్ కైనా ఆ ప్రైస్ కి ఈ ప్రాసెసర్ బానే ఉంటది.",
+     "meaning_en": "For that price, this processor is good for general use as well as gaming.",
+     "source": "transcript",
+     "time_text": "5:18",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=318s"
+    },
+    {
+     "phone": "Vivo T5 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "డిస్ప్లే క్వాలిటీ బాగానే ఉంటది.",
+     "meaning_en": "The display quality is quite good.",
+     "source": "transcript",
+     "time_text": "5:18",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=318s"
+    },
+    {
+     "phone": "Vivo T5 Pro",
+     "area": "camera",
+     "verdict": "weak",
+     "quote": "కెమెరాస్ కొంచెం యవరేజ్ ఉంటాయి.",
+     "meaning_en": "The cameras are a bit average.",
+     "source": "transcript",
+     "time_text": "5:25",
+     "url": "https://www.youtube.com/watch?v=hnkajx6OItY&t=325s"
+    }
+   ],
+   "dropped": []
+  },
+  {
+   "video_id": "DiD8335CpO0",
+   "uses": [
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "design",
+     "verdict": "good",
+     "quote": "अंडर 30,000 का डिजाइन मुझे वन ऑफ द बेस्ट लगता है।",
+     "meaning_en": "Under 30,000, I find this design to be one of the best.",
+     "source": "transcript",
+     "time_text": "0:48",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=48s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "display",
+     "verdict": "good",
+     "quote": "कंटेंट वॉचिंग एक्सपीरियंस है जो ओवरऑल प्रीमियमनेस है काफी ज्यादा अच्छी मिलती है इस वाले डिस्प्ले से।",
+     "meaning_en": "You get a very good content watching experience and premium feel from this display.",
+     "source": "transcript",
+     "time_text": "1:12",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=72s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "काफी एक बड़ी बैटरी है तो आप लोग लंबे समय तक फोन को चला सकते हो।",
+     "meaning_en": "It is quite a large battery, so you can run the phone for a long time.",
+     "source": "transcript",
+     "time_text": "1:21",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=81s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "लेकिन ओवरऑल अगर आप देखोगे कैमरा क्वालिटी अच्छी है",
+     "meaning_en": "Overall, if you look at it, the camera quality is good.",
+     "source": "transcript",
+     "time_text": "1:39",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=99s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "काफी ज्यादा ब्राइट हो जाती है डिस्प्ले और नॉर्मल यूजेज के अंदर भी एचबीएम काफी सफिशिएंट है।",
+     "meaning_en": "The display gets very bright, and even in normal usage the high brightness mode is quite sufficient.",
+     "source": "transcript",
+     "time_text": "2:38",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=158s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "अगेन बैटरी इज वेरी वेरी बिग तो आप लोग इजीली इस वाले फोन को लंबे समय तक चला सकोगे।",
+     "meaning_en": "Again, the battery is very large, so you can easily use this phone for a long time.",
+     "source": "transcript",
+     "time_text": "3:07",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=187s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "परफॉर्मेंस एक अच्छी मिल जाती है।",
+     "meaning_en": "You get good performance.",
+     "source": "transcript",
+     "time_text": "3:39",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=219s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "अगर आप कैमरा सेंट्रिक फोन चाहते हो तो भाई यह ले लेना।",
+     "meaning_en": "If you want a camera-centric phone, you should definitely buy this one.",
+     "source": "transcript",
+     "time_text": "5:13",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=313s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "ओवरऑल बैटरी भी अच्छी दी है",
+     "meaning_en": "Overall, they have provided a good battery as well.",
+     "source": "transcript",
+     "time_text": "4:35",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=275s"
+    },
+    {
+     "phone": "Motorola Edge 60 Pro",
+     "area": "software",
+     "verdict": "good",
+     "quote": "जो सॉफ्टवेयर आपको आउट ऑफ द बॉक्स मिलता है वो बिल्कुल ठीक है।",
+     "meaning_en": "The software you get out of the box is completely fine.",
+     "source": "transcript",
+     "time_text": "4:59",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=299s"
+    },
+    {
+     "phone": "Nothing Phone (3a)",
+     "area": "design",
+     "verdict": "good",
+     "quote": "इस वाले फ़ोन के अंदर आपको डिज़ाइन तो अच्छा मिलता ही है।",
+     "meaning_en": "In this phone, you definitely get a good design.",
+     "source": "transcript",
+     "time_text": "5:45",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=345s"
+    },
+    {
+     "phone": "Nothing Phone (3a)",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "कैमरा सेटअप भी इसका आप कह सकते हो बढ़िया वाला है।",
+     "meaning_en": "You could say its camera setup is great as well.",
+     "source": "transcript",
+     "time_text": "6:00",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=360s"
+    },
+    {
+     "phone": "Nothing Phone (3a)",
+     "area": "battery",
+     "verdict": "weak",
+     "quote": "बैटरी इसकी थोड़ी छोटी है।",
+     "meaning_en": "Its battery is a bit small.",
+     "source": "transcript",
+     "time_text": "6:00",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=360s"
+    },
+    {
+     "phone": "Realme GT 7T",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "इसमें आपको परफॉर्मेंस भाई साहब नेक्स्ट टियर मिलती है",
+     "meaning_en": "In this phone, you get next-level performance.",
+     "source": "transcript",
+     "time_text": "7:10",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=430s"
+    },
+    {
+     "phone": "Realme GT 7T",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "लेकिन स्टिल जो कैमरा क्वालिटी है वो अच्छी आती है।",
+     "meaning_en": "Still, the camera quality comes out good.",
+     "source": "transcript",
+     "time_text": "7:26",
+     "url": "https://www.youtube.com/watch?v=DiD8335CpO0&t=446s"
+    }
+   ],
+   "dropped": []
+  },
+  {
+   "video_id": "tJHSco5gJhA",
+   "uses": [
+    {
+     "phone": "OPPO K14 Plus",
+     "area": "software",
+     "verdict": "good",
+     "quote": "सॉफ्टवेयर में कोई दिक्कत नहीं है।",
+     "meaning_en": "There is no issue with the software.",
+     "source": "transcript",
+     "time_text": "1:10",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=70s"
+    },
+    {
+     "phone": "OPPO K14 Plus",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "वैसे बैटरी है 8000 एमh की। पूरा का पूरा दिन बिंदास चल जाएगी।",
+     "meaning_en": "The battery is 8000mAh and will easily last an entire day.",
+     "source": "transcript",
+     "time_text": "1:19",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=79s"
+    },
+    {
+     "phone": "OPPO K14 Plus",
+     "area": "display",
+     "verdict": "good",
+     "quote": "डिस्प्ले भी यार सही कलर निकाल रहा है।",
+     "meaning_en": "The display produces good colors.",
+     "source": "transcript",
+     "time_text": "1:38",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=98s"
+    },
+    {
+     "phone": "OPPO K14 Plus",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "50 मेगापिक्सल का कैमरा है। कोई भी अल्ट्रा वाइड वाला सेंसर आपको नहीं मिलता है। फोटो भी यार अच्छी आती है।",
+     "meaning_en": "It has a 50MP camera without an ultrawide sensor, but the photos come out good.",
+     "source": "transcript",
+     "time_text": "1:46",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=106s"
+    },
+    {
+     "phone": "OPPO K14 Plus",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "भाई प्रोसेसर तो काफी दमदार दिया गया है।",
+     "meaning_en": "The processor provided is quite powerful.",
+     "source": "transcript",
+     "time_text": "1:53",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=113s"
+    },
+    {
+     "phone": "Samsung Galaxy M47 5G",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "परफॉर्मेंस में भी कोई दिक्कत नहीं है।",
+     "meaning_en": "There is no problem with performance.",
+     "source": "transcript",
+     "time_text": "2:41",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=161s"
+    },
+    {
+     "phone": "Samsung Galaxy M47 5G",
+     "area": "software",
+     "verdict": "good",
+     "quote": "Samsung का सॉफ्टवेयर ऑलवेज बेस्ट ही होता है।",
+     "meaning_en": "Samsung's software is always the best.",
+     "source": "transcript",
+     "time_text": "2:50",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=170s"
+    },
+    {
+     "phone": "Samsung Galaxy M47 5G",
+     "area": "design",
+     "verdict": "good",
+     "quote": "बैक वाला जो डिज़ाइन है वो भी काफी सुंदर है।",
+     "meaning_en": "The rear design is quite beautiful.",
+     "source": "transcript",
+     "time_text": "3:14",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=194s"
+    },
+    {
+     "phone": "Samsung Galaxy M47 5G",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "यहां पर 50 मेगापिक्सल का कैमरा है। अल्ट्रा वाइड वाला सेंसर नहीं हटाया गया है। फोटो भी शार्प आती है।",
+     "meaning_en": "It has a 50MP camera, keeps the ultrawide sensor, and the photos turn out sharp.",
+     "source": "transcript",
+     "time_text": "3:21",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=201s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "Snapdragon का 7HZ4 वाला जो प्रोसेसर है ये काफी दमदार है।",
+     "meaning_en": "The Snapdragon 7s Gen 4 processor is quite powerful.",
+     "source": "transcript",
+     "time_text": "4:14",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=254s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "display",
+     "verdict": "good",
+     "quote": "डिस्प्ले यार बहुत ही मस्त वाले कलर निकालता है।",
+     "meaning_en": "The display produces great colors.",
+     "source": "transcript",
+     "time_text": "4:39",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=279s"
+    },
+    {
+     "phone": "Vivo T5x",
+     "area": "software",
+     "verdict": "good",
+     "quote": "इनका जो सॉफ्टवेयर है ना वो पहले से तो यार अच्छा हो चुका है",
+     "meaning_en": "Their software has become better than before.",
+     "source": "transcript",
+     "time_text": "6:04",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=364s"
+    },
+    {
+     "phone": "Vivo T5x",
+     "area": "display",
+     "verdict": "weak",
+     "quote": "आगे की तरफ एमोलेड वाला डिस्प्ले नहीं है। 120 हर्टz का फुल एचडी प्लस वाले डिस्प्ले से आपको काम चलाना पड़ेगा।",
+     "meaning_en": "There is no AMOLED display on the front; you have to make do with a 120Hz Full HD+ display.",
+     "source": "transcript",
+     "time_text": "6:04",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=364s"
+    },
+    {
+     "phone": "POCO X8",
+     "area": "performance",
+     "verdict": "weak",
+     "quote": "यहां पर जो प्रोसेसर है वो है Snapdragon का 6HZ4 जिसको यार मैं एवरेज कह सकता हूं",
+     "meaning_en": "The Snapdragon 6s Gen 4 processor here is something I would consider average.",
+     "source": "transcript",
+     "time_text": "7:17",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=437s"
+    },
+    {
+     "phone": "POCO X8",
+     "area": "display",
+     "verdict": "good",
+     "quote": "लेकिन डिस्प्ले में यार Redmi और Poco वालों ने कोई भी कमी नहीं छोड़ी है।",
+     "meaning_en": "Redmi and Poco have not compromised at all when it comes to the display.",
+     "source": "transcript",
+     "time_text": "7:24",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=444s"
+    },
+    {
+     "phone": "Redmi Note 17 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "लेकिन डिस्प्ले में यार Redmi और Poco वालों ने कोई भी कमी नहीं छोड़ी है।",
+     "meaning_en": "Redmi and Poco have not compromised at all when it comes to the display.",
+     "source": "transcript",
+     "time_text": "7:24",
+     "url": "https://www.youtube.com/watch?v=tJHSco5gJhA&t=444s"
+    }
+   ],
+   "dropped": [
+    {
+     "kind": "use:battery",
+     "quote": "बैटरी बैकअप तो यार ठीक है।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:battery",
+     "quote": "बैटरी बैकअप तो यार ठीक है।",
+     "reason": "the same sentence was credited to several phones"
+    }
+   ]
+  },
+  {
+   "video_id": "3NGXKiMpQ9k",
+   "uses": [
+    {
+     "phone": "Realme P3 Ultra",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "डायमceिटी का 3850 अल्ट्रा प्रोसेसर देखने को मिल जाता है जो कि गेमिंग के लिए तो बेस्ट है",
+     "meaning_en": "It comes with Dimensity 3850 Ultra processor which is best for gaming.",
+     "source": "transcript",
+     "time_text": "0:47",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=47s"
+    },
+    {
+     "phone": "Realme P3 Ultra",
+     "area": "battery",
+     "verdict": "weak",
+     "quote": "बट इसके क्स की बात करूं तो यहां पे आपको बैटरी बैकअप इतना अच्छा देखने को नहीं मिलता",
+     "meaning_en": "Talking about the cons, you do not get very good battery backup here.",
+     "source": "transcript",
+     "time_text": "1:14",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=74s"
+    },
+    {
+     "phone": "Realme P3 Ultra",
+     "area": "camera",
+     "verdict": "weak",
+     "quote": "एंड इसका कैमरा आपको एवरेज मिलता है",
+     "meaning_en": "And you get an average camera on this phone.",
+     "source": "transcript",
+     "time_text": "1:21",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=81s"
+    },
+    {
+     "phone": "Realme P3 Ultra",
+     "area": "display",
+     "verdict": "good",
+     "quote": "क्योंकि इसमें एक डिस्प्ले भी बहुत अच्छी मिल जाती है आपको।",
+     "meaning_en": "Because you also get a very good display on this phone.",
+     "source": "transcript",
+     "time_text": "1:30",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=90s"
+    },
+    {
+     "phone": "Oppo K3 Turbo Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "तो ये कॉम्बिनेशन गेमिंग के लिए काफी बढ़िया बन जाता है।",
+     "meaning_en": "So this combination becomes quite great for gaming.",
+     "source": "transcript",
+     "time_text": "1:48",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=108s"
+    },
+    {
+     "phone": "Oppo K3 Turbo Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "साथ में बड़ी बैटरी भी दी है 7000 एमh की। तो अगर आप लंबी गेमिंग भी करते हो ना तो इज़ली आपको अच्छा बैटरी बैकअप निकाल के दे देगा।",
+     "meaning_en": "It comes with a large 7000mAh battery, so even during long gaming sessions it will easily give good battery backup.",
+     "source": "transcript",
+     "time_text": "1:56",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=116s"
+    },
+    {
+     "phone": "Oppo K3 Turbo Pro",
+     "area": "camera",
+     "verdict": "weak",
+     "quote": "एक तो जो मैंने आपको बताया एवरेज लेवल का कैमरा मिलता है।",
+     "meaning_en": "One con is that you get an average level camera.",
+     "source": "transcript",
+     "time_text": "2:28",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=148s"
+    },
+    {
+     "phone": "Nothing Phone 4a",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "इसका कैमरा आपको बहुत अच्छा मिल जाता है।",
+     "meaning_en": "You get a very good camera on it.",
+     "source": "transcript",
+     "time_text": "3:29",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=209s"
+    },
+    {
+     "phone": "Redmi Turbo 5",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "भाई ये बेस्ट फ़ है। चाहे मैं गेमिंग की बात करूं या मैं बैटरी लाइफ की बात करूं।",
+     "meaning_en": "This is the best phone whether I talk about gaming or battery life.",
+     "source": "transcript",
+     "time_text": "3:37",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=217s"
+    },
+    {
+     "phone": "Redmi Turbo 5",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "भाई ये बेस्ट फ़ है। चाहे मैं गेमिंग की बात करूं या मैं बैटरी लाइफ की बात करूं।",
+     "meaning_en": "This is the best phone whether I talk about gaming or battery life.",
+     "source": "transcript",
+     "time_text": "3:37",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=217s"
+    },
+    {
+     "phone": "Motorola Edge 50 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "मैं बोल सकता हूं भाई ये बेस्ट फ़ोन है कैमरा के लिए।",
+     "meaning_en": "I can say this is the best phone for camera.",
+     "source": "transcript",
+     "time_text": "3:51",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=231s"
+    },
+    {
+     "phone": "Motorola Edge 50 Pro",
+     "area": "design",
+     "verdict": "good",
+     "quote": "बट इसका डिज़ाइन काफी अच्छा है।",
+     "meaning_en": "Its design is quite good.",
+     "source": "transcript",
+     "time_text": "3:59",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=239s"
+    },
+    {
+     "phone": "Nothing Phone 3 Pro",
+     "area": "software",
+     "verdict": "good",
+     "quote": "सॉफ्टवेयर की बात करूं तो भाई काफी क्लीन सॉफ्टवेयर मिलता है",
+     "meaning_en": "Talking about the software, you get very clean software.",
+     "source": "transcript",
+     "time_text": "5:03",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=303s"
+    },
+    {
+     "phone": "Nothing Phone 3 Pro",
+     "area": "battery",
+     "verdict": "weak",
+     "quote": "लेकिन जैसे कि मैंने आपको बताया इसका बैटरी बैकअप इतना अच्छा नहीं है।",
+     "meaning_en": "However, as I told you, its battery backup is not that good.",
+     "source": "transcript",
+     "time_text": "5:20",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=320s"
+    },
+    {
+     "phone": "Nothing Phone 3 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "बट मैं फिर भी बोलूंगा कैमरे के लिए बेस्ट फ़ है।",
+     "meaning_en": "Still, I would say it is the best phone for the camera.",
+     "source": "transcript",
+     "time_text": "5:20",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=320s"
+    },
+    {
+     "phone": "Realme GT 7T",
+     "area": "display",
+     "verdict": "good",
+     "quote": "अब यह फोन मैं उनको रिकमेंड करूंगा जिनको भाई अच्छी डिस्प्ले चाहिए मतलब बेस्ट डिस्प्ले चाहिए।",
+     "meaning_en": "I recommend this phone to those who want a good display, meaning the best display.",
+     "source": "transcript",
+     "time_text": "6:42",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=402s"
+    },
+    {
+     "phone": "Realme GT 7T",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "आप इसमें बेस्ट गेमिंग कर सकते हो।",
+     "meaning_en": "You can do the best gaming on this phone.",
+     "source": "transcript",
+     "time_text": "7:09",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=429s"
+    },
+    {
+     "phone": "Realme GT 7T",
+     "area": "camera",
+     "verdict": "weak",
+     "quote": "इसमें आपको एवरेज लेवल का ही कैमरा मिलता है।",
+     "meaning_en": "You only get an average level camera on this phone.",
+     "source": "transcript",
+     "time_text": "8:01",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=481s"
+    },
+    {
+     "phone": "Vivo T4 Ultra",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "भाई इसके अंदर आपको बेस्ट कैमरा मिल जाता है।",
+     "meaning_en": "You get the best camera inside this.",
+     "source": "transcript",
+     "time_text": "8:21",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=501s"
+    },
+    {
+     "phone": "Vivo T4 Ultra",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "एंड परफॉरमेंस भी आपको इसमें अच्छी मिल जाती है।",
+     "meaning_en": "And you also get good performance in this phone.",
+     "source": "transcript",
+     "time_text": "8:21",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=501s"
+    },
+    {
+     "phone": "Xiaomi 14 Civi",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "एंड सेकंड फ़ोन है ये भी कैमरे के लिए होने वाला है।",
+     "meaning_en": "And the second phone, this is also going to be for camera.",
+     "source": "transcript",
+     "time_text": "8:30",
+     "url": "https://www.youtube.com/watch?v=3NGXKiMpQ9k&t=510s"
+    }
+   ],
+   "dropped": []
+  },
+  {
+   "video_id": "bon0dkkSExE",
+   "uses": [
+    {
+     "phone": "Realme P4 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "अच्छा कैमरा",
+     "meaning_en": "It has a good camera.",
+     "source": "transcript",
+     "time_text": "0:42",
+     "url": "https://www.youtube.com/watch?v=bon0dkkSExE&t=42s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "बड़ी बैटरी",
+     "meaning_en": "It has a large battery.",
+     "source": "transcript",
+     "time_text": "0:42",
+     "url": "https://www.youtube.com/watch?v=bon0dkkSExE&t=42s"
+    },
+    {
+     "phone": "Vivo T5 Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "बड़ी बैटरी के साथ आता है।",
+     "meaning_en": "It comes with a large battery.",
+     "source": "transcript",
+     "time_text": "2:08",
+     "url": "https://www.youtube.com/watch?v=bon0dkkSExE&t=128s"
+    },
+    {
+     "phone": "Vivo T5 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "पर कैमरे की क्वालिटी यहां पर अच्छी मिल जाएगी।",
+     "meaning_en": "You will get good camera quality here.",
+     "source": "transcript",
+     "time_text": "2:16",
+     "url": "https://www.youtube.com/watch?v=bon0dkkSExE&t=136s"
+    },
+    {
+     "phone": "Vivo T5 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "डिस्प्ले की क्वालिटी यहां पर अच्छी मिल जाती है।",
+     "meaning_en": "The display quality here is good.",
+     "source": "transcript",
+     "time_text": "2:20",
+     "url": "https://www.youtube.com/watch?v=bon0dkkSExE&t=140s"
+    },
+    {
+     "phone": "Samsung Galaxy A56",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "कैमरा बहुत ही अच्छा है।",
+     "meaning_en": "The camera is very good.",
+     "source": "transcript",
+     "time_text": "3:13",
+     "url": "https://www.youtube.com/watch?v=bon0dkkSExE&t=193s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "कैमरे में भी कोई कॉम्प्रोमाइजिस नहीं है।",
+     "meaning_en": "There are no compromises in the camera either.",
+     "source": "transcript",
+     "time_text": "5:05",
+     "url": "https://www.youtube.com/watch?v=bon0dkkSExE&t=305s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "बैटरी बड़ी मिल जाती है।",
+     "meaning_en": "You get a big battery.",
+     "source": "transcript",
+     "time_text": "5:14",
+     "url": "https://www.youtube.com/watch?v=bon0dkkSExE&t=314s"
+    }
+   ],
+   "dropped": [
+    {
+     "kind": "use:camera",
+     "quote": "कैमरा भी अच्छा है।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:camera",
+     "quote": "कैमरा भी अच्छा है।",
+     "reason": "the same sentence was credited to several phones"
+    }
+   ]
+  },
+  {
+   "video_id": "pOr57CaHnBE",
+   "uses": [
+    {
+     "phone": "Realme P4 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "तो डिस्प्ले इसके अंदर काफी ज्यादा अच्छी है।",
+     "meaning_en": "The display on this phone is very good.",
+     "source": "transcript",
+     "time_text": "0:58",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=58s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "साथ में जो फोन के अंदर कैमरास है वो भी आपको अच्छे मिल जाते हैं।",
+     "meaning_en": "The cameras on this phone are also good.",
+     "source": "transcript",
+     "time_text": "1:06",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=66s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "बड़ी बैटरी है 7000 एमh की तो जल्दी-जल्दी चार्ज नहीं करनी पड़ेगी",
+     "meaning_en": "It has a large 7000mAh battery, so you will not need to charge it frequently.",
+     "source": "transcript",
+     "time_text": "1:14",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=74s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "गेमिंग-वमिंग करनी हो तो वो काम भी इसके अंदर आपको बढ़िया हो जाएंगे।",
+     "meaning_en": "If you want to game, it handles gaming very well.",
+     "source": "transcript",
+     "time_text": "1:24",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=84s"
+    },
+    {
+     "phone": "Realme P4 Power",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "ये आपको तब देखना है जब आपकी ना मेन प्रायोरिटी बैटरी है",
+     "meaning_en": "You should consider this phone if battery life is your main priority.",
+     "source": "transcript",
+     "time_text": "1:41",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=101s"
+    },
+    {
+     "phone": "Motorola Moto S70 Slim",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "बेटर प्रोसेसर आपको स्लिम वाले के अंदर मिल रहा है। तो परफॉर्मेंस उसके अंदर थोड़ी सी बेटर मिलेगी।",
+     "meaning_en": "You get a better processor in the slim version, so performance will be slightly better on it.",
+     "source": "transcript",
+     "time_text": "2:45",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=165s"
+    },
+    {
+     "phone": "Motorola Moto S70 Slim",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "लेकिन जो बेटर कैमरा की क्वालिटी है वो आपको Moto slim वाले के अंदर मिल जाती है",
+     "meaning_en": "Better camera quality is found on the Moto Slim.",
+     "source": "transcript",
+     "time_text": "2:53",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=173s"
+    },
+    {
+     "phone": "Motorola Moto S70 Fusion",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "अगर आपकी बैटरी मेन प्रायोरिटी है ना तो उसके लिए S70 फ्यूजन ज्यादा मैं रेकमेंड करूंगा",
+     "meaning_en": "If battery is your main priority, I recommend the S70 Fusion more.",
+     "source": "transcript",
+     "time_text": "3:00",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=180s"
+    },
+    {
+     "phone": "Motorola Moto S70 Slim",
+     "area": "battery",
+     "verdict": "weak",
+     "quote": "थोड़ा सा बैटरी में आपको कॉम्प्रोमाइज करना पड़ सकता है।",
+     "meaning_en": "You might have to compromise a bit on the battery.",
+     "source": "transcript",
+     "time_text": "3:07",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=187s"
+    },
+    {
+     "phone": "Nothing Phone (4b)",
+     "area": "software",
+     "verdict": "good",
+     "quote": "बाकी क्लीन सॉफ्टवेयर एक्सपीरियंस इसके अंदर आपको मिल जाता है।",
+     "meaning_en": "You get a clean software experience with this phone.",
+     "source": "transcript",
+     "time_text": "3:55",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=235s"
+    },
+    {
+     "phone": "Nothing Phone (4b)",
+     "area": "display",
+     "verdict": "good",
+     "quote": "तो डिस्प्ले के कलर्स वगैरह भी काफी ज्यादा सही हैं।",
+     "meaning_en": "The colors on the display are quite good.",
+     "source": "transcript",
+     "time_text": "4:12",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=252s"
+    },
+    {
+     "phone": "Nothing Phone (4b)",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "और जो नथिंग 4 भी है ना इसके अंदर कैमराज़ भी आपको बढ़िया मिल जाते हैं।",
+     "meaning_en": "The Nothing Phone (4b) also offers good cameras.",
+     "source": "transcript",
+     "time_text": "4:20",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=260s"
+    },
+    {
+     "phone": "Nothing Phone (4b)",
+     "area": "design",
+     "verdict": "good",
+     "quote": "तो यह उन लोगों के लिए रेकमेंडेड था जिनको थोड़ा सा अलग डिजाइन चाहिए फोन के अंदर।",
+     "meaning_en": "This is recommended for those who want a unique design in their phone.",
+     "source": "transcript",
+     "time_text": "4:36",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=276s"
+    },
+    {
+     "phone": "Samsung Galaxy A36",
+     "area": "display",
+     "verdict": "good",
+     "quote": "लेकिन डिस्प्ले की जो क्वालिटी है वो भी यहां पे आपको बेटर मिल जा रही है।",
+     "meaning_en": "The display quality you get here is better.",
+     "source": "transcript",
+     "time_text": "5:34",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=334s"
+    },
+    {
+     "phone": "Samsung Galaxy A36",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "A36 के अंदर ना आपको बेटर कैमराज़ भी मिल जा रहे हैं।",
+     "meaning_en": "You get better cameras on the A36.",
+     "source": "transcript",
+     "time_text": "5:57",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=357s"
+    },
+    {
+     "phone": "Samsung Galaxy A36",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "एकस के कंपैरिजन में वो ज्यादा बेटर परफॉर्मेंस आपको निकाल के दे पाएगा",
+     "meaning_en": "It will provide better performance compared to Exynos.",
+     "source": "transcript",
+     "time_text": "6:13",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=373s"
+    },
+    {
+     "phone": "Oppo K14 P",
+     "area": "display",
+     "verdict": "good",
+     "quote": "लेकिन इसके अंदर डिस्प्ले आपको अच्छा मिल रहा है",
+     "meaning_en": "The display provided in this phone is good.",
+     "source": "transcript",
+     "time_text": "7:02",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=422s"
+    },
+    {
+     "phone": "Oppo K14 P",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "तो बैटरी बैकअप भी आपको अच्छा खासा मिल जाएगा।",
+     "meaning_en": "You will get quite good battery backup.",
+     "source": "transcript",
+     "time_text": "7:19",
+     "url": "https://www.youtube.com/watch?v=pOr57CaHnBE&t=439s"
+    }
+   ],
+   "dropped": []
+  },
+  {
+   "video_id": "iS9y396hJFk",
+   "uses": [
+    {
+     "phone": "Motorola Edge 70",
+     "area": "software",
+     "verdict": "good",
+     "quote": "ओवरऑल सॉफ्टवेयर का एक्सपीरियंस भी अब यहां पर बेटर हो रहा है।",
+     "meaning_en": "The overall software experience is getting better now.",
+     "source": "transcript",
+     "time_text": "1:23",
+     "url": "https://www.youtube.com/watch?v=iS9y396hJFk&t=83s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "software",
+     "verdict": "good",
+     "quote": "साथ में सॉफ्टवेयर एक्सपीरियंस भी अच्छा है।",
+     "meaning_en": "Also, the software experience is good.",
+     "source": "transcript",
+     "time_text": "2:32",
+     "url": "https://www.youtube.com/watch?v=iS9y396hJFk&t=152s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "साथ में यहां पर कैमरा सेटअप भी डिसेंट मिल जाता है जिसमें 4K रिकॉर्डिंग आप कर सकते हो",
+     "meaning_en": "The camera setup is decent, allowing 4K recording.",
+     "source": "transcript",
+     "time_text": "2:48",
+     "url": "https://www.youtube.com/watch?v=iS9y396hJFk&t=168s"
+    },
+    {
+     "phone": "Samsung Galaxy F70 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "तो आपका डिसेंट टाइप की परफॉर्मेंस यह करवा देगा।",
+     "meaning_en": "It delivers decent performance.",
+     "source": "transcript",
+     "time_text": "4:48",
+     "url": "https://www.youtube.com/watch?v=iS9y396hJFk&t=288s"
+    },
+    {
+     "phone": "Samsung Galaxy F70 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "इसके अलावा कैमरा सेटअप भी डिसेंट मिल जाता है।",
+     "meaning_en": "Besides this, the camera setup is decent.",
+     "source": "transcript",
+     "time_text": "5:02",
+     "url": "https://www.youtube.com/watch?v=iS9y396hJFk&t=302s"
+    },
+    {
+     "phone": "Samsung Galaxy F70 Pro",
+     "area": "charging",
+     "verdict": "weak",
+     "quote": "45 W की चार्जिंग को सपोर्ट करता है लेकिन चार्जर इन द बॉक्स नहीं मिलेगा वो अलग से लेना पड़ेगा।",
+     "meaning_en": "It supports 45W charging, but no charger is included in the box and must be bought separately.",
+     "source": "transcript",
+     "time_text": "5:17",
+     "url": "https://www.youtube.com/watch?v=iS9y396hJFk&t=317s"
+    },
+    {
+     "phone": "Lava Virat 5G Curve",
+     "area": "display",
+     "verdict": "good",
+     "quote": "यहां पर एटलीस्ट आपको एमोलेड डिस्प्ले तो देखने को मिल रहा है।",
+     "meaning_en": "At least you get an AMOLED display here.",
+     "source": "transcript",
+     "time_text": "6:17",
+     "url": "https://www.youtube.com/watch?v=iS9y396hJFk&t=377s"
+    },
+    {
+     "phone": "Lava Virat 5G Curve",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "साथ में यहां पर जो है ना कैमरास भी आपको डिसेंट मिल जाते हैं।",
+     "meaning_en": "Also, you get decent cameras on this phone.",
+     "source": "transcript",
+     "time_text": "6:36",
+     "url": "https://www.youtube.com/watch?v=iS9y396hJFk&t=396s"
+    },
+    {
+     "phone": "Realme P4x",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "तो इसमें गेमिंग भी आप ठीक-ठाक कर सकते हो।",
+     "meaning_en": "You can do decent gaming on it.",
+     "source": "transcript",
+     "time_text": "7:29",
+     "url": "https://www.youtube.com/watch?v=iS9y396hJFk&t=449s"
+    },
+    {
+     "phone": "Realme P4x",
+     "area": "software",
+     "verdict": "good",
+     "quote": "बाकी सॉफ्टवेयर एक्सपीरियंस अच्छा मिल जाता है।",
+     "meaning_en": "The software experience is also good.",
+     "source": "transcript",
+     "time_text": "7:40",
+     "url": "https://www.youtube.com/watch?v=iS9y396hJFk&t=460s"
+    },
+    {
+     "phone": "Realme P4x",
+     "area": "display",
+     "verdict": "good",
+     "quote": "फुल एचडी प्लस वाली एलसीडी डिस्प्ले मिलती है। देखो एलसीडी डिस्प्ले है लेकिन कलर्स वगैरह बिल्कुल यहां पर दिक्कत नहीं देंगे।",
+     "meaning_en": "Even though it has an LCD display, colors look fine and cause no issues.",
+     "source": "transcript",
+     "time_text": "7:55",
+     "url": "https://www.youtube.com/watch?v=iS9y396hJFk&t=475s"
+    }
+   ],
+   "dropped": [
+    {
+     "kind": "use:display",
+     "quote": "कंटेंट आप अच्छे से देख सकते हो क्योंकि 1.5 के रेजोल्यूशन वाली एमोलेड\n[14] 1:42 डिस्प्ले मिलती है",
+     "reason": "quote not found word for word"
+    },
+    {
+     "kind": "use:performance",
+     "quote": "सो इसमें जो बेस्ट चीज़ मिल जाती है तगड़ा प्रोसेसर मिलता है Snapdragon 7Z4 का। RAM टाइप और स्टोरेज टाइप भी आपको अच्छी मिल जाती है। आप हायर एफपीएस में गेमिंग कर\n[20] 2:25 सकते हो।",
+     "reason": "quote not found word for word"
+    },
+    {
+     "kind": "use:software",
+     "quote": "थोड़े बहुत सॉफ्टवेयर में बग मिल सकते हैं या इतना पॉलिश आपको UI देखने को\n[52] 6:17 नहीं मिलेगा।",
+     "reason": "quote not found word for word"
+    },
+    {
+     "kind": "use:camera",
+     "quote": "साथ में यहां पर कैमरा भी आपको डिसेंट देखने को मिल\n[70] 8:07 जाता है।",
+     "reason": "quote not found word for word"
+    }
+   ]
+  },
+  {
+   "video_id": "gdQJn8FE42Y",
+   "uses": [
+    {
+     "phone": "Samsung Galaxy F70 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "परफॉर्मेंस अच्छी हो",
+     "meaning_en": "Performance is good.",
+     "source": "transcript",
+     "time_text": "0:46",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=46s"
+    },
+    {
+     "phone": "Samsung Galaxy F70 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "कैमरा वगैरह अच्छा हो।",
+     "meaning_en": "The camera setup is good.",
+     "source": "transcript",
+     "time_text": "0:46",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=46s"
+    },
+    {
+     "phone": "Samsung Galaxy F70 Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "बड़ी बैटरी का सपोर्ट हो।",
+     "meaning_en": "It has the backing of a large battery.",
+     "source": "transcript",
+     "time_text": "0:46",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=46s"
+    },
+    {
+     "phone": "Samsung Galaxy A36 5G",
+     "area": "design",
+     "verdict": "good",
+     "quote": "यह स्मार्टफोन लुक और डिज़ाइन वाइज़ काफी कमाल का देखने को मिलता है।",
+     "meaning_en": "The smartphone looks great in terms of appearance and design.",
+     "source": "transcript",
+     "time_text": "1:19",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=79s"
+    },
+    {
+     "phone": "Samsung Galaxy A36 5G",
+     "area": "display",
+     "verdict": "good",
+     "quote": "डिस्प्ले जबरदस्त है।",
+     "meaning_en": "The display is fantastic.",
+     "source": "transcript",
+     "time_text": "2:11",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=131s"
+    },
+    {
+     "phone": "Samsung Galaxy A36 5G",
+     "area": "performance",
+     "verdict": "weak",
+     "quote": "परफॉर्मेंस छोड़ के बाकी सारी चीजें अच्छी है।",
+     "meaning_en": "Apart from the performance, everything else is good.",
+     "source": "transcript",
+     "time_text": "4:19",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=259s"
+    },
+    {
+     "phone": "Nothing Phone 4B",
+     "area": "display",
+     "verdict": "good",
+     "quote": "सो ओवरऑल डिस्प्ले क्वालिटी यहां पर अच्छी है।",
+     "meaning_en": "Overall display quality is good.",
+     "source": "transcript",
+     "time_text": "5:58",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=358s"
+    },
+    {
+     "phone": "Nothing Phone 4B",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "परफॉर्मेंस बजट के अंदर आपको अच्छी मिलती है।",
+     "meaning_en": "You get good performance within this budget.",
+     "source": "transcript",
+     "time_text": "7:03",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=423s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "display",
+     "verdict": "good",
+     "quote": "डिस्प्ले क्वालिटी आपको यहां पर अच्छी मिलती है।",
+     "meaning_en": "You get good display quality here.",
+     "source": "transcript",
+     "time_text": "9:27",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=567s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "कैमरा सेटअप फोन का यहां पर काफी अच्छा है।",
+     "meaning_en": "The phone's camera setup is quite good.",
+     "source": "transcript",
+     "time_text": "9:52",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=592s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "ओवरऑल फोन की परफॉर्मेंस अच्छी है।",
+     "meaning_en": "Overall, the phone's performance is good.",
+     "source": "transcript",
+     "time_text": "10:30",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=630s"
+    },
+    {
+     "phone": "Realme P4 Pro",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "बैटरी बैकअप में भी आपको यहां पर कोई इशू देखने को नहीं मिलते।",
+     "meaning_en": "You won't see any issues regarding battery backup.",
+     "source": "transcript",
+     "time_text": "10:56",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=656s"
+    },
+    {
+     "phone": "Realme P4 Power",
+     "area": "battery",
+     "verdict": "good",
+     "quote": "अगर आप बड़ी बैटरी ढूंढे, तो आप Realme का P4 पावर भी कंसीडर कर सकते हैं",
+     "meaning_en": "If you are looking for a large battery, you can also consider the Realme P4 Power.",
+     "source": "transcript",
+     "time_text": "11:42",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=702s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "display",
+     "verdict": "good",
+     "quote": "डिस्प्ले क्वालिटी यहां पर काफी जबरदस्त दी गई है।",
+     "meaning_en": "The display quality provided here is impressive.",
+     "source": "transcript",
+     "time_text": "13:05",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=785s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "camera",
+     "verdict": "good",
+     "quote": "कैमरा सेटअप तो काफी अच्छा है",
+     "meaning_en": "The camera setup is quite good.",
+     "source": "transcript",
+     "time_text": "13:27",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=807s"
+    },
+    {
+     "phone": "Motorola Edge 70 Fusion",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "परफॉर्मेंस फ़ की काफी अच्छी है।",
+     "meaning_en": "The performance of the phone is quite good.",
+     "source": "transcript",
+     "time_text": "14:23",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=863s"
+    },
+    {
+     "phone": "Motorola Edge 70",
+     "area": "performance",
+     "verdict": "good",
+     "quote": "साथ में अच्छी परफॉर्मेंस",
+     "meaning_en": "Along with good performance.",
+     "source": "transcript",
+     "time_text": "15:48",
+     "url": "https://www.youtube.com/watch?v=gdQJn8FE42Y&t=948s"
+    }
+   ],
+   "dropped": [
+    {
+     "kind": "use:camera",
+     "quote": "तो कैमरा सेटअप फोन का अच्छा है।",
+     "reason": "the same sentence was credited to several phones"
+    },
+    {
+     "kind": "use:camera",
+     "quote": "तो कैमरा सेटअप फोन का अच्छा है।",
+     "reason": "the same sentence was credited to several phones"
+    }
+   ]
+  }
+ ]
+}

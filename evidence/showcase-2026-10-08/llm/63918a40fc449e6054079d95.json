@@ -1,0 +1,244 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube phone review: its description and what was said in the video (English, Hindi,\nHinglish, Telugu, Malayalam or a mix). The reviewer recommends the phones listed under PHONES.\n\nFor each of those phones, find every place where the reviewer gives an opinion on one of these areas:\ncamera, battery, performance (including gaming), display, charging, design, software.\n- verdict \"good\": they praise it for that area or recommend it for people who care about that area.\n- verdict \"weak\": they say it falls short in that area.\n- Skip bare specs with no opinion (\"it has a 5000mAh battery\").\n- `phone` must be copied exactly from the PHONES list.\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text: same script, spelling, punctuation and capitals. Never translate.\n- The quote itself must contain the word for the area (e.g. \"camera\", \"कैमरा\", \"battery\", \"बैटरी\").\n- Use the shortest exact span that shows the opinion, at most 200 characters.\n- A transcript quote comes from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote.\nIf there is nothing, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: Best Mobiles Under 30K In Dasara Sales || Flipkart Big Billion Days || Amazon Great Indian Festival\nCHANNEL: Telugu Techno Spring\n\nDESCRIPTION:\nBest Mobiles Under 30K In Dasara Sales || Flipkart Big Billion Days || Amazon Great Indian Festival\n\nAmazon Mobile Links:\n\niQoo 15R: https://link.amazon/B0cfNpz34\n\nOneplus 15R: https://link.amazon/B04YFtMV5\n\nSamsung S25 Ultra: https://link.amazon/B06Tkf5iH\n\nOnePlus 13s: https://link.amazon/B0gS9oOr1\n\nOnePlus: Nord 6: https://link.amazon/B0csJBg9e\n\n\nTelegram Deals Channel -  https://t.me/Telugutechnospringdeals\n\n2nd Channel :-    / @nehemiahmedabalimi  \n\nFor Promotions : technehemiahofficial@gmail.com\n\nMy Video Gear :\n\nMy Camera: https://urlgeni.us/amzn/Y8o1mi\n\nMy Prime Lens: https://urlgeni.us/amzn/9_GFg_\n\nMy Primary Mic: https://urlgeni.us/amzn/2qJ5gM\n\nMic Stand: https://urlgeni.us/amzn/4YRnKV\n\nMy Chair: https://urlgeni.us/amzn/QhFTzk\n\nMy Tripod: https://urlgeni.us/amzn/Yeg0Ud\n\nDJI Mic: https://urlgeni.us/amzn/SJ1P8j\n\nMac Mini M4: https://urlgeni.us/amzn/0Hlpis\n\nMy Monitor: https://urlgeni.us/amzn/zcKVkr\n\nMy Keyboard: https://urlgeni.us/amzn/FFEdef\n\nMy Mouse (MX Master 3s): https://urlgeni.us/amzn/0osLkD\n\nCard Reader: https://urlgeni.us/amzn/34ifAT\n\nRBG Stick Light: https://urlgeni.us/amzn/F_Xbk\n\nDigitek Ring Light: https://urlgeni.us/amzn/yWd6j\n\nGodox SL60 Light: https://urlgeni.us/amzn/BtBKy\n\nSoftbox: https://urlgeni.us/amzn/KfuHf3\n\nStand: https://urlgeni.us/amzn/Lpba2W\n\nGodox Sl 60 2B: https://urlgeni.us/amzn/dVy5jl\n\nBackground Gret Cloth: https://amzn.to/4hFJ12A\n\nCloth Stand: https://urlgeni.us/amzn/Q2r8DJ\n\nCloth Clips: https://urlgeni.us/amzn/xE2g98\n\nCorner RGB Lamp: https://urlgeni.us/amzn/CBggAk\n\nBackground Lamp: https://urlgeni.us/amzn/qN1WLw\n\n\nFollow me on Social Media:-\n\nTwitter :- https://twitter.com/TechNehemiah?s=09\n\nInstagram :- https://www.instagram.com/telugu_tech...\n\nTRANSCRIPT (one segment per line, [index] m:ss text):\n[0] 0:00 హాయ్ ఫ్రెండ్స్ ఒక టూ డేస్ లో మనకి సేల్స్ స్టార్ట్ అవుతాయి. అక్టోబర్ ఎనిమిదవ తారీకు నుంచి బోత్ Amazon అండ్ Flipkart లో ఎర్లీ యాక్సెస్ సేల్స్ మొదలవుతాయి. ఈ సేల్స్ లో ₹30,000లో ఏ మొబైల్ కొనాలి?\n[1] 0:08 ₹30,000లో ఉన్న బెస్ట్ మొబైల్స్ గురించి చూద్దాం. పర్టిక్యులర్ గా ₹30,000 గురించి ఒక సపరేట్ వీడియో ఎందుకు చేస్తున్నాను అంటే ఇది చాలా మంది బయర్స్ కి స్వీట్\n[2] 0:16 స్పాట్ అని చెప్పొచ్చు. ₹25,000 నుంచి ₹30,000 వరకు చాలా మంది మొబైల్స్ కొంటా ఉంటారు. ప్రెసెంట్ ఇప్పుడు ప్రైసెస్ పెరిగిపోయిన సిచువేషన్ లో ₹25,000 అయితే\n[3] 0:23 అంత మంచి మొబైల్స్ ఏం కనిపించట్లే బట్ ఇప్పుడు ₹30,000 దగ్గర అయితే కొంచెం మంచి ఆప్షన్స్ కనిపించినాయి. మంచి మంచి మొబైల్స్ే తీసుకొని వస్తున్నారు. అండ్ అక్కడ ఆప్షన్స్ కూడా చాలా ఎక్కువ ఉన్నాయి.\n[4] 0:32 దాదాపు ₹30,000 సెగ్మెంట్ లో ఒక 1015 మొబైల్స్ దాకా ఉన్నాయి. ఉన్న ప్రతి మొబైల్ బెస్ట్ మొబైల్ కాదు కాబట్టి ఉన్న వాటిలో నాకు ఒక నాలుగు మొబైల్స్ బాగా బెస్ట్\n[5] 0:40 అనిపించింది. ఆ నాలుగు మొబైల్స్ గురించి మీకు ఇప్పుడు చెప్తాను. ఒకవేళ మీ బడ్జెట్ గానీ ₹30,000 అనుకుంటే ఈ సేల్ లో ఈ నాలుగు మొబైల్స్ ని మాత్రమే కన్సిడర్ చేయడానికి ట్రై చేయండి. ఇవి కాకుండా వేరే ఆప్షన్స్\n[6] 0:48 కి మాక్సిమం వెళ్లొద్దు. ఉన్న బెస్ట్ నాలుగు మీ ముందు పెడతాను. అండ్ ఇది మనం ఈ సేల్ లో చేసే మెయిన్ వీడియో అయితే కాదు. మెయిన్ వీడియో రేపు లేదా ఎల్లుండి వస్తది.\n[7] 0:55 ₹10,000 రూపాయల నుంచి లక్ష రూపాయల వరకు ఏ మొబైల్ కొనాలని ప్రతి ప్రైస్ సెగ్మెంట్ ని కవర్ చేస్తూ ఆ వీడియో చేస్తాను. మీరు ఆ ఒక్క వీడియో చూశరంటే చాలు ఈ సేల్ లో ప్రతి\n[8] 1:03 ప్రైస్ సెగ్మెంట్ లో ఏమేమ బెస్ట్ మొబైల్స్ ఉన్నాయని మీకు ఒక క్లియర్ కట్ క్లారిటీ వస్తది. ఆ వీడియో రేపు లేదా ఎలవండి చేస్తాను. ఈ వీడియోలో ఓన్లీ ₹30,000 బడ్జెట్ మాత్రమే కవర్ చేద్దాం. ఫస్ట్\n[9] 1:12 ₹30,000 లో నా బెస్ట్ పిక్ చెప్పేస్తా అదేమో H70 ఫ్యూషన్ ఇది కార్డ్ డబ కలుపుకొని ప్రెసెంట్ ₹29 ప్రైస్ కి\n[10] 1:19 వస్తది. ఆఫర్ సేల్ లేకపోతే ₹32,000కి వస్తుంది. ఇది ₹30,000 లో ఉన్న వాటన్నిటిలో ఆల్ రౌండర్ ఛాయిస్ కంప్లీట్ ఫోన్ అయితే ఇదే అని చెప్పాలి. అంటే ఇది\n[11] 1:27 లేదు అని చెప్పడానికి లేకుండా ప్రతి డిపార్ట్మెంట్ కూడా కవర్ చేసేది ఈ ఫోన్ అనే చెప్పాలి. ఇందులో snప్డ్రagon 7s4 ప్రాసెసర్ ఉంటది. ప్రెజెంట్ ఉన్న\n[12] 1:34 సిచువేషన్ లో ఆ రైస్ లో snప్డ్రagon 7s4 ప్రాసెసర్ చాలా మంచి ప్రాసెసర్. ఈవెన్ గేమింగ్ ని కూడా ఇది బాగానే హ్యాండిల్ చేస్తది. డిస్ప్లే మంచి డిస్ప్లే ఉంటది.\n[13] 1:40 కాకపోతే ఇది క్వాడ్ కవర్ ఆమ్లెట్ డిస్ప్లే కర్వడ్ స్క్రీన్స్ ఇష్టపడని వాళ్ళకి ఇది ఒక కాంప్రమైజ్ అవుతది. 6.78 78 in డిస్ప్లే 1.5 యమ్లెట్ ప్యానల్ డిస్ప్లే\n[14] 1:48 క్వాలిటీ కూడా ప్రాక్టికల్ లైఫ్ లో యూస్ చేస్తున్నప్పుడు చాలా బాగుంటుంది. కెమెరాస్ మంచి కెమెరా సెటప్ తోడ వస్తుంది.\n[15] 1:52 బ్యాక్ సైడ్ 50మాపిల్ ప్రైమరీ కెమెరా ఉంటది. 13మాపిల్ అల్ట్రా వైడల్ కెమెరా ఉంటది. ఫ్రంట్ కెమెరా 32మpల్ కెమెరా ఉంటది. అన్ని కెమెరాస్ ని యూస్ చేసి 4k లో\n[16] 2:00 వీడియో రికార్డ్ చేయొచ్చు. ఈవెన్ కెమెరా క్వాలిటీ కూడా చాలా బాగుంటది. బ్యాటరీ 7,000 mh బ్యాటరీ తోటి వస్తుంది. 68వా ఫాస్ట్ చార్జింగ్ సపోర్ట్ చేస్తది.\n[17] 2:06 ఎక్స్ట్రా ఫీచర్స్ కూడా అన్నీ ఉంటాయి. ఏమి మిస్ చేయరు. కంప్లీట్ వాటర్ రెసిస్టెన్స్ సపోర్ట్ చేస్తది. ఐip 68 69 రేటింగ్ సపోర్ట్ ఉంటది. స్టీరిో స్పీకర్స్ ఉంటాయి.\n[18] 2:13 స్టీరియో స్పీకర్స్ కి డాల్బీ అట్మస్ సపోర్ట్ ఉంటది. ఐఆర్ బ్లాస్టర్ఎన్fసి అన్నీ ఉంటాయి. ఒక్కటి కూడా మిస్ చేయరు.\n[19] 2:19 ₹30,000 రూపాయలో ఒక కంప్లీట్ ఆల్ రౌండర్ ఫోన్ అని చెప్పాలి ఇది. కాకపోతే ఒకటే ఒక డౌన్ సైడ్ ఏంటంటేమో బ్రాండ్ ఈ మధ్యకాలంలోమో లాంగ్ టర్మ్ లో ఇష్యూస్ వస్తున్నాయని చాలా మంది భయపడతా ఉన్నారు.\n[20] 2:28 అది ఒక్కటే దీనికి మైనస్ పాయింట్. ఆ ఒక్కటి తప్పించిమో బ్రాండ్ అయినా పర్లేదు.\n[21] 2:32 తర్వాత ఫ్యూచర్ లో ఏమైనా ఇష్యూస్ వస్తే నేను తర్వాత చూసుకుంటాను. ప్రెసెంట్ నాకు బెస్ట్ ఫోన్ కావాలనుకుంటే ₹30,000లో నా ఫస్ట్ ఛాయిస్మో H70 ఫ్యూషన్ లేదుమో H70\n[22] 2:41 ఫ్యూషన్ కాదు ఇంకా ఆల్టర్నేటివ్స్ చెప్పంటే మూడు ఆల్టర్నేటివ్స్ ఉన్నాయి. ఈ మూడు ఫోన్స్ ఆల్ రౌండర్ ఫోన్స్ కాదు మీ యూసెస్ కి తగ్గట్టు మీరు ఫోన్స్ ని పిక్ చేసుకోవాలి. ఫస్ట్ మీకు జనరల్ యూస్ కి\n[23] 2:49 ఫోన్ బాగుండాలి. ఫోన్ లో ఎట్లాంటి బ్లోట్ వేర్ ఉండకూడదు, యడ్స్ ఉండకూడదు, UI క్లీన్ ఉండాలి అండ్ కెమెరాస్ బాగుండాలి అనుకుంటే నథింగ్ ఫోన్ 4a మీకు మంచి హౌస్ అవుతుంది.\n[24] 2:57 ఇది కార్డ్ ఆఫర్స్ అన్నీ కలుపుకొని ₹33,000 ప్రైస్ కి వస్తది. దీనికంటే కింద మోడల్ నథింగ్ఫోన్ 4B కార్ డవర్స్ అన్నీ కలుపుకొని ₹28,000క వస్తుంది. కానీ\n[25] 3:05 నథింగ్ఫోన్ 4B ని కన్సిడర్ చేయొద్దు. ఈ లిస్ట్ లో ఉన్న అన్ని ఫోన్స్ తోటి కంపేర్ చేసుకుంటే నథింగ్ఫోన్ 4B అన్నిటికంటే లీస్ట్ ఆప్షన్ అని చెప్పాలి. ఒకవేళ మీరు\n[26] 3:13 నథింగ్ లవర్స్ కచ్చితంగా నథింగ్ నుంచే ఫోన్ కావాలి. అది కూడా 28,000లోనే కావాలంటే మీకు నథింగ్ఫోన్ 4B తప్ప వేరే ఆప్షన్ ఉండదు. బట్ బెటర్ నన్నడ అయితే\n[27] 3:22 కొంచెం డబ్బులు యాడ్ చేసుకొని నథింగ్ఫోన్ 4a కి వెళ్ళిపోండి. 4a మీకు చాలా చాలా బెటర్ ఎక్స్పీరియన్స్ ఇస్తది. దీనిలో కూడా snప్డ్రagon 74 ప్రాసెసర్ ఉంటది. డిస్ప్లే మంచి క్వాలిటీ డిస్ప్లే ఉంటది. ఫుల్ హెడి ప్లస్ ఆమ్లెట్ డిస్ప్లే ఉంటది.\n[28] 3:31 పర్టిక్యులర్ గా కెమెరాస్ బాగుంటాయి. ఈ ప్రైస్ లో ఒక రకంగా చెప్పాలంటే దీనిలో వన్ ఆఫ్ ది బెస్ట్ కెమెరాస్ ఉంటాయి అని చెప్పాలి. ప్రైమరీ కెమెరా 50మపిల్ కెమెరా ఉంటది. అండ్ 50మాpి 2x టెలిఫోటో కెమెరా\n[29] 3:40 కూడా ఉంటది. ఇంకా ఏ ఫోన్ లో ఈ ప్రైస్ లో టెలీఫోటో కెమెరా లేదు. అండ్ అల్ట్రా వైడ్ కెమెరా 8మాపిల్ అల్ట్రా వైడం కెమెరా ఉంటది. ఫ్రంట్ కెమెరా 32మాపిల్ కెమెరా తోడు వస్తుంది. అన్నిటి కెమెరాస్ క్వాలిటీ\n[30] 3:48 బాగుంటది. అండ్ బ్యాటరీ 5000 mh బ్యాటరీ తోటి వస్తుంది. కాకపోతే మైనస్ ఏంటంటే దీనిలో బాక్స్ లో చార్జర్ ప్రొవైడ్ చేయరు.\n[31] 3:53 ఇంకో మైనస్ ఏంటంటే ఐప రేటింగ్ కంప్లీట్ వాటర్ రెసిస్టెన్స్ ఉండదు. ఓన్లీ ఐip64 రేటింగ్ మాత్రమే ఉంటది. రెండు కాంప్రమైజెస్ ఉంటాయి. చార్జర్ బాక్స్ లో ప్రొవైడ్ చేయరు. కంప్లీట్ వాటర్ రెసిషన్\n[32] 4:02 కాదు. మిగిలిన డిపార్ట్మెంట్స్ అన్నీ బాగుంటాయి. కాకపోతే ఈ లిస్ట్ లో అన్ని ఫోన్స్ తో కంపేర్ చేస్తే ఇదే ప్రైస్ ఎక్కువ. బట్ క్లీన్ సాఫ్ట్వేర్ ఎక్స్పీరియన్స్ కోసం అంత ప్రైస్ పెట్టొచ్చు దీనికి పర్లేదు. నెక్స్ట్\n[33] 4:10 ఇంకొక రెండు ఆప్షన్స్ ఉంటాయి. వీటిలో మీకు ఫోన్ కొంచెం పాతదైనా పర్లేదు. పర్ఫార్మెన్స్ బెటర్ ఉండాలి.\n[34] 4:15 పర్ఫార్మెన్స్ తో పాటు కెమెరాస్ కూడా బెటర్ ఉండాలనుకుంటే Realme P4 Pro మీకు మంచి ఆస్ అవుతుంది. దీలో snప్డ్రagon 74 ప్రాసెసర్ ఉంటది. ఈ లిస్ట్ లో అన్నిటికంటే\n[35] 4:23 పవర్ఫుల్ ప్రాసెసర్ దీనిలోనే ఉంటది. ఈవెన్ గేమ్స్ కూడా దీనిలో మంచిగానే ఆడుకోవచ్చు.\n[36] 4:26 కెమెరాస్ కూడా బాగుంటాయి. బ్యాక్ సైడ్ 50మాపిల్ ప్రైమరీ కెమెరా ఉంటది. ఫ్రంట్ కెమెరా కూడా 50మపిల్ కెమెరా ఉంటది.\n[37] 4:31 ఎక్స్ట్రా కెమెరాలు టెలీఫోటో లెన్స్ అట్లాంటివి ఏమ ఉండవు. ఓన్లీ మెయిన్ కెమెరా పర్ఫార్మెన్స్ మాత్రం దీనిలో బాగుంటది.\n[38] 4:36 అండ్ 7000 mh బ్యాటరీ తోటి వస్తుంది. 80వా ఫాస్ట్ చార్జింగ్ సపోర్ట్ చేస్తది.\n[39] 4:39 డిస్ప్లే కూడా amమ్లెట్ 1.5k డిస్ప్లే ఉంటది. డిస్ప్లే క్వాలిటీ కూడా బాగుంటది.\n[40] 4:43 కాకపోతే ఇది 3D కవర్ డిస్ప్లే ఫ్లాట్ డిస్ప్లే కాదు. దీనిలో మైనస్ లో ఏంటంటే ఇది కొద్దిగా ఓల్డ్ ఫోన్. ఇప్పుడు ఒకవేళ మీరు కొంటే అప్డేట్స్ ఎక్కువ సంవత్సరాలు రావు. ఇది అట్ ఆఫ్ బాక్స్ Andఆండ్రాయిడ్\n[41] 4:51 15 తోటి వచ్చింది. మాక్సిమంఆండ్రిడ్ 18 వరకు దీనిలో అప్గ్రేడ్స్ వస్తాయి అంతే.\n[42] 4:54 అంటే ఇప్పుడు ఒకవేళ మీరు ఫోన్ కొంటే ఒక సంవత్సరం పాటు దీనిలో అప్డేట్స్ వస్తాయి.\n[43] 4:57 అండ్ ఇంకోటి దీనిలో కూడా కంప్లీట్ వాటర్ రెసిస్టెన్స్ ఉండదు. సో ఓల్డ్ అయినా పర్లేదు పర్ఫార్మెన్స్ అండ్ కెమెరా కాంబినేషన్ నాకు కావాలనుకుంటే Realme P4 Pro ని కన్సిడర్ చేయొచ్చు. నెక్స్ట్\n[44] 5:05 కెమెరాస్ అంత ఇంపార్టెంట్ కాదు కెమెరాస్ ఒక్కటే తప్పించి మిగిలిన అన్నీ బాగుండాలి.\n[45] 5:08 డిస్ప్లే బాగుండాలి, పర్ఫార్మెన్స్ బాగుండాలి పర్టిక్యులర్ గా బ్యాటరీ ఎక్కువ కావాలనుకున్నవాళ్ళు Vivo T5 Pro ని కన్సిడర్ చేయొచ్చు. ఇది కార్డ్ ఆఫర్స్ అన్నీ కలుపుకొని 309 ప్రైస్ కి వస్తుంది.\n[46] 5:16 ఇందులో snప్డ్రagon 7s4 ప్రాసెసర్ ఉంటది.\n[47] 5:18 జనరల్ యూసెస్ కైనా గేమింగ్ కైనా ఆ ప్రైస్ కి ఈ ప్రాసెసర్ బానే ఉంటది. ఈవెన్ డిస్ప్లే కూడా 1.5 ఆమ్లెట్ డిస్ప్లే ఉంటది. డిస్ప్లే క్వాలిటీ బాగానే ఉంటది.\n[48] 5:25 ఇది ఫ్లాట్ డిస్ప్లే బ్యాటరీ 90 mh బ్యాటరీ తోటి వస్తుంది. 90వా ఫాస్ట్ చార్జింగ్ సపోర్ట్ చేస్తది. కెమెరాస్ కొంచెం యవరేజ్ ఉంటాయి. 50మాపిల్ ప్రైమరీ కెమెరా, 8మాపిల్ అల్ట్రా వైన్ కెమెరా,\n[49] 5:33 ఫ్రంట్ కెమెరా 32మాపిల్ కెమెరా కెమెరా స్పెసిఫికేషన్స్ పరంగా బానే ఉంటాయి కానీ మిగిలిన ఫోన్స్ లైక్ Moto 870 ఫ్యూజన్ నథింగ్ ఫోన్ 4A వీటితోటి కంపేర్ చేస్తే\n[50] 5:41 దీని కెమెరా పర్ఫార్మెన్స్ కొద్దిగా తగ్గుతది. వాటితో కంపేర్ చేయకుండా చూస్తే జనరల్ యూస్ కి కెమెరాస్ కూడా బాగానే ఉంటాయి. సో మీకు జనరల్ యూస్ కి ఎక్కువ బ్యాటరీ తోటి Vivo నుంచి ఫోన్\n[51] 5:48 కావాలనుకుంటే Vivo T5 Pro ని కన్సిడర్ చేయొచ్చు. ఇవి బెస్ట్ ఫోన్స్ ఈ నాలుగు బెస్ట్ ఫోన్స్ అన్నమాట. ఇక కన్సిడర్ చేయకూడని ఫోన్స్. పర్టిక్యులర్ గా ఆ ప్రైస్ లో Vivo T5 వస్తది. Vivo T5 అండ్\n[52] 5:57 T5 Pro Flipkart లో సేమ్ ప్రైస్ కే వస్తున్నాయి. ఇక్కడ మీరు T5 తీసుకునే కంటే T5 Pro కి వెళ్ళిపోవడం చాలా చాలా బెటర్.\n[53] 6:02 అండ్ Amazon లో Z1 వస్తది. IQ Z1 తీసుకోవడం కంటే కూడా T5 Pro నే తీసుకోవడమే బెటర్. అండ్ అదే Amazon లో సేమ్ Vivo T5 Pro స్పెక్స్ తోటే OnePlus Note CE6\n[54] 6:11 వస్తది. దీని ప్రైస్ కొద్దిగా ఎక్కువ పెట్టారు. కార్ డవర్స్ అవి మొత్తం కలుపుకొని కూడా దగ్గర దగ్గరగా ₹4,000 దగ్గరకి వస్తుంది. 343,000కి oneplనా C6 కూడా అవసరం లేదు. దానికంటే\n[55] 6:19 Vivo T5 Pro గాని Moto S70 ఫ్యూషన్ గానిీ ఈ బెటర్ ఫోన్స్ చెప్పా కదా వాటిని కన్సిడర్ చేయడం బెటర్ అండ్ Realme లో ₹30,000లో చాలా ఆప్షన్స్ ఉన్నాయి. నేను\n[56] 6:26 చెప్పిన Realme P4 Pro కాకుండా Realme P4 పవర్ వస్తది, Realme P4 వస్తది, Realme P4S వస్తది. ఇందులో ఫస్ట్ Realme P4,\n[57] 6:34 Realme P4, Realme P4 Pro రెండు ఒకటేసారి లాంచ్ అయింది. లాంచ్ అయినప్పుడు Realme P4 ప్రైస్₹15,000 పెట్టారు. ఇప్పుడు ప్రైసెస్\n[58] 6:41 పెరిగిపోవడం వల్ల దాని ప్రైస్ ₹30,000 చేశారు కానీ జనరల్ గా అది లాంచ్ అయింది ₹15,000 దగ్గర. సో Realme P4 Pro కి Realme P4 కి మీరు యూస్ చేస్తున్నప్పుడు\n[59] 6:48 కూడా డిఫరెన్స్ అంతే ఉంటది. పర్టిక్యులర్ గా కెమెరాస్ లో మీరు ఆ డిఫరెన్స్ నోటీస్ చేస్తారు. సో P4 తీసుకోవడం కంటే P4 Pro తీసుకోవడం బెటర్. ఇక P4 పవర్ P4S రెండు\n[60] 6:56 కూడా సేమ్ ఫోన్సే ఎగ్జాక్ట్ స్పెక్స్ తోట వస్తుంది. ఓన్లీ బ్యాటరీ మాత్రమే మారుతది.\n[61] 7:00 P4S లో 8,000 mh బ్యాటరీ ఉంటే P4 పవర్ లో 10,000 mAh బ్యాటరీ ఉంటది. మీకు బ్యాటరీ ఖచ్చితంగా 10,000 mh బ్యాటరీ కావాలనుకుంటే P4 పవర్ కి మీరు వెళ్లొచ్చు. కానీ అక్కడ\n[62] 7:08 మీరు కెమెరాస్ విషయంలో చాలా కాంప్రమైజ్ అవ్వాలి. P4 పవర్ లో కెమెరాస్ చాలా యవరేజ్ ఉంటాయి. సో ఇక్కడ నన్ను అడిగితే Realme P4S, Realme P4 పవర్ ఈ రెండు తీసుకునే\n[63] 7:16 కంటే బ్యాటరీ మీకు ఇంపార్టెంట్ అనుకుంటే బెటర్ మీరు Vivo T5 Pro కి వెళ్ళిపోండి.\n[64] 7:19 లేదు మీకు Realme లోనే ఫోన్ కావాలనుకుంటే స్టిల్ realme P4 Pro ని కూడా కన్సిడర్ చేయొచ్చు. దానిలో కూడా తక్కువ బ్యాటరీ ఏమ ఉండదు. 7000 mAh బ్యాటరీ ఉంటది. లేదు అది ఓల్డ్ ఫోన్ కొత్త ఫోన్ లో నాకు బ్యాటరీ\n[65] 7:28 ఎక్కువ ఉండాలనుకుంటే T5 Pro కి వెళ్ళిపోవడం బెటర్. సో ₹30,000లో ప్రెసెంట్ ఉన్న సిచువేషన్ లో ఈ నాలుగు ఫోన్స్ అయితే నా బెస్ట్ పిక్స్ అన్నమాట.\n[66] 7:34 ఫస్ట్ ఛాయిస్మోo70 ఫ్యూజన్ సెకండ్ ఛాయిస్ నథింగ్ ఫోన్ 4a థర్డ్ అండ్ ఫోర్త్ ఛాయిస్ మీ ప్రయారిటీ ని బట్టి కెమెరా అండ్ పర్ఫార్మెన్స్ కావాలనుకుంటే Realme P4 Pro\n[67] 7:42 కి వెళ్ళొచ్చు. లేదు కెమెరాస్ కొద్దిగా తగ్గినా పర్లేదు. పర్ఫార్మెన్స్ అండ్ బ్యాటరీ లైఫ్ ఇంపార్టెంట్ అనుకుంటే Vivo T5 Pro కి అయినా గాని మీరు వెళ్లొచ్చు. ఈ ఫోన్స్ అన్నిటి లింక్స్ ఇక్కడ టాక్ ప్రొడక్ట్స్ లో ట్యాగ్ చేసి పెట్టాను.\n[68] 7:50 Amazon ఫోన్స్ అయితే డిస్క్రిప్షన్ లో కూడా డైరెక్ట్ లింక్స్ ఇచ్చు ఉంటాను.\n[69] 7:52 ఒకవేళ ఈ వీడియో చూసి మీరు మీ మొబైల్ బయింగ్ డెసిషన్ ని ఈజీ చేసుకుంటే సేల్ లో ఈ ఫోన్స్ కొనుక్కునేటప్పుడు ఈ లింక్స్ ని యూస్ చేసి కొనటానికి ట్రై చేయండి. ట్యాగ్ చేసిన ప్రొడక్ట్స్ లో నుంచి గానిీ\n[70] 8:01 డిస్క్రిప్షన్ లో ఇచ్చిన లింక్స్ లో నుంచి గానిీ మొబైల్స్ ని కొనటానికి ట్రై చేయండి.\n[71] 8:04 దాని వల్ల నాకు చిన్న అఫిలియేట్ కమిషన్ వస్తది. ఆ అఫిలియేట్ కమిషన్ ఛానల్ లో డెవలప్ చేయడానికి ఎంతో కొంత యూస్ఫుల్ అవుతుది. అండ్ మర్చిపోకుండా వీడియో లైక్ చేసి సేల్ లో మంచి మొబైల్ కోసం చూస్తున్న మీ ఫ్రెండ్ కి వీడియో ని షేర్ చేయండి.\n[72] 8:12 మర్చిపోకుండా ఛానల్ ని సబ్స్క్రైబ్ చేసుకొని పక్కనే ఉన్న బెల్ ఐకాన్ కూడా యాక్టివేట్ చేసి పెట్టుకోండి. ఈ సేల్ టైం లో మన ఛానల్ మీకు చాలా హెల్ప్ ఫుల్ అవుతుది. అండ్ ఇలాంటి డీల్స్ అప్పుడప్పుడు ఫ్లాష్ లో వచ్చి వెళ్ళిపోతా ఉంటాయి.\n[73] 8:21 అవన్నీ మిస్ కాకుండా ఉండాలంటే మన డీల్స్ ఛానల్ లో కూడా జాయిన్ అయి పెట్టుకోండి. మన డీల్స్ ఛానల్ లో ఓన్లీ ఎలక్ట్రానిక్ రిలేటెడ్ డీల్స్ మాత్రమే పోస్ట్ చేస్తాం.\n[74] 8:26 ఉప్పు పప్పు డీల్స్ పోస్ట్ చేయం అదర్ డీల్స్ ఛానల్స్ లాగా ఓ మెసేజ్ లేసి స్పామ్ చేయం ఓన్లీ సెలెక్టెడ్ ప్రొడక్ట్స్ మాత్రమే పెడతాము. వర్తి అనిపించిన ప్రొడక్ట్స్ మాత్రమే పెడతాము. జాయిన్\n[75] 8:34 పెట్టుకోండి హెల్ప్ఫుల్ అవుతది. థాంక్స్ ఫర్ వాచింగ్ మ నెక్స్ట్ వీడియో లో కలుస్తాను. బాయ్ బాయ్.\n\nPHONES:\n- Motorola Edge 70 Fusion\n- Nothing Phone 4a\n- Realme P4 Pro\n- Vivo T5 Pro"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "UseAnswer",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "area": {
+          "enum": [
+           "camera",
+           "battery",
+           "performance",
+           "display",
+           "charging",
+           "design",
+           "software"
+          ],
+          "type": "string"
+         },
+         "verdict": {
+          "enum": [
+           "good",
+           "weak"
+          ],
+          "type": "string"
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "area",
+         "verdict",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [
+   {
+    "phone": "Motorola Edge 70 Fusion",
+    "area": "performance",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 12,
+    "quote": "ఈవెన్ గేమింగ్ ని కూడా ఇది బాగానే హ్యాండిల్ చేస్తది.",
+    "meaning_en": "It even handles gaming quite well."
+   },
+   {
+    "phone": "Motorola Edge 70 Fusion",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 12,
+    "quote": "డిస్ప్లే మంచి డిస్ప్లే ఉంటది.",
+    "meaning_en": "It has a good display."
+   },
+   {
+    "phone": "Motorola Edge 70 Fusion",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 13,
+    "quote": "డిస్ప్లే క్వాలిటీ కూడా ప్రాక్టికల్ లైఫ్ లో యూస్ చేస్తున్నప్పుడు చాలా బాగుంటుంది.",
+    "meaning_en": "The display quality is also very good when using it in practical life."
+   },
+   {
+    "phone": "Motorola Edge 70 Fusion",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 16,
+    "quote": "ఈవెన్ కెమెరా క్వాలిటీ కూడా చాలా బాగుంటది.",
+    "meaning_en": "Even the camera quality is very good."
+   },
+   {
+    "phone": "Nothing Phone 4a",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 27,
+    "quote": "డిస్ప్లే మంచి క్వాలిటీ డిస్ప్లే ఉంటది.",
+    "meaning_en": "The display is of good quality."
+   },
+   {
+    "phone": "Nothing Phone 4a",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 28,
+    "quote": "పర్టిక్యులర్ గా కెమెరాస్ బాగుంటాయి.",
+    "meaning_en": "Particularly, the cameras are good."
+   },
+   {
+    "phone": "Nothing Phone 4a",
+    "area": "software",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 32,
+    "quote": "క్లీన్ సాఫ్ట్వేర్ ఎక్స్పీరియన్స్ కోసం అంత ప్రైస్ పెట్టొచ్చు దీనికి పర్లేదు.",
+    "meaning_en": "It is okay to pay that price for a clean software experience."
+   },
+   {
+    "phone": "Realme P4 Pro",
+    "area": "performance",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 35,
+    "quote": "ఈవెన్ గేమ్స్ కూడా దీనిలో మంచిగానే ఆడుకోవచ్చు.",
+    "meaning_en": "You can even play games quite well on this."
+   },
+   {
+    "phone": "Realme P4 Pro",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 36,
+    "quote": "కెమెరాస్ కూడా బాగుంటాయి.",
+    "meaning_en": "The cameras are also good."
+   },
+   {
+    "phone": "Realme P4 Pro",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 39,
+    "quote": "డిస్ప్లే క్వాలిటీ కూడా బాగుంటది.",
+    "meaning_en": "The display quality is also good."
+   },
+   {
+    "phone": "Vivo T5 Pro",
+    "area": "performance",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 47,
+    "quote": "జనరల్ యూసెస్ కైనా గేమింగ్ కైనా ఆ ప్రైస్ కి ఈ ప్రాసెసర్ బానే ఉంటది.",
+    "meaning_en": "For that price, this processor is good for general use as well as gaming."
+   },
+   {
+    "phone": "Vivo T5 Pro",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 47,
+    "quote": "డిస్ప్లే క్వాలిటీ బాగానే ఉంటది.",
+    "meaning_en": "The display quality is quite good."
+   },
+   {
+    "phone": "Vivo T5 Pro",
+    "area": "camera",
+    "verdict": "weak",
+    "source": "transcript",
+    "segment": 48,
+    "quote": "కెమెరాస్ కొంచెం యవరేజ్ ఉంటాయి.",
+    "meaning_en": "The cameras are a bit average."
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 6150,
+  "completion_tokens": 2152,
+  "total_tokens": 8302,
+  "cost": 0.0126825,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0126825,
+   "upstream_inference_prompt_cost": 0.0046125,
+   "upstream_inference_completions_cost": 0.00807
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 937,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791488488-8vUK0Hg4xG1ShXZ0IABM"
+ }
+}

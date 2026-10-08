@@ -15,7 +15,7 @@ from collections.abc import Callable
 from pathlib import Path
 
 from unpaid.agent import Workspace, ask
-from unpaid.board import Showcase, build
+from unpaid.board import USES_FILE, Showcase, build
 from unpaid.collect import Collection, Plan, Recording, collect, showcase_plan
 from unpaid.config import EVIDENCE_DIR, PROBE_DIR, ROOT, SHOWCASE_DIR, api_key, llm_key, load_settings
 from unpaid.label import Labelled, label_all, showcase_paths
@@ -24,6 +24,7 @@ from unpaid.llm import LLM
 from unpaid.proof import BRAND_SPONSORED, COMMISSION, LABELS, NO_DISCLOSURE, locate
 from unpaid.score import load_key, score
 from unpaid.serpapi import BudgetExceeded, Cache, Client, receipt
+from unpaid.uses import FoundUses, find_uses, names_area
 
 SKIP_DIRS = {".git", ".venv", "node_modules", ".next", "__pycache__", ".pytest_cache", ".ruff_cache"}
 YOUTUBE_ENGINES = ("youtube", "youtube_video", "youtube_video_transcript")
@@ -257,6 +258,58 @@ def checks() -> tuple[list[tuple[str, Callable[[], str]]], dict[str, object]]:
         assert again == show, "the agent's board differs from board.json"
         queries = ", ".join(f"{q.text!r} ({q.hl})" for q in run.plan.queries)
         return f"{run.plan.question!r} → {queries}"
+
+    found_uses = FoundUses.model_validate_json((SHOWCASE_DIR / USES_FILE).read_text(encoding="utf-8"))
+    numbers["areas"] = {
+        a.area: {
+            "focus": a.focus,
+            "reviews": a.reviews,
+            "best_no_disclosure": a.best_no_disclosure,
+            "best_all": a.best_all,
+            "top": [p.model_dump(exclude={"mentions"}) for p in a.phones[:5]],
+        }
+        for a in show.areas
+    }
+
+    @claim("What each phone is good at replays with no API key: saved answers, 0 calls, identical to uses.json")
+    def _() -> str:
+        llm = LLM(mode="replay", model=found_uses.model, write_dir=llm_dir, read_dirs=(llm_dir,))
+        again = find_uses(run, proven, llm)
+        assert llm.calls == 0 and again.videos == found_uses.videos, "stale uses.json: run uv run unpaid uses"
+        kept = sum(len(v.uses) for v in again.videos)
+        dropped = sum(len(v.dropped) for v in again.videos)
+        return f"{kept} opinions kept, {dropped} dropped by the checks, from {llm.cached} saved answers"
+
+    @claim("Every 'good at' claim: quote found word for word, names the area, about one of that reviewer's picks")
+    def _() -> str:
+        picks = {p.video_id: {x.phone for x in p.picks} for p in proven}
+        n = 0
+        for vu in found_uses.videos:
+            v = by_id[vu.video_id]
+            assert v.page
+            for u in vu.uses:
+                n += 1
+                assert u.phone in picks[vu.video_id], (vu.video_id, u.phone)
+                assert locate(u.quote, v.page, v.transcript, None), (vu.video_id, u.quote)
+                assert names_area(u.quote, u.area), (u.area, u.quote)
+        return f"{n} of {n} claims"
+
+    @claim(
+        "The shopper's must-haves are answered: best for camera and for battery, by reviewers with nothing to disclose"
+    )
+    def _() -> str:
+        focus = [a for a in show.areas if a.focus]
+        assert show.must_haves == ["camera", "battery"] and [a.area for a in focus] == ["camera", "battery"]
+        lines = []
+        for a in focus:
+            assert a.best_no_disclosure, a.area
+            top = next(p for p in a.phones if p.name == a.best_no_disclosure)
+            nd = board.no_disclosure_videos_with_picks
+            lines.append(
+                f"{a.area}: {top.name}, praised by {top.good_no_disclosure}/{nd} reviewers with nothing to disclose "
+                f"(+{top.good_disclosed} with a money tie, {top.weak} call it weak)"
+            )
+        return "\n      ".join(lines)
 
     @claim("The website's numbers and quotes match the evidence (web/content/landing.json)")
     def _() -> str:

@@ -17,7 +17,10 @@ from unpaid.label import Labelled, showcase_paths
 from unpaid.prices import PhonePrices, prices
 from unpaid.proof import Proven
 from unpaid.serpapi import Client
+from unpaid.uses import AreaBoard, FoundUses, areas_for, tally_uses
 from unpaid.youtube import parse_created_at
+
+USES_FILE = "uses.json"
 
 
 class Review(BaseModel):
@@ -40,9 +43,13 @@ class Showcase(BaseModel):
     checked_at: datetime  # when the first search ran
     searches: list[str]  # what was searched on YouTube
     videos_found: int  # unique videos the searches returned
+    must_haves: list[str]  # what the shopper said matters, in their words
+    focus: list[str]  # those must-haves as areas we rank (camera, battery, ...)
+    not_tracked: list[str]  # must-haves we don't rank, shown as such
     reviews: list[Review]
     videos: list[Proven]
     board: Board
+    areas: list[AreaBoard]  # what reviewers praise each phone for; the shopper's areas first
     prices: list[PhonePrices]
 
 
@@ -76,26 +83,41 @@ def reviews_of(run: Collection) -> list[Review]:
     return out
 
 
-def assemble(question: str, run: Collection, labelled: Labelled, found: list[PhonePrices]) -> Showcase:
+def ranked(run: Collection, labelled: Labelled, uses: FoundUses) -> tuple[Board, list[AreaBoard], list[str]]:
+    """The overall ranking, the per-area rankings, and must-haves we don't track (shown as such)."""
     board = tally(labelled.videos)
+    focus, other = areas_for(run.plan.must_haves)
+    return board, tally_uses(labelled.videos, uses, board, focus), other
+
+
+def top_phones(board: Board, areas: list[AreaBoard]) -> list[str]:
+    """Phones to price: the top three overall and without disclosure, plus the best for what the shopper wants."""
+    best = [n for a in areas if a.focus for n in (a.best_no_disclosure, a.best_all) if n]
+    return list(dict.fromkeys(board.top_all + board.top_no_disclosure + best))
+
+
+def assemble(question: str, run: Collection, labelled: Labelled, uses: FoundUses, found: list[PhonePrices]) -> Showcase:
+    board, areas, other = ranked(run, labelled, uses)
     return Showcase(
         id=report_id(run),
         question=question,
         checked_at=run.searches[0].searched_at,
         searches=[s.query for s in run.searches],
         videos_found=len(run.videos) + len(run.dropped),
+        must_haves=run.plan.must_haves,
+        focus=[a.area for a in areas if a.focus],
+        not_tracked=other,
         reviews=reviews_of(run),
         videos=labelled.videos,
         board=board,
+        areas=areas,
         prices=found,
     )
-
-
-def top_phones(board: Board) -> list[str]:
-    return list(dict.fromkeys(board.top_all + board.top_no_disclosure))
 
 
 def build(showcase: Path, client: Client) -> Showcase:
     run = Collection.model_validate_json((showcase / "collection.json").read_text(encoding="utf-8"))
     labelled = Labelled.model_validate_json(showcase_paths(showcase)[2].read_text(encoding="utf-8"))
-    return assemble(run.plan.question, run, labelled, prices(client, top_phones(tally(labelled.videos))))
+    uses = FoundUses.model_validate_json((showcase / USES_FILE).read_text(encoding="utf-8"))
+    board, areas, _ = ranked(run, labelled, uses)
+    return assemble(run.plan.question, run, labelled, uses, prices(client, top_phones(board, areas)))

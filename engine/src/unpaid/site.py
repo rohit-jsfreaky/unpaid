@@ -13,6 +13,7 @@ from unpaid.board import Showcase
 from unpaid.config import ROOT
 from unpaid.links import LinkBook
 from unpaid.proof import BRAND_SPONSORED, COMMISSION, NO_DISCLOSURE, Proven
+from unpaid.uses import AreaBoard
 
 LANDING_FILE = ROOT / "web" / "content" / "landing.json"
 LANGUAGE = {"latin": "English", "devanagari": "Hindi", "telugu": "Telugu", "malayalam": "Malayalam"}
@@ -102,7 +103,33 @@ def landing(show: Showcase, book: LinkBook, answer_key: list[dict[str, Any]]) ->
             for s in answer_key
             if s["key"] or s["found"]
         ],
+        "must_haves": show.must_haves,
+        "focus": [focus_example(show, a) for a in show.areas if a.focus],
         "report_id": show.id,
+    }
+
+
+def focus_example(show: Showcase, a: AreaBoard) -> dict[str, Any]:
+    """The phone reviewers with nothing to disclose praise most for one area, with one of their own sentences."""
+    reviews = {r.video_id: r for r in show.reviews}
+    best = next((p for p in a.phones if p.name == a.best_no_disclosure), None)
+    m = next((m for m in best.mentions if not m.disclosed and m.verdict == "good"), None) if best else None
+    low = next((p.lowest for p in show.prices if best and p.phone == best.name), None)
+    return {
+        "area": a.area,
+        "best": best.name if best else None,
+        "no_disclosure": best.good_no_disclosure if best else 0,
+        "of_no_disclosure": show.board.no_disclosure_videos_with_picks,
+        "disclosed": best.good_disclosed if best else 0,
+        "of_disclosed": show.board.disclosed_videos_with_picks,
+        "weak": best.weak if best else 0,
+        "price": low.price if low else None,
+        "quote": m.quote if m else None,
+        "meaning_en": m.meaning_en if m else None,
+        "channel": m.channel if m else None,
+        "time_text": m.time_text if m else None,
+        "url": m.url if m else None,
+        "language": LANGUAGE.get(reviews[m.video_id].language or "", "English") if m else None,
     }
 
 

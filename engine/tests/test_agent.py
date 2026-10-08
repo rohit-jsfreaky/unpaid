@@ -92,3 +92,15 @@ def test_api_replays_the_demo_question_with_no_keys(tmp_path: Path, monkeypatch:
     assert got["sample"] and got["report"]["question"] == DEMO and len(got["report"]["reviews"]) == 21
     assert http.get("/reports/nope").status_code == 404
     assert http.get("/accuracy").json()["videos"] == 21
+
+
+def test_reports_list_skips_a_report_saved_by_an_older_version(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> None:
+    from fastapi.testclient import TestClient
+
+    import unpaid.api as api
+
+    (tmp_path / "reports").mkdir()
+    (tmp_path / "reports" / "old.json").write_text('{"id": "old", "question": "x"}', encoding="utf-8")
+    monkeypatch.setattr(api, "WORK_DIR", tmp_path)
+    listed = TestClient(api.app).get("/reports")
+    assert listed.status_code == 200 and [r["sample"] for r in listed.json()] == [True]

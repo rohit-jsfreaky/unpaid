@@ -16,7 +16,7 @@ from typing import Any
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, ValidationError
 
 from unpaid.agent import NotABuyingQuestion, Workspace, ask
 from unpaid.board import Showcase
@@ -94,7 +94,11 @@ def load_reports() -> dict[str, tuple[Showcase, bool]]:
     """Every report by id: the recorded sample (published evidence) and any saved from live runs."""
     out: dict[str, tuple[Showcase, bool]] = {}
     for path in sorted((WORK_DIR / "reports").glob("*.json")):
-        s = Showcase.model_validate_json(path.read_text(encoding="utf-8"))
+        try:
+            s = Showcase.model_validate_json(path.read_text(encoding="utf-8"))
+        except (OSError, ValidationError):
+            # Saved by an older version of Unpaid: skip it rather than break the whole list.
+            continue
         out[s.id] = (s, False)
     sample = SHOWCASE_DIR / "board.json"
     if sample.exists():

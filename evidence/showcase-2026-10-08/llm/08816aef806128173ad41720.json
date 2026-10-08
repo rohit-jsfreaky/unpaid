@@ -1,0 +1,217 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube phone review: its description and what was said in the video (English, Hindi,\nHinglish, Telugu, Malayalam or a mix). The reviewer recommends the phones listed under PHONES.\n\nFor each of those phones, find every place where the reviewer gives an opinion on one of these areas:\ncamera, battery, performance (including gaming), display, charging, design, software.\n- verdict \"good\": they praise it for that area or recommend it for people who care about that area.\n- verdict \"weak\": they say it falls short in that area.\n- Skip bare specs with no opinion (\"it has a 5000mAh battery\").\n- `phone` must be copied exactly from the PHONES list.\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text: same script, spelling, punctuation and capitals. Never translate.\n- The quote itself must contain the word for the area (e.g. \"camera\", \"कैमरा\", \"battery\", \"बैटरी\").\n- Use the shortest exact span that shows the opinion, at most 200 characters.\n- A transcript quote comes from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote.\nIf there is nothing, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: Top 5 Best Smartphones Under ₹30000 ⚡ Ft. Best Flipkart BBD Deals\nCHANNEL: Trakin Tech\n\nDESCRIPTION:\nFriends, Welcome To Another Helpful Video- Here are our top picks for the best smartphones for a budget of around 30,000 rupees- If you are in the market to buy a smartphone with a price range of Rs. 30,000 you must watch this video. Do let us know if you agree with our list and if you do, make sure you like and subscribe to our channel because we keep bringing you such awesome quality videos on a regular basis. \n\n#Collab #BestUnder30000 #BestSmartphones  #MotorolaIndia #ItsTheTimeToMoto #BigBillionMotoDeals #BiggestDealsEver #BestUnder30K #TrakinTech\n\n*Please check all offers for the best deal as the prices & offers keep changing. \n\nEdge 70 Fusion - https://www.flipkart.com/motorola-edg...\n\nOfficial TrakinTech Telegram Channel - https://t.me/officialtrakintech\nFor enquires or product promotions get in touch with us on Youtube@trak.in\n\nआपको अगर कोई सवाल है तोह जरूर कमैंट्स में हमें बताईये - अगर वीडियो अच्छा लगा तोह लिखे और सब्सक्राइब जरूर कीजियेगा \n***************************************************************\n\nVideo Highlights\n***************************************************************\n00:00 Introduction\n00:34 1st Best Smartphone Under ₹30,000\n01:33 2nd Best Smartphone Under ₹30,000\n02:02 3rd Best Smartphone Under ₹30,000\n02:19 4th Best Smartphone Under ₹30,000\n02:46 5th Best Smartphone Under ₹30,000\n\nSocial Media Handles\n*****************************************************************\nFollow us on:\nWeb: http://trak.in\nTelegram : https://t.me/officialtrakintech\nInstagram:   / trakintech  \nTwitter:   / trakintech  \nTwitter personal:   / 8ap  \nFacebook:   / trakintech  \nEnglish Trakin Tech Youtube Channel -    / trakintechenglish  \n******************************************************************\n\nTRANSCRIPT (one segment per line, [index] m:ss text):\n[0] 0:00 Friends, this video is going to be very important for a lot of people. We did the Under Rs 30K video 15 days ago & we got a very good response.\n[1] 0:07 But, since the BBT sale has been announced, the prices are going up & down. And that's why a lot of people have asked which phone should I buy if I want to buy an Under Rs 30K phone.\n[2] 0:17 And for that, I'm making this video. So this is going to save you a lot of money & you'll also get to know which phone you should buy for what.\n[3] 0:25 But before that, you know what to do, SUBSCRIBE & hit the BELL ICON! Now, there's a phone whose price hasn't gone up or down. And according to me, this phone is an all-rounder.\n[4] 0:35 That is Moto Edge 70 Fusion. In fact, if I talk about the entire Edge 70 series, I'm impressed that they haven't increased the prices much.\n[5] 0:42 They're trying to keep the price stable & Edge 70 Fusion is really good. I'd say it's an all-rounder in my list. Because it has a great display with a 1.5'' quad curved AMOLED display with 144Hz.\n[6] 0:53 It has Gorilla Glass 7 Eye protection. Do you know why I'm saying it's an all-rounder? In this price range, there are a lot of compromises in the camera. Again, not here. It has a 50MP Sony LeTia 710 OIS, 13MP Ultrawide & Macro.\n[7] 1:04 And it also has a 32MP selfie sensor which can shoot 4K videos. So you can shoot 4K videos on both the front & back.\n[8] 1:11 It has a big 7000mAh battery, 68W charging, IP68 & 69 certification. For performance, it has a 7S Gen4.\n[9] 1:18 I'd say it's decent. I won't say it's out & out, you can do casual gaming. It has a curved screen, it's subjective & a lot of people like it.\n[10] 1:27 And you get the 828 variant in Rs 29,999. So you can definitely go for it. And if you want performance & gaming is the most important, then I'd say it's the Oppo K13 Turbo Pro.\n[11] 1:39 Because it has the 8S Gen4 chipset, a 7000mAh battery with 80W charging. In negatives, it has a 50MP main camera & a 2MP secondary camera which doesn't make sense.\n[12] 1:50 It doesn't have an ultrawide telephoto sensor. And it has a 16MP selfie sensor which shoots 1080p. It has pre-installed apps but you can uninstall them.\n[13] 1:58 And you get 256GB storage in Rs 29,999. If battery is important for you, then I'd say the Realme P4 Power.\n[14] 2:05 It has a 10000mAh battery & it's one of the biggest on a smartphone in this price range. It has a good display & I'd say it's Dimensity 7400 Ultra.\n[15] 2:13 There's only 1 thing, the Realme UI has a lot of pre-installed apps & bloatware. So that's what the negatives are.\n[16] 2:20 If you're looking for long term software updates, then it's Samsung. You can look at Samsung Galaxy F70 Pro.\n[17] 2:28 You get 6 years of major Android updates & 6 years of security updates. Everything else is fine, it has a good display & a 6th Gen 3 processor. In terms of performance, it's not all that great.\n[18] 2:36 In terms of camera, it's a 50MP main camera with a 5MP ultrawide. And the worst thing is that it's a 6GB RAM variant with 6GB RAM.\n[19] 2:44 So that, I'm not too sure.\n[20] 2:46 If you're a techie or a nerd & you're looking for a unique design, then you get the Nothing Phone 4 at a good price. You get a transparent design at the back & a glyph bar.\n[21] 2:54 So there's definitely a uniqueness. You get a 50-8MP camera & the Nothing OS has a clean UI. So if you're a nerd, then you can definitely look at it.\n[22] 3:03 It's a 6th Gen 4 processor & in terms of performance, it's alright. So that's what it is. These are the phones that you can buy under Rs 30K & for different use cases.\n[23] 3:13 Like I said, it's an all rounder & a balanced phone. Like I said, it's an all rounder & a balanced phone. For gaming & performance, I'd say it's the K13 Turbo Pro. For battery, it's the Realme P4 Power.\n[24] 3:22 For OS updates, it's the Samsung Galaxy F70 Pro. And for design & uniqueness, it's the Nothing Phone 4 P.\n[25] 3:28 If you had to make this list, or if you had to buy a phone under Rs 30K, which one would you buy? Do let us know in the COMMENTS!\n[26] 3:36 That's all for this video, until the next one, Keep Trakin & Stay Safe!\n\nPHONES:\n- Motorola Edge 70 Fusion\n- OPPO K13 Turbo Pro\n- Realme P4 Power\n- Samsung Galaxy F70 Pro\n- Nothing Phone 4"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "UseAnswer",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "area": {
+          "enum": [
+           "camera",
+           "battery",
+           "performance",
+           "display",
+           "charging",
+           "design",
+           "software"
+          ],
+          "type": "string"
+         },
+         "verdict": {
+          "enum": [
+           "good",
+           "weak"
+          ],
+          "type": "string"
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "area",
+         "verdict",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [
+   {
+    "phone": "Motorola Edge 70 Fusion",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 5,
+    "quote": "Because it has a great display with a 1.5'' quad curved AMOLED display with 144Hz.",
+    "meaning_en": "The phone features a great display."
+   },
+   {
+    "phone": "Motorola Edge 70 Fusion",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 6,
+    "quote": "In this price range, there are a lot of compromises in the camera. Again, not here.",
+    "meaning_en": "Unlike other phones in this price bracket, it does not compromise on the camera."
+   },
+   {
+    "phone": "OPPO K13 Turbo Pro",
+    "area": "performance",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 10,
+    "quote": "And if you want performance & gaming is the most important, then I'd say it's the Oppo K13 Turbo Pro.",
+    "meaning_en": "It is recommended if performance and gaming are your top priorities."
+   },
+   {
+    "phone": "OPPO K13 Turbo Pro",
+    "area": "camera",
+    "verdict": "weak",
+    "source": "transcript",
+    "segment": 11,
+    "quote": "In negatives, it has a 50MP main camera & a 2MP secondary camera which doesn't make sense.",
+    "meaning_en": "The camera setup is considered a negative point."
+   },
+   {
+    "phone": "Realme P4 Power",
+    "area": "battery",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 13,
+    "quote": "If battery is important for you, then I'd say the Realme P4 Power.",
+    "meaning_en": "Recommended if you prioritize battery life."
+   },
+   {
+    "phone": "Realme P4 Power",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 14,
+    "quote": "It has a good display & I'd say it's Dimensity 7400 Ultra.",
+    "meaning_en": "The phone has a good display."
+   },
+   {
+    "phone": "Samsung Galaxy F70 Pro",
+    "area": "software",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 16,
+    "quote": "If you're looking for long term software updates, then it's Samsung. You can look at Samsung Galaxy F70 Pro.",
+    "meaning_en": "Recommended if you want long-term software update support."
+   },
+   {
+    "phone": "Samsung Galaxy F70 Pro",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 17,
+    "quote": "Everything else is fine, it has a good display & a 6th Gen 3 processor.",
+    "meaning_en": "The phone comes with a good display."
+   },
+   {
+    "phone": "Samsung Galaxy F70 Pro",
+    "area": "performance",
+    "verdict": "weak",
+    "source": "transcript",
+    "segment": 17,
+    "quote": "In terms of performance, it's not all that great.",
+    "meaning_en": "Its performance is not very good."
+   },
+   {
+    "phone": "Nothing Phone 4",
+    "area": "design",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 20,
+    "quote": "If you're a techie or a nerd & you're looking for a unique design, then you get the Nothing Phone 4 at a good price.",
+    "meaning_en": "Recommended if you are looking for a unique design."
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 2353,
+  "completion_tokens": 3776,
+  "total_tokens": 6129,
+  "cost": 0.01592475,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.01592475,
+   "upstream_inference_prompt_cost": 0.00176475,
+   "upstream_inference_completions_cost": 0.01416
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 2770,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791488450-kFdcOcmHSwdodGw3F0WA"
+ }
+}

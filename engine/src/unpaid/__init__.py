@@ -99,6 +99,8 @@ def main() -> None:
     q.add_argument("question")
     q.add_argument("--replay", action="store_true", help="answer only from recorded runs (no keys, no spend)")
     q.add_argument("--record-showcase", action="store_true", help="save new LLM answers into the showcase evidence")
+    us = sub.add_parser("uses", help="find what each recommended phone is good at (LLM finds, code proves)")
+    us.add_argument("--replay", action="store_true", help="use saved LLM answers only")
     sub.add_parser("site", help="export the landing page's real examples (web/content/landing.json)")
     sv = sub.add_parser("serve", help="run the API on localhost")
     sv.add_argument("--port", type=int, default=8000)
@@ -120,10 +122,38 @@ def main() -> None:
         _ask(args)
     elif args.cmd == "site":
         _site()
+    elif args.cmd == "uses":
+        _uses(args)
     elif args.cmd == "serve":
         import uvicorn
 
         uvicorn.run("unpaid.api:app", host="127.0.0.1", port=args.port, reload=args.reload)
+
+
+def _uses(args: argparse.Namespace) -> None:
+    from unpaid.board import USES_FILE
+    from unpaid.collect import Collection
+    from unpaid.config import SHOWCASE_DIR
+    from unpaid.label import Labelled, showcase_paths
+    from unpaid.llm import LLM
+    from unpaid.uses import find_uses
+
+    run = Collection.model_validate_json((SHOWCASE_DIR / "collection.json").read_text(encoding="utf-8"))
+    labelled = Labelled.model_validate_json(showcase_paths(SHOWCASE_DIR)[2].read_text(encoding="utf-8"))
+    llm_dir = showcase_paths(SHOWCASE_DIR)[0]
+    llm = LLM.from_env(write_dir=llm_dir, read_dirs=(llm_dir,), mode="replay" if args.replay else None)
+    found = find_uses(run, labelled.videos, llm)
+    names = {v.video_id: v.channel for v in labelled.videos}
+    for vu in found.videos:
+        print(f"{names[vu.video_id][:22]:<22} kept {len(vu.uses):>2}  dropped {len(vu.dropped):>2}")
+        for u in vu.uses:
+            print(f"    {u.verdict:<4} {u.area:<11} {u.phone[:26]:<26} [{u.time_text or 'desc'}] {u.quote[:70]!r}")
+        for d in vu.dropped:
+            print(f"    x {d.kind}: {d.reason}: {d.quote[:60]!r}")
+    print(f"\n{found.model}: {found.llm_calls} calls, ${found.llm_cost_usd:.4f}")
+    out = SHOWCASE_DIR / USES_FILE
+    out.write_text(found.model_dump_json(indent=1), encoding="utf-8")
+    print(f"wrote {out}")
 
 
 def _site() -> None:

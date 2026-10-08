@@ -14,8 +14,7 @@ from typing import Any
 
 from pydantic import BaseModel
 
-from unpaid.aggregate import tally
-from unpaid.board import Showcase, assemble, top_phones
+from unpaid.board import Showcase, assemble, ranked, top_phones
 from unpaid.collect import Plan, Query, collect
 from unpaid.config import CACHE_DIR, EVIDENCE_DIR, SHOWCASE_DIR, Settings, load_settings
 from unpaid.label import label_all
@@ -23,6 +22,7 @@ from unpaid.links import LinkBook
 from unpaid.llm import LLM
 from unpaid.prices import prices
 from unpaid.serpapi import Cache, Client
+from unpaid.uses import find_uses
 
 Event = dict[str, Any]
 OnEvent = Callable[[Event], None]
@@ -70,8 +70,14 @@ def plan_from(question: str, intent: Intent, s: Settings) -> Plan:
         queries.append(Query(text=f"{base} {event}", hl="en"))
     if "hi" in s.languages:
         queries.append(Query(text=f"{base} hindi", hl="hi"))
+    must = [w for w in (" ".join(_clean(m).split()[:3]) for m in intent.must_haves) if w][:5]
     return Plan(
-        question=question, queries=queries, title_pattern=pattern, window_days=s.window_days, max_videos=s.max_videos
+        question=question,
+        queries=queries,
+        title_pattern=pattern,
+        window_days=s.window_days,
+        max_videos=s.max_videos,
+        must_haves=must,
     )
 
 
@@ -119,13 +125,15 @@ def ask(question: str, ws: Workspace, on_event: OnEvent | None = None) -> Showca
     run = collect(ws.client, plan, s.gl, on_event=emit)
     emit({"type": "tool", "tool": "links", "step": "follow description links", "status": "start"})
     labelled = label_all(run, ws.llm, ws.links, on_event=emit)
-    phones = top_phones(tally(labelled.videos))
+    uses = find_uses(run, labelled.videos, ws.llm, on_event=emit)
+    board, areas, _ = ranked(run, labelled, uses)
+    phones = top_phones(board, areas)
     for p in phones:
         emit({"type": "tool", "tool": "google_shopping", "q": p, "status": "start"})
     found = prices(ws.client, phones)
     for pp in found:
         emit({"type": "tool", "tool": "google_shopping", "q": pp.phone, "status": "done", "offers": len(pp.offers)})
-    show = assemble(question, run, labelled, found)
+    show = assemble(question, run, labelled, uses, found)
     emit(
         {
             "type": "cost",

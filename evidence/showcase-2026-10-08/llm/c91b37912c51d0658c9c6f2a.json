@@ -1,0 +1,361 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube phone review: its description and what was said in the video (English, Hindi,\nHinglish, Telugu, Malayalam or a mix). The reviewer recommends the phones listed under PHONES.\n\nFor each of those phones, find every place where the reviewer gives an opinion on one of these areas:\ncamera, battery, performance (including gaming), display, charging, design, software.\n- verdict \"good\": they praise it for that area or recommend it for people who care about that area.\n- verdict \"weak\": they say it falls short in that area.\n- Skip bare specs with no opinion (\"it has a 5000mAh battery\").\n- `phone` must be copied exactly from the PHONES list.\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text: same script, spelling, punctuation and capitals. Never translate.\n- The quote itself must contain the word for the area (e.g. \"camera\", \"कैमरा\", \"battery\", \"बैटरी\").\n- Use the shortest exact span that shows the opinion, at most 200 characters.\n- A transcript quote comes from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote.\nIf there is nothing, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: The Best Smartphone Under 30,000! (September 2026)\nCHANNEL: TechWiser\n\nDESCRIPTION:\nA phone that launched at ₹31,999 is now selling for 45K. A ₹13,000 hike in 6 months! 😱 Here are 5 under-30K smartphones that are still proper paisa wasool.\n\n It's LIVE 👉https://ai.techwiser.com/ \n🤖 Meet WiserAI — 1.5 years of our life, finally out in the open.'\n\nWe got tired of searching for a phone and getting sponsored junk we never asked for. So we built the thing we always wished existed. Real prices. Honest pros and cons. Trained on our own database and every review we've made.\n\nChapters:\n00:00 – Introduction & Smartphone Price Hikes\n00:54 – TechWiser Launch\n02:21 – Realme P4 (Best All-Rounder Under ₹25k)\n04:23 – Bonus Option: Realme GT 70\n05:03 – Samsung Galaxy M56 5G\n06:54 – OPPO K13 Turbo (Best Gaming Option)\n08:26 – Motorola Edge 60 Pro (Best Value & Cameras)\n10:18 – Conclusion & Final Verdict\n\n🚀 We Are Hiring! APPLY HERE: https://techwiser.com/we-are-hiring\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE For More Videos Like This! 🌟\n\n------------------------------------------------------------------------------\n \n🌟  Follow Us Other Social Media Platforms 🌟 \n\n🐦 Twitter:   / techwiser  \n👩‍👧‍👦 Facebook:   / techwiser  \n📷 Instagram:   / techwiser  \n🌍 Website: http://techwiser.com\n------------------------------------------------------------------------------\n \n🌟 Team TechWiser 🌟 \n\n🙋🏻‍♂️ Video Producer:   / praaatiiik  \n📹 Channel Manager:   / mr_dinesh_ji  \n👨🏻‍💻 Script:   / shoubhik_sadhu   \n👨🏻‍💻 Video Editor:   / y_singhal  \n👨🏻‍💻 Video Editor:   / development_enthusiast  \n👨🏻‍💻 Video Editor:   / sathvikpanchumarthy  \n👨🏻‍💻 Video Editor:   / yuv.3gp  \n\n#Tech #Smartphones #TeamTechWiser\n\nTRANSCRIPT (one segment per line, [index] m:ss text):\n[0] 0:00 Hey 2026, please be a little tiny teeny bit kind. We all know what's going on with smartphone prices. It's like really\n[1] 0:08 hard to believe that this nothing phone 4A this launched for 31 9 and it is currently selling for 45,000. A 13,000\n[2] 0:17 price hike in just 6 months. Let that sink in. And like this there are other smartphones just going price hike after price hike. And the entire market is\n[3] 0:26 suffering from this. However, so in the middle of all of this, we have managed to track some really good smartphone deal that gives insane opa in this\n[4] 0:34 economy, but really good value for the price. All of them under 30,000 rupees for our #teamteiser. In fact, some of them are even lower. Just a small tip.\n[5] 0:43 If you want an under 30,000 smartphone, get it right now because this hike thing just keeps on going and there's no clarity that these phones might even not\n[6] 0:50 be in stock. Pratik, deal wiser, letting go. Now before we get to the first smartphone which is a really good allrounder phone that you should buy.\n[7] 0:58 This video is made possible because of wiser AI and Wiser AI is something that we've been working on for the past 1 one and a half years. And in that process we\n[8] 1:07 asked ourselves what if we could build something that can recommend smartphones just like us. And this is a big problem.\n[9] 1:13 See if you go to Amazon and you just type 5G smartphone under 10,000. See first phone is not even a 5G phone. It's a 4G phone. Then you have sponsored links.\n[10] 1:21 [music]\n[11] 1:21 Then again, wrong price. Again, recommendation, recommendation, not a 5G phone. And if I do the same search on Gemini, again, it recommends a 4G phone.\n[12] 1:31 And these are not even the best options as well. Now, if you run the same query with Wiser AI, see, we get much better options. You just tap on this and it\n[13] 1:39 will also show you the pros and cons of the smartphone. It also shows me the realtime price on Flipkart as well as Amazon. And if you want, you can just ask follow-up questions like increase\n[14] 1:48 the budget to 15,000 rupees and get me a 6,000 mAh battery. See, really good recommendation. So, Wiser AI is trained on our YouTube videos and our own\n[15] 1:56 database. So, it gives better recommendation than obviously Amazon as well as Gemini. Now, last time thousands of you gave us lot of feedback and we\n[16] 2:05 took all the popular features, popular feedback and integrated all of this into Wiser AAI and finally it's live. You can just go to a techweiser.com use wiserai.\n[17] 2:14 As of now, when you log in, you only get 10 searches per day and we are logged in on Visorai for a long time. We are here to make it better. Back to the video\n[18] 2:21 now. To keep it very simple, we'll tell you the pros and cons of all the phones so you can make a better decision with that. The first phone in the list is the\n[19] 2:28 popular Realme P4. Currently, it is selling for around 24,000. Now, the number one pro here has to be the display and speakers. The P4 comes with\n[20] 2:36 a flat AMOLED display. So, outdoors while booking rides or doing any map navigation, the display gets really bright. Now, what's interesting here is the P4 is one of the rare phones to have\n[21] 2:45 HDR support on Netflix at this price range. So, the content not only looks bright, but the colors also look pretty good if you're using OTT or anything else. Along with the display, the\n[22] 2:53 speakers here are really good. It gets dual stereo speakers. Now, the second reason to recommend the Realme P4 is performance. The P4 comes with Diamond\n[23] 3:00 City 7400 Ultra 5G chipset along with UFS 3.1 storage. So, in daily use for multitasking or switching between multiple apps, the phone feels smooth.\n[24] 3:08 like it's not mindblowingly fast, but it really does the job. And in case you're interested in casual gaming, BJMI runs at 90 FPS on the phone, so you can do\n[25] 3:16 little bit of casual gaming without any issues. Now, the third pro here has to be the battery. It has a 7,000 mAh battery and it easily lasts one full day\n[26] 3:24 with even heavy usage. What's good here is along with a bigger battery, you also get faster charging. You get 80 watt fast charging and the charger comes inside the box. Now, the fourth pro here\n[27] 3:33 are the cameras. It comes with a dual camera setup. So, daylight photos, it comes out well. I'll tell you the reason why. And in terms of selfies, there's a\n[28] 3:40 16 megap selfie camera and the selfies come out okay. Now, in terms of videos, you can shoot 4K 30 fps from the rear camera and 1080p 30 fps from the front\n[29] 3:48 camera. Now, while all of this is good, there are some cons that you should be aware of. Number one, no OIS. The P4 gets a dual camera setup. The main camera is good, but it doesn't have OIS.\n[30] 3:58 So, videos or low light photos come out shaky. [music] And number two, the P4 has 3 plus 4 years of software updates, out of which it has already received one\n[31] 4:06 update. So you will only get 2 plus 3 years of software updates more. Along with this, the P4 doesn't have NFC. So if you're someone who depends on Tap to\n[32] 4:13 pay, of course, not happening. But I think this is a very minor con. Overall, if you're looking for an allrounder phone at around 25,000, the Realme P4 is\n[33] 4:22 a hidden gem. It's a good buy. While we were about to publish this video, I'm adding this a little bit. See, if you can stretch your budget a little bit, a\n[34] 4:30 better option than Realme P4 is Realme's own GT70. Like the price is down from 40,000 rupees to around 329.\n[35] 4:37 It is slightly higher than 30,000 but this phone is worth recommending because a [music] it has one of the best performance in this price bracket. You\n[36] 4:45 get dimensity 8400 along with UFS 4.0 storage. Easily one of the best performing phone in this price and on top of it at 120 fps runs very smoothly.\n[37] 4:54 Apart from that you get a 7,000 mAh battery. The display and the camera specs are also good. So if you can stretch your budget up until 33,000,\n[38] 5:02 it's a good recommend. Now the next one in our list is the Galaxy M56 5G. It is currently selling for around 27,000 rupees. And the number one pro in this [music] price has to be the display.\n[39] 5:12 Like it comes with a 120 Hz super amoled plus display with very thin bezels like very rare to say for a Samsung M series 4. So not just outdoors, even indoors,\n[40] 5:20 the display gets pretty bright. Plus the content looks great as well. Also, it supports HDR on Netflix. Now the second pro of the M565G has to be the design.\n[41] 5:28 It has a clean design with a raised camera island and surprisingly it also gets a glass back. Now again for an M series phone not only it looks but it also feels very premium. Along with the looks protection is also important.\n[42] 5:38 [music] Coming back to Galaxy M56 5G both the front and back has a Corning glass victus plus protection. Now the third pro of the M56 has to be the\n[43] 5:47 cameras. It comes with a dual camera setup. Let's ignore the third one. It's a 2 meap macro camera. Now the photos on the M56 [music] looks natural with good\n[44] 5:55 colors and good exposure control. Even the portraits look nice and the selfies come out sharp. Plus the M56 can record 4K videos not only from the rear but\n[45] 6:02 also from the front camera. Now the fourth pro of the M56 or any Samsung phone has to be the software. Like 1 UI is so featurerich. Plus the M56 also\n[46] 6:11 supports good lock modules. So you can [music] just go crazy with customizations. It also gets Samsung wallet support. You get NFC so you can do payments and store documents. Now,\n[47] 6:20 the only thing that you should be aware of while buying the M565G is there's no charger inside the box. Also, by 2026\n[48] 6:27 standard, the battery is less. It comes with a 5,000 mAh battery, so it will last one full day on a normal or average usage, but don't expect too much. Also,\n[49] 6:35 the second thing, the M56 comes with Exynos 1480. So, the performance for day-to-day task is fine, but if you push it into gaming or you want to play long\n[50] 6:43 sessions, the M56 will stutter. Overall see if you want the best Samsung phone under 30,000 rupees go for the M56 5G\n[51] 6:50 considering that the M47 and all of that are now price hiked. Now the next phone in our list is the Oppo K13 Turbo and it\n[52] 6:58 is one of the most underrated deal right now. It is currently selling for around 26,000. Now the number one pro of the OPPO K13 Turbo has to be the\n[53] 7:06 performance. It comes with MediaTek Dimensity 8450 processor. Very rare to find a phone of this performance at this price point. You also get UFS 3.1\n[54] 7:14 storage. Now, what's really interesting here is the K13 Turbo is the only fan, not in this price range, but entirely, to have an active cooling fan. Plus, you get a pretty big vapor cooling chamber.\n[55] 7:24 And this comes in handy during longer gaming sessions. And now that I phones are not available, it is actually one of the few phones that are targeted towards gamer. Like, it can run BGMI at 120 FPS.\n[56] 7:34 And even [music] with heavy usage, the 7,000 mAh battery lasts one full day.\n[57] 7:38 So, it's a gamer's phone. Now, the second pro here has to be the display.\n[58] 7:42 It comes with a 120 Hz AMOLED display and the colors look good on it. Plus, it gets really bright for outdoor usage as well. Now, number three, and this is a\n[59] 7:50 bit subjective, but the design of the phone is pretty unique. Like, it has that gamey neon color vibe to it, and I really like the purple color. Along with\n[60] 7:57 that, it has a 50 map main camera, which takes good pictures. Even the selfies look sharp. Now, all of this is good.\n[61] 8:03 Again, there are a few cons that you should keep in mind. Just like the Realme P4, even the K3 Turbo doesn't get OIS, so the videos come out shaky.\n[62] 8:11 Number two, and I feel this is the biggest one, there's only one major Android update left with Oppo K13 Turbo, and you will get 2 years of security\n[63] 8:19 update. Other than that, if you want a gaming phone, I think the Oppo K1 13 Turbo is a pretty solid option under 30,000. Now, the final phone in this\n[64] 8:27 list is the Motorola H60 Pro. Currently, it is selling for around 30,000. And this is one of the most value for money phone in this entire list. Like, the\n[65] 8:36 first pro has to be the cameras. It comes with a 50 megap triple camera setup. In fact, it is the only phone currently with a 3x telephoto camera\n[66] 8:44 around 30,000. So, in daylight condition, the photos come out pretty sharp and vibrant. The colors and skin tone look quite natural with a good amount of detail. And if you have a look\n[67] 8:52 at portrait shots from 3x camera, they come out so good. In videos, it supports 4K recording from all the cameras including the front camera. So, even if\n[68] 9:00 you want to shoot shots or reels, it will do that pretty easily. Along with the camera, the second pro here is the performance. The H60 Pro comes in MediaTek dimensity 8350 extreme\n[69] 9:09 processor and you get LPDDR5X RAM and UFS 4.0 storage. So in normal usage it can handle [music] things pretty smoothly. We even played heavier games\n[70] 9:17 like boothering waves on the highest setting and you get like a decent 45 fps which is not bad for 8350 processor.\n[71] 9:24 Along with performance, the display, battery, charging, everything is pretty top of the line that you get around 30,000 in 2026. Now there are a few things that you need to keep in mind.\n[72] 9:34 First of all, the H60 Pro comes with Hello UI, which is somewhat improving with the update situation, but optimization is what I feel can be much\n[73] 9:41 better in Motorola's Hello UI. Like whenever we do a video on the H60 Pro, [music] people do mention the optimization issue in comments. So overall, the optimization and the update\n[74] 9:49 situation is not really [music] good with the H60 Pro. Another issue that I feel with the H60 Pro is the vegan leather back. I used it mostly without a case, so it has all the sort of marks\n[75] 9:58 and stain left behind on this. So just to ensure that your phone remains stainfree, please use a case. It comes inside the box. Don't be like me. Other\n[76] 10:06 than that, the kind of specs and features that the H60 Pro offers, currently no phone is even close to it\n[77] 10:13 and it's been one full year. So it's a very solid phone if you have a budget of under 30,000. Now with that, our list comes to an end. Now the phones that we\n[78] 10:21 have mentioned, if you're using them for some time, I would really love if the hashtag teamwiser [music] can drop their reviews in the comment below. We'll pin it so it will help the community more\n[79] 10:29 and [music] plus you can also share your service center or repair experience if any. On that note, this is signing off.\n[80] 10:34 See you in the next video. [music]\n[81] 10:41 [music]\n\nPHONES:\n- Realme P4\n- Realme GT 70\n- Samsung Galaxy M56 5G\n- OPPO K13 Turbo\n- Motorola Edge 60 Pro"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "UseAnswer",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "area": {
+          "enum": [
+           "camera",
+           "battery",
+           "performance",
+           "display",
+           "charging",
+           "design",
+           "software"
+          ],
+          "type": "string"
+         },
+         "verdict": {
+          "enum": [
+           "good",
+           "weak"
+          ],
+          "type": "string"
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "area",
+         "verdict",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [
+   {
+    "phone": "Realme P4",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 19,
+    "quote": "Now, the number one pro here has to be the display and speakers.",
+    "meaning_en": "The display is one of the top pros of the Realme P4."
+   },
+   {
+    "phone": "Realme P4",
+    "area": "performance",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 22,
+    "quote": "Now, the second reason to recommend the Realme P4 is performance.",
+    "meaning_en": "The phone's performance is a major reason to recommend it."
+   },
+   {
+    "phone": "Realme P4",
+    "area": "battery",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 25,
+    "quote": "Now, the third pro here has to be the battery. It has a 7,000 mAh battery and it easily lasts one full day with even heavy usage.",
+    "meaning_en": "The battery easily lasts an entire day under heavy usage."
+   },
+   {
+    "phone": "Realme P4",
+    "area": "charging",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 26,
+    "quote": "What's good here is along with a bigger battery, you also get faster charging. You get 80 watt fast charging and the charger comes inside the box.",
+    "meaning_en": "The phone features fast 80W charging with the charger included."
+   },
+   {
+    "phone": "Realme P4",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 26,
+    "quote": "Now, the fourth pro here are the cameras. It comes with a dual camera setup. So, daylight photos, it comes out well.",
+    "meaning_en": "The camera setup is a pro and produces good daylight photos."
+   },
+   {
+    "phone": "Realme P4",
+    "area": "software",
+    "verdict": "weak",
+    "source": "transcript",
+    "segment": 30,
+    "quote": "And number two, the P4 has 3 plus 4 years of software updates, out of which it has already received one update. So you will only get 2 plus 3 years of software updates more.",
+    "meaning_en": "The remaining software update support is a downside since one year has already passed."
+   },
+   {
+    "phone": "Realme GT 70",
+    "area": "performance",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 35,
+    "quote": "it has one of the best performance in this price bracket.",
+    "meaning_en": "The phone delivers among the best performance for its price point."
+   },
+   {
+    "phone": "Realme GT 70",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 37,
+    "quote": "The display and the camera specs are also good.",
+    "meaning_en": "The display specifications are good."
+   },
+   {
+    "phone": "Realme GT 70",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 37,
+    "quote": "The display and the camera specs are also good.",
+    "meaning_en": "The camera specifications are good."
+   },
+   {
+    "phone": "Samsung Galaxy M56 5G",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 38,
+    "quote": "And the number one pro in this [music] price has to be the display.",
+    "meaning_en": "The display is the biggest pro at this price point."
+   },
+   {
+    "phone": "Samsung Galaxy M56 5G",
+    "area": "design",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 40,
+    "quote": "Now the second pro of the M565G has to be the design. It has a clean design with a raised camera island and surprisingly it also gets a glass back.",
+    "meaning_en": "The phone has a clean, premium design with a glass back."
+   },
+   {
+    "phone": "Samsung Galaxy M56 5G",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 42,
+    "quote": "Now the third pro of the M56 has to be the cameras.",
+    "meaning_en": "The camera system is another key pro of the phone."
+   },
+   {
+    "phone": "Samsung Galaxy M56 5G",
+    "area": "software",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 45,
+    "quote": "Now the fourth pro of the M56 or any Samsung phone has to be the software. Like 1 UI is so featurerich.",
+    "meaning_en": "The software is a major strength because One UI is very feature-packed."
+   },
+   {
+    "phone": "Samsung Galaxy M56 5G",
+    "area": "battery",
+    "verdict": "weak",
+    "source": "transcript",
+    "segment": 47,
+    "quote": "Also, by 2026 standard, the battery is less. It comes with a 5,000 mAh battery, so it will last one full day on a normal or average usage, but don't expect too much.",
+    "meaning_en": "By current standards, the battery capacity is on the lower side."
+   },
+   {
+    "phone": "Samsung Galaxy M56 5G",
+    "area": "performance",
+    "verdict": "weak",
+    "source": "transcript",
+    "segment": 49,
+    "quote": "So, the performance for day-to-day task is fine, but if you push it into gaming or you want to play long sessions, the M56 will stutter.",
+    "meaning_en": "Gaming performance is weak and the device stutters during longer sessions."
+   },
+   {
+    "phone": "OPPO K13 Turbo",
+    "area": "performance",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 52,
+    "quote": "Now the number one pro of the OPPO K13 Turbo has to be the performance.",
+    "meaning_en": "Performance is the number one advantage of the OPPO K13 Turbo."
+   },
+   {
+    "phone": "OPPO K13 Turbo",
+    "area": "battery",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 56,
+    "quote": "And even [music] with heavy usage, the 7,000 mAh battery lasts one full day.",
+    "meaning_en": "The battery provides a full day of endurance even with heavy use."
+   },
+   {
+    "phone": "OPPO K13 Turbo",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 57,
+    "quote": "Now, the second pro here has to be the display. It comes with a 120 Hz AMOLED display and the colors look good on it.",
+    "meaning_en": "The display is a strong point, offering nice colors on a 120Hz AMOLED panel."
+   },
+   {
+    "phone": "OPPO K13 Turbo",
+    "area": "design",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 58,
+    "quote": "Now, number three, and this is a bit subjective, but the design of the phone is pretty unique.",
+    "meaning_en": "The design of the phone is unique and attractive."
+   },
+   {
+    "phone": "OPPO K13 Turbo",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 60,
+    "quote": "Along with that, it has a 50 map main camera, which takes good pictures.",
+    "meaning_en": "The main camera performs well and takes good photos."
+   },
+   {
+    "phone": "Motorola Edge 60 Pro",
+    "area": "camera",
+    "verdict": "good",
+    "source": "description",
+    "segment": null,
+    "quote": "Motorola Edge 60 Pro (Best Value & Cameras)",
+    "meaning_en": "The Motorola Edge 60 Pro offers the best value and cameras in this range."
+   },
+   {
+    "phone": "Motorola Edge 60 Pro",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 64,
+    "quote": "Like, the first pro has to be the cameras.",
+    "meaning_en": "The cameras are the foremost positive feature of the phone."
+   },
+   {
+    "phone": "Motorola Edge 60 Pro",
+    "area": "performance",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 68,
+    "quote": "Along with the camera, the second pro here is the performance.",
+    "meaning_en": "Performance is another key strength of the phone."
+   },
+   {
+    "phone": "Motorola Edge 60 Pro",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 71,
+    "quote": "Along with performance, the display, battery, charging, everything is pretty top of the line that you get around 30,000 in 2026.",
+    "meaning_en": "The display is top-tier for its price category."
+   },
+   {
+    "phone": "Motorola Edge 60 Pro",
+    "area": "battery",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 71,
+    "quote": "Along with performance, the display, battery, charging, everything is pretty top of the line that you get around 30,000 in 2026.",
+    "meaning_en": "The battery is top-of-the-line for this budget class."
+   },
+   {
+    "phone": "Motorola Edge 60 Pro",
+    "area": "charging",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 71,
+    "quote": "Along with performance, the display, battery, charging, everything is pretty top of the line that you get around 30,000 in 2026.",
+    "meaning_en": "Charging capabilities are among the best available around ₹30,000."
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 4975,
+  "completion_tokens": 4323,
+  "total_tokens": 9298,
+  "cost": 0.0199425,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0199425,
+   "upstream_inference_prompt_cost": 0.00373125,
+   "upstream_inference_completions_cost": 0.01621125
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 1596,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791488450-Ure3xHFNml3s3nmLuZf4"
+ }
+}

@@ -12,7 +12,7 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import UTC, datetime
 from typing import Any
 
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 from unpaid import youtube as yt
 from unpaid.config import Settings
@@ -34,6 +34,8 @@ class Plan(BaseModel):
     title_pattern: str
     window_days: int
     max_videos: int
+    # What the shopper said matters ("camera", "battery"). Not used to search; used to rank what reviewers praise.
+    must_haves: list[str] = Field(default_factory=list)
 
 
 def showcase_plan(s: Settings) -> Plan:
@@ -48,6 +50,7 @@ def showcase_plan(s: Settings) -> Plan:
         title_pattern=r"30\s?k\b|30,?000|₹\s?30\b|30\s?(?:हज़ार|हजार)",
         window_days=s.window_days,
         max_videos=s.max_videos,
+        must_haves=["camera", "battery"],
     )
 
 

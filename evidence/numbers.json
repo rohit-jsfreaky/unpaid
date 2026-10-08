@@ -238,5 +238,335 @@
     "searched_at": "2026-10-08 18:17:21 UTC"
    }
   }
+ },
+ "areas": {
+  "camera": {
+   "focus": true,
+   "reviews": 18,
+   "best_no_disclosure": "Motorola Edge 70 Fusion",
+   "best_all": "Motorola Edge 70 Fusion",
+   "top": [
+    {
+     "name": "Motorola Edge 70 Fusion",
+     "key": "motorola edge70fusion",
+     "good": 11,
+     "good_no_disclosure": 6,
+     "good_disclosed": 5,
+     "weak": 0
+    },
+    {
+     "name": "Realme P4 Pro",
+     "key": "realme p4pro",
+     "good": 8,
+     "good_no_disclosure": 5,
+     "good_disclosed": 3,
+     "weak": 0
+    },
+    {
+     "name": "Motorola Edge 60 Pro",
+     "key": "motorola edge60pro",
+     "good": 4,
+     "good_no_disclosure": 2,
+     "good_disclosed": 2,
+     "weak": 0
+    },
+    {
+     "name": "Motorola Edge 70",
+     "key": "motorola edge70",
+     "good": 3,
+     "good_no_disclosure": 2,
+     "good_disclosed": 1,
+     "weak": 0
+    },
+    {
+     "name": "Nothing Phone 4a",
+     "key": "nothing phone4a",
+     "good": 3,
+     "good_no_disclosure": 1,
+     "good_disclosed": 2,
+     "weak": 0
+    }
+   ]
+  },
+  "battery": {
+   "focus": true,
+   "reviews": 14,
+   "best_no_disclosure": "Realme P4 Pro",
+   "best_all": "Realme P4 Pro",
+   "top": [
+    {
+     "name": "Realme P4 Pro",
+     "key": "realme p4pro",
+     "good": 7,
+     "good_no_disclosure": 5,
+     "good_disclosed": 2,
+     "weak": 0
+    },
+    {
+     "name": "Motorola Edge 70 Fusion",
+     "key": "motorola edge70fusion",
+     "good": 5,
+     "good_no_disclosure": 3,
+     "good_disclosed": 2,
+     "weak": 0
+    },
+    {
+     "name": "Realme P4 Power",
+     "key": "realme p4power",
+     "good": 4,
+     "good_no_disclosure": 2,
+     "good_disclosed": 2,
+     "weak": 0
+    },
+    {
+     "name": "POCO X8",
+     "key": "poco x8",
+     "good": 3,
+     "good_no_disclosure": 2,
+     "good_disclosed": 1,
+     "weak": 0
+    },
+    {
+     "name": "Motorola Edge 60 Pro",
+     "key": "motorola edge60pro",
+     "good": 3,
+     "good_no_disclosure": 1,
+     "good_disclosed": 2,
+     "weak": 0
+    }
+   ]
+  },
+  "performance": {
+   "focus": false,
+   "reviews": 17,
+   "best_no_disclosure": "Motorola Edge 70 Fusion",
+   "best_all": "Motorola Edge 70 Fusion",
+   "top": [
+    {
+     "name": "Motorola Edge 70 Fusion",
+     "key": "motorola edge70fusion",
+     "good": 8,
+     "good_no_disclosure": 5,
+     "good_disclosed": 3,
+     "weak": 1
+    },
+    {
+     "name": "Realme P4 Pro",
+     "key": "realme p4pro",
+     "good": 6,
+     "good_no_disclosure": 3,
+     "good_disclosed": 3,
+     "weak": 0
+    },
+    {
+     "name": "Motorola Edge 60 Pro",
+     "key": "motorola edge60pro",
+     "good": 3,
+     "good_no_disclosure": 2,
+     "good_disclosed": 1,
+     "weak": 0
+    },
+    {
+     "name": "OPPO K13 Turbo",
+     "key": "oppo k13turbo",
+     "good": 3,
+     "good_no_disclosure": 2,
+     "good_disclosed": 1,
+     "weak": 0
+    },
+    {
+     "name": "Nothing Phone 4B",
+     "key": "nothing phone4b",
+     "good": 2,
+     "good_no_disclosure": 2,
+     "good_disclosed": 0,
+     "weak": 2
+    }
+   ]
+  },
+  "display": {
+   "focus": false,
+   "reviews": 16,
+   "best_no_disclosure": "Motorola Edge 70 Fusion",
+   "best_all": "Motorola Edge 70 Fusion",
+   "top": [
+    {
+     "name": "Motorola Edge 70 Fusion",
+     "key": "motorola edge70fusion",
+     "good": 8,
+     "good_no_disclosure": 5,
+     "good_disclosed": 3,
+     "weak": 0
+    },
+    {
+     "name": "Realme P4 Pro",
+     "key": "realme p4pro",
+     "good": 7,
+     "good_no_disclosure": 4,
+     "good_disclosed": 3,
+     "weak": 0
+    },
+    {
+     "name": "POCO X8",
+     "key": "poco x8",
+     "good": 4,
+     "good_no_disclosure": 3,
+     "good_disclosed": 1,
+     "weak": 0
+    },
+    {
+     "name": "Nothing Phone 4B",
+     "key": "nothing phone4b",
+     "good": 3,
+     "good_no_disclosure": 3,
+     "good_disclosed": 0,
+     "weak": 0
+    },
+    {
+     "name": "Samsung Galaxy A36 5G",
+     "key": "samsung a36",
+     "good": 3,
+     "good_no_disclosure": 3,
+     "good_disclosed": 0,
+     "weak": 0
+    }
+   ]
+  },
+  "software": {
+   "focus": false,
+   "reviews": 12,
+   "best_no_disclosure": "Vivo T5x",
+   "best_all": "Vivo T5x",
+   "top": [
+    {
+     "name": "Vivo T5x",
+     "key": "vivo t5x",
+     "good": 2,
+     "good_no_disclosure": 2,
+     "good_disclosed": 0,
+     "weak": 0
+    },
+    {
+     "name": "Nothing Phone 4a",
+     "key": "nothing phone4a",
+     "good": 2,
+     "good_no_disclosure": 1,
+     "good_disclosed": 1,
+     "weak": 0
+    },
+    {
+     "name": "Infinix Note H",
+     "key": "infinix noteh",
+     "good": 1,
+     "good_no_disclosure": 1,
+     "good_disclosed": 0,
+     "weak": 0
+    },
+    {
+     "name": "Motorola Edge 70 Fusion",
+     "key": "motorola edge70fusion",
+     "good": 1,
+     "good_no_disclosure": 1,
+     "good_disclosed": 0,
+     "weak": 0
+    },
+    {
+     "name": "Nothing Phone 4B",
+     "key": "nothing phone4b",
+     "good": 1,
+     "good_no_disclosure": 1,
+     "good_disclosed": 0,
+     "weak": 0
+    }
+   ]
+  },
+  "design": {
+   "focus": false,
+   "reviews": 9,
+   "best_no_disclosure": "Nothing Phone 4B",
+   "best_all": "Nothing Phone 4B",
+   "top": [
+    {
+     "name": "Nothing Phone 4B",
+     "key": "nothing phone4b",
+     "good": 1,
+     "good_no_disclosure": 1,
+     "good_disclosed": 0,
+     "weak": 0
+    },
+    {
+     "name": "Nothing Phone 4a",
+     "key": "nothing phone4a",
+     "good": 1,
+     "good_no_disclosure": 1,
+     "good_disclosed": 0,
+     "weak": 0
+    },
+    {
+     "name": "OPPO K13 Turbo",
+     "key": "oppo k13turbo",
+     "good": 1,
+     "good_no_disclosure": 1,
+     "good_disclosed": 0,
+     "weak": 0
+    },
+    {
+     "name": "Samsung Galaxy A36 5G",
+     "key": "samsung a36",
+     "good": 1,
+     "good_no_disclosure": 1,
+     "good_disclosed": 0,
+     "weak": 0
+    },
+    {
+     "name": "Samsung Galaxy M47",
+     "key": "samsung m47",
+     "good": 1,
+     "good_no_disclosure": 1,
+     "good_disclosed": 0,
+     "weak": 0
+    }
+   ]
+  },
+  "charging": {
+   "focus": false,
+   "reviews": 3,
+   "best_no_disclosure": "Motorola Edge 60 Pro",
+   "best_all": "Motorola Edge 60 Pro",
+   "top": [
+    {
+     "name": "Motorola Edge 60 Pro",
+     "key": "motorola edge60pro",
+     "good": 1,
+     "good_no_disclosure": 1,
+     "good_disclosed": 0,
+     "weak": 0
+    },
+    {
+     "name": "Realme GT 7T",
+     "key": "realme gt7t",
+     "good": 1,
+     "good_no_disclosure": 1,
+     "good_disclosed": 0,
+     "weak": 0
+    },
+    {
+     "name": "Realme P4",
+     "key": "realme p4",
+     "good": 1,
+     "good_no_disclosure": 1,
+     "good_disclosed": 0,
+     "weak": 0
+    },
+    {
+     "name": "Samsung Galaxy F70 Pro",
+     "key": "samsung f70pro",
+     "good": 0,
+     "good_no_disclosure": 0,
+     "good_disclosed": 0,
+     "weak": 1
+    }
+   ]
+  }
  }
 }

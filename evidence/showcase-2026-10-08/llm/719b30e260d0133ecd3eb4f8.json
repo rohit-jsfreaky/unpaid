@@ -1,0 +1,262 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube phone review: its description and what was said in the video (English, Hindi,\nHinglish, Telugu, Malayalam or a mix). The reviewer recommends the phones listed under PHONES.\n\nFor each of those phones, find every place where the reviewer gives an opinion on one of these areas:\ncamera, battery, performance (including gaming), display, charging, design, software.\n- verdict \"good\": they praise it for that area or recommend it for people who care about that area.\n- verdict \"weak\": they say it falls short in that area.\n- Skip bare specs with no opinion (\"it has a 5000mAh battery\").\n- `phone` must be copied exactly from the PHONES list.\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text: same script, spelling, punctuation and capitals. Never translate.\n- The quote itself must contain the word for the area (e.g. \"camera\", \"कैमरा\", \"battery\", \"बैटरी\").\n- Use the shortest exact span that shows the opinion, at most 200 characters.\n- A transcript quote comes from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote.\nIf there is nothing, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: Best Phones For Everyone Under 30K - Flipkart BBD & Amazon Sale ! 🔥\nCHANNEL: VJ MEHTA\n\nDESCRIPTION:\nIn this video, we are checking the best phones under ₹30,000 in India 2026 that you should consider buying during the Flipkart Big Billion Days and Amazon Great Indian Festival Sale 2026. If you're looking for the best smartphone under ₹30K, this is the right time to check the latest sale prices and deals before they change or disappear.\n\nWe cover the best phones under ₹30,000, best smartphones under ₹30K, best 5G phones under ₹30K, best camera phones under ₹30K, best gaming phones under ₹30K, best performance phones under ₹30K and best all-rounder phones under ₹30K.\n\nWatch till the end to find out the *best phone under ₹30,000 in the Flipkart BBD & Amazon Sale 2026* and which phone you should buy right now!\n\n#BestPhoneUnder30000 #BestPhoneUnder30K #FlipkartBBD #AmazonSale #BestSmartphone2026 #SmartphoneDeals\n\nFor Collab - techymehta@gmail.com\n\nOur WhatsApp Channel- https://whatsapp.com/channel/0029Va5M... \nOur OT Channel -    / @techymehtaot  \n►Buy From Here to Support - https://amzn.to/3O1K7X8\n\nAbout This Video\n\nIntro 00:00\nBest Camera Phone Under ₹30K 00:27\nBest Value Phone Under ₹30K 01:51\nBest Value Phone Under ₹25K 03:00\nBest Samsung Phone Under ₹30K 04:13\nBest Display Phone Under ₹23K 05:28\nBest Value Phone Under ₹23K 06:50\n\n►Socially Active Here - \nTelegram Deals Group- https://t.me/dealscloud\nTelegram Chat/Cloud Group - https://t.me/techymehta\nInstagram-   / techymehta  \nTwitter -   / techymehta  \nFacebook-    / techymehta  \n\n►Music -  All Credit Goes To the Original Owner of the Audio.\n\nTRANSCRIPT (one segment per line, [index] m:ss text):\n[0] 0:00 देखो गाइस यहां पर सेल आ चुकी है। ये देखो ना गाइस सुना-सुना नहीं लग रहा है। देखो ना गाइस देखो ना गाइस यहां सेल आ चुकी है।\n[1] 0:08 देखो ना गाइस सेल में कोई ऑफर भी नहीं है।\n[2] 0:10 लेकिन कुछ फोनों में अच्छे डिस्काउंट मिल रहे हैं और कुछ फोन ज्यादा वैल्यू फॉर मनी है। उन फोन के बारे में बात करेंगे। अंडर 30,000 20 से 3,000 का बजट है। इस वीडियो\n[3] 0:18 में सारे डाउट्स क्लियर होंगे। तो वीडियो को आखिर तक देखना और लोगों तक शेयर भी करो। हाइप करो क्योंकि सही फोन लेगा इंडिया तभी तो आगे बढ़ेगा इंडिया। ओए\n[4] 0:27 जिसमें से पहला फ़ोन वो आ जाता है जिसको ओवरऑल एक प्रीमियमनेस चाहिए। कैमरास भी अच्छे मिल जाए एंड ओवरऑल एक अच्छा फ़ोन हो।\n[5] 0:34 तो यहां पर आ जाता है Motorola का नाम Motorola H70। अगर H70 नहीं मिलता तो H70 फ्यूज़ आप ले सकते हो। दोनों अंडर 30,000 में आपको देखने को मिलेगा बेस वेरिएंट।\n[6] 0:43 देखो, पहली चीज़ है Motorola H70 अगर लेने की कोशिश करना, अगर वह मिल जाएगा, तो वह थोड़ा बेटर ऑप्शन है क्योंकि 50 मेगापिक्सल का मेन सेंसर मिलता है। अल्ट्रा वाइड भी 50 मेगापिक्सल का है।\n[7] 0:51 फ्रंट में भी 50 मेगापिक्सल का है। तो फोटोज अच्छी आ जाती है। इनफैक्ट वीडियो भी आप 4K में रिकॉर्ड कर सकते हो उसमें तीनों सेंसर से। बाकी प्रोसेसर आपको अच्छा मिलता\n[8] 0:59 है। 704 का LPDDR 5x RAMS 3.1 की स्टोरेज है। तो मल्टीटास्किंग वगैरह अच्छे से हो जाएगी। गेमिंग भी आप इसमें कर सकते हो।\n[9] 1:05 5000 एमh की बड़ी बैटरी है। 68 W की चार्जिंग चार्जर इन द बॉक्स आपको देखने को मिलेगा। एंड फोन फ्यूचर प्रूफ भी है, कनेक्टिविटी की सारी चीजें हैं। बस कॉल\n[10] 1:13 रिकॉर्डिंग चुपके से नहीं होगी। बाकी एनfc का सपोर्ट है। एंड क्लोज टू स्टॉक Android वाला एक्सपीरियंस भी आपको मिल जाएगा और Android 19 तक के अपडेट प्लस 2030 तक के सिक्योरिटी पैचेस को मिलने वाले हैं।\n[11] 1:23 ओवरऑल सॉफ्टवेयर का एक्सपीरियंस भी अब यहां पर बेटर हो रहा है। हेलो UI Android 17 पे बेस्ड भी आने वाली है। क्या फीचर्स हैं वो इस वीडियो पे जाके आप देख सकते हो।\n[12] 1:31 बाकी फोन जो है प्रीमियम बिल्ड के साथ आता है। वीगन लेदर मिलता है। लाइट वेट भी है।\n[13] 1:34 साथ में आपको तगड़ी आईपी रेटिंग भी देखने को मिल जाती है। ड्यूल स्टीरियो स्पीकर्स मिलते हैं। अच्छे हैप्टिक्स भी मिल जाते हैं। कंटेंट आप अच्छे से देख सकते हो क्योंकि 1.5 के रेजोल्यूशन वाली एमोलेड\n[14] 1:42 डिस्प्ले मिलती है एंड इन डिस्प्ले फिंगरप्रिंट स्कैनर भी मिलता है। तो ये सारी चीजें ना Motorola की प्राइसिंग नहीं बढ़ी है। मैं तो कह रहा हूं इस साल। बाकी\n[15] 1:50 ब्रांड्स की जितनी बढ़ चुकी है। अब जिन लोग को Motorola ब्रांड से थोड़ी दिक्कत है कि सर्विस के इशू आते हैं, अपडेट नहीं देते देन उनके लिए यह दूसरा ऑप्शन है।\n[16] 1:58 यहां पर आपको एक ओवरऑल बैलेंस फोन मिलता है Realme की तरफ से Realme P4 Pro। ये भी ऑलमोस्ट 30 के या 30k के अंडर में आपको मिलने वाला है। तो यहां पर जो है ना आपको\n[17] 2:06 बेस्ट चीज मिलती है कि 1.5 के रेोल्यूशन वाली एमोलेड डिस्प्ले मिल जाता है। बज़ल्स ना के बराबर है तो कंटेंट देखने का एक्सपीरियंस अच्छा होगा। 144 हर्टz का\n[18] 2:13 रिफ्रेश रेट भी मिलता है और Gilla Glass 7i की डिस्प्ले प्रोटेक्शन भी मिलती है।\n[19] 2:16 सो इसमें जो बेस्ट चीज़ मिल जाती है तगड़ा प्रोसेसर मिलता है Snapdragon 7Z4 का। RAM टाइप और स्टोरेज टाइप भी आपको अच्छी मिल जाती है। आप हायर एफपीएस में गेमिंग कर\n[20] 2:25 सकते हो। बड़ी बैटरी मिल जाती है। 80 W की चार्जिंग को सपोर्ट करता है। चार्जर इन द बॉक्स मिलता है। कनेक्टिविटी में फोन फ्यूचर प्रूफ है। कॉल रिकॉर्डिंग चुपके से\n[21] 2:32 कर सकते हो। बट एनfc नहीं है। आई ब्लास्टर मिलेगा। साथ में सॉफ्टवेयर एक्सपीरियंस भी अच्छा है। Android 18 तक के अपडेट मिलने वाले हैं। 2029 तक के सिक्योरिटी पैच\n[22] 2:40 मिलेंगे। बट प्लास्टिक बिल्ड है जिसको कवर लगाके आप थोड़ा कवर कर सकते हो। अच्छा बन गया रम। बाकी IP66 की रेटिंग भी आपको देखने को मिलती है। ड्यूल स्टीरियो\n[23] 2:48 स्पीकर्स हैं। एवरेज हैप्टिक्स देखने को मिलते हैं। साथ में यहां पर कैमरा सेटअप भी डिसेंट मिल जाता है जिसमें 4K रिकॉर्डिंग आप कर सकते हो और अल्ट्रा वाइड भी है। बाकी कैमरा के सैंपल्स ये कुछ है\n[24] 2:57 और इसकी फुल वीडियो भी हमने बनाई है। उस वीडियो को जाके आप जरूर से चेक आउट कीजिए।\n[25] 3:00 अब अगर आपका बजट 30,000 तक नहीं बढ़ रहा है। थोड़ा बजट को हम नीचे लाते उस बजट में 25-26,000 में आपको एक बहुत तगड़ा ऑप्शन मिल जाता है। रिसेंटली लॉन्च्ड है। यह है\n[26] 3:09 Oppo का K-14+। इसमें ना आपको मिल जाती है 1.5 के रेजोल्यूशन वाली एमोलेड डिस्प्ले।\n[27] 3:14 144 हर्टz का रिफ्रेश रेट है। ड्यूल स्टीरियो स्पीकर्स हैं। डिस्प्ले में फिंगरप्रिंट स्कैनर है। साथ में प्रोसेसर भी डायceिटी 7360 मैक्स वाला मिल जाता है।\n[28] 3:21 रैम टाइप और स्टोरेज टाइप भी अच्छी मिलती है। UFS 3.1 यूज़ की गई है। बाकी 50 मेगापिक्सल का सेंसर बैक में मिलता है।\n[29] 3:27 फ्रंट में 16 मेगापिक्सल का शूटर मिल जाता है। डिसेंट टाइप की फोटोज आपकी आ जाएंगी और 8000 एमh की बड़ी बैटरी है 45 W की चार्जिंग के साथ। और चार्जर इन द बॉक्स ही\n[30] 3:35 आपको मिलेगा। तो अलग से चार्जर पे पैसे नहीं जाएंगे और ऐसी वीडियो पे भी पैसे नहीं लगेंगे। तो उसके लिए मेक श्योर करना सब्सक्राइब और लाइक। कृपा हम पर भी बनी\n[31] 3:43 रहेगी माता जी की। बाकी Wi-Fi 6, ब्लूटूथ 5.4, एनfc नहीं मिलेगा बट आईआर ब्लास्टर आपको देखने को मिल जाएगा और कॉल रिकॉर्डिंग आप इसमें भी चुपके से कर सकते\n[32] 3:51 हो। बाकी कलर ऑपरेटिंग सिस्टम 16.5 आपको देखने को मिल जाता है। दो मेजर अपडेट प्लस 3 साल के सिक्योरिटी पैच भी मिलने वाले हैं एंड प्लास्टिक बैक के साथ आता है और\n[33] 3:58 फ्रेम्स भी प्लास्टिक के हैं। बट IP69K की रेटिंग आपको देखने को मिल जाती है अच्छी।\n[34] 4:03 सो अगर आप मुझसे पूछोगे क्या Realme P4 की तरफ देखूं या Oppo K4+ की तरफ देखूं? तो मैं बोलूंगा OPPO K4+ की तरफ देख लो।\n[35] 4:10 रीसेंट लॉन्च्ड है और चीजें यहां पर भी आपको सारी सॉर्टेड मिलेंगी। नाउ कुछ लोग ना ब्रांड स्पेसिफिक होते हैं जिनको Samsung का ही फोन लेना है। तो यहां पर\n[36] 4:17 Samsung के एक फोन पे अच्छी डील चल रही है जो अंडर 30,000 मिलता है वो है Samsung F70 Pro। इसका 6 GB रैम 128 GB वाला\n[37] 4:25 वेरिएंट आपको 26,000 तक मिल जाएगा ऑफर्स के साथ। तो ओवरऑल ना एक डिसेंट फ़ बन जाता है क्योंकि यहां पर आपको फुल एचडी प्लस वाली सुपर एमोलेड डिस्प्ले मिल जाती है जिसमें गोरिल्ला ग्लास Vects प्लस की\n[38] 4:33 प्रोटेक्शन है। साथ में साइड माउंटेड फिंगरप्रिंट स्कैनर है। सिंगल स्पीकर आपको मिलता है। 1UI 8.5 का एक्सपीरियंस मिलेगा।\n[39] 4:39 Android 22 तक अपडेट मिलेंगे। 2032 तक सिक्योरिटी पैच मिलने वाले हैं। और Qualcomm का Snapdragon 63 आपको मिल जाता है। एंड अच्छी चीज यह है कि स्टोरेज टाइप\n[40] 4:48 UFS 3.1 साथ में LPDDR 5X RAM भी है। तो आपका डिसेंट टाइप की परफॉर्मेंस यह करवा देगा। इसके साथ-साथ फोन 5G को सपोर्ट करता है। हाइब्रिड एंड स्लॉट आपको मिल जाता है।\n[41] 4:57 एनfc का सपोर्ट भी मिलता है। बट ब्लूटूथ वर्जन 5.1 पुराना है। Wi-Fi पुराना है।\n[42] 5:02 IP64 की रेटिंग है। बट कॉल रिकॉर्डिंग जानना शोना की हो जाएगी चुपके से। इसके अलावा कैमरा सेटअप भी डिसेंट मिल जाता है।\n[43] 5:08 50 मेगापिक्सल का मेन सेंसर है। 5 मेगापिक्सल का अल्ट्रा वाइड, 2 मेगापिक्सल का मै फ्रंट में 12 मेगापिक्सल का शूटर मिल जाता है। बिल्ड क्वालिटी भी डिसेंट है। प्लास्टिक, बैक एंड प्लास्टिक फ्रेम\n[44] 5:17 आपको देखने को मिलेगा। बाकी 6000 एमh की बड़ी बैटरी मिलती है और 45 W की चार्जिंग को सपोर्ट करता है लेकिन चार्जर इन द बॉक्स नहीं मिलेगा वो अलग से लेना पड़ेगा।\n[45] 5:25 सो ये फोन उन्हीं के लिए है जिनके लिए ब्रांड वैल्यू मैटर करता है। अदरवाइज इससे बेटर ऑप्शन है। अब कुछ लोग बोल रहे होंगे भैया हमारा बजट तो 25,000 भी नहीं है।\n[46] 5:31 हमारा 20 से 22,000 है। खींच के 22 कर सकते हैं ज्यादा। उससे ज्यादा नहीं टाप सकते। तो इनके लिए एक ऑप्शन है अपने इंडियन ब्रांड की तरफ से ही है। वो है\n[47] 5:39 लावा का विराट 5G कर्व फ़। अब इसके बदले में भी दूसरा ऑप्शन बताया। लेकिन यहां पर मैं इसको क्यों रिकमेंड कर रहा हूं?\n[48] 5:45 क्योंकि आपको यहां पर डायमटी 7100 का चिप मिल जाता है। LPDDR 5 RAM है। UFS 2.2 की स्टोरेज मिलती है। बाय द वे द वे बेस वेरिएंट इसका 6 GB रैम है। 128 GB स्टोरेज\n[49] 5:54 के साथ आपको देखने को मिलेगा। एंड 6000 एमh की बैटरी भी मिलती है। 45 W की चार्जिंग भी सपोर्ट करता है और चार्जर बट यहां पर आपको 33 W का मिलेगा बॉक्स में।\n[50] 6:02 साथ में कनेक्टिविटी की सारी चीजें सही मिल जाती है। कॉल रिकॉर्डिंग चुपके से कर सकते हो। बट एनएफसी नहीं है। आईआर ब्लास्टर इसमें भी मिल जाएगा। एंड सॉफ्टवेयर एक्सपीरियंस यहां पर आपको क्लीन\n[51] 6:10 देखने को मिलेगा। Android 18 तक के अपडेट प्लस 2029 तक के सिक्योरिटी अपडेट मिलेंगे। थोड़े बहुत सॉफ्टवेयर में बग मिल सकते हैं या इतना पॉलिश आपको UI देखने को\n[52] 6:17 नहीं मिलेगा। बाकी UI के कंपैरिजन में ये बट फिर बात वही है कि बाकी ब्रांड्स ना एलसीडी डिस्प्ले दे रहे हैं। यहां पर एटलीस्ट आपको एमोलेड डिस्प्ले तो देखने को मिल रहा है। 120 हर्टz के रिफ्रेश रेट के\n[53] 6:26 साथ IP64 की रेटिंग भी मिल जाती है कि बैक में ऐसी छोटी सी स्क्रीन भी आपको देखने को मिल जाती है जिसमें कुछ ऐसे अल्फाबेट्स या आप कुछ ऐसे कार्टूनस वगैरह चला सकते हो।\n[54] 6:34 बाकी स्टीरियो स्पीकर्स मिलते हैं।\n[55] 6:36 हैप्टिक्स एवरेज मिल जाते हैं। साथ में यहां पर जो है ना कैमरास भी आपको डिसेंट मिल जाते हैं। Sony का सेंसर है। फ्रंट में 13 मेगापिक्सल का सेल्फी शूटर आपको\n[56] 6:43 देखने को मिलता है। सो बहुत सारे लोग इस फोन के साथ जा सकते हैं। एंड सभी फोनों को मैं यहां कहीं टैग कर दूंगा जो इस टाइम पे बेस्ट प्राइिंग चल रही है। वहां पर जाके\n[57] 6:51 आप चेक आउट कर सकते हो। अब कुछ लोग ना लावा को नहीं लेंगे बिकॉज़ ऑफ़ द सॉफ्टवेयर।\n[58] 6:55 या कुछ लोग ब्रांड वैल्यू की वजह से भी नहीं लेंगे। देन उनके लिए एक दूसरा ऑप्शन है Realme का P4X। यह बहुत एक अच्छा ऑप्शन है। दिखने में भी अच्छा लगता है फोन।\n[59] 7:02 हालांकि दिखने में है प्लास्टिक जैसा बाकी यहां पर जो है ना इसकी भी प्राइिंग आपको 21-22 तक देखने को मिलेगी। अगर कोशिश करना सब डिस्काउंट वगैरह लगा के 20,000 तक मिल\n[60] 7:11 जाता है तो बहुत बढ़िया डील हो जाएगी। वो जमाना कहां गया जब हम एमोलेड डिस्प्ले देते थे 10-12,000 के [संगीत] फोन में भी। अब यहां पर 20,000 में एलसीडी से दर्द है।\n[61] 7:20 हां, थोड़ा [गाना गाने की आवाज़] दर्द हुआ पर चलता है।\n[62] 7:25 और इसको रिकमेंड करने का कारण है ना कि चिप तगड़ी मिलती है। डायमceity 7400 की।\n[63] 7:29 UFS 3.1 की स्टोरेज भी मिल जाती है। तो इसमें गेमिंग भी आप ठीक-ठाक कर सकते हो।\n[64] 7:33 7000 एमh की बड़ी बैटरी है। 45 W की चार्जिंग को सपोर्ट करता है। चार्जर इन द बॉक्स है। कनेक्टिविटी में सारी चीजें हैं। कॉल रिकॉर्डिंग यहां पर आप चुपके से\n[65] 7:40 कर सकते हो। एनfc नहीं मिलेगा ना ही आईआर ब्लास्टर यहां पर देखने को मिलता है। बाकी सॉफ्टवेयर एक्सपीरियंस अच्छा मिल जाता है।\n[66] 7:45 इसको भी 2028 तक सिक्योरिटी अपडेट मिलेंगे और Android 17 तक के अपडेट मिलने वाले हैं। बाकी यहां पर IP64 की रेटिंग है।\n[67] 7:51 स्टीरियो स्पीकर्स हैं। हैप्टिक्स एवरेज है। साइड माउंटेड फिंगरप्रिंट स्कैनर है।\n[68] 7:55 फुल एचडी प्लस वाली एलसीडी डिस्प्ले मिलती है। देखो एलसीडी डिस्प्ले है लेकिन कलर्स वगैरह बिल्कुल यहां पर दिक्कत नहीं देंगे।\n[69] 8:00 अच्छे कलर्स आ जाते हैं। कंटेंट देखने में कोई दिक्कत नहीं आएगी और 144 हर्टz के रिफ्रेश रेट के साथ आती है। साथ में यहां पर कैमरा भी आपको डिसेंट देखने को मिल\n[70] 8:07 जाता है। फ़ कहीं से भी किसी भी एंगल से S26 अल्ट्रा से कम नहीं लगता है। तो फुल हवाबाजी भी हो सकती है फ़ को यूं लगा के। कहां लगाया फ़ोन?\n[71] 8:16 सो गाइज़, ये कुछ ऑप्शन थे जो इस टाइम पे मेरे हिसाब से बेस्ट चल रहे हैं। अब कुछ और भी ऑप्शन ऐड होंगे क्योंकि बहुत सारे तो अभी आउट ऑफ स्टॉक है। अगर वो ऐड होंगे\n[72] 8:24 तो मैं यहां कहीं प्रोडक्ट ट्रे में ऐड कर दूंगा। तो उसको जाके जरूर से चेक आउट करना। वहां पर आपको सारी चीजें देखने को मिलंगी। बाकी होपफुली वीडियो पसंद आई होगी। वीडियो पसंद आई तो लाइक कीजिए एंड\n[73] 8:32 हम मिलेंगे बहुत ही जल्दी ऐसी किसी न्यू इंटरेस्टिंग धावा वीडियो के साथ। जुड़े रहना ताकि ऐसी वीडियो आगे चलके भी मिलता रहे। टिल देन, जय हिंद, टेक केयर एंड स्टेट।\n\nPHONES:\n- Motorola Edge 70\n- Motorola Edge 70 Fusion\n- Realme P4 Pro\n- OPPO K4 Plus\n- Samsung Galaxy F70 Pro\n- Lava Virat 5G Curve\n- Realme P4x"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "UseAnswer",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "area": {
+          "enum": [
+           "camera",
+           "battery",
+           "performance",
+           "display",
+           "charging",
+           "design",
+           "software"
+          ],
+          "type": "string"
+         },
+         "verdict": {
+          "enum": [
+           "good",
+           "weak"
+          ],
+          "type": "string"
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "area",
+         "verdict",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [
+   {
+    "phone": "Motorola Edge 70",
+    "area": "software",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 11,
+    "quote": "ओवरऑल सॉफ्टवेयर का एक्सपीरियंस भी अब यहां पर बेटर हो रहा है।",
+    "meaning_en": "The overall software experience is getting better now."
+   },
+   {
+    "phone": "Motorola Edge 70",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 13,
+    "quote": "कंटेंट आप अच्छे से देख सकते हो क्योंकि 1.5 के रेजोल्यूशन वाली एमोलेड\n[14] 1:42 डिस्प्ले मिलती है",
+    "meaning_en": "You can view content well because it features a 1.5K resolution AMOLED display."
+   },
+   {
+    "phone": "Realme P4 Pro",
+    "area": "performance",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 19,
+    "quote": "सो इसमें जो बेस्ट चीज़ मिल जाती है तगड़ा प्रोसेसर मिलता है Snapdragon 7Z4 का। RAM टाइप और स्टोरेज टाइप भी आपको अच्छी मिल जाती है। आप हायर एफपीएस में गेमिंग कर\n[20] 2:25 सकते हो।",
+    "meaning_en": "It has a solid processor and good RAM/storage, allowing you to game at higher FPS."
+   },
+   {
+    "phone": "Realme P4 Pro",
+    "area": "software",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 21,
+    "quote": "साथ में सॉफ्टवेयर एक्सपीरियंस भी अच्छा है।",
+    "meaning_en": "Also, the software experience is good."
+   },
+   {
+    "phone": "Realme P4 Pro",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 23,
+    "quote": "साथ में यहां पर कैमरा सेटअप भी डिसेंट मिल जाता है जिसमें 4K रिकॉर्डिंग आप कर सकते हो",
+    "meaning_en": "The camera setup is decent, allowing 4K recording."
+   },
+   {
+    "phone": "Samsung Galaxy F70 Pro",
+    "area": "performance",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 40,
+    "quote": "तो आपका डिसेंट टाइप की परफॉर्मेंस यह करवा देगा।",
+    "meaning_en": "It delivers decent performance."
+   },
+   {
+    "phone": "Samsung Galaxy F70 Pro",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 42,
+    "quote": "इसके अलावा कैमरा सेटअप भी डिसेंट मिल जाता है।",
+    "meaning_en": "Besides this, the camera setup is decent."
+   },
+   {
+    "phone": "Samsung Galaxy F70 Pro",
+    "area": "charging",
+    "verdict": "weak",
+    "source": "transcript",
+    "segment": 44,
+    "quote": "45 W की चार्जिंग को सपोर्ट करता है लेकिन चार्जर इन द बॉक्स नहीं मिलेगा वो अलग से लेना पड़ेगा।",
+    "meaning_en": "It supports 45W charging, but no charger is included in the box and must be bought separately."
+   },
+   {
+    "phone": "Lava Virat 5G Curve",
+    "area": "software",
+    "verdict": "weak",
+    "source": "transcript",
+    "segment": 51,
+    "quote": "थोड़े बहुत सॉफ्टवेयर में बग मिल सकते हैं या इतना पॉलिश आपको UI देखने को\n[52] 6:17 नहीं मिलेगा।",
+    "meaning_en": "You might find minor software bugs and the UI is not as polished compared to others."
+   },
+   {
+    "phone": "Lava Virat 5G Curve",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 52,
+    "quote": "यहां पर एटलीस्ट आपको एमोलेड डिस्प्ले तो देखने को मिल रहा है।",
+    "meaning_en": "At least you get an AMOLED display here."
+   },
+   {
+    "phone": "Lava Virat 5G Curve",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 55,
+    "quote": "साथ में यहां पर जो है ना कैमरास भी आपको डिसेंट मिल जाते हैं।",
+    "meaning_en": "Also, you get decent cameras on this phone."
+   },
+   {
+    "phone": "Realme P4x",
+    "area": "performance",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 63,
+    "quote": "तो इसमें गेमिंग भी आप ठीक-ठाक कर सकते हो।",
+    "meaning_en": "You can do decent gaming on it."
+   },
+   {
+    "phone": "Realme P4x",
+    "area": "software",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 65,
+    "quote": "बाकी सॉफ्टवेयर एक्सपीरियंस अच्छा मिल जाता है।",
+    "meaning_en": "The software experience is also good."
+   },
+   {
+    "phone": "Realme P4x",
+    "area": "display",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 68,
+    "quote": "फुल एचडी प्लस वाली एलसीडी डिस्प्ले मिलती है। देखो एलसीडी डिस्प्ले है लेकिन कलर्स वगैरह बिल्कुल यहां पर दिक्कत नहीं देंगे।",
+    "meaning_en": "Even though it has an LCD display, colors look fine and cause no issues."
+   },
+   {
+    "phone": "Realme P4x",
+    "area": "camera",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 69,
+    "quote": "साथ में यहां पर कैमरा भी आपको डिसेंट देखने को मिल\n[70] 8:07 जाता है।",
+    "meaning_en": "The camera on it is also decent."
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 4608,
+  "completion_tokens": 2796,
+  "total_tokens": 7404,
+  "cost": 0.013941,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.013941,
+   "upstream_inference_prompt_cost": 0.003456,
+   "upstream_inference_completions_cost": 0.010485
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 1262,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791488515-7wv2wZFDoGJquY5L0Zgd"
+ }
+}

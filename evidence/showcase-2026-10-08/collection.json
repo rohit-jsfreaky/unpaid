@@ -17,12 +17,16 @@
   ],
   "title_pattern": "30\\s?k\\b|30,?000|₹\\s?30\\b|30\\s?(?:हज़ार|हजार)",
   "window_days": 21,
-  "max_videos": 30
+  "max_videos": 30,
+  "must_haves": [
+   "camera",
+   "battery"
+  ]
  },
  "gl": "in",
  "mode": "replay",
- "started_at": "2026-10-08T17:21:07.222031Z",
- "elapsed_s": 0.8,
+ "started_at": "2026-10-08T19:40:42.727862Z",
+ "elapsed_s": 0.1,
  "searches_used": 0,
  "searches": [
   {
