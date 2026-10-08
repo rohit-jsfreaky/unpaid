@@ -1,0 +1,210 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube video's description and transcript. The videos are Indian earbuds reviews and buying\nlists, in English, Hindi, Hinglish, Telugu, Malayalam or a mix.\n\nFind two things.\n\nA) Every place the creator states a money tie, as one of these kinds:\n- paid_sponsorship: the video is sponsored by, a paid partnership with, or made in collaboration with a company\n  (including a \"#Collab\" tag next to a company's tag). `party` = that company.\n- free_unit: a company sent, provided or gave the creator the device or review unit. `party` = that company, or\n  \"respective brands\" when the creator says it that way.\n- affiliate_statement: the creator says the links are affiliate links, or that they earn a commission, or that they\n  are an Amazon Associate.\n- denial: the creator says the video is NOT sponsored, or that no brand paid them.\nThese are NOT money ties. Skip them: \"for sponsorship / business / collab inquiries contact ...\", \"all content\nprovided by this channel is for educational purposes\", copyright or fair-use notes, talk about other people's sponsored\nads, bank card offers and sale discounts, product tagging (\"I've tagged the earbuds\"), and the channel promoting its own\napp, channel, merch or giveaway.\n\nB) Every product the creator recommends for the buyer, with its rank if they number their list (1 = their top pick).\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text below: same script, same spelling, same punctuation, same capitals.\n  Never translate, transliterate, fix or shorten words inside the quote.\n- Use the shortest exact span that shows the point, at most 200 characters.\n- A transcript quote must come from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote (a translation if it isn't English).\n- `phone`: the brand and model as sold, e.g. \"boAt Airdopes 141\". Don't include colour.\nIf there is nothing for a list, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: [New] The Only 4 best tws under 3000 You Should Buy ! ⚡️ Best earbuds under 3000 in 2026⚡️\nCHANNEL: Tech Freak\n\nDESCRIPTION:\nWell Todays video is all about best tws under 3000 also  you can say these are Only 4 best earbuds under 3000 in india so if you are searching for best earbuds under 3000 in india 2026 make sure to watch this video \n\nBuying Links best earbuds under 3000 - \n\n1.realme Buds T500 Pro - https://link.amazon/B08l8oRkY\n2.OnePlus Nord Buds 3 Pro - https://link.amazon/B0iLb6d5p\n3.realme Earbuds Air 7 - https://link.amazon/B05S8M3DT\n4.CMF BY Nothing Buds 2 - https://link.amazon/B0haIzC6M\n\n*BUSINESS EMAIL - thetechfreak.in@gmail.com\n\n-------------------------------------------------\nLike       Share         Subscribe  \n-------------------------------------------------\n\nQueries Solved in this video - \n\n1.Which is best tws under 3000?\n2.Which is best tws under 3000 in India?\n3.Which is best tws under 3000 in 2026?\n4.Which is best earbuds under 3000?\n5.Which is best earbuds under 3000 in india?\n6.Which is best earbuds under 3000 in 2026?\n7.Which is best tws under 3000?\n8.Which is best tws under 3000 in 2026?\n9.Which is best tws under 3000 in india 2026?\n\nTopics covered in this video - \n\nbest tws under 3000?\nbest tws under 3000 in 2026?\nbest tws under 3000 in india 2026?\nbest earbuds under 3000?\nbest earbuds under 3000 in 2026?\nbest earbuds under 3000 in india 2026?\nbest tws earbuds under 3000?\nbest tws earbuds under 3000 in 2026?\nbest tws earbuds under 3000 in india 2026?\nbest earbuds under 3000 rs?\nbest tws earbuds under 3000 rs?\nbest tws under 3000 rs?\nbest earbuds under 3000 rs 2026?\nbest tws earbuds under 3000 rs 2026?\nbest tws under 3000 rs 2026?\nbest tws under 3000 for calling?\nbest tws under 3000 for gaming?\nbest tws under 3000 anc?\nbest tws under 3000 boat and noise?\nbest tws under 3000 for calling and music?\nbest tws under 3000 for gaming and music?\nbest tws airpods under 3000?\nBest Wireless Earbuds under 3000?\ntws under 3000?\ntws under 3000 in 2026?\ntws under 3000 in india?\nbest tws earbuds under 3000 with anc?\nbest tws earbuds under 30000 in india 2026?\nbest tws earbuds under 3000 for music?\nbest tws earbuds under 3000 boat?\nbest earbuds 2026,\nbest earbuds 2026 under 3000,\nbest wireless earbuds under 3000,\nbest wireless earbuds 2026\n\n★ Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favor of fair use.\n\nHope you are having a Good day you can make Mine too Just By Subscribing.\n\nTRANSCRIPT (one segment per line, [index] m:ss text):\n[0] 0:00 बेस्ट TWS अंडर 3000 इन 2026।\n[1] 0:04 [संगीत]\n[2] 0:08 देखो गाइस TWS सिर्फ अच्छे दिखने से या फिर बहुत ही ज्यादा फीचर्स दे देने से बेस्ट नहीं होते। मेनली हमें देखनी होती है दो चीजें साउंड क्वालिटी एंड माइक\n[3] 0:16 क्वालिटी। अगर ये दोनों किसी TWS की सुपीरियर मिल रही है ना आपको तो वो एक बेस्ट TWS है। अब इस वीडियो में मैं आपको 20 से भी ज्यादा TWS को साइड बाय साइड\n[4] 0:25 कंपेयर करने के बाद चार बेस्ट ऑप्शंस बताऊंगा। सिर्फ अपनी वीडियो को टॉप फाइव बताने के लिए। कोई भी बेकार की डीडब्ल्यूएस इंक्लूड नहीं की है मैंने। ये\n[5] 0:33 जो चार ईडब्ल्यूएस है ना चाहे आपको एक अच्छी साउंड क्वालिटी चाहिए हो, माइक क्वालिटी चाहिए हो या और कोई भी डिफरेंट-डिफरेंट फीचर्स लाइक एएनसी, हाई\n[6] 0:41 रेडियो, बड़ी बैटरी सारी चीजें मिल जाती है इनमें। अब TWS बताने से पहले एक बेसिक चीज समझ लो। सारे ही इयर बड्स के साथ ना आपको ऐप सपोर्ट मिलता है। मेक श्योर जब भी\n[7] 0:49 आप TWS परचेस करो उस ऐप को डाउनलोड करके जो नॉर्मल इक्वलाइज हो के आते हैं ना TWS उनको अपने अकॉर्डिंग ट्यून कर लो। सो दैट आपको आपकी TW से एक बेस्ट साउंड मिलेगा।\n[8] 0:58 अभी गाइस स्टार्ट करते हैं हमारी वीडियो को। एट नंबर फोर सीएमएफ नथिंग बट्स टू। इन इयर बर्ड्स को रिकमेंड करने का रीजन इनका\n[9] 1:06 डिज़ या लुक नहीं है ना ही ब्रांड है। यह लिटरली जिस प्राइस पे स्टैंड आउट करते हैं ना काफी अच्छे-अच्छे ब्रांड्स को टक्कर देते हैं। ऑब्वियसली आपको एक स्टाइलिश एंड\n[10] 1:14 डिफरेंट डिज़ाइन तो मिलता ही है। तीन डिफरेंट-डिफरेंट कलर्स आ जाते हैं इसमें।\n[11] 1:17 इयर बड्स की मैग्नेट्स एंड एक्सपीरियंस भी बहुत अच्छा है। बट इसके अलावा आपको 11 mm के ड्राइवर्स मिलते हैं। जहां ना आपको बेस बहुत अच्छी मिलती है इन इयर बड्स में।\n[12] 1:25 हालांकि आप सारी चीजें कंट्रोल कर सकते हो इनके ऐप के थ्रू। बट ऑडियो ट्रस्ट मी प्राइस के हिसाब से बहुत अच्छा आता है।\n[13] 1:31 48b की आपको एक्टिव नॉइज़ कैंसिलेशन भी मिलती है। मतलब पंखे एसी की आवाज कैंसिल आउट हो जाती है इन कॉलिंग। हालांकि आपको\n[14] 1:38 दूर की आवाज नहीं आएगी। बट अगर आपके बगल में बैठ के कोई बोलेगा तो डेफिनेटली वो साउंड आएगी। स्पेशल ऑडियो भी मिल जाती है।\n[15] 1:44 55 आवर्स का टोटल प्लेबैक टाइम ये ऑफर करते हैं एंड 10 मिनट्स के चार्ज में 7.5 आवर्स का बैटरी बैकअप दे देते हैं। ये जो\n[16] 1:51 इयर बड्स है ना गाइस ₹200 में मिल जाते हैं ऑन Flipkart। Amazon का प्राइस आप चेक आउट कर सकते हो। नीचे डिस्क्रिप्शन में मैंने सारे इयर बड्स के लिंक्स दिए हैं।\n[17] 1:59 जाके डेफिनेटली चेक आउट करना। अगर आपको बजट में रह के एक बढ़िया प्रीमियम साउंड चाहिए। आपका काम हो जाए, कॉलिंग अच्छी हो जाए, म्यूजिक अच्छा हो जाए। एट नंबर फोर\n[18] 2:07 यू कैन चेक दिस आउट। नाउ गाइज़, हियर कम्स द थर्ड वन व्हिच इज़ Realme Ebd्स Air7. अब गाइज़, यह इयर बड्स ना थोड़ी बहुत अच्छी वैल्यू लेके आते हैं आपके लिए। लाइक आपकी\n[19] 2:16 कॉल क्वालिटी एंड म्यूजिक क्वालिटी दोनों ड्रास्टिकली चेंज होती है। 12.4 mm के डायनामिक बेस्ड ड्राइवर्स मिलते हैं। काफी प्रीमियम इन हैंड एक्सपीरियंस मिलेगा\n[20] 2:24 आपको। केस भी काफी रिच फील देता है। आपको यहां पर 52db की हाइब्रिड एएनसी मिलती है।\n[21] 2:29 मतलब आप एएनसी ऑन ऑफ कर सकते हो। एंड साथ ही साथ सिक्स माइट्स का सेटअप मिलता है विद ईएनसी। तो पंखे वगैरह की आवाज कैंसिल आउट हो जाती है ड्यूरिंग कॉलिंग। एंड\n[22] 2:37 ट्रस्ट मी कॉल क्वालिटी लिटरली बहुत अच्छी आती है। 45 ms की आपको लो लेटेंसी भी मिलती है। तो स्टोरी गेम्स हो गए वहां आपको गेमिंग में हेल्प करते हैं। बट फॉर\n[23] 2:46 गेम्स जिनको लेटेंसी बिल्कुल नहीं चाहिए लाइक BGMI वगैरह उनके लिए रिकमेंडेड नहीं है। इसके अलावा यहां पे आपको हाई रिस्क एलएचडी सी कडक मिल जाते हैं। 360 स्पेशल\n[24] 2:54 ऑडियो मिलता ही है। IP55 वाटर रेजिस्टेंस भी है। इन सभी के अलावा ब्लूटूथ वर्जन 5.4 के साथ आते हैं। तो ड्यूल कनेक्टिविटी को सपोर्ट करेंगे। आप दो डिवाइस से एक साथ\n[25] 3:03 कनेक्ट रह सकते हो एंड इंस्टेंटली पेअ होते हैं। अब यह इयर बड्स आपको क्यों लेने चाहिए? अगर आपको साउंड बहुत लाउड चाहिए, आपके साउंड के अंदर बेस बहुत अच्छा चाहिए तो डेफिनेटली आप इसके साथ जा सकते हो।\n[26] 3:13 बैटरी बैकअप अराउंड 52 आवर्स का मिलता है।\n[27] 3:15 एंड यहां पर कोई भी फास्ट चार्जिंग वगैरह Realme ने मार्केट नहीं की। यह जो इयर बड्स है ना गाइस ₹3100 के अराउंड मिल जाते हैं। एंड आप Amazon, Flipkart दोनों पे जाके चेक आउट करना।\n[28] 3:24 कहीं हो सकता है आपको यह उससे भी कम बजट में मिले। इन शॉट Realme की तरफ से वन ऑफ द बेस्ट इयर बड्स हैं। ₹3000 के बजट में रह के। मेरी तरफ से हाईली रेकमेंडेड है उन\n[29] 3:33 लोगों को जिनको एक थंपी एंड डीप बेस पसंद है। चाहे आपको क्लासिकल म्यूजिक सुनना है, इडीएम म्यूजिक सुनना है जो आजकल लोग सुनते हैं। हर टाइप के म्यूजिक के लिए बेस्ट है।\n[30] 3:41 नाउ गाइस आते हैं OnePlus न BDS 3 Pro। अब ये जो इयर बड्स है ना गाइस एक स्टेप आगे आ जाते हैं। लाइक देखो 12.4 एमm के आपको\n[31] 3:48 डायनामिक ड्राइवर्स मिलते हैं। 49 डीB की एक्टिव नॉइज़ कैंसिलेशन भी आती है। इसके अलावा यहां पर भी आपको सिक्स माइक सेटअप मिलता है। 44 आवर्स की टोटल प्लेबैक टाइम\n[32] 3:56 एंड 10 मिनट्स के चार्ज में 11 आवर्स का स्पीडी फास्ट चार्ज ये ऑफर करता है। मेनली इयर बड्स हम लेते हैं साउंड एक्सपीरियंस के लिए। अब देखो साउंड एक्सपीरियंस की बात\n[33] 4:04 करें। OnePlus के इन इयर बड्स में आपको लिटरली क्रेजी साउंड ऑफर करते हैं ये।\n[34] 4:08 चाहे आप लाउडनेस की बात करो या बेस की बात करो दोनों ही चीजें बेस्ट निकल के आती है।\n[35] 4:13 आल्सो यहां पे आपको बेस वेव 2.0 भी मिलता है। जिसको बहुत ही ज्यादा पावरफुल बेस सुनना है तो वो इसमें स्विच कर सकता है।\n[36] 4:19 जिसको नॉर्मल साउंड सुननी है वो नॉर्मल साउंड सुन सकता है। इसके अलावा ब्लूटूथ 5.4 के साथ ही आते हैं ये भी एंड ₹47 एमh की आपको लो लेटेंसी मिल जाती है फॉर\n[37] 4:26 गेमिंग एंड ऑल। OnePlus के ये जो इयर बड्स है ना ₹3000 में आ जाते हैं। अब जो लोग कंफ्यूज हैं इनमें एंड Realme Air 7 में।\n[38] 4:33 उन दोनों को ही बता दूं। आप OnePlus में आपको साउंड थोड़ा सा बेटर मिलेगा बट Realme भी कम नहीं है। हल्का सा ही डिफरेंस है दोनों में। आप अपने अकॉर्डिंग\n[39] 4:41 डिसाइड करो आपको किस ब्रांड के साथ जाना है। साउंड में इतना ज्यादा कोई डिफरेंस नहीं है। दोनों ही बेहतर साउंड ऑफर करते हैं। नाउ गाइस आते हैं नंबर वन Realme BDS\n[40] 4:49 T500 Pro। अब ये जो इयर बड्स है ना गाइस थोड़ा गेम चेंज कर देते हैं। लाइक आज की लिस्ट के सबसे बेस्ट इयरफोंस हैं इन साउंड\n[41] 4:56 क्वालिटी एंड कॉल क्वालिटी एंड ओवरऑल बिल्ड। देखो यहां पर आपको काफी छोटी सी पॉकेट साइज डिब्बी में देखने को मिलते हैं। यह बिल्ड लिटरली बहुत अच्छा है इनका।\n[42] 5:04 काफी प्रीमियम फील होता है। आपको 12.4 एमm के हाई रिस्क ड्राइवर्स मिल जाते हैं विद स्पेशल ऑडियो। साथ की साथ आपको 50db की\n[43] 5:12 एएनसी भी मिलती है। इसके अलावा जो नई चीजें ऑफर होती है 56 आवर्स का आपको टोटल प्लेबैक टाइम मिलता है। ब्लूटूथ वर्जन 6.1\n[44] 5:19 आ जाता है। एकदम ही लेटेस्ट वाला। तो काफी फास्ट पेयरिंग एक्सपीरियंस मिलेगा आपको।\n[45] 5:24 सिक्स माइक सेटअप आता है तो कॉल क्वालिटी भी सुपीरियर निकल के आती है आज के सारे इयर बड्स के मुकाबले। इसके अलावा देखो अल्ट्रा लो लेटेंसी 45 ms की यहां भी मिल जाती है। तो आप बेसिक गेमिंग कर सकते हो।\n[46] 5:33 पर जिसको देखो मैक्सिमम बेस चाहिए ना आपके अपने इयर बड्स से वो इनके साथ जा सकते हो और जिसको मैक्सिमम बेस नहीं भी चाहिए। तो आपको सिंपली क्या करना है? इनका Realme\n[47] 5:42 link एप डाउनलोड करना है। वहां जाके इसको ट्यून करना है अपने अकॉर्डिंग। कोई भी इनका डिफरेंट एक्यू मोड सेलेक्ट कर लो जो आपको पसंद आए। एंड ट्रस्ट मी इनका जो\n[48] 5:50 डिफॉल्ट वाला ट्यून म्यूजिक है ना वो इतना अच्छा नहीं है। बट हां जब आप इसको Realme Link ऐप से चेंज कर लोगे तो बेस हल्का सा कम हो जाएगा। बिकॉज़ बेस बहुत ही बढ़ा हुआ\n[49] 5:58 आएगा नॉर्मली। तो वो जो एक्सपीरियंस आपको मिलेगा ना वो अनचेंजबल मिलेगा। कोई इयर बड आपको ऑफर नहीं कर सकता आज की लिस्ट के अंदर। इन इयर बड्स का जो प्राइस है ₹3200\n[50] 6:07 ऑन Amazon। बट देखो इसका प्राइस ना ₹3500 से 3000 के बीच में फ्लक्चुएट होता रहता है। तो मेरे को नहीं पता आप कब इस वीडियो को देख रहे हो। जाके चेक आउट कर लो। अगर\n[51] 6:15 यह इस बजट में आपको मिल रहा है तो बिल्कुल मिस आउट मत करना। दी बेस्ट इयर बड है ₹3000 के प्राइस रेंज के अंदर। नाउ गाइज़ अगर आप अभी भी कंफ्यूज हो तो मैं आपकी\n[52] 6:23 कंफ्यूजन को दूर कर देता हूं। अगर आपको सुपीरियर साउंड सुपीरियर माइक क्वालिटी चाहिए Realme BDS T500 Pro ले लो अगर आपके बजट में आ रहा है। बट अगर आपका बजट कम है\n[53] 6:31 तो आप OnePlus Notebd्स 3 Pro या फिर Realme Ebd्स Air7 दोनों में से कोई भी ले सकते हो। इसके अलावा अगर आपका बजट कम है\n[54] 6:38 2500 के अराउंड तो नथिंग BDS 2 बहुत अच्छे ऑप्शन है। अगर आपको कुछ डिफरेंट यूज़ करना है। बाकी तो गाइस आज की इस वीडियो में इतना ही। अगर आपको वीडियो पसंद आए तो लाइक\n[55] 6:46 करो, नीचे कमेंट्स मेरे को बताओ और किस टॉपिक पे वीडियो देखना चाहते हो मैं डेफिनेटली लाने की कोशिश करूंगा।"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "Extraction",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "kind": {
+          "enum": [
+           "paid_sponsorship",
+           "free_unit",
+           "affiliate_statement",
+           "denial"
+          ],
+          "type": "string"
+         },
+         "party": {
+          "anyOf": [
+           {
+            "type": "string"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "kind",
+         "party",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      },
+      "picks": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "rank": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "rank",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims",
+      "picks"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [],
+  "picks": [
+   {
+    "phone": "realme Buds T500 Pro",
+    "rank": 1,
+    "source": "transcript",
+    "segment": 39,
+    "quote": "नाउ गाइस आते हैं नंबर वन Realme BDS T500 Pro।",
+    "meaning_en": "Now guys, coming to number one, Realme Buds T500 Pro."
+   },
+   {
+    "phone": "OnePlus Nord Buds 3 Pro",
+    "rank": 2,
+    "source": "transcript",
+    "segment": 30,
+    "quote": "नाउ गाइस आते हैं OnePlus न BDS 3 Pro।",
+    "meaning_en": "Now guys, coming to OnePlus Nord Buds 3 Pro."
+   },
+   {
+    "phone": "realme Buds Air 7",
+    "rank": 3,
+    "source": "transcript",
+    "segment": 18,
+    "quote": "Now गाइज़, हियर कम्स द थर्ड वन व्हिच इज़ Realme Ebd्स Air7.",
+    "meaning_en": "Now guys, here comes the third one which is Realme Buds Air 7."
+   },
+   {
+    "phone": "CMF by Nothing Buds 2",
+    "rank": 4,
+    "source": "transcript",
+    "segment": 8,
+    "quote": "एट नंबर फोर सीएमएफ नथिंग बट्स टू।",
+    "meaning_en": "At number four, CMF Nothing Buds 2."
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 4205,
+  "completion_tokens": 2397,
+  "total_tokens": 6602,
+  "cost": 0.0121425,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0121425,
+   "upstream_inference_prompt_cost": 0.00315375,
+   "upstream_inference_completions_cost": 0.00898875
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 2026,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791489987-eTyUPiT1LLjRBtN1Nodx"
+ }
+}

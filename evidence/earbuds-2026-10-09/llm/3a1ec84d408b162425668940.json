@@ -1,0 +1,187 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "A shopper in India wants to buy the product below. List the features reviewers judge this kind of\nproduct on, 5 to 7 of them, always including every feature the shopper says they care about.\nFor each feature give:\n- name: one or two plain lowercase English words (\"sound\", \"noise cancellation\", \"battery\").\n- words: 8 to 14 words reviewers use when they talk about it, so a sentence about this feature contains at least one:\n  English words and short stems (\"batter\" for battery), Hindi in Devanagari (\"बैटरी\") and Hindi in Latin letters.\nKeep each word short and specific to the feature; no common words like \"good\", \"quality\", \"best\"."
+   },
+   {
+    "role": "user",
+    "content": "PRODUCT: earbuds\nTHE SHOPPER CARES ABOUT:\n- gym\n- bass"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "Aspects",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "features": {
+       "items": {
+        "properties": {
+         "name": {
+          "type": "string"
+         },
+         "words": {
+          "items": {
+           "type": "string"
+          },
+          "type": "array"
+         }
+        },
+        "required": [
+         "name",
+         "words"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "features"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "features": [
+   {
+    "name": "gym",
+    "words": [
+     "sweat",
+     "workout",
+     "running",
+     "jogging",
+     "exercise",
+     "ipx",
+     "waterproof",
+     "पसीना",
+     "कसरत",
+     "pasina",
+     "kasrat",
+     "daud"
+    ]
+   },
+   {
+    "name": "bass",
+    "words": [
+     "bass",
+     "thump",
+     "punchy",
+     "subbass",
+     "rumble",
+     "lows",
+     "बास",
+     "धमक",
+     "भारी",
+     "baas",
+     "dhamak",
+     "bhari"
+    ]
+   },
+   {
+    "name": "fit",
+    "words": [
+     "fit",
+     "grip",
+     "loose",
+     "slip",
+     "fall",
+     "ear-tip",
+     "कान",
+     "ढीला",
+     "गिरना",
+     "kaan",
+     "dheela",
+     "girna"
+    ]
+   },
+   {
+    "name": "battery",
+    "words": [
+     "batter",
+     "backup",
+     "charging",
+     "mah",
+     "drain",
+     "playback",
+     "बैटरी",
+     "चार्जिंग",
+     "बिजली",
+     "charge",
+     "runtime"
+    ]
+   },
+   {
+    "name": "sound",
+    "words": [
+     "vocal",
+     "clarity",
+     "treble",
+     "instrument",
+     "loudness",
+     "crisp",
+     "आवाज़",
+     "ध्वनि",
+     "साफ़",
+     "aawaz",
+     "awaz",
+     "saaf"
+    ]
+   },
+   {
+    "name": "mic",
+    "words": [
+     "mic",
+     "microphone",
+     "call",
+     "calling",
+     "caller",
+     "noise",
+     "माइक",
+     "बातचीत",
+     "सुनना",
+     "baatcheet",
+     "sunai",
+     "bolna"
+    ]
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 172,
+  "completion_tokens": 1490,
+  "total_tokens": 1662,
+  "cost": 0.0057165,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0057165,
+   "upstream_inference_prompt_cost": 0.000129,
+   "upstream_inference_completions_cost": 0.0055875
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 1258,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791489931-GEIbAFy4rMxSHPXQrWWW"
+ }
+}

@@ -1,0 +1,728 @@
+{
+ "request": {
+  "engine": "youtube",
+  "gl": "in",
+  "hl": "en",
+  "search_query": "best earbuds under 3000"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7f7987223f4ba82a5475a",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/YBOq8nw9EwerXhvtwYXZRpXjh7lTLsSOyIw8K4mI310/6ac7f7987223f4ba82a5475a.json",
+   "markdown_endpoint": "https://serpapi.com/searches/YBOq8nw9EwerXhvtwYXZRpXjh7lTLsSOyIw8K4mI310/6ac7f7987223f4ba82a5475a.md",
+   "created_at": "2026-10-08 20:05:44 UTC",
+   "processed_at": "2026-10-08 20:05:44 UTC",
+   "youtube_url": "https://www.youtube.com/results?search_query=best+earbuds+under+3000&gl=in&hl=en",
+   "raw_html_file": "https://serpapi.com/searches/YBOq8nw9EwerXhvtwYXZRpXjh7lTLsSOyIw8K4mI310/6ac7f7987223f4ba82a5475a.html",
+   "total_time_taken": 2.03
+  },
+  "search_parameters": {
+   "engine": "youtube",
+   "search_query": "best earbuds under 3000",
+   "gl": "in",
+   "hl": "en"
+  },
+  "search_information": {
+   "total_results": 2110846,
+   "video_results_state": "Results for exact spelling"
+  },
+  "shorts_results": [
+   {
+    "position_on_page": 1,
+    "shorts": [
+     {
+      "title": "Best Earbuds under 3000 - Best Earbuds with Hi-Res Audio and ANC - Best for Gym, Calling & Travel",
+      "link": "https://www.youtube.com/shorts/g9uYMe-o9Fo",
+      "thumbnail": "https://i.ytimg.com/vi/g9uYMe-o9Fo/frame0.jpg",
+      "views_original": "7.7K views",
+      "views": 7700,
+      "video_id": "g9uYMe-o9Fo"
+     },
+     {
+      "title": "Top 5 Earbuds Under ₹3000 in 2026 🔥",
+      "link": "https://www.youtube.com/shorts/dl5-7iI2ykc",
+      "thumbnail": "https://i.ytimg.com/vi/dl5-7iI2ykc/frame0.jpg",
+      "views_original": "206K views",
+      "views": 206000,
+      "video_id": "dl5-7iI2ykc"
+     },
+     {
+      "title": "Best Earbuds Under 3000 with Active Noise Cancelling - Best ANC Earbuds in 2026",
+      "link": "https://www.youtube.com/shorts/jlj8TAJmMbY",
+      "thumbnail": "https://i.ytimg.com/vi/jlj8TAJmMbY/frame0.jpg",
+      "views_original": "42K views",
+      "views": 42000,
+      "video_id": "jlj8TAJmMbY"
+     },
+     {
+      "title": "Top 5 TWS Earbuds Under ₹3000 | Best Earbuds Deals ⚡🔥",
+      "link": "https://www.youtube.com/shorts/hNzWRatIT9g",
+      "thumbnail": "https://i.ytimg.com/vi/hNzWRatIT9g/frame0.jpg",
+      "views_original": "22K views",
+      "views": 22000,
+      "video_id": "hNzWRatIT9g"
+     },
+     {
+      "title": "Best TWS Under ₹3000 in 2026 🔥 Best Earbuds Under 3000  ⚡ 50db ANC TWS Earbuds Under 3000",
+      "link": "https://www.youtube.com/shorts/O8O08ZbYU88",
+      "thumbnail": "https://i.ytimg.com/vi/O8O08ZbYU88/frame0.jpg",
+      "views_original": "146K views",
+      "views": 146000,
+      "video_id": "O8O08ZbYU88"
+     }
+    ]
+   },
+   {
+    "position_on_page": 2,
+    "shorts": [
+     {
+      "title": "Top 3 Best Earbuds Under ₹3000 in 2026 | Best TWS for ANC,Gaming & Music",
+      "link": "https://www.youtube.com/shorts/BTAxWaa7YOc",
+      "thumbnail": "https://i.ytimg.com/vi/BTAxWaa7YOc/frame0.jpg",
+      "views_original": "2.3K views",
+      "views": 2300,
+      "video_id": "BTAxWaa7YOc"
+     },
+     {
+      "title": "Top 5 Earbuds Under 3000 in 2025 🔥🔥",
+      "link": "https://www.youtube.com/shorts/Mbih7Txyw6s",
+      "thumbnail": "https://i.ytimg.com/vi/Mbih7Txyw6s/frame0.jpg",
+      "views_original": "452K views",
+      "views": 452000,
+      "video_id": "Mbih7Txyw6s"
+     },
+     {
+      "title": "Best Earbuds Under ₹3000 😱 Best ANC TWS #Shorts",
+      "link": "https://www.youtube.com/shorts/fsBTJgmGvJ4",
+      "thumbnail": "https://i.ytimg.com/vi/fsBTJgmGvJ4/frame0.jpg",
+      "views_original": "52K views",
+      "views": 52000,
+      "video_id": "fsBTJgmGvJ4"
+     },
+     {
+      "title": "Best Earbuds Under ₹3000! 🔥#earbuds",
+      "link": "https://www.youtube.com/shorts/SLeRQ9VJd1k",
+      "thumbnail": "https://i.ytimg.com/vi/SLeRQ9VJd1k/frame0.jpg",
+      "views_original": "164K views",
+      "views": 164000,
+      "video_id": "SLeRQ9VJd1k"
+     },
+     {
+      "title": "🔥 STOP Buying Trash | Only 2 Best Earbuds Under 3000 In Amazon & Flipkart 🎧",
+      "link": "https://www.youtube.com/shorts/KW_YCNh6sko",
+      "thumbnail": "https://i.ytimg.com/vi/KW_YCNh6sko/frame0.jpg",
+      "views_original": "8.1K views",
+      "views": 8100,
+      "video_id": "KW_YCNh6sko"
+     }
+    ]
+   },
+   {
+    "position_on_page": 3,
+    "shorts": [
+     {
+      "title": "Best Earbuds Under 3,000rs #techwithyesh #bestearbuds3000 #twsbuds",
+      "link": "https://www.youtube.com/shorts/PCyYTKmhDnY",
+      "thumbnail": "https://i.ytimg.com/vi/PCyYTKmhDnY/frame0.jpg",
+      "views_original": "19K views",
+      "views": 19000,
+      "video_id": "PCyYTKmhDnY"
+     },
+     {
+      "title": "Best TWS Under ₹3000 ||",
+      "link": "https://www.youtube.com/shorts/hBTzIy-3r5s",
+      "thumbnail": "https://i.ytimg.com/vi/hBTzIy-3r5s/frame0.jpg",
+      "views_original": "200K views",
+      "views": 200000,
+      "video_id": "hBTzIy-3r5s"
+     },
+     {
+      "title": "I Bought India's Best TWS Under 3,000🔥Best Earbuds Under 3,000",
+      "link": "https://www.youtube.com/shorts/mSIwZz3dzig",
+      "thumbnail": "https://i.ytimg.com/vi/mSIwZz3dzig/frame0.jpg",
+      "views_original": "9.8K views",
+      "views": 9800,
+      "video_id": "mSIwZz3dzig"
+     },
+     {
+      "title": "Best TWS Under ₹3000 in 2026 🔥 Best Earbuds Under 3000  ⚡ 50db ANC TWS Earbuds Under 3000",
+      "link": "https://www.youtube.com/shorts/O8O08ZbYU88",
+      "thumbnail": "https://i.ytimg.com/vi/O8O08ZbYU88/frame0.jpg",
+      "views_original": "146K views",
+      "views": 146000,
+      "video_id": "O8O08ZbYU88"
+     },
+     {
+      "title": "BIG MISTAKE ⚠️ Bluetooth Earphone under 3000 ! #Shorts",
+      "link": "https://www.youtube.com/shorts/CT1pvlgMBg4",
+      "thumbnail": "https://i.ytimg.com/vi/CT1pvlgMBg4/frame0.jpg",
+      "views_original": "647K views",
+      "views": 647000,
+      "video_id": "CT1pvlgMBg4"
+     }
+    ]
+   },
+   {
+    "position_on_page": 7,
+    "shorts": [
+     {
+      "title": "Best earbuds of year 2026 under 3000₹",
+      "link": "https://www.youtube.com/shorts/tnQzQ7aZOG8",
+      "thumbnail": "https://i.ytimg.com/vi/tnQzQ7aZOG8/frame0.jpg",
+      "views_original": "57K views",
+      "views": 57000,
+      "video_id": "tnQzQ7aZOG8"
+     },
+     {
+      "title": "Top 5 TWS under Rs 3,000 🎵",
+      "link": "https://www.youtube.com/shorts/56hSt8N-jBE",
+      "thumbnail": "https://i.ytimg.com/vi/56hSt8N-jBE/frame0.jpg",
+      "views_original": "409K views",
+      "views": 409000,
+      "video_id": "56hSt8N-jBE"
+     },
+     {
+      "title": "Best Earbuds Under ₹3000! 🔥#earbuds",
+      "link": "https://www.youtube.com/shorts/SLeRQ9VJd1k",
+      "thumbnail": "https://i.ytimg.com/vi/SLeRQ9VJd1k/frame0.jpg",
+      "views_original": "164K views",
+      "views": 164000,
+      "video_id": "SLeRQ9VJd1k"
+     },
+     {
+      "title": "Best Earbuds Under 3000 in Flipkart BBD & Amazon Great Indian Festival Sale 2026",
+      "link": "https://www.youtube.com/shorts/KCrmo8sR4gc",
+      "thumbnail": "https://i.ytimg.com/vi/KCrmo8sR4gc/frame0.jpg",
+      "views_original": "464 views",
+      "views": 464,
+      "video_id": "KCrmo8sR4gc"
+     },
+     {
+      "title": "Top 10 Best TWS Earbuds Under 3000 in 2026 🎧🔥 | Best Budget Earbuds",
+      "link": "https://www.youtube.com/shorts/bQdtg1tqgxs",
+      "thumbnail": "https://i.ytimg.com/vi/bQdtg1tqgxs/frame0.jpg",
+      "views_original": "352 views",
+      "views": 352,
+      "video_id": "bQdtg1tqgxs"
+     },
+     {
+      "title": "CMF Buds Pro 2 - Best Earbuds Under 3000 🔥 #shorts #cmf",
+      "link": "https://www.youtube.com/shorts/A72mD0q_6U4",
+      "thumbnail": "https://i.ytimg.com/vi/A72mD0q_6U4/frame0.jpg",
+      "views_original": "434K views",
+      "views": 434000,
+      "video_id": "A72mD0q_6U4"
+     },
+     {
+      "title": "Best Earbuds Under Rs.3000 in Nepal 🇳🇵#bestearbuds2023 #earbuds #gadgetsinnepal #gadgets",
+      "link": "https://www.youtube.com/shorts/ItPEB4ECDNE",
+      "thumbnail": "https://i.ytimg.com/vi/ItPEB4ECDNE/frame0.jpg",
+      "views_original": "28K views",
+      "views": 28000,
+      "video_id": "ItPEB4ECDNE"
+     },
+     {
+      "title": "Top 3 Best Headphones Under ₹3,000 in 2026🔥Best Headphones Under 3000⚡Headphones Under 3000 #shorts",
+      "link": "https://www.youtube.com/shorts/fmW0Qj7oWxM",
+      "thumbnail": "https://i.ytimg.com/vi/fmW0Qj7oWxM/frame0.jpg",
+      "views_original": "188K views",
+      "views": 188000,
+      "video_id": "fmW0Qj7oWxM"
+     },
+     {
+      "title": "Best Earbuds Under ₹3,000 | Top 5 Best TWS Earbuds Under ₹3K in 2026 #shorts",
+      "link": "https://www.youtube.com/shorts/quBf_AtQ52M",
+      "thumbnail": "https://i.ytimg.com/vi/quBf_AtQ52M/frame0.jpg",
+      "views_original": "444 views",
+      "views": 444,
+      "video_id": "quBf_AtQ52M"
+     },
+     {
+      "title": "One of the Best TWS under 3000  #tws #twsunder3000 #realmebudsair7 #realmetws #tech #shorts",
+      "link": "https://www.youtube.com/shorts/6Na8ELzBGmA",
+      "thumbnail": "https://i.ytimg.com/vi/6Na8ELzBGmA/frame0.jpg",
+      "views_original": "419K views",
+      "views": 419000,
+      "video_id": "6Na8ELzBGmA"
+     },
+     {
+      "title": "Best Headphone Deals on Flipkart & Amazon Sale 2026 - Best Bluetooth Headphones Under 3000 in India",
+      "link": "https://www.youtube.com/shorts/UHrDgaIwgwY",
+      "thumbnail": "https://i.ytimg.com/vi/UHrDgaIwgwY/frame0.jpg",
+      "views_original": "8.8K views",
+      "views": 8800,
+      "video_id": "UHrDgaIwgwY"
+     },
+     {
+      "title": "BBD SALE 2026⚡️The Only 3 Best Earbuds Under 3000 On Flipkart Big Billion Days⚡️Best TWS Under 3000",
+      "link": "https://www.youtube.com/shorts/f95thYviG7g",
+      "thumbnail": "https://i.ytimg.com/vi/f95thYviG7g/frame0.jpg",
+      "views_original": "19K views",
+      "views": 19000,
+      "video_id": "f95thYviG7g"
+     },
+     {
+      "title": "The Best TWS Under ₹3,000",
+      "link": "https://www.youtube.com/shorts/kUh4OX1H--c",
+      "thumbnail": "https://i.ytimg.com/vi/kUh4OX1H--c/frame0.jpg",
+      "views_original": "330K views",
+      "views": 330000,
+      "video_id": "kUh4OX1H--c"
+     },
+     {
+      "title": "Best TWS Under 3000 🔥 Worth Buying? #Shorts",
+      "link": "https://www.youtube.com/shorts/KXPbtT8p3uk",
+      "thumbnail": "https://i.ytimg.com/vi/KXPbtT8p3uk/frame0.jpg",
+      "views_original": "21K views",
+      "views": 21000,
+      "video_id": "KXPbtT8p3uk"
+     },
+     {
+      "title": "BBD SALE 2026⚡️Only 5 Best Earbuds Under 1500 On Flipkart Big Billion Days Sale⚡️Best TWS Under 1500",
+      "link": "https://www.youtube.com/shorts/Zx2Uhxp5omA",
+      "thumbnail": "https://i.ytimg.com/vi/Zx2Uhxp5omA/frame0.jpg",
+      "views_original": "113 views",
+      "views": 113,
+      "video_id": "Zx2Uhxp5omA"
+     },
+     {
+      "title": "BEST 🔥 Wireless Earbuds UNDER $30 (2025) - TOP 3",
+      "link": "https://www.youtube.com/shorts/sUfc5OFBVrQ",
+      "thumbnail": "https://i.ytimg.com/vi/sUfc5OFBVrQ/frame0.jpg",
+      "views_original": "23K views",
+      "views": 23000,
+      "video_id": "sUfc5OFBVrQ"
+     },
+     {
+      "title": "Realme Buds T500 Pro Review - Best Earbuds Under 3000? #earbuds #budgetearbuds",
+      "link": "https://www.youtube.com/shorts/-5nLF4d6-hI",
+      "thumbnail": "https://i.ytimg.com/vi/-5nLF4d6-hI/frame0.jpg",
+      "views_original": "35K views",
+      "views": 35000,
+      "video_id": "-5nLF4d6-hI"
+     },
+     {
+      "title": "Best earbuds under 3000₹ #audio #shorts",
+      "link": "https://www.youtube.com/shorts/T4r4fznhB6k",
+      "thumbnail": "https://i.ytimg.com/vi/T4r4fznhB6k/frame0.jpg",
+      "views_original": "7K views",
+      "views": 7000,
+      "video_id": "T4r4fznhB6k"
+     },
+     {
+      "title": "2026's Best Earbuds Under 5000 ft. TechRx",
+      "link": "https://www.youtube.com/shorts/WZHPCpL69OA",
+      "thumbnail": "https://i.ytimg.com/vi/WZHPCpL69OA/frame0.jpg",
+      "views_original": "860K views",
+      "views": 860000,
+      "video_id": "WZHPCpL69OA"
+     },
+     {
+      "title": "Best Earbuds Under 3000 Rs for CLEAR Calling in India 2025 🔥 Best Earbuds Under 3000 🔥🎧",
+      "link": "https://www.youtube.com/shorts/9W4i-ndkhTg",
+      "thumbnail": "https://i.ytimg.com/vi/9W4i-ndkhTg/frame0.jpg",
+      "views_original": "44K views",
+      "views": 44000,
+      "video_id": "9W4i-ndkhTg"
+     }
+    ]
+   }
+  ],
+  "video_results": [
+   {
+    "position_on_page": 4,
+    "title": "[New] The Only 4 best tws under 3000 You Should Buy ! ⚡️ Best earbuds under 3000 in 2026⚡️",
+    "link": "https://www.youtube.com/watch?v=KZr_plcxdV0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=KZr_plcxdV0",
+    "video_id": "KZr_plcxdV0",
+    "channel": {
+     "name": "Tech Freak",
+     "link": "https://www.youtube.com/@techfreak-",
+     "thumbnail": "https://yt3.ggpht.com/OTbAURZLK7PLlkq-Tk91-kgQ9cZzbVk7AaL3hmioapC5BnzKo2nFU9d5omDrBTq9aUBbTXoSqg=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "4d ago",
+    "views": 14176,
+    "length": "6:54",
+    "description": "Well Todays video is all about best tws under 3000 also you can say these are Only 4 best earbuds under 3000 in india so if you ...",
+    "extensions": [
+     "New",
+     "5 products"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/KZr_plcxdV0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZnyuWZuVAMiwlnXUUfR_ZNRFiGA",
+     "rich": "https://i.ytimg.com/an_webp/KZr_plcxdV0/mqdefault_6s.webp?du=3000&sqp=CNzXn9YG&rs=AOn4CLB1m5DYOMa1sIy_nGmkMkJHex5FFw"
+    }
+   },
+   {
+    "position_on_page": 5,
+    "title": "Best Earbuds Under 3000 August 2026 | Top 4 Best Earbuds Under 3000",
+    "link": "https://www.youtube.com/watch?v=0_rQ_k5rjqQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0_rQ_k5rjqQ",
+    "video_id": "0_rQ_k5rjqQ",
+    "channel": {
+     "name": "Unlearn and Evolve",
+     "link": "https://www.youtube.com/@UnlearnandEvolve",
+     "thumbnail": "https://yt3.ggpht.com/Lh4WOZIhiDFzGkcRmPFT-m2YKqQH9SQtRr6VPlCJSRO8RQaGNZIt6npbFTO5KMRUIciMHRBDYG0=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "1mo ago",
+    "views": 35515,
+    "length": "6:18",
+    "description": "Best Earbuds Under 3000 August 2026 | Top 4 Best Earbuds Under 3000 Looking for the best earbuds under 3000 in India?",
+    "extensions": [
+     "3 products",
+     "Earns commission"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/0_rQ_k5rjqQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzmhYoCj7hXTKOIFFGMdRStg5YIA",
+     "rich": "https://i.ytimg.com/an_webp/0_rQ_k5rjqQ/mqdefault_6s.webp?du=3000&sqp=CLzLn9YG&rs=AOn4CLALPpO7B_F5SeSRxWKb6PyNBx8rrg"
+    }
+   },
+   {
+    "position_on_page": 6,
+    "title": "The Best TWS Under ₹3000!",
+    "link": "https://www.youtube.com/watch?v=7f5xbRPZMFY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7f5xbRPZMFY",
+    "video_id": "7f5xbRPZMFY",
+    "channel": {
+     "name": "Sillycorns",
+     "link": "https://www.youtube.com/@SillycornsMedia",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/xDKovgI5LuRjuFO6JCli70wTTZy4KuNWNd9jmHNU61XEzeOFeQDRkp-kca9U-svcrPm03Q2W2Q=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "5mo ago",
+    "views": 300856,
+    "length": "8:33",
+    "description": "A lot of you are looking for the best TWS under ₹3000, basically the sweet spot right now, but there are so many options right now ...",
+    "extensions": [
+     "4 products",
+     "Earns commission"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/7f5xbRPZMFY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPWHiNRoHUqrSsVPj3ZzjyZV8BBQ",
+     "rich": "https://i.ytimg.com/an_webp/7f5xbRPZMFY/mqdefault_6s.webp?du=3000&sqp=CJDPn9YG&rs=AOn4CLDZrhHDlgPdX4FkvFHxLFDcZNKdYQ"
+    }
+   },
+   {
+    "position_on_page": 8,
+    "title": "Best Earbuds Under 3000 May 2026 | Top 5 Best Earbuds Under 3000",
+    "link": "https://www.youtube.com/watch?v=fo7Es0nruuU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fo7Es0nruuU",
+    "video_id": "fo7Es0nruuU",
+    "channel": {
+     "name": "Unlearn and Evolve",
+     "link": "https://www.youtube.com/@UnlearnandEvolve",
+     "thumbnail": "https://yt3.ggpht.com/Lh4WOZIhiDFzGkcRmPFT-m2YKqQH9SQtRr6VPlCJSRO8RQaGNZIt6npbFTO5KMRUIciMHRBDYG0=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "4mo ago",
+    "views": 45480,
+    "length": "7:13",
+    "description": "Best Earbuds Under 3000 May 2026 | Top 5 Best Earbuds Under 3000 Looking for the best earbuds under 3000 in India? In this ...",
+    "extensions": [
+     "5 products",
+     "Earns commission"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/fo7Es0nruuU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq4qsgIneAotdB8EFsZl5-Ra4X1g",
+     "rich": "https://i.ytimg.com/an_webp/fo7Es0nruuU/mqdefault_6s.webp?du=3000&sqp=CM7Kn9YG&rs=AOn4CLD5uQ9R203h-joDr04e--JRTXw1cA"
+    }
+   },
+   {
+    "position_on_page": 9,
+    "title": "Best Earbuds Under ₹3,000 in 2026 🔥 Top TWS Earbuds You Should Buy! | Telugu",
+    "link": "https://www.youtube.com/watch?v=O4D93gdsC84",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=O4D93gdsC84",
+    "video_id": "O4D93gdsC84",
+    "channel": {
+     "name": "Tech With Yesh Telugu",
+     "link": "https://www.youtube.com/@TechWithYesh",
+     "thumbnail": "https://yt3.ggpht.com/DrHBiy27P_qq7aPNzQaxkrFZ2Hf3GgvrunerQ6tiQEn4GGEiv2hAy4y7-abOGIs5s2BHxfW3=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "11d ago",
+    "views": 27210,
+    "length": "7:43",
+    "description": "Best Earbuds Under ₹3000 in 2026 Top TWS Earbuds You Should Buy! | Telugu Realme Buds Air 7: ...",
+    "extensions": [
+     "16 products",
+     "Earns commission"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/O4D93gdsC84/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATV70GLqbGqEVNIfEYvSXlPUQyig",
+     "rich": "https://i.ytimg.com/an_webp/O4D93gdsC84/mqdefault_6s.webp?du=3000&sqp=CN67n9YG&rs=AOn4CLA-6iJU0Sxyd36KxEIZL9RCTns4AQ"
+    }
+   },
+   {
+    "position_on_page": 10,
+    "title": "BBD Sale Live⚡️Best TWS Under 3000 in Flipkart Big Billion Days Sale 2026🔥Amazon GIF Sale",
+    "link": "https://www.youtube.com/watch?v=-PwOYyT1WMQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-PwOYyT1WMQ",
+    "video_id": "-PwOYyT1WMQ",
+    "channel": {
+     "name": "Technical Hannan",
+     "link": "https://www.youtube.com/@TechnicalHannan750",
+     "thumbnail": "https://yt3.ggpht.com/nom8gV8eLeI-Pmjqmq_f_RYeMhbKk2JY-VO-H4cPDxXhHIW_uYAW0xsnvZWEj2e0KBGU3lNTo9c=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "5h ago",
+    "views": 1607,
+    "length": "8:35",
+    "description": "BBD Sale 2026 is Live⚡️Best TWS Under 3000 in Flipkart Big Billion Days Sale 2026  Amazon GIF Sale Best TWS Under 1000 ...",
+    "extensions": [
+     "New",
+     "13 products"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/-PwOYyT1WMQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeoMZT4VIYuXbAEdvoeeX3A4I3IQ",
+     "rich": "https://i.ytimg.com/an_webp/-PwOYyT1WMQ/mqdefault_6s.webp?du=3000&sqp=CIC4n9YG&rs=AOn4CLCcCtZJNvjcWL-jdsckMCyHqWtgiA"
+    }
+   },
+   {
+    "position_on_page": 11,
+    "title": "I Bought India's Best TWS Under 3,000🔥Best Earbuds Under 3,000",
+    "link": "https://www.youtube.com/watch?v=ZW_rX7RFEX8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZW_rX7RFEX8",
+    "video_id": "ZW_rX7RFEX8",
+    "channel": {
+     "name": "TechRx Zone and 2 more",
+     "thumbnail": "https://yt3.ggpht.com/M0xmChP0IaeWcdvkxTYLO9paCKL2MqxShDBbIM7e_zpxSwlJbyR8tl9THkqMsGw16cZI-4JN=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "2mo ago",
+    "views": 25461,
+    "length": "3:48",
+    "description": "Flipkart Offer Links In Product Tab UP☝️ AMAZON Offer Links Down    ✨ Offer Links below best tws earbuds under ...",
+    "extensions": [
+     "10 products",
+     "Earns commission"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ZW_rX7RFEX8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-1vocK9_9Gh-IDgHKnktjMSJOdA",
+     "rich": "https://i.ytimg.com/an_webp/ZW_rX7RFEX8/mqdefault_6s.webp?du=3000&sqp=CLzCn9YG&rs=AOn4CLDph3fyLwjKKTiQ-LnNTU6eqR0OfQ"
+    }
+   },
+   {
+    "position_on_page": 12,
+    "title": "15 Best Earbuds Deals from Amazon Great Indian Festival & Flipkart Big Billion Days 2026 ⚡⚡",
+    "link": "https://www.youtube.com/watch?v=zRgJJ-UqRek",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zRgJJ-UqRek",
+    "video_id": "zRgJJ-UqRek",
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "14h ago",
+    "views": 63074,
+    "length": "10:19",
+    "description": "Amazon Great Indian Festival & Flipkart Big Billion Days 2026 Best Earbuds Deals ⚡⚡ Looking for the best earbuds deals during ...",
+    "extensions": [
+     "New",
+     "37 products"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/zRgJJ-UqRek/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDk8SCXUoQpCGKwu-iJF2J498u71w",
+     "rich": "https://i.ytimg.com/an_webp/zRgJJ-UqRek/mqdefault_6s.webp?du=3000&sqp=CIfLn9YG&rs=AOn4CLAXI5cwOignKMk1JIsnpUX2V2zEdw"
+    }
+   },
+   {
+    "position_on_page": 13,
+    "title": "[TOP 5]🔥Best Earbuds Under 3000🔥Best TWS Under 3000🔥Best Earbuds Under 2500",
+    "link": "https://www.youtube.com/watch?v=7Kobl6K92bo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7Kobl6K92bo",
+    "video_id": "7Kobl6K92bo",
+    "channel": {
+     "name": "TechRx and TechRx Zone",
+     "thumbnail": "https://yt3.ggpht.com/UYTCte64-Xsa2g-ZFxsMIEKS_JL0f7tLKi0D6A0sei5lJ9zr_J8Lt9fbJ7vFInwO9YVxuKxS=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "4mo ago",
+    "views": 12709,
+    "length": "4:29",
+    "description": "✨ BUY HERE to Support! 👇👇👇Are you looking for the Best Earbuds Under 3000 or Best Earbuds Under 2500 or Best Earbuds Under ...",
+    "extensions": [
+     "15 products",
+     "Earns commission"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/7Kobl6K92bo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf-FMlJIHJHVUKTlE74smAhJimCw",
+     "rich": "https://i.ytimg.com/an_webp/7Kobl6K92bo/mqdefault_6s.webp?du=3000&sqp=CLjVn9YG&rs=AOn4CLAepj10EBdo-VL4TmhxmDOyAorjPA"
+    }
+   },
+   {
+    "position_on_page": 14,
+    "title": "Top 5 Best Earbuds Under 3000 🔥 Amazon Great Indian Festival & Flipkart Big Billion Days 2026 ⚡",
+    "link": "https://www.youtube.com/watch?v=J9m-U1JqVrA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=J9m-U1JqVrA",
+    "video_id": "J9m-U1JqVrA",
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "7d ago",
+    "views": 56279,
+    "length": "11:05",
+    "description": "Top 5 TWS Earbuds Under ₹3000 | Best Earbuds Deals 2026 ⚡   Looking for the best earbuds under ₹3000 during the Big ...",
+    "extensions": [
+     "23 products",
+     "Earns commission"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/J9m-U1JqVrA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaN1ClWsZcbF6WIZ9m4Uv3ON79RQ",
+     "rich": "https://i.ytimg.com/an_webp/J9m-U1JqVrA/mqdefault_6s.webp?du=3000&sqp=CODZn9YG&rs=AOn4CLAp96Owic0cAgkqYwIG4SlzigUPRw"
+    }
+   },
+   {
+    "position_on_page": 15,
+    "title": "I Tested the BEST Earbuds Under ₹3,000– Here's the Winner🔥",
+    "link": "https://www.youtube.com/watch?v=OlBoZUjtvKE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OlBoZUjtvKE",
+    "video_id": "OlBoZUjtvKE",
+    "channel": {
+     "name": "Tech Maan",
+     "link": "https://www.youtube.com/@TechMaan22",
+     "thumbnail": "https://yt3.ggpht.com/4DOll01ukNc75ewfPXJPoaLD3kkFlaqto1mt205k5Kl4mtMBCAlP4_mJPtTfLeG6Bk4piLc20xo=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "3w ago",
+    "views": 14581,
+    "length": "10:41",
+    "description": "Hello friends in this video we discuss about Best TWS Earbuds Under 3000 in 2026...\n\n#earbuds #tws #twsearbuds #bestearbuds ...",
+    "extensions": [
+     "12 products",
+     "Earns commission"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/OlBoZUjtvKE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeIC39G5TjvGCzZqxQXl9DUnOXpA",
+     "rich": "https://i.ytimg.com/an_webp/OlBoZUjtvKE/mqdefault_6s.webp?du=3000&sqp=CNzLn9YG&rs=AOn4CLAnCXeLtc8Ol8IFeM5Uj4BquHjJ8Q"
+    }
+   },
+   {
+    "position_on_page": 16,
+    "title": "Best TWS earbuds under 3000 in 2026 - TWS EARBUDS UNDER 3000 IN 2026",
+    "link": "https://www.youtube.com/watch?v=ONDAbdmZpUE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ONDAbdmZpUE",
+    "video_id": "ONDAbdmZpUE",
+    "channel": {
+     "name": "REVIEW SHEVIEW",
+     "link": "https://www.youtube.com/@reviewsheview",
+     "thumbnail": "https://yt3.ggpht.com/dr-g2UTGNRZjl9AHmjHl56afLyWmQntRKjAZP97mzokEI8jz2Hx3WWAP1ZzV0aveQJafPNn4yXM=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "9mo ago",
+    "views": 88397,
+    "length": "7:04",
+    "description": "Looking for the best TWS earbuds under ₹3000 in 2025? You're in the right place! In this video, I've handpicked the top true ...",
+    "extensions": [
+     "8 products",
+     "Earns commission"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ONDAbdmZpUE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYne9iPl7zuCNROZjDcn7UiwRJ4g",
+     "rich": "https://i.ytimg.com/an_webp/ONDAbdmZpUE/mqdefault_6s.webp?du=3000&sqp=CPLgn9YG&rs=AOn4CLCIhPWB_aBIo-c2h-KNuXNlveRxSw"
+    }
+   },
+   {
+    "position_on_page": 17,
+    "title": "3 Best TWS Earbuds Under ₹3000 in 2026 * Don't Buy Wrong!",
+    "link": "https://www.youtube.com/watch?v=5ypMEmir0k4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5ypMEmir0k4",
+    "video_id": "5ypMEmir0k4",
+    "channel": {
+     "name": "Teksmash",
+     "link": "https://www.youtube.com/@teksmash",
+     "thumbnail": "https://yt3.ggpht.com/jbJ5MzvxisG-tz1i-cyfOU72YglwfjzcIrgI5OdrVEO_0ch2qcKtynkdH6_07OfUEjYqRQZfWss=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "6mo ago",
+    "views": 3554,
+    "length": "6:00",
+    "description": "3 Best TWS Earbuds Under ₹3000 in 2026 * Don't Buy Wrong!\nBest TWS earbuds under 3000 in 2026 with ANC, gaming mode, long ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/5ypMEmir0k4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLHLia4yBsTtI03Fvrc8mL9NFxBw",
+     "rich": "https://i.ytimg.com/an_webp/5ypMEmir0k4/mqdefault_6s.webp?du=3000&sqp=CJron9YG&rs=AOn4CLCpM72P5e2mG-hx4sTawIRYsM8zkQ"
+    }
+   },
+   {
+    "position_on_page": 18,
+    "title": "[2026]🔥Best Earbuds/TWS Under 3000🎵 Best Earbuds Under 1000🔥Best Earbuds under 3000",
+    "link": "https://www.youtube.com/watch?v=z1eX5cnBf4k",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=z1eX5cnBf4k",
+    "video_id": "z1eX5cnBf4k",
+    "channel": {
+     "name": "Ten Tech",
+     "link": "https://www.youtube.com/@10tech_official",
+     "thumbnail": "https://yt3.ggpht.com/lWfX2uVOEysv5hOfE8CYYy2oAbQap4AbJ7Y4gGhyr9UxtVMEboW3MgKQRMruws3InffPFfYJ=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "5mo ago",
+    "views": 2019,
+    "length": "4:47",
+    "description": "TWS Earbuds under 3000 available in India 2026. Best TWS Earbuds under 3000 from boat, best TWS Earbuds under 3000 from Noise ...",
+    "extensions": [
+     "7 products",
+     "Earns commission"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/z1eX5cnBf4k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUNCNPw7eROT8jGRIKGZCa0qGmoQ",
+     "rich": "https://i.ytimg.com/an_webp/z1eX5cnBf4k/mqdefault_6s.webp?du=3000&sqp=CMPpn9YG&rs=AOn4CLDpA7DGco3_cxtJ6kMzvSWyEiEhAA"
+    }
+   },
+   {
+    "position_on_page": 19,
+    "title": "Best TWS Earbuds 2026 🔥 Amazon & Flipkart Sale | Best Deals Telugu",
+    "link": "https://www.youtube.com/watch?v=BiEjpizuegA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BiEjpizuegA",
+    "video_id": "BiEjpizuegA",
+    "channel": {
+     "name": "SimpleGhar Telugu",
+     "link": "https://www.youtube.com/@SimpleGharTelugu",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/plo-4w990dgc5VF1xXCOaVMWf2oH0o93AfYX33_ZTU_XnaDlT9mjlS5qCcR5eQP9YCo0S9dMwzA=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "14h ago",
+    "views": 14837,
+    "length": "4:32",
+    "description": "Under ₹1000 : boAt Airdopes 219 - https://link.amazon/B0b8bXZ45 pTron Bassbuds Astra ...",
+    "extensions": [
+     "New",
+     "16 products"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/BiEjpizuegA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW2SApXgXFY23mAbX4yBwYrXbxXw",
+     "rich": "https://i.ytimg.com/an_webp/BiEjpizuegA/mqdefault_6s.webp?du=3000&sqp=CIDon9YG&rs=AOn4CLCYorpdoSVHNl1UewHGxCyL9XPEVQ"
+    }
+   },
+   {
+    "position_on_page": 20,
+    "title": "Top 5 Best Earbuds Under ₹3000 in 2026 🔥 Best TWS Under 3000 ⚡",
+    "link": "https://www.youtube.com/watch?v=IwgnSoiRv3s",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IwgnSoiRv3s",
+    "video_id": "IwgnSoiRv3s",
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "3mo ago",
+    "views": 23375,
+    "length": "13:39",
+    "description": "5 Best Earbuds Under 3000 ⚡ Best TWS Under 3000 ⚡ Looking for the best earbuds under ₹3000? In this video, I've picked ...",
+    "extensions": [
+     "11 products",
+     "Earns commission"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/IwgnSoiRv3s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4qx9hR-H1Xl4XQJSacFY-FEWNIA",
+     "rich": "https://i.ytimg.com/an_webp/IwgnSoiRv3s/mqdefault_6s.webp?du=3000&sqp=CKHln9YG&rs=AOn4CLAHlHDVgdxu-jJjKK6Hoi8nusUmyQ"
+    }
+   }
+  ],
+  "pagination": {
+   "current": "https://www.youtube.com/results?search_query=best+earbuds+under+3000&gl=in&hl=en",
+   "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=best%20earbuds%20under%203000&sp=SBSCAQtLWnJfcGxjeGRWMIIBCzBfclFfazVyanFRggELN2Y1eGJSUFpNRlmCAQtmbzdFczBucnV1VYIBC080RDkzZ2RzQzg0ggELLVB3T1l5VDFXTVGCAQtaV19yWDdSRkVYOIIBC3pSZ0pKLVVxUmVrggELN0tvYmw2SzkyYm-CAQtKOW0tVTFKcVZyQYIBC09sQm9aVWp0dktFggELT05EQWJkbVpwVUWCAQs1eXBNRW1pcjBrNIIBC3oxZVg1Y25CZjRrggELQmlFanBpenVlZ0GCAQtJd2duU29pUnYzc7IBBgoECBQQAuoBBAgCEBk%253D",
+   "next_page_token": "SBSCAQtLWnJfcGxjeGRWMIIBCzBfclFfazVyanFRggELN2Y1eGJSUFpNRlmCAQtmbzdFczBucnV1VYIBC080RDkzZ2RzQzg0ggELLVB3T1l5VDFXTVGCAQtaV19yWDdSRkVYOIIBC3pSZ0pKLVVxUmVrggELN0tvYmw2SzkyYm-CAQtKOW0tVTFKcVZyQYIBC09sQm9aVWp0dktFggELT05EQWJkbVpwVUWCAQs1eXBNRW1pcjBrNIIBC3oxZVg1Y25CZjRrggELQmlFanBpenVlZ0GCAQtJd2duU29pUnYzc7IBBgoECBQQAuoBBAgCEBk%3D"
+  },
+  "serpapi_pagination": {
+   "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=best+earbuds+under+3000",
+   "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=best+earbuds+under+3000&sp=SBSCAQtLWnJfcGxjeGRWMIIBCzBfclFfazVyanFRggELN2Y1eGJSUFpNRlmCAQtmbzdFczBucnV1VYIBC080RDkzZ2RzQzg0ggELLVB3T1l5VDFXTVGCAQtaV19yWDdSRkVYOIIBC3pSZ0pKLVVxUmVrggELN0tvYmw2SzkyYm-CAQtKOW0tVTFKcVZyQYIBC09sQm9aVWp0dktFggELT05EQWJkbVpwVUWCAQs1eXBNRW1pcjBrNIIBC3oxZVg1Y25CZjRrggELQmlFanBpenVlZ0GCAQtJd2duU29pUnYzc7IBBgoECBQQAuoBBAgCEBk%253D",
+   "next_page_token": "SBSCAQtLWnJfcGxjeGRWMIIBCzBfclFfazVyanFRggELN2Y1eGJSUFpNRlmCAQtmbzdFczBucnV1VYIBC080RDkzZ2RzQzg0ggELLVB3T1l5VDFXTVGCAQtaV19yWDdSRkVYOIIBC3pSZ0pKLVVxUmVrggELN0tvYmw2SzkyYm-CAQtKOW0tVTFKcVZyQYIBC09sQm9aVWp0dktFggELT05EQWJkbVpwVUWCAQs1eXBNRW1pcjBrNIIBC3oxZVg1Y25CZjRrggELQmlFanBpenVlZ0GCAQtJd2duU29pUnYzc7IBBgoECBQQAuoBBAgCEBk%3D"
+  }
+ }
+}

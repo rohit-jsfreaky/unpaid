@@ -1,0 +1,845 @@
+{
+ "request": {
+  "engine": "youtube_video",
+  "gl": "in",
+  "hl": "en",
+  "v": "J9m-U1JqVrA"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7f79fd58a7a597f854e05",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/TWtXAMWrEVco5_pBIzdXQI-TcZL3wef5RwbIrmiXo1c/6ac7f79fd58a7a597f854e05.json",
+   "markdown_endpoint": "https://serpapi.com/searches/TWtXAMWrEVco5_pBIzdXQI-TcZL3wef5RwbIrmiXo1c/6ac7f79fd58a7a597f854e05.md",
+   "created_at": "2026-10-08 20:05:51 UTC",
+   "processed_at": "2026-10-08 20:05:51 UTC",
+   "youtube_video_url": "https://www.youtube.com/watch?v=J9m-U1JqVrA",
+   "raw_html_file": "https://serpapi.com/searches/TWtXAMWrEVco5_pBIzdXQI-TcZL3wef5RwbIrmiXo1c/6ac7f79fd58a7a597f854e05.html",
+   "prettify_html_file": "https://serpapi.com/searches/TWtXAMWrEVco5_pBIzdXQI-TcZL3wef5RwbIrmiXo1c/6ac7f79fd58a7a597f854e05.prettify",
+   "total_time_taken": 1.05
+  },
+  "search_parameters": {
+   "engine": "youtube_video",
+   "v": "J9m-U1JqVrA",
+   "gl": "in",
+   "hl": "en"
+  },
+  "title": "Top 5 Best Earbuds Under 3000 🔥 Amazon Great Indian Festival & Flipkart Big Billion Days 2026 ⚡",
+  "thumbnail": "https://i.ytimg.com/vi/J9m-U1JqVrA/maxresdefault.jpg",
+  "channel": {
+   "name": "Mr LazyTech",
+   "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s176-c-k-c0x00ffffff-no-rj",
+   "link": "https://www.youtube.com/@MrLazyTech",
+   "subscribers": "477K subscribers",
+   "extracted_subscribers": 477000,
+   "verified": true
+  },
+  "views": "56,279 views",
+  "extracted_views": 56279,
+  "likes": "349",
+  "extracted_likes": 349,
+  "published_date": "Oct 1, 2026",
+  "description": {
+   "content": "Top 5 TWS Earbuds Under ₹3000 | Best Earbuds Deals 2026 ⚡🔥\n\nLooking for the best earbuds under ₹3,000 during the Big Billion Days and Amazon Great Indian Festival? 🎧🔥\nWe've picked 5 interesting TWS options featuring ANC, Spatial Audio, powerful drivers, long battery life and better calling features.\nWhich one would you pick? 👀\n\nYou can buy from the links below:-\n\n1. Moto Buds 2 \n\n2. OnePlus Nord Buds 3 Pro Earbuds - https://link.amazon/B0geGXdI2\n\n3. realme Buds T500 Pro - https://link.amazon/B01UPCgJ0\n \n4. OnePlus Nord Buds 4 TWS Earbuds - https://link.amazon/B06OTYMQ1\n\nOppo Enco Air 5 - https://link.amazon/B009Hm2Tk\n\n5. CMF by Nothing Buds Pro 2 Earbuds - https://link.amazon/B08tszuu9\n\n-------CONTENT----------\n\n00:00 - Intro\n00:59 - First \n02:55 - Second \n04:58 - Third \n06:41 - Fourth \n08:33 - Final \n\n--------------------------\n\nHello Everyone\nWelcome to Our Channel \"Mr LazyTech\" :)\n\nKindly Like, Subscribe, Comment and Share As much As Possible as your support will be highly Appreciated.. Cheers 😈😈\n\nThis Video is all about \"Top 5 Best Earbuds Under 3000 🔥 Amazon Great Indian Festival & Flipkart Big Billion Days 2026 ⚡🔥\"\n\nFollow On Facebook :-\n  / mrlazytech  \n\nFollow On Instagram :-\n  / mrlazytech  \n\nFollow On Telegram :-\nhttps://t.me/MrLazyTech\n\n#MrLazyTech #EarbudsUnder3000 #BestEarbuds #BestEarbudsUnder3000 #ANCEarbuds #TWSUnder3000 #BestTWS #AmazonGreatIndianFestival #FlipkartBigBillionDays #EarbudsDeals",
+   "links": [
+    {
+     "start_index": 424,
+     "length": 29,
+     "text": "s://link.amazon/B0geGXdI2\n\n3.",
+     "url": "https://link.amazon/B0geGXdI2"
+    },
+    {
+     "start_index": 481,
+     "length": 29,
+     "text": "s://link.amazon/B01UPCgJ0\n \n4",
+     "url": "https://link.amazon/B01UPCgJ0"
+    },
+    {
+     "start_index": 550,
+     "length": 29,
+     "text": "s://link.amazon/B06OTYMQ1\n\nOp",
+     "url": "https://link.amazon/B06OTYMQ1"
+    },
+    {
+     "start_index": 599,
+     "length": 29,
+     "text": "s://link.amazon/B009Hm2Tk\n\n5.",
+     "url": "https://link.amazon/B009Hm2Tk"
+    },
+    {
+     "start_index": 669,
+     "length": 29,
+     "text": "s://link.amazon/B08tszuu9\n\n--",
+     "url": "https://link.amazon/B08tszuu9"
+    },
+    {
+     "start_index": 726,
+     "length": 5,
+     "text": "0 - I",
+     "url": "https://www.youtube.com/watch?v=J9m-U1JqVrA&pp=0gcJCWMAwfN6Pr3D",
+     "type": "watch"
+    },
+    {
+     "start_index": 740,
+     "length": 5,
+     "text": "9 - F",
+     "url": "https://www.youtube.com/watch?v=J9m-U1JqVrA&t=59s",
+     "type": "watch"
+    },
+    {
+     "start_index": 755,
+     "length": 5,
+     "text": "5 - S",
+     "url": "https://www.youtube.com/watch?v=J9m-U1JqVrA&t=175s",
+     "type": "watch"
+    },
+    {
+     "start_index": 771,
+     "length": 5,
+     "text": "8 - T",
+     "url": "https://www.youtube.com/watch?v=J9m-U1JqVrA&t=298s",
+     "type": "watch"
+    },
+    {
+     "start_index": 786,
+     "length": 5,
+     "text": "1 - F",
+     "url": "https://www.youtube.com/watch?v=J9m-U1JqVrA&t=401s",
+     "type": "watch"
+    },
+    {
+     "start_index": 802,
+     "length": 5,
+     "text": "3 - F",
+     "url": "https://www.youtube.com/watch?v=J9m-U1JqVrA&t=513s",
+     "type": "watch"
+    },
+    {
+     "start_index": 1170,
+     "length": 16,
+     "text": "zytech  \n\nFollow",
+     "url": "https://www.facebook.com/MrLazyTech"
+    },
+    {
+     "start_index": 1211,
+     "length": 16,
+     "text": "zytech  \n\nFollow",
+     "url": "https://www.instagram.com/MrLazyTech"
+    },
+    {
+     "start_index": 1251,
+     "length": 23,
+     "text": "t.me/MrLazyTech\n\n#MrLaz",
+     "url": "https://t.me/MrLazyTech"
+    },
+    {
+     "start_index": 1276,
+     "length": 11,
+     "text": "ech #Earbud",
+     "url": "https://www.youtube.com/hashtag/mrlazytech",
+     "type": "browse"
+    },
+    {
+     "start_index": 1288,
+     "length": 17,
+     "text": "Under3000 #BestEa",
+     "url": "https://www.youtube.com/hashtag/earbudsunder3000",
+     "type": "browse"
+    },
+    {
+     "start_index": 1306,
+     "length": 12,
+     "text": "buds #BestEa",
+     "url": "https://www.youtube.com/hashtag/bestearbuds",
+     "type": "browse"
+    },
+    {
+     "start_index": 1319,
+     "length": 21,
+     "text": "budsUnder3000 #ANCEar",
+     "url": "https://www.youtube.com/hashtag/bestearbudsunder3000",
+     "type": "browse"
+    },
+    {
+     "start_index": 1341,
+     "length": 11,
+     "text": "uds #TWSUnd",
+     "url": "https://www.youtube.com/hashtag/ancearbuds",
+     "type": "browse"
+    },
+    {
+     "start_index": 1353,
+     "length": 13,
+     "text": "r3000 #BestTW",
+     "url": "https://www.youtube.com/hashtag/twsunder3000",
+     "type": "browse"
+    },
+    {
+     "start_index": 1367,
+     "length": 8,
+     "text": " #Amazon",
+     "url": "https://www.youtube.com/hashtag/besttws",
+     "type": "browse"
+    },
+    {
+     "start_index": 1376,
+     "length": 26,
+     "text": "reatIndianFestival #Flipka",
+     "url": "https://www.youtube.com/hashtag/amazongreatindianfestival",
+     "type": "browse"
+    },
+    {
+     "start_index": 1403,
+     "length": 23,
+     "text": "tBigBillionDays #Earbud",
+     "url": "https://www.youtube.com/hashtag/flipkartbigbilliondays",
+     "type": "browse"
+    },
+    {
+     "start_index": 1427,
+     "length": 13,
+     "text": "Deals",
+     "url": "https://www.youtube.com/hashtag/earbudsdeals",
+     "type": "browse"
+    }
+   ]
+  },
+  "chapters": [
+   {
+    "title": "Intro",
+    "thumbnail": "https://i.ytimg.com/vi/J9m-U1JqVrA/hqdefault_10066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrxzaf5rgp8pBwOhb41PWbpp6aqQ",
+    "time_start": 0
+   },
+   {
+    "title": "First",
+    "thumbnail": "https://i.ytimg.com/vi/J9m-U1JqVrA/hqdefault_61833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAVmt-qOZjLZNdMSryIhAy-zn0OFA",
+    "time_start": 59
+   },
+   {
+    "title": "Second",
+    "thumbnail": "https://i.ytimg.com/vi/J9m-U1JqVrA/hqdefault_188866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7LC1xfqY8BrtUrmFK-6CMbOrYZA",
+    "time_start": 175
+   },
+   {
+    "title": "Third",
+    "thumbnail": "https://i.ytimg.com/vi/J9m-U1JqVrA/hqdefault_298133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjOqNpofIuDRmVj0RCliAGxvAeSw",
+    "time_start": 298
+   },
+   {
+    "title": "Fourth",
+    "thumbnail": "https://i.ytimg.com/vi/J9m-U1JqVrA/hqdefault_401800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCSYPeSxVzLIc8u4pYCPwmWiJVwtA",
+    "time_start": 401
+   },
+   {
+    "title": "Final",
+    "thumbnail": "https://i.ytimg.com/vi/J9m-U1JqVrA/hqdefault_513433.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDXUPwEcgxRjjMfSm9pWZmykc06_w",
+    "time_start": 513
+   }
+  ],
+  "related_videos": [
+   {
+    "video_id": "NRZ5yd7eEq0",
+    "link": "https://www.youtube.com/watch?v=NRZ5yd7eEq0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NRZ5yd7eEq0",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/NRZ5yd7eEq0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDd3hu0kLXIoQC-T_1Yox3_GatrIQ",
+     "rich": "https://i.ytimg.com/an_webp/NRZ5yd7eEq0/mqdefault_6s.webp?du=3000&sqp=CILSn9YG&rs=AOn4CLCKLYsjdpIeXAF2Nm8HQcENSzoE5A"
+    },
+    "title": "I Bought 12 Earbuds With My Own Money - Only Half Are Worth It! #notsponsored",
+    "published_date": "3d ago",
+    "views": "80K",
+    "extracted_views": 80000,
+    "channel": {
+     "name": "Techy Pathshala",
+     "link": "https://www.youtube.com/@TechyPathshala",
+     "thumbnail": "https://yt3.ggpht.com/YUJG-QmAGDR0AZtUJMGAkjqvvNwe08UZNi-l_PNRyYiUhJxiVEQ1kKRk09u7l2dxkAeyfrz9=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "ub0xGVh9IUw",
+    "link": "https://www.youtube.com/watch?v=ub0xGVh9IUw&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ub0xGVh9IUw",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ub0xGVh9IUw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBq6SjQGOl4iY0lJnkIeA1JZkQK9Q",
+     "rich": "https://i.ytimg.com/an_webp/ub0xGVh9IUw/mqdefault_6s.webp?du=3000&sqp=COCyn9YG&rs=AOn4CLACYF20JsAMFBEVlVnhGf58BZga4A"
+    },
+    "title": "Best TWS Under 2500 & 3000 in Amazon Flipkart Sale - Ranking Worst to Best !",
+    "published_date": "3mo ago",
+    "views": "412K",
+    "extracted_views": 412000,
+    "channel": {
+     "name": "TechBar",
+     "link": "https://www.youtube.com/@TechBar",
+     "thumbnail": "https://yt3.ggpht.com/TQ3e9Ye1BqlarAIyngEWlrKVyCVQpNYMiGUsE5PZSXjQ94cPXb01HfdCFpovzn_JMyUO8e4o=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "zRgJJ-UqRek",
+    "link": "https://www.youtube.com/watch?v=zRgJJ-UqRek",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zRgJJ-UqRek",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/zRgJJ-UqRek/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA58S5K0l2x8oFw7KPDuCE0bBe_aw",
+     "rich": "https://i.ytimg.com/an_webp/zRgJJ-UqRek/mqdefault_6s.webp?du=3000&sqp=CIfLn9YG&rs=AOn4CLAXI5cwOignKMk1JIsnpUX2V2zEdw"
+    },
+    "title": "15 Best Earbuds Deals from Amazon Great Indian Festival & Flipkart Big Billion Days 2026 ⚡⚡",
+    "published_date": "14h ago",
+    "views": "63K",
+    "extracted_views": 63000,
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech",
+     "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "yDgmNs4I1BE",
+    "link": "https://www.youtube.com/watch?v=yDgmNs4I1BE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yDgmNs4I1BE",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/yDgmNs4I1BE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCze_Blhc0vRx8PiKRKGhRi_wuP1g",
+     "rich": "https://i.ytimg.com/an_webp/yDgmNs4I1BE/mqdefault_6s.webp?du=3000&sqp=CJPqn9YG&rs=AOn4CLAjb8Cn45CZWuftASBB2guDNQgV4g"
+    },
+    "title": "vivo V80 Unboxing & Quick Review ⚡ 144Hz, SD 7 Gen 4, 3X Zeiss Tele 📸, 7200mAh & More",
+    "published_date": "2d ago",
+    "views": "1.9M",
+    "extracted_views": 1900000,
+    "channel": {
+     "name": "Trakin Tech",
+     "link": "https://www.youtube.com/@TrakinTech",
+     "thumbnail": "https://yt3.ggpht.com/CoxkM-bkUecdch2e4R7gaa5gyMAqrhKrYqyjTL0_kkJ1lUb44-cNA5tAOYKX1jAk1OVEU1qO6g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "Jvjh6I7NCVk",
+    "link": "https://www.youtube.com/watch?v=Jvjh6I7NCVk",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Jvjh6I7NCVk",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/Jvjh6I7NCVk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCliGHxiYk4HlM2jH-fdJcx3S6QxA",
+     "rich": "https://i.ytimg.com/an_webp/Jvjh6I7NCVk/mqdefault_6s.webp?du=3000&sqp=CLLSn9YG&rs=AOn4CLD7gj1tiyuWDcBdMFbAuHnAb0SC_w"
+    },
+    "title": "Best earbuds under 3000 ⚡| don't buy before watching this #TechDoctor #techreview #earbuds #gadgets ",
+    "published_date": "13d ago",
+    "views": "1K",
+    "extracted_views": 1000,
+    "channel": {
+     "name": "Tech Doctor ",
+     "link": "https://www.youtube.com/@TechDocto.r",
+     "thumbnail": "https://yt3.ggpht.com/o5uKGUDi2I5Nw-efHkNQ8_KE_zQE4JzLqOxKzUPc7HauAR1YSs_j0G2Jx1B-DlBlsTTVIkoTww=s68-c-k-c0x00ffffff-no-rj"
+    }
+   },
+   {
+    "video_id": "IGx2EfAChsQ",
+    "link": "https://www.youtube.com/watch?v=IGx2EfAChsQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IGx2EfAChsQ",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/IGx2EfAChsQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBWFNpd18V_flooi13PBBmCBBiG5Q",
+     "rich": "https://i.ytimg.com/an_webp/IGx2EfAChsQ/mqdefault_6s.webp?du=3000&sqp=CKDPn9YG&rs=AOn4CLCZ2r9iqIeAlSqpoGPTJL2H4nh8eg"
+    },
+    "title": "Top 5 Best Earbuds Under 2000 🔥 Amazon Great Indian Festival & Flipkart Big Billion Days 2026 ⚡",
+    "published_date": "9d ago",
+    "views": "74K",
+    "extracted_views": 74000,
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech",
+     "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "EcRFpcNpVdI",
+    "link": "https://www.youtube.com/watch?v=EcRFpcNpVdI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EcRFpcNpVdI",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/EcRFpcNpVdI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCc-p6TiMlwBtZopZDdFuQ3RoDEfg",
+     "rich": "https://i.ytimg.com/an_webp/EcRFpcNpVdI/mqdefault_6s.webp?du=3000&sqp=CKK8n9YG&rs=AOn4CLBmib6ZJTzsIsYE-Ey6n7hQUCaYIg"
+    },
+    "title": "30 GADGET DEALS You Should Buy NOW!",
+    "published_date": "2h ago",
+    "views": "23K",
+    "extracted_views": 23000,
+    "channel": {
+     "name": "TechWiser",
+     "link": "https://www.youtube.com/@techwiser",
+     "thumbnail": "https://yt3.ggpht.com/dbqVd_qDsNJLWqrUFB0vOxSbhzRaOG_yxEbiX573Hd3mHinEjj-JYmXlENvkKeQxaZ9sudwvgRw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "JoZ3PbccBOw",
+    "link": "https://www.youtube.com/watch?v=JoZ3PbccBOw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JoZ3PbccBOw",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/JoZ3PbccBOw/hqdefault_custom_2.jpg?sqp=COzun9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB1KYGZm36O8F-UQJLTZfvHH7vREA",
+     "rich": "https://i.ytimg.com/an_webp/JoZ3PbccBOw/mqdefault_6s.webp?du=3000&sqp=CODZn9YG&rs=AOn4CLAEjYdrJg0IJkMN-4axscrpwXeN1g"
+    },
+    "title": "Don’t Waste Money! Best TWS Under ₹10,000 (And What to Avoid ❌) #notsponsored",
+    "published_date": "9d ago",
+    "views": "49K",
+    "extracted_views": 49000,
+    "channel": {
+     "name": "Techy Pathshala",
+     "link": "https://www.youtube.com/@TechyPathshala",
+     "thumbnail": "https://yt3.ggpht.com/YUJG-QmAGDR0AZtUJMGAkjqvvNwe08UZNi-l_PNRyYiUhJxiVEQ1kKRk09u7l2dxkAeyfrz9=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "qa7Jp4aKgz0",
+    "link": "https://www.youtube.com/watch?v=qa7Jp4aKgz0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qa7Jp4aKgz0",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/qa7Jp4aKgz0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDS2psr-VDYCEV2d3evYNRNJcwAqQ",
+     "rich": "https://i.ytimg.com/an_webp/qa7Jp4aKgz0/mqdefault_6s.webp?du=3000&sqp=CLLKn9YG&rs=AOn4CLCJsbZOUZNe6VrbsZgljVP2Chg_yA"
+    },
+    "title": "Amazon Great Indian Festival & Flipkart Big Billion Days Best Headphone Deals Between 4000 to 7000",
+    "published_date": "16h ago",
+    "views": "11K",
+    "extracted_views": 11000,
+    "channel": {
+     "name": "DESi CONSUMEr",
+     "link": "https://www.youtube.com/@desiconsumer",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lpSXM9uUJ-gCMY_k_z0V8u4pS2ViO5ojV-Q0iX2thmNyI=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "LZ1-yOisx1Y",
+    "link": "https://www.youtube.com/watch?v=LZ1-yOisx1Y",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LZ1-yOisx1Y",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/LZ1-yOisx1Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAX83dpTQE492LI8Jymwux9sKjRPQ",
+     "rich": "https://i.ytimg.com/an_webp/LZ1-yOisx1Y/mqdefault_6s.webp?du=3000&sqp=COTbn9YG&rs=AOn4CLBRhFMauAclkoWoOENMMZ84jgIQCA"
+    },
+    "title": "Don't Buy Before Watching! 😲🔥 OnePlus Nord Buds 4 vs OPPO Enco Air5 vs Realme Buds T500 Pro⚡⚡",
+    "published_date": "2mo ago",
+    "views": "32K",
+    "extracted_views": 32000,
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech",
+     "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "pL3xeFqZxvg",
+    "link": "https://www.youtube.com/watch?v=pL3xeFqZxvg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pL3xeFqZxvg",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/pL3xeFqZxvg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDc_e-DCSstm6SzlWZUze91g0jfyQ",
+     "rich": "https://i.ytimg.com/an_webp/pL3xeFqZxvg/mqdefault_6s.webp?du=3000&sqp=CMDen9YG&rs=AOn4CLCnqBFiJf5DPEIyOOxLs2QoGRDZWg"
+    },
+    "title": "Best Smartphone to Buy - My Clear Suggestion (2026)",
+    "published_date": "1d ago",
+    "views": "1.1M",
+    "extracted_views": 1100000,
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy",
+     "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "2HGcUpoXCdI",
+    "link": "https://www.youtube.com/watch?v=2HGcUpoXCdI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2HGcUpoXCdI",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/2HGcUpoXCdI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBElrgcJYAXYEpt2Pz4iKWsFzMAAw",
+     "rich": "https://i.ytimg.com/an_webp/2HGcUpoXCdI/mqdefault_6s.webp?du=3000&sqp=CNTsn9YG&rs=AOn4CLB13zemKlYpHmFA6hOk4YQ5y74HmQ"
+    },
+    "title": "Top 5 Best Earbuds Under 5000 🔥 Amazon Great Indian Festival & Flipkart Big Billion Days 2026 ⚡",
+    "published_date": "2d ago",
+    "views": "41K",
+    "extracted_views": 41000,
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech",
+     "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "taZ0KMthpZs",
+    "link": "https://www.youtube.com/watch?v=taZ0KMthpZs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=taZ0KMthpZs",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/taZ0KMthpZs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLANFRh_FQq9HHFEKc3q8vOWkGyFxg",
+     "rich": "https://i.ytimg.com/an_webp/taZ0KMthpZs/mqdefault_6s.webp?du=3000&sqp=CN_on9YG&rs=AOn4CLA7DORue64X6j2ghT4L4YYzh47SQg"
+    },
+    "title": "My FAVORITE Phone DEALS in Amazon & Flipkart SALE ! *NO CONFUSION*",
+    "published_date": "1d ago",
+    "views": "469K",
+    "extracted_views": 469000,
+    "channel": {
+     "name": "TechBar",
+     "link": "https://www.youtube.com/@TechBar",
+     "thumbnail": "https://yt3.ggpht.com/TQ3e9Ye1BqlarAIyngEWlrKVyCVQpNYMiGUsE5PZSXjQ94cPXb01HfdCFpovzn_JMyUO8e4o=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "_BrqNWJYoOI",
+    "link": "https://www.youtube.com/watch?v=_BrqNWJYoOI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_BrqNWJYoOI",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/_BrqNWJYoOI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAp8Nu1KapzHOQplJEIdOSd-dJVQQ",
+     "rich": "https://i.ytimg.com/an_webp/_BrqNWJYoOI/mqdefault_6s.webp?du=3000&sqp=CNDen9YG&rs=AOn4CLCwkXB6_p4o8Hzziu26J_AcWBgZqQ"
+    },
+    "title": "Moto Buds 2 Fusion VS realme Buds T310 🔥⚡ Which TWS Earbuds Should You Buy ??",
+    "published_date": "2w ago",
+    "views": "41K",
+    "extracted_views": 41000,
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech",
+     "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "3URLYiV5hUY",
+    "link": "https://www.youtube.com/watch?v=3URLYiV5hUY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3URLYiV5hUY",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/3URLYiV5hUY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC8lFGUPL9DGXJekflX77s5OMtcBA",
+     "rich": "https://i.ytimg.com/an_webp/3URLYiV5hUY/mqdefault_6s.webp?du=3000&sqp=CIbHn9YG&rs=AOn4CLATvN5eia4T157BYiLNZK1XHl9nVA"
+    },
+    "title": "Stop Buying TWS! ⚡️ Best IEMs Under ₹1500 & ₹2000 in India (2026)",
+    "published_date": "3mo ago",
+    "views": "1.4M",
+    "extracted_views": 1400000,
+    "channel": {
+     "name": "Trakin Tech",
+     "link": "https://www.youtube.com/@TrakinTech",
+     "thumbnail": "https://yt3.ggpht.com/CoxkM-bkUecdch2e4R7gaa5gyMAqrhKrYqyjTL0_kkJ1lUb44-cNA5tAOYKX1jAk1OVEU1qO6g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "lUzg1YBUNDo",
+    "link": "https://www.youtube.com/watch?v=lUzg1YBUNDo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lUzg1YBUNDo",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lUzg1YBUNDo/hqdefault_custom_1.jpg?sqp=COzun9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBBOdn1BcM8QVjrpvPqixIAebqmwg",
+     "rich": "https://i.ytimg.com/an_webp/lUzg1YBUNDo/mqdefault_6s.webp?du=3000&sqp=CLLhn9YG&rs=AOn4CLBo5ZId5H9kR7-1RMKD0GhvTu13Ug"
+    },
+    "title": "My Final Picks : Flipkart BBD & Amazon GIF Sale | DON'T SKIP 🚨",
+    "published_date": "1d ago",
+    "views": "278K",
+    "extracted_views": 278000,
+    "channel": {
+     "name": "Techno Ruhez",
+     "link": "https://www.youtube.com/@TechnoRuhez",
+     "thumbnail": "https://yt3.ggpht.com/QRorXoNjkwDgFhrnplEqz189m9qAgdM3aglBMM4Eat3dULvqu2fyutNchcB_U8REOd83LmYWqyY=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "8Jpa8St7XHI",
+    "link": "https://www.youtube.com/watch?v=8Jpa8St7XHI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8Jpa8St7XHI",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/8Jpa8St7XHI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBA0JY3rBQQwU_KA-xGuDukxTSj4g",
+     "rich": "https://i.ytimg.com/an_webp/8Jpa8St7XHI/mqdefault_6s.webp?du=3000&sqp=CMDjn9YG&rs=AOn4CLBEQtaGXwPVdjyhxehE9t5AB74Hvg"
+    },
+    "title": "Realme Buds Air 8 Pro Vs Oneplus Buds 4 Detailed Comparison After Long Usage | Best TWS Under ₹6000",
+    "published_date": "10d ago",
+    "views": "15K",
+    "extracted_views": 15000,
+    "channel": {
+     "name": "B Inside",
+     "link": "https://www.youtube.com/@BINSIDE",
+     "thumbnail": "https://yt3.ggpht.com/Z2FMffRdFtbqwh6_TL_kWTFRRfW_gQOOziy9svlF3px8zV2PqOpoTCiZXtrbFHidmIg4FLwg=s68-c-k-c0x00ffffff-no-rj"
+    }
+   },
+   {
+    "video_id": "v0lbllsUY5E",
+    "link": "https://www.youtube.com/watch?v=v0lbllsUY5E",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=v0lbllsUY5E",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/v0lbllsUY5E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTAzKSSz6A24H85yIGkpv5dzK2pQ",
+     "rich": "https://i.ytimg.com/an_webp/v0lbllsUY5E/mqdefault_6s.webp?du=3000&sqp=CLS0n9YG&rs=AOn4CLDheqlR7Of7vxU7nNqY59AI1BogTw"
+    },
+    "title": "I Sent a Stranger to Buy a ₹1 Lakh Gaming PC",
+    "published_date": "2d ago",
+    "views": "251K",
+    "extracted_views": 251000,
+    "channel": {
+     "name": "Techbeast",
+     "link": "https://www.youtube.com/@Techbeast25",
+     "thumbnail": "https://yt3.ggpht.com/k3oLkYs1k_KHt9hIVKtMxRdlMeAAo2k1LYFw2dJnKcT5Dg3Z9SBdJGgFvlvucgWvxtBOcJNYQg=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "ockySTChv0s",
+    "link": "https://www.youtube.com/watch?v=ockySTChv0s",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ockySTChv0s",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ockySTChv0s/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAfVAIP-ZC-beipRr43C3f5hYOR_w",
+     "rich": "https://i.ytimg.com/an_webp/ockySTChv0s/mqdefault_6s.webp?du=3000&sqp=CK7Fn9YG&rs=AOn4CLD0NDomp1ySywiMDFr4XJ3cLCbRTQ"
+    },
+    "title": "DONT BUY Trash⚡️Only 6 Best TWS Earbuds Under 1500 In BBD Sale & Amazon Great Indian Festival SALE",
+    "published_date": "13d ago",
+    "views": "108K",
+    "extracted_views": 108000,
+    "channel": {
+     "name": "Techum",
+     "link": "https://www.youtube.com/@techum",
+     "thumbnail": "https://yt3.ggpht.com/uqtH0iB69sHBFMnwZvIURRWra9S9-L-Q9EbEizi1Fpjb3s1YfD8EUx3ErB_Xj6CVw5FlVWAm=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "YzEnFZvfc6Q",
+    "link": "https://www.youtube.com/watch?v=YzEnFZvfc6Q",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YzEnFZvfc6Q",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/YzEnFZvfc6Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC0eaa7BgeD_p-JehhmCNILaUUVAQ",
+     "rich": "https://i.ytimg.com/an_webp/YzEnFZvfc6Q/mqdefault_6s.webp?du=3000&sqp=CJjUn9YG&rs=AOn4CLB4mY1n2Z-d8AiFmMMjwPHiTNZnPg"
+    },
+    "title": "Don’t Buy Realme Earbuds Before Watching This! 😲🔥 Realme Buds T500 Pro vs Air 7 vs Air 8 ⚡⚡",
+    "published_date": "5mo ago",
+    "views": "91K",
+    "extracted_views": 91000,
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech",
+     "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   }
+  ],
+  "related_videos_next_page_token": "CBQSKRILSjltLVUxSnFWckHAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAq-hAyczZMNnd6VURBclJEQW9EOGo0QUNnM0NQZ29JcmFYNDlwMjVub3MxQ2dQeVBnQUtEc0ktQ3dqTXd2VERsYVBNM3JrQkNnUHlQZ0FLRHNJLUN3anBpNm1wX3FTQ2pNMEJDZ1B5UGdBS0RzSS1Dd2lScUtQdzdNYUpuTWdCQ2dQeVBnQUtEY0ktQ2dqWmtyVDJpTDI0X0NZS0FfSS1BQW9Od2o0S0NNU05pb0Nmd3AyMklBb0Q4ajRBQ2czQ1Bnb0kwcXVsbTl5MGtlSVJDZ1B5UGdBS0RjSS1DZ2pzaWZDNDItZWR3eVlLQV9JLUFBb093ajRMQ0wyR3FyVDR0TExYcVFFS0FfSS1BQW9Od2o0S0NOYU9zOFdPMmRfT0xRb0Q4ajRBQ2c3Q1Bnc0ktSTNuMUlXdl9ONmtBUW9EOGo0QUNnN0NQZ3NJMHBQYzBLbUs1N2pZQVFvRDhqNEFDZzdDUGdzSW04dUcyNHlGbmRPMUFRb0Q4ajRBQ2c3Q1Bnc0k0c0hpa3RiR3VvMzhBUW9EOGo0QUNnN0NQZ3NJeG9ybXE2THNrcUxkQVFvRDhqNEFDZzdDUGdzSXV1alFndGlhdUthVkFRb0Q4ajRBQ2c3Q1Bnc0k4cmp0MjVMZWxzM3dBUW9EOGo0QUNnN0NQZ3NJa2NmUjJPWHkxcVNfQVFvRDhqNEFDZzdDUGdzSXlfNkdoWlBKek9TaEFRb0Q4ajRBQ2czQ1Bnb0lwT2Y5M3RuaXlaaGpDZ1B5UGdBS0dwb19Gd29WVDN3eU56UXdPRFkwTWpBeE5qRXlNVFV5TXpNMENocWFQeGNLRlU5OE9ESTJPRFU0TXpJeU9EWXdOREV5TmpjeU1Bb2JtajhZQ2haUGZERXdNemcwTURJeU1qRXhOVFkzT1RZMk5qTTJDaHFhUHhjS0ZVOThOelF4TVRRM05EUTJOak14T1RFek56TXlOd29hbWo4WENoVlBmRGt5TlRNeU9URTFOVGMxTXpJNU5qTTRPRFVLRzVvX0dBb1dUM3d4Tnpjd05URTNOalEyTWpZMU16SXpORGM1TUFvYW1qOFhDaFZQZkRjNE1qRTJOalkyTVRBMU1UVTNOVEl5TnpBS0c1b19HQW9XVDN3eE56Z3hPRFE0TlRnMU1qSTVNVGN4TXpnMU1Bb2FtajhYQ2hWUGZEUTJNRGs1TmpZeU9ERTVOalkzTmprNU5EZ0tHcG9fRndvVlQzdzRNemM1T0RBeE9EWTROekl3T1RReU5ERXhDaHVhUHhnS0ZrOThNVGMzTXpRek1ETTVNVE13TlRZMU5qVXlOelVLRzVvX0dBb1dUM3d4TkRNMU16Y3pORFV4TURreU5UVXdPRGc1TndvWm1qOFdDaFJQZkRjME1UWTJOemt4TXpJd05UWXhNekkzTkFvYW1qOFhDaFZQZkRRM05qZ3hORGN4TVRnNE16TTRPVGd3TWpRS0c1b19HQW9XVDN3eE1qWTNPVGcxTURRNE9EQTBOall6TXpjMU9Rb2FtajhYQ2hWUGZESTRNakV4TkRVek9UVXpNelE1TWpFME9EZ0tHNW9fR0FvV1Qzd3hOemszTXpZek9ESXlPVFl5TlRjek1qRTVNd29ibWo4WUNoWlBmREUzTVRjME56UTRNelkyTkRZeE16WTJNek16Q2h1YVB4Z0tGazk4TVRjNU5EY3dNVFkxTURVNU1Ua3hNVFl5TURFS0dab19GZ29VVDN3Mk16QTJORGcxT0RNek5USTVOalUyTmpZS0dwb19Gd29WVDN3Mk1EVTVOakkwTlRNME16azVOamswTlRJMENocWFQeGNLRlU5OE5qWTJNakF5TnpFM09UZzNNRGswTURjeU1nb0Q4ajRBQ2dQeVBnQVNGd0FDQkFZSUNnd09FQklVRmhnYUhCNGdJaVFtS0Q5QUdnUUlBQkFCR2dRSUFoQURHZ1FJQkJBRkdnUUlCaEFIR2dRSUNCQUpHZ1FJQ2hBTEdnUUlEQkFOR2dRSURoQVBHZ1FJRUJBUkdnUUlFaEFUR2dRSUZCQVZHZ1FJRmhBWEdnUUlHQkFaR2dRSUdoQWJHZ1FJSEJBZEdnUUlIaEFmR2dRSUlCQWhHZ1FJSWhBakdnUUlKQkFsR2dRSUpoQW5HZ1FJS0JBcEdnUUlLQkFxR2dRSUtCQXJHZ1FJS0JBc0dnUUlLQkF0R2dRSUtCQXVHZ1FJS0JBdkdnUUlLQkF3R2dRSUtCQXhHZ1FJS0JBeUdnUUlLQkF6R2dRSUtCQTBHZ1FJS0JBMUdnUUlLQkEyR2dRSUtCQTNHZ1FJS0JBNEdnUUlLQkE1R2dRSUtCQTZHZ1FJS0JBN0dnUUlLQkE4R2dRSUtCQTlHZ1FJS0JBLUdnUUlQeEFwR2dRSVB4QXFHZ1FJUHhBckdnUUlQeEFzR2dRSVB4QXRHZ1FJUHhBdUdnUUlQeEF2R2dRSVB4QXdHZ1FJUHhBeEdnUUlQeEF5R2dRSVB4QXpHZ1FJUHhBMEdnUUlQeEExR2dRSVB4QTJHZ1FJUHhBM0dnUUlQeEE0R2dRSVB4QTVHZ1FJUHhBNkdnUUlQeEE3R2dRSVB4QThHZ1FJUHhBOUdnUUlQeEEtR2dRSVFCQXBHZ1FJUUJBcUdnUUlRQkFyR2dRSVFCQXNHZ1FJUUJBdEdnUUlRQkF1R2dRSVFCQXZHZ1FJUUJBd0dnUUlRQkF4R2dRSVFCQXlHZ1FJUUJBekdnUUlRQkEwR2dRSVFCQTFHZ1FJUUJBMkdnUUlRQkEzR2dRSVFCQTRHZ1FJUUJBNUdnUUlRQkE2R2dRSVFCQTdHZ1FJUUJBOEdnUUlRQkE5R2dRSVFCQS1LaGNBQWdRR0NBb01EaEFTRkJZWUdod2VJQ0lrSmlnX1FBag93YXRjaC1uZXh0LWZlZWQ%3D",
+  "end_screen_videos": [
+   {
+    "video_id": "NRZ5yd7eEq0",
+    "link": "https://www.youtube.com/watch?v=NRZ5yd7eEq0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NRZ5yd7eEq0",
+    "thumbnail": "https://i.ytimg.com/vi/NRZ5yd7eEq0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDd3hu0kLXIoQC-T_1Yox3_GatrIQ",
+    "title": "I Bought 12 Earbuds With My Own Money - Only Half Are Worth It! #notsponsored",
+    "published_date": "3 days ago",
+    "views": "80K views",
+    "extracted_views": 80000,
+    "length": "8:38",
+    "channel": {
+     "name": "Techy Pathshala",
+     "link": "https://www.youtube.com/@TechyPathshala"
+    }
+   },
+   {
+    "video_id": "ub0xGVh9IUw",
+    "link": "https://www.youtube.com/watch?v=ub0xGVh9IUw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ub0xGVh9IUw",
+    "thumbnail": "https://i.ytimg.com/vi/ub0xGVh9IUw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBq6SjQGOl4iY0lJnkIeA1JZkQK9Q",
+    "title": "Best TWS Under 2500 & 3000 in Amazon Flipkart Sale - Ranking Worst to Best !",
+    "published_date": "3 months ago",
+    "views": "412K views",
+    "extracted_views": 412000,
+    "length": "11:34",
+    "channel": {
+     "name": "TechBar",
+     "link": "https://www.youtube.com/@TechBar"
+    }
+   },
+   {
+    "video_id": "zRgJJ-UqRek",
+    "link": "https://www.youtube.com/watch?v=zRgJJ-UqRek",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zRgJJ-UqRek",
+    "thumbnail": "https://i.ytimg.com/vi/zRgJJ-UqRek/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA58S5K0l2x8oFw7KPDuCE0bBe_aw",
+    "title": "15 Best Earbuds Deals from Amazon Great Indian Festival & Flipkart Big Billion Days 2026 ⚡⚡",
+    "published_date": "14 hours ago",
+    "views": "63K views",
+    "extracted_views": 63000,
+    "length": "10:19",
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech"
+    }
+   },
+   {
+    "video_id": "yDgmNs4I1BE",
+    "link": "https://www.youtube.com/watch?v=yDgmNs4I1BE&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yDgmNs4I1BE",
+    "thumbnail": "https://i.ytimg.com/vi/yDgmNs4I1BE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCze_Blhc0vRx8PiKRKGhRi_wuP1g",
+    "title": "vivo V80 Unboxing & Quick Review ⚡ 144Hz, SD 7 Gen 4, 3X Zeiss Tele 📸, 7200mAh & More",
+    "published_date": "2 days ago",
+    "views": "1.9M views",
+    "extracted_views": 1900000,
+    "length": "13:20",
+    "channel": {
+     "name": "Trakin Tech",
+     "link": "https://www.youtube.com/@TrakinTech"
+    }
+   },
+   {
+    "video_id": "Jvjh6I7NCVk",
+    "link": "https://www.youtube.com/watch?v=Jvjh6I7NCVk",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Jvjh6I7NCVk",
+    "thumbnail": "https://i.ytimg.com/vi/Jvjh6I7NCVk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCliGHxiYk4HlM2jH-fdJcx3S6QxA",
+    "title": "Best earbuds under 3000 ⚡| don't buy before watching this #TechDoctor #techreview #earbuds #gadgets ",
+    "published_date": "13 days ago",
+    "views": "1K views",
+    "extracted_views": 1000,
+    "length": "5:48",
+    "channel": {
+     "name": "Tech Doctor ",
+     "link": "https://www.youtube.com/@TechDocto.r"
+    }
+   },
+   {
+    "video_id": "IGx2EfAChsQ",
+    "link": "https://www.youtube.com/watch?v=IGx2EfAChsQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IGx2EfAChsQ",
+    "thumbnail": "https://i.ytimg.com/vi/IGx2EfAChsQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBWFNpd18V_flooi13PBBmCBBiG5Q",
+    "title": "Top 5 Best Earbuds Under 2000 🔥 Amazon Great Indian Festival & Flipkart Big Billion Days 2026 ⚡",
+    "published_date": "9 days ago",
+    "views": "74K views",
+    "extracted_views": 74000,
+    "length": "10:28",
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech"
+    }
+   },
+   {
+    "video_id": "EcRFpcNpVdI",
+    "link": "https://www.youtube.com/watch?v=EcRFpcNpVdI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EcRFpcNpVdI",
+    "thumbnail": "https://i.ytimg.com/vi/EcRFpcNpVdI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCc-p6TiMlwBtZopZDdFuQ3RoDEfg",
+    "title": "30 GADGET DEALS You Should Buy NOW!",
+    "published_date": "2 hours ago",
+    "views": "23K views",
+    "extracted_views": 23000,
+    "length": "13:36",
+    "channel": {
+     "name": "TechWiser",
+     "link": "https://www.youtube.com/@techwiser"
+    }
+   },
+   {
+    "video_id": "JoZ3PbccBOw",
+    "link": "https://www.youtube.com/watch?v=JoZ3PbccBOw&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JoZ3PbccBOw",
+    "thumbnail": "https://i.ytimg.com/vi/JoZ3PbccBOw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtAGapgzsRGAZX0Hw-itafWDRH_A",
+    "title": "Don’t Waste Money! Best TWS Under ₹10,000 (And What to Avoid ❌) #notsponsored",
+    "published_date": "9 days ago",
+    "views": "49K views",
+    "extracted_views": 49000,
+    "length": "7:35",
+    "channel": {
+     "name": "Techy Pathshala",
+     "link": "https://www.youtube.com/@TechyPathshala"
+    }
+   },
+   {
+    "video_id": "qa7Jp4aKgz0",
+    "link": "https://www.youtube.com/watch?v=qa7Jp4aKgz0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qa7Jp4aKgz0",
+    "thumbnail": "https://i.ytimg.com/vi/qa7Jp4aKgz0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDS2psr-VDYCEV2d3evYNRNJcwAqQ",
+    "title": "Amazon Great Indian Festival & Flipkart Big Billion Days Best Headphone Deals Between 4000 to 7000",
+    "published_date": "16 hours ago",
+    "views": "11K views",
+    "extracted_views": 11000,
+    "length": "17:56",
+    "channel": {
+     "name": "DESi CONSUMEr",
+     "link": "https://www.youtube.com/@desiconsumer"
+    }
+   },
+   {
+    "video_id": "LZ1-yOisx1Y",
+    "link": "https://www.youtube.com/watch?v=LZ1-yOisx1Y",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LZ1-yOisx1Y",
+    "thumbnail": "https://i.ytimg.com/vi/LZ1-yOisx1Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAX83dpTQE492LI8Jymwux9sKjRPQ",
+    "title": "Don't Buy Before Watching! 😲🔥 OnePlus Nord Buds 4 vs OPPO Enco Air5 vs Realme Buds T500 Pro⚡⚡",
+    "published_date": "2 months ago",
+    "views": "32K views",
+    "extracted_views": 32000,
+    "length": "15:42",
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech"
+    }
+   },
+   {
+    "video_id": "pL3xeFqZxvg",
+    "link": "https://www.youtube.com/watch?v=pL3xeFqZxvg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pL3xeFqZxvg",
+    "thumbnail": "https://i.ytimg.com/vi/pL3xeFqZxvg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDc_e-DCSstm6SzlWZUze91g0jfyQ",
+    "title": "Best Smartphone to Buy - My Clear Suggestion (2026)",
+    "published_date": "1 day ago",
+    "views": "1.1M views",
+    "extracted_views": 1100000,
+    "length": "19:36",
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy"
+    }
+   },
+   {
+    "video_id": "2HGcUpoXCdI",
+    "link": "https://www.youtube.com/watch?v=2HGcUpoXCdI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2HGcUpoXCdI",
+    "thumbnail": "https://i.ytimg.com/vi/2HGcUpoXCdI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBElrgcJYAXYEpt2Pz4iKWsFzMAAw",
+    "title": "Top 5 Best Earbuds Under 5000 🔥 Amazon Great Indian Festival & Flipkart Big Billion Days 2026 ⚡",
+    "published_date": "2 days ago",
+    "views": "41K views",
+    "extracted_views": 41000,
+    "length": "10:17",
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech"
+    }
+   }
+  ],
+  "comments_next_page_token": "Eg0SC0o5bS1VMUpxVnJBGAYyJSIRIgtKOW0tVTFKcVZyQTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+  "comments_sorting_token": [
+   {
+    "title": "Top",
+    "token": "Eg0SC0o5bS1VMUpxVnJBGAYyVSIuIgtKOW0tVTFKcVZyQTAAeAKqAhpVZ3hnQ2pxdnNrbUlSeXFfcUxoNEFhQUJBZzABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+   },
+   {
+    "title": "Newest",
+    "token": "Eg0SC0o5bS1VMUpxVnJBGAYyOCIRIgtKOW0tVTFKcVZyQTABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+   }
+  ],
+  "transcript": {
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=J9m-U1JqVrA"
+  }
+ }
+}

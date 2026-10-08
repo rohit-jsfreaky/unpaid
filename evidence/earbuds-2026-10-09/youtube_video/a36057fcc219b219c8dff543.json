@@ -1,0 +1,824 @@
+{
+ "request": {
+  "engine": "youtube_video",
+  "gl": "in",
+  "hl": "en",
+  "v": "OlBoZUjtvKE"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7f79fa7d784b35eff5473",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/39Gnu2xDAfuOBmqj3NdEIkygeFgdhNJZ-EnlSgab-18/6ac7f79fa7d784b35eff5473.json",
+   "markdown_endpoint": "https://serpapi.com/searches/39Gnu2xDAfuOBmqj3NdEIkygeFgdhNJZ-EnlSgab-18/6ac7f79fa7d784b35eff5473.md",
+   "created_at": "2026-10-08 20:05:51 UTC",
+   "processed_at": "2026-10-08 20:05:51 UTC",
+   "youtube_video_url": "https://www.youtube.com/watch?v=OlBoZUjtvKE",
+   "raw_html_file": "https://serpapi.com/searches/39Gnu2xDAfuOBmqj3NdEIkygeFgdhNJZ-EnlSgab-18/6ac7f79fa7d784b35eff5473.html",
+   "prettify_html_file": "https://serpapi.com/searches/39Gnu2xDAfuOBmqj3NdEIkygeFgdhNJZ-EnlSgab-18/6ac7f79fa7d784b35eff5473.prettify",
+   "total_time_taken": 2.27
+  },
+  "search_parameters": {
+   "engine": "youtube_video",
+   "v": "OlBoZUjtvKE",
+   "gl": "in",
+   "hl": "en"
+  },
+  "title": "I Tested the the BEST Earbuds Under ₹3,000– Here's the Winner🔥",
+  "thumbnail": "https://i.ytimg.com/vi/OlBoZUjtvKE/maxresdefault.jpg",
+  "channel": {
+   "name": "Tech Maan",
+   "thumbnail": "https://yt3.ggpht.com/4DOll01ukNc75ewfPXJPoaLD3kkFlaqto1mt205k5Kl4mtMBCAlP4_mJPtTfLeG6Bk4piLc20xo=s176-c-k-c0x00ffffff-no-rj",
+   "link": "https://www.youtube.com/@TechMaan22",
+   "subscribers": "37.8K subscribers",
+   "extracted_subscribers": 37800
+  },
+  "views": "14,571 views",
+  "extracted_views": 14571,
+  "likes": "84",
+  "extracted_likes": 84,
+  "published_date": "Sep 11, 2026",
+  "description": {
+   "content": "Hello friends in this video we discuss about Best TWS Earbuds Under 3000 in 2026...\n\n#earbuds #tws #twsearbuds #bestearbuds #bestearbuds2026 #techmaan\n\n\nThanks for watching! 🙌\nHere are the TWS Earbuds featured in this video 🔗:\nOnePlus Nord Buds 3 Pro - https://link.amazon/B0aju290c\nRealme Buds T500 Pro - https://link.amazon/B0j0ucvCY\nCMF Buds 2 Plus - https://link.amazon/B0iNAj0tO\nOppo Enco Buds Air 5 - https://link.amazon/B00e5BsMm\nRealme Buds Air 7 - https://link.amazon/B0dLuUjjl\n\nPlease HYPE the video if you found it helpful, so it can reach more people! 😃\n\n\nYour Queries:-\nbest earbuds under 3000\nearbuds under 3000\nbest tws under 3000\ntws under 3000\nbest buds under 3000\nbest earbuds under 3000 in 2026\nbest anc earbuds under 3000\nbest earbuds under 3500\nbest earbuds under 2500\nbest earphones under 3000 rs\nbuds under 3000\nunder 3000 best earbuds 2026\nbest tws under 3000 in 2026\nbest earbuds under 3k\nunder 3000 best erabuds\nbest earbuds 2026\nbest tws 2026\nbest anc earbuds 2026\nbest earbuds\nearbuds\nbest tws\ntws\ntws earbuds\n\n\nTime Stamp - \n00:00 - Best Earbuds Under 3000\n00:55 - Build Quality & Design Comparison\n01:33 - Calling Test Results 🔥\n02:33 - Comfort (Long Hour Use) & Fitting(Running, Gym)\n03:18 - Battery Backup & Fast Charging\n03:50 - Sound Quality Comparison 🔥\n06:07 - Realme Buds T500 Pro vs Realme Buds AIr 7\n07:40 - Gaming Test 🎮\n07:55 - Best ANC Earbuds Under ₹3000?\n09:24 - Bluetooth Connectivity & Dual Pairing\n\nDisclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favor of fair use. \n\nSOURCE: Xiaomi, Huawei, Argus World Plus in,Apple,Iphone,Apple india",
+   "links": [
+    {
+     "start_index": 85,
+     "length": 8,
+     "text": "#earbuds",
+     "url": "https://www.youtube.com/hashtag/earbuds",
+     "type": "browse"
+    },
+    {
+     "start_index": 94,
+     "length": 4,
+     "text": "#tws",
+     "url": "https://www.youtube.com/hashtag/tws",
+     "type": "browse"
+    },
+    {
+     "start_index": 99,
+     "length": 11,
+     "text": "#twsearbuds",
+     "url": "https://www.youtube.com/hashtag/twsearbuds",
+     "type": "browse"
+    },
+    {
+     "start_index": 111,
+     "length": 12,
+     "text": "#bestearbuds",
+     "url": "https://www.youtube.com/hashtag/bestearbuds",
+     "type": "browse"
+    },
+    {
+     "start_index": 124,
+     "length": 16,
+     "text": "#bestearbuds2026",
+     "url": "https://www.youtube.com/hashtag/bestearbuds2026",
+     "type": "browse"
+    },
+    {
+     "start_index": 141,
+     "length": 9,
+     "text": "#techmaan",
+     "url": "https://www.youtube.com/hashtag/techmaan",
+     "type": "browse"
+    },
+    {
+     "start_index": 255,
+     "length": 29,
+     "text": "tps://link.amazon/B0aju290c\nR",
+     "url": "https://link.amazon/B0aju290c"
+    },
+    {
+     "start_index": 308,
+     "length": 29,
+     "text": "tps://link.amazon/B0j0ucvCY\nC",
+     "url": "https://link.amazon/B0j0ucvCY"
+    },
+    {
+     "start_index": 356,
+     "length": 29,
+     "text": "tps://link.amazon/B0iNAj0tO\nO",
+     "url": "https://link.amazon/B0iNAj0tO"
+    },
+    {
+     "start_index": 409,
+     "length": 29,
+     "text": "tps://link.amazon/B00e5BsMm\nR",
+     "url": "https://link.amazon/B00e5BsMm"
+    },
+    {
+     "start_index": 459,
+     "length": 29,
+     "text": "tps://link.amazon/B0dLuUjjl\n\n",
+     "url": "https://link.amazon/B0dLuUjjl"
+    },
+    {
+     "start_index": 1057,
+     "length": 5,
+     "text": "00 - ",
+     "url": "https://www.youtube.com/watch?v=OlBoZUjtvKE",
+     "type": "watch"
+    },
+    {
+     "start_index": 1089,
+     "length": 5,
+     "text": "55 - ",
+     "url": "https://www.youtube.com/watch?v=OlBoZUjtvKE&t=55s",
+     "type": "watch"
+    },
+    {
+     "start_index": 1131,
+     "length": 5,
+     "text": "33 - ",
+     "url": "https://www.youtube.com/watch?v=OlBoZUjtvKE&t=93s",
+     "type": "watch"
+    },
+    {
+     "start_index": 1163,
+     "length": 5,
+     "text": "3 - C",
+     "url": "https://www.youtube.com/watch?v=OlBoZUjtvKE&t=153s",
+     "type": "watch"
+    },
+    {
+     "start_index": 1219,
+     "length": 5,
+     "text": "8 - B",
+     "url": "https://www.youtube.com/watch?v=OlBoZUjtvKE&t=198s",
+     "type": "watch"
+    },
+    {
+     "start_index": 1258,
+     "length": 5,
+     "text": "0 - S",
+     "url": "https://www.youtube.com/watch?v=OlBoZUjtvKE&t=230s",
+     "type": "watch"
+    },
+    {
+     "start_index": 1294,
+     "length": 5,
+     "text": " - Re",
+     "url": "https://www.youtube.com/watch?v=OlBoZUjtvKE&t=367s",
+     "type": "watch"
+    },
+    {
+     "start_index": 1344,
+     "length": 5,
+     "text": " - Ga",
+     "url": "https://www.youtube.com/watch?v=OlBoZUjtvKE&t=460s",
+     "type": "watch"
+    },
+    {
+     "start_index": 1367,
+     "length": 5,
+     "text": "- Bes",
+     "url": "https://www.youtube.com/watch?v=OlBoZUjtvKE&t=475s",
+     "type": "watch"
+    },
+    {
+     "start_index": 1405,
+     "length": 5,
+     "text": "- Blu",
+     "url": "https://www.youtube.com/watch?v=OlBoZUjtvKE&t=564s",
+     "type": "watch"
+    }
+   ]
+  },
+  "chapters": [
+   {
+    "title": "Best Earbuds Under 3000",
+    "thumbnail": "https://i.ytimg.com/vi/OlBoZUjtvKE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC302FDIFVjFBuYPL6UfPWyuvmJTw",
+    "time_start": 0
+   },
+   {
+    "title": "Build Quality & Design Comparison",
+    "thumbnail": "https://i.ytimg.com/vi/OlBoZUjtvKE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC302FDIFVjFBuYPL6UfPWyuvmJTw",
+    "time_start": 55
+   },
+   {
+    "title": "Calling Test Results",
+    "thumbnail": "https://i.ytimg.com/vi/OlBoZUjtvKE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC302FDIFVjFBuYPL6UfPWyuvmJTw",
+    "time_start": 93
+   },
+   {
+    "title": "Comfort (Long Hour Use) & Fitting(Running, Gym)",
+    "thumbnail": "https://i.ytimg.com/vi/OlBoZUjtvKE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC302FDIFVjFBuYPL6UfPWyuvmJTw",
+    "time_start": 153
+   },
+   {
+    "title": "Battery Backup & Fast Charging",
+    "thumbnail": "https://i.ytimg.com/vi/OlBoZUjtvKE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC302FDIFVjFBuYPL6UfPWyuvmJTw",
+    "time_start": 198
+   },
+   {
+    "title": "Sound Quality Comparison",
+    "thumbnail": "https://i.ytimg.com/vi/OlBoZUjtvKE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC302FDIFVjFBuYPL6UfPWyuvmJTw",
+    "time_start": 230
+   },
+   {
+    "title": "Realme Buds T500 Pro vs Realme Buds AIr 7",
+    "thumbnail": "https://i.ytimg.com/vi/OlBoZUjtvKE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC302FDIFVjFBuYPL6UfPWyuvmJTw",
+    "time_start": 367
+   },
+   {
+    "title": "Gaming Test",
+    "thumbnail": "https://i.ytimg.com/vi/OlBoZUjtvKE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC302FDIFVjFBuYPL6UfPWyuvmJTw",
+    "time_start": 460
+   },
+   {
+    "title": "Best ANC Earbuds Under ₹3000?",
+    "thumbnail": "https://i.ytimg.com/vi/OlBoZUjtvKE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC302FDIFVjFBuYPL6UfPWyuvmJTw",
+    "time_start": 475
+   },
+   {
+    "title": "Bluetooth Connectivity & Dual Pairing",
+    "thumbnail": "https://i.ytimg.com/vi/OlBoZUjtvKE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC302FDIFVjFBuYPL6UfPWyuvmJTw",
+    "time_start": 564
+   }
+  ],
+  "related_videos": [
+   {
+    "video_id": "U6L10Kr-BcA",
+    "link": "https://www.youtube.com/watch?v=U6L10Kr-BcA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=U6L10Kr-BcA",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/U6L10Kr-BcA/hqdefault_custom_1.jpg?sqp=COzun9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDhF4WrQVKW38YjXWbKettElM9QRw",
+     "rich": "https://i.ytimg.com/an_webp/U6L10Kr-BcA/mqdefault_6s.webp?du=3000&sqp=CIDMn9YG&rs=AOn4CLCCL0b5dxRrqbnTbDJnN63qEUDJVQ"
+    },
+    "title": "I Tested the Best Open-Ear Earbuds — Here’s What I Found #notsponsored",
+    "published_date": "3w ago",
+    "views": "62K",
+    "extracted_views": 62000,
+    "channel": {
+     "name": "Techy Pathshala",
+     "link": "https://www.youtube.com/@TechyPathshala",
+     "thumbnail": "https://yt3.ggpht.com/YUJG-QmAGDR0AZtUJMGAkjqvvNwe08UZNi-l_PNRyYiUhJxiVEQ1kKRk09u7l2dxkAeyfrz9=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "RZQzNAWl9s4",
+    "link": "https://www.youtube.com/watch?v=RZQzNAWl9s4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RZQzNAWl9s4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/RZQzNAWl9s4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlGBrhYv3twsMtthEYyxo0Gxw9ig",
+     "rich": "https://i.ytimg.com/an_webp/RZQzNAWl9s4/mqdefault_6s.webp?du=3000&sqp=CMa2n9YG&rs=AOn4CLDx-i4G4lRJoqum-9S9f4rw7lTnuw"
+    },
+    "title": "Best TWS Earbuds From ₹1,000 - ₹30,000 in 2026 * Don't Buy Wrong!",
+    "published_date": "1mo ago",
+    "views": "129K",
+    "extracted_views": 129000,
+    "channel": {
+     "name": "Pratima Adhikari",
+     "link": "https://www.youtube.com/@PratimaAdhikariTech",
+     "thumbnail": "https://yt3.ggpht.com/qK-dVoCunyVuryq4yLEIfAB2IsMBUsTEHfXxRg_ZwSt1KxDdpee9L67w0mGgdGeriaUreNYY=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "xINkrYfBIuI",
+    "link": "https://www.youtube.com/watch?v=xINkrYfBIuI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xINkrYfBIuI",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/xINkrYfBIuI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCnl-tI_Fq4-IxtnR1Z7pUxVCuDig",
+     "rich": "https://i.ytimg.com/an_webp/xINkrYfBIuI/mqdefault_6s.webp?du=3000&sqp=COTRn9YG&rs=AOn4CLCdor424AA0E2g-fMH8DE7GOIzcOQ"
+    },
+    "title": "The AKG EO-IG955 Is Trash",
+    "published_date": "1h ago",
+    "views": "255",
+    "extracted_views": 255,
+    "channel": {
+     "name": "Sharur",
+     "link": "https://www.youtube.com/@sharur1",
+     "thumbnail": "https://yt3.ggpht.com/3lZJMyunOLoG8f-vQzCQnOB7h7oagYj75S8QZkIZEKre-c8NM5eUBM1TyWPfBC82n90OjdbH=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "H37enDuO5DI",
+    "link": "https://www.youtube.com/watch?v=H37enDuO5DI&pp=ugUEEgJlbg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=H37enDuO5DI",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/H37enDuO5DI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCioPbtVJBAQnnXUc8ozATmffc7Kw",
+     "rich": "https://i.ytimg.com/an_webp/H37enDuO5DI/mqdefault_6s.webp?du=3000&sqp=CL7Fn9YG&rs=AOn4CLDwX6dPYKsAe5Aeti9HKs_aqbr_8w"
+    },
+    "title": "I Tested 5 IEMs Under Rs 3000 - Here's the Best One!",
+    "published_date": "2w ago",
+    "views": "216K",
+    "extracted_views": 216000,
+    "channel": {
+     "name": "Trakin Tech English",
+     "link": "https://www.youtube.com/@TrakinTechEnglish",
+     "thumbnail": "https://yt3.ggpht.com/YuHZ_v-j87R-VuvZYPHlpJipVR_H7Iatij-9cTsf8Mvf1Y4R5FMao12k4CTmbaWzgY5JqHyELVA=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "J9m-U1JqVrA",
+    "link": "https://www.youtube.com/watch?v=J9m-U1JqVrA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=J9m-U1JqVrA",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/J9m-U1JqVrA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBE_QOygKtbDSgr2E2GHlpRMEA06w",
+     "rich": "https://i.ytimg.com/an_webp/J9m-U1JqVrA/mqdefault_6s.webp?du=3000&sqp=CODZn9YG&rs=AOn4CLAp96Owic0cAgkqYwIG4SlzigUPRw"
+    },
+    "title": "Top 5 Best Earbuds Under 3000 🔥 Amazon Great Indian Festival & Flipkart Big Billion Days 2026 ⚡",
+    "published_date": "7d ago",
+    "views": "56K",
+    "extracted_views": 56000,
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech",
+     "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "qoNU2MEleXU",
+    "link": "https://www.youtube.com/watch?v=qoNU2MEleXU&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qoNU2MEleXU",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/qoNU2MEleXU/hqdefault.jpg?v=6ac7a744&sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjCXZ-69whZmQHRlxbBzw0_xF23Q"
+    },
+    "title": "LIVE 🔴: Flipkart BBD SALE + Amazon GIF SALE 2026🔥Best Phones, Laptops,Tablet, Headphones & TWS Deals",
+    "views": "169 watching",
+    "extracted_views": 169,
+    "channel": {
+     "name": "Tech Maan",
+     "link": "https://www.youtube.com/@TechMaan22",
+     "thumbnail": "https://yt3.ggpht.com/4DOll01ukNc75ewfPXJPoaLD3kkFlaqto1mt205k5Kl4mtMBCAlP4_mJPtTfLeG6Bk4piLc20xo=s68-c-k-c0x00ffffff-no-rj"
+    }
+   },
+   {
+    "video_id": "NRZ5yd7eEq0",
+    "link": "https://www.youtube.com/watch?v=NRZ5yd7eEq0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NRZ5yd7eEq0",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/NRZ5yd7eEq0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDd3hu0kLXIoQC-T_1Yox3_GatrIQ",
+     "rich": "https://i.ytimg.com/an_webp/NRZ5yd7eEq0/mqdefault_6s.webp?du=3000&sqp=CILSn9YG&rs=AOn4CLCKLYsjdpIeXAF2Nm8HQcENSzoE5A"
+    },
+    "title": "I Bought 12 Earbuds With My Own Money - Only Half Are Worth It! #notsponsored",
+    "published_date": "3d ago",
+    "views": "80K",
+    "extracted_views": 80000,
+    "channel": {
+     "name": "Techy Pathshala",
+     "link": "https://www.youtube.com/@TechyPathshala",
+     "thumbnail": "https://yt3.ggpht.com/YUJG-QmAGDR0AZtUJMGAkjqvvNwe08UZNi-l_PNRyYiUhJxiVEQ1kKRk09u7l2dxkAeyfrz9=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "rRGNbj4WDEI",
+    "link": "https://www.youtube.com/watch?v=rRGNbj4WDEI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rRGNbj4WDEI",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/rRGNbj4WDEI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCF8efIZ4dbLhe84qTzDnvDcVIVbw",
+     "rich": "https://i.ytimg.com/an_webp/rRGNbj4WDEI/mqdefault_6s.webp?du=3000&sqp=CM7Kn9YG&rs=AOn4CLDmLG3atAS8nThfVL8YwrVZoesb0g"
+    },
+    "title": "OnePlus Nord Buds 4 vs realme Buds T500 Pro || Best TWS Under ₹3,000",
+    "published_date": "3mo ago",
+    "views": "45K",
+    "extracted_views": 45000,
+    "channel": {
+     "name": "AndroWide",
+     "link": "https://www.youtube.com/@androwide",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lO9mDPwMYTCwaw-M03JMnCcAc6fOs4TgSV7zLdedy-DPw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "gU4c_d85ZmY",
+    "link": "https://www.youtube.com/watch?v=gU4c_d85ZmY&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gU4c_d85ZmY",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/gU4c_d85ZmY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC0-jmmCYHqAVipmdwH3p0b6rr-uA",
+     "rich": "https://i.ytimg.com/an_webp/gU4c_d85ZmY/mqdefault_6s.webp?du=3000&sqp=COjqn9YG&rs=AOn4CLANFJwnSf6sJZOdL92LqNTb4knOBw"
+    },
+    "title": "Don't Buy Under $100 Earbuds Until You Watch This!",
+    "published_date": "10mo ago",
+    "views": "34K",
+    "extracted_views": 34000,
+    "channel": {
+     "name": "Scott's Tek",
+     "link": "https://www.youtube.com/@scottstek",
+     "thumbnail": "https://yt3.ggpht.com/PU3hS-yb93brAQWslkoHBuRkzGDUgQ35b9uF1gmukEtFjH0PJnAQF03GwFWCWr9eB98DLvtBKQ=s68-c-k-c0x00ffffff-no-rj"
+    }
+   },
+   {
+    "video_id": "ccwa-SIkdkg",
+    "link": "https://www.youtube.com/watch?v=ccwa-SIkdkg&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ccwa-SIkdkg",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ccwa-SIkdkg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDhuvj0mfy81zJ45-7r06XlImMNDQ",
+     "rich": "https://i.ytimg.com/an_webp/ccwa-SIkdkg/mqdefault_6s.webp?du=3000&sqp=CPC5n9YG&rs=AOn4CLBo90NNoUhvm19yokgjHJFlo51pgQ"
+    },
+    "title": "Don't Spend more than 2500 on IEMs || Best IEMs under 2500",
+    "published_date": "7mo ago",
+    "views": "290K",
+    "extracted_views": 290000,
+    "channel": {
+     "name": "Jignesh Chhatpar",
+     "link": "https://www.youtube.com/@jigneshchhatpar",
+     "thumbnail": "https://yt3.ggpht.com/fU0N6nfocnP70drV8vuz_1fN1Veu9OuoogxAW-uFHBuSAtUJq8HHDKEkUONlM5LSjqBqPQ-o=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "Auto-dubbed"
+    ]
+   },
+   {
+    "video_id": "4F0289jmqQs",
+    "link": "https://www.youtube.com/watch?v=4F0289jmqQs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4F0289jmqQs",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/4F0289jmqQs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJiXgeeR_nV3LIx5A27B0TKrU8BA",
+     "rich": "https://i.ytimg.com/an_webp/4F0289jmqQs/mqdefault_6s.webp?du=3000&sqp=CO3Yn9YG&rs=AOn4CLBJJXlnGSWYhubOAogm7LmeFHQvgA"
+    },
+    "title": "2025 Earbuds Awards - Unexpected Winners!",
+    "published_date": "10mo ago",
+    "views": "855K",
+    "extracted_views": 855000,
+    "channel": {
+     "name": "Mike O'Brien",
+     "link": "https://www.youtube.com/@MikeOBrienMedia",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mSh7FIrnxkpscWtyWhHVfvQxAzwtwdtEZ-kJ6xcAGZBoE=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "iumFoSph0ks",
+    "link": "https://www.youtube.com/watch?v=iumFoSph0ks",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iumFoSph0ks",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/iumFoSph0ks/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAbGuEMAhBp5mj7jDqvLRFi766sKQ",
+     "rich": "https://i.ytimg.com/an_webp/iumFoSph0ks/mqdefault_6s.webp?du=3000&sqp=CNy7n9YG&rs=AOn4CLAFg0xR-ZFC2M_m_E7Z12YwE_8rGg"
+    },
+    "title": "TOP 3 BEST Calling Earbuds Under ₹3000 🔥 Best ENC Earbuds Under 3000 | Calling King 👑",
+    "published_date": "2mo ago",
+    "views": "12K",
+    "extracted_views": 12000,
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech",
+     "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "LkFk12KVZe8",
+    "link": "https://www.youtube.com/watch?v=LkFk12KVZe8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LkFk12KVZe8",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/LkFk12KVZe8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCL2583I2qYCxgYeqCDgvsc4vmyrA",
+     "rich": "https://i.ytimg.com/an_webp/LkFk12KVZe8/mqdefault_6s.webp?du=3000&sqp=CNrUn9YG&rs=AOn4CLCF_NBo_oxjZRSOwKrJHXSjm9kR3Q"
+    },
+    "title": "How to Choose - Perfect TWS Earphone",
+    "published_date": "1y ago",
+    "views": "3.9M",
+    "extracted_views": 3900000,
+    "channel": {
+     "name": "Technology Gyan",
+     "link": "https://www.youtube.com/@TechnologyGyan",
+     "thumbnail": "https://yt3.ggpht.com/utfTJ7b2YEJSS7Ta5t1NR2QzkMm4_ODijQZI8hKDIJA7msvsISYh1dyw2PLHjzlfr7hrW5sVrQ=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "61OnYQpfYKU",
+    "link": "https://www.youtube.com/watch?v=61OnYQpfYKU&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=61OnYQpfYKU",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/61OnYQpfYKU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA6SSNE1aESLQMTnEIkJ_K74ziZQA",
+     "rich": "https://i.ytimg.com/an_webp/61OnYQpfYKU/mqdefault_6s.webp?du=3000&sqp=CLbfn9YG&rs=AOn4CLAVe9roDjYw08dPjFDArOeFbUjmxw"
+    },
+    "title": "OnePlus Nord Buds 4 Vs Realme T500 Pro - Best TWS Under ₹3000?",
+    "published_date": "3mo ago",
+    "views": "23K",
+    "extracted_views": 23000,
+    "channel": {
+     "name": "Aman Dhingra",
+     "link": "https://www.youtube.com/@AmanDhingraYT",
+     "thumbnail": "https://yt3.ggpht.com/iwUKIYqS3VHCSZLFXqQbxp2wb3Sqr_n_3p1KxrUREvJLz9_eHaMZujzYDTXhPNh95IzQPwwUOx4=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "3URLYiV5hUY",
+    "link": "https://www.youtube.com/watch?v=3URLYiV5hUY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3URLYiV5hUY",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/3URLYiV5hUY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC8lFGUPL9DGXJekflX77s5OMtcBA",
+     "rich": "https://i.ytimg.com/an_webp/3URLYiV5hUY/mqdefault_6s.webp?du=3000&sqp=CIbHn9YG&rs=AOn4CLATvN5eia4T157BYiLNZK1XHl9nVA"
+    },
+    "title": "Stop Buying TWS! ⚡️ Best IEMs Under ₹1500 & ₹2000 in India (2026)",
+    "published_date": "3mo ago",
+    "views": "1.4M",
+    "extracted_views": 1400000,
+    "channel": {
+     "name": "Trakin Tech",
+     "link": "https://www.youtube.com/@TrakinTech",
+     "thumbnail": "https://yt3.ggpht.com/CoxkM-bkUecdch2e4R7gaa5gyMAqrhKrYqyjTL0_kkJ1lUb44-cNA5tAOYKX1jAk1OVEU1qO6g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "YzEnFZvfc6Q",
+    "link": "https://www.youtube.com/watch?v=YzEnFZvfc6Q",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YzEnFZvfc6Q",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/YzEnFZvfc6Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC0eaa7BgeD_p-JehhmCNILaUUVAQ",
+     "rich": "https://i.ytimg.com/an_webp/YzEnFZvfc6Q/mqdefault_6s.webp?du=3000&sqp=CJjUn9YG&rs=AOn4CLB4mY1n2Z-d8AiFmMMjwPHiTNZnPg"
+    },
+    "title": "Don’t Buy Realme Earbuds Before Watching This! 😲🔥 Realme Buds T500 Pro vs Air 7 vs Air 8 ⚡⚡",
+    "published_date": "5mo ago",
+    "views": "91K",
+    "extracted_views": 91000,
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech",
+     "thumbnail": "https://yt3.ggpht.com/rS73YwCuqmQuaKfJcxQS5DuSbtxwxKJ_sIdHKGMZoujyZmSfNZakioM-xotbSYMKSn2RYsfkDw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "cdrJLKSMtxM",
+    "link": "https://www.youtube.com/watch?v=cdrJLKSMtxM",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cdrJLKSMtxM",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/cdrJLKSMtxM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA8uQaDIqibEjSPoY9559sIXWfKZw",
+     "rich": "https://i.ytimg.com/an_webp/cdrJLKSMtxM/mqdefault_6s.webp?du=3000&sqp=CKPHn9YG&rs=AOn4CLD5s6PfFHJVXumWUJWwho2DMDBTtA"
+    },
+    "title": "I Tested 5 Best TWS Earbuds - Under 3,000/- Price",
+    "published_date": "3mo ago",
+    "views": "7K",
+    "extracted_views": 7000,
+    "channel": {
+     "name": "The Tech House",
+     "link": "https://www.youtube.com/@TheTechHouseGT",
+     "thumbnail": "https://yt3.ggpht.com/7ow-aO3jVrpBS745euA7nWCZ-2XCMpN-8My_lTW6uDq1mMmZrVsK5KlqaEClic8KD9n4rJdy5Q=s68-c-k-c0x00ffffff-no-rj"
+    }
+   },
+   {
+    "video_id": "2W98qgfhw1M",
+    "link": "https://www.youtube.com/watch?v=2W98qgfhw1M&pp=ugUHEgVlbi1VU9IHCQk1DAGHKiGM7w%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2W98qgfhw1M",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/2W98qgfhw1M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBY6gTAdGPsSR2yZ050Y4JSuoJ8eg",
+     "rich": "https://i.ytimg.com/an_webp/2W98qgfhw1M/mqdefault_6s.webp?du=3000&sqp=CO69n9YG&rs=AOn4CLDOwJBePb2PdzgP6bFBTToFtXI3IA"
+    },
+    "title": "5 Best Noise Cancelling Earbuds under $50 (2026)",
+    "published_date": "6mo ago",
+    "views": "75K",
+    "extracted_views": 75000,
+    "channel": {
+     "name": "EL JEFE REVIEWS",
+     "link": "https://www.youtube.com/@ELJefeReviews",
+     "thumbnail": "https://yt3.ggpht.com/NRhERBzjrhS0rsj3xx_rpKuWZ-ZUAnAiGiA9-RwRVATq38wtNextpF--E3KDUHN0ZHI0lJNtWsg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "tXMzXrovoLM",
+    "link": "https://www.youtube.com/watch?v=tXMzXrovoLM",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tXMzXrovoLM",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/tXMzXrovoLM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBoNy8oRp5wpkJaLp6yPBCHMS19rA",
+     "rich": "https://i.ytimg.com/an_webp/tXMzXrovoLM/mqdefault_6s.webp?du=3000&sqp=CIXdn9YG&rs=AOn4CLDGFRcFAJZ9K2xKg92geW9pRf1MOw"
+    },
+    "title": "Don’t Buy an IEM Without Watching This!",
+    "published_date": "6d ago",
+    "views": "214K",
+    "extracted_views": 214000,
+    "channel": {
+     "name": "Rohit Raj Gupta",
+     "link": "https://www.youtube.com/@RohitRajGupta",
+     "thumbnail": "https://yt3.ggpht.com/FcoDVEymCbQ5M_nX55LrW07ZkuS4V09L7Oo3ZLykqTR0QULlcOOKxJ7fxAUAMPbODOcgYyTnQA=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "RfGdacHIhII",
+    "link": "https://www.youtube.com/watch?v=RfGdacHIhII",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RfGdacHIhII",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/RfGdacHIhII/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDGG-4Ob95pJwmRZkDZ3evbDZsqtw",
+     "rich": "https://i.ytimg.com/an_webp/RfGdacHIhII/mqdefault_6s.webp?du=3000&sqp=CPLln9YG&rs=AOn4CLA0W4nn7qgHUJdgrqF0G5IXR1Kt4Q"
+    },
+    "title": "Realme Buds T500 Pro Vs Oneplus Nord Buds 4 Detailed Comparison | Best TWS Under ₹3000",
+    "published_date": "2mo ago",
+    "views": "6.9K",
+    "extracted_views": 6900,
+    "channel": {
+     "name": "B Inside",
+     "link": "https://www.youtube.com/@BINSIDE",
+     "thumbnail": "https://yt3.ggpht.com/Z2FMffRdFtbqwh6_TL_kWTFRRfW_gQOOziy9svlF3px8zV2PqOpoTCiZXtrbFHidmIg4FLwg=s68-c-k-c0x00ffffff-no-rj"
+    }
+   }
+  ],
+  "related_videos_next_page_token": "CBQSKRILT2xCb1pVanR2S0XAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqigwyczZMNnd5QUNRcjlDQW9EOGo0QUNnM0NQZ29Jd0l2NDE0cTZ2ZEZUQ2dQeVBnQUtEY0ktQ2dqTzdaZXR3T2FNeWtVS0FfSS1BQW9Pd2o0TENPTEZoTDdZbGRuQnhBRUtBX0ktQUFvTndqNEtDTExJdTl6RDA3ZV9Id29EOGo0QUNnM0NQZ29Jc0sycGs3WEs3LXduQ2dQeVBnQUtEc0ktQ3dqMThwV0pqSnZWd2FvQkNnUHlQZ0FLRGNJLUNnaXRwZmoybmJtZWl6VUtBX0ktQUFvT3dqNExDTUtZMlBEanJlT0lyUUVLQV9JLUFBb093ajRMQ09iTTVmbmRuNGVuZ1FFS0FfSS1BQW9Od2o0S0NNanNrWkdTMzRibWNRb0Q4ajRBQ2c3Q1Bnc0lpOUtheDczZXphN2dBUW9EOGo0QUNnN0NQZ3NJeTZTSDA1SzA0ZlNLQVFvRDhqNEFDZzNDUGdvSTc4dlZsUGFhMmFBdUNnUHlQZ0FLRHNJLUN3aWx3ZjNTa096cHFlc0JDZ1B5UGdBS0RzSS1Dd2pHaXVhcm91eVNvdDBCQ2dQeVBnQUtEY0ktQ2dpazVfM2UyZUxKbUdNS0FfSS1BQW9Od2o0S0NKUHVzcVRLcGJMdGNRb0Q4ajRBQ2c3Q1Bnc0kwNGFIdjZDVjM3ZlpBUW9EOGo0QUNnN0NQZ3NJczhHLTBldnJ6TG0xQVFvRDhqNEFDZzNDUGdvSWdvbWlqcHl0NV9oRkNnUHlQZ0FLR1pvX0Znb1VUM3d6TlRnMk1qVTNNakkxTlRnMk9ESXpNaklLR1pvX0Znb1VUM3d6TlRjeU9ESXpNREF6TXpnMk1EZzBNakVLRzVvX0dBb1dUM3d4TURNNU5EYzBOemN3T0RBME1UVTBOREkxTlFvYW1qOFhDaFZQZkRFNU1URTRPVE0xT0RBd05qRXhPVEUxTmpVS0c1b19HQW9XVDN3eE56ZzNOakUzTVRBeE56WTVORE14TlRZNU5Bb2FtajhYQ2hWUGZEYzRNakUyTmpZMk1UQTFNVFUzTlRJeU56QUtHWm9fRmdvVVQzdzNOREUyTmpjNU1UTXlNRFUyTVRNeU56UUtHcG9fRndvVlQzdzRNemM1T0RBeE9EWTROekl3T1RReU5ERXhDaHFhUHhjS0ZVOThORGt4TXpjNE1USTJORFUwTkRJNU1qWTVNd29ibWo4WUNoWlBmREV4TVRZeE5EQTFOelF3TlRRd016RTRNalF5Q2h1YVB4Z0tGazk4TVRjM016UXpNRE01TVRNd05UWTFOalV5TnpVS0c1b19HQW9XVDN3eE16azNPRFF5TnpBME9UZzVOamd4TVRZeE9Bb0Q4ajRBQ2dQeVBnQVNGd0FDQkFZSUNnd09FQklVRmhnYUhCNGdJaVFtS0RVMkdnUUlBQkFCR2dRSUFoQURHZ1FJQkJBRkdnUUlCaEFIR2dRSUNCQUpHZ1FJQ2hBTEdnUUlEQkFOR2dRSURoQVBHZ1FJRUJBUkdnUUlFaEFUR2dRSUZCQVZHZ1FJRmhBWEdnUUlHQkFaR2dRSUdoQWJHZ1FJSEJBZEdnUUlIaEFmR2dRSUlCQWhHZ1FJSWhBakdnUUlKQkFsR2dRSUpoQW5HZ1FJS0JBcEdnUUlLQkFxR2dRSUtCQXJHZ1FJS0JBc0dnUUlLQkF0R2dRSUtCQXVHZ1FJS0JBdkdnUUlLQkF3R2dRSUtCQXhHZ1FJS0JBeUdnUUlLQkF6R2dRSUtCQTBHZ1FJTlJBcEdnUUlOUkFxR2dRSU5SQXJHZ1FJTlJBc0dnUUlOUkF0R2dRSU5SQXVHZ1FJTlJBdkdnUUlOUkF3R2dRSU5SQXhHZ1FJTlJBeUdnUUlOUkF6R2dRSU5SQTBHZ1FJTmhBcEdnUUlOaEFxR2dRSU5oQXJHZ1FJTmhBc0dnUUlOaEF0R2dRSU5oQXVHZ1FJTmhBdkdnUUlOaEF3R2dRSU5oQXhHZ1FJTmhBeUdnUUlOaEF6R2dRSU5oQTBLaGNBQWdRR0NBb01EaEFTRkJZWUdod2VJQ0lrSmlnMU5nag93YXRjaC1uZXh0LWZlZWQ%3D",
+  "end_screen_videos": [
+   {
+    "video_id": "U6L10Kr-BcA",
+    "link": "https://www.youtube.com/watch?v=U6L10Kr-BcA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=U6L10Kr-BcA",
+    "thumbnail": "https://i.ytimg.com/vi/U6L10Kr-BcA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC5MoTCurswnw8qC1TypE9C_p86HA",
+    "title": "I Tested the Best Open-Ear Earbuds — Here’s What I Found #notsponsored",
+    "published_date": "3 weeks ago",
+    "views": "62K views",
+    "extracted_views": 62000,
+    "length": "12:09",
+    "channel": {
+     "name": "Techy Pathshala",
+     "link": "https://www.youtube.com/@TechyPathshala"
+    }
+   },
+   {
+    "video_id": "RZQzNAWl9s4",
+    "link": "https://www.youtube.com/watch?v=RZQzNAWl9s4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RZQzNAWl9s4",
+    "thumbnail": "https://i.ytimg.com/vi/RZQzNAWl9s4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlGBrhYv3twsMtthEYyxo0Gxw9ig",
+    "title": "Best TWS Earbuds From ₹1,000 - ₹30,000 in 2026 * Don't Buy Wrong!",
+    "published_date": "1 month ago",
+    "views": "129K views",
+    "extracted_views": 129000,
+    "length": "11:54",
+    "channel": {
+     "name": "Pratima Adhikari",
+     "link": "https://www.youtube.com/@PratimaAdhikariTech"
+    }
+   },
+   {
+    "video_id": "xINkrYfBIuI",
+    "link": "https://www.youtube.com/watch?v=xINkrYfBIuI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xINkrYfBIuI",
+    "thumbnail": "https://i.ytimg.com/vi/xINkrYfBIuI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCnl-tI_Fq4-IxtnR1Z7pUxVCuDig",
+    "title": "The AKG EO-IG955 Is Trash",
+    "published_date": "1 hour ago",
+    "views": "255 views",
+    "extracted_views": 255,
+    "length": "2:09",
+    "channel": {
+     "name": "Sharur",
+     "link": "https://www.youtube.com/@sharur1"
+    }
+   },
+   {
+    "video_id": "H37enDuO5DI",
+    "link": "https://www.youtube.com/watch?v=H37enDuO5DI&pp=ugUEEgJlbg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=H37enDuO5DI",
+    "thumbnail": "https://i.ytimg.com/vi/H37enDuO5DI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCioPbtVJBAQnnXUc8ozATmffc7Kw",
+    "title": "I Tested 5 IEMs Under Rs 3000 - Here's the Best One!",
+    "published_date": "2 weeks ago",
+    "views": "216K views",
+    "extracted_views": 216000,
+    "length": "13:44",
+    "channel": {
+     "name": "Trakin Tech English",
+     "link": "https://www.youtube.com/@TrakinTechEnglish"
+    }
+   },
+   {
+    "video_id": "J9m-U1JqVrA",
+    "link": "https://www.youtube.com/watch?v=J9m-U1JqVrA&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=J9m-U1JqVrA",
+    "thumbnail": "https://i.ytimg.com/vi/J9m-U1JqVrA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBE_QOygKtbDSgr2E2GHlpRMEA06w",
+    "title": "Top 5 Best Earbuds Under 3000 🔥 Amazon Great Indian Festival & Flipkart Big Billion Days 2026 ⚡",
+    "published_date": "7 days ago",
+    "views": "56K views",
+    "extracted_views": 56000,
+    "length": "11:05",
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech"
+    }
+   },
+   {
+    "video_id": "qoNU2MEleXU",
+    "link": "https://www.youtube.com/watch?v=qoNU2MEleXU&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qoNU2MEleXU",
+    "thumbnail": "https://i.ytimg.com/vi/qoNU2MEleXU/hqdefault.jpg?v=6ac7a744&sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjCXZ-69whZmQHRlxbBzw0_xF23Q",
+    "title": "LIVE 🔴: Flipkart BBD SALE + Amazon GIF SALE 2026🔥Best Phones, Laptops,Tablet, Headphones & TWS Deals",
+    "published_date": "5 hours ago",
+    "views": "169 watching",
+    "extracted_views": 169,
+    "live": true,
+    "channel": {
+     "name": "Tech Maan",
+     "link": "https://www.youtube.com/@TechMaan22"
+    }
+   },
+   {
+    "video_id": "NRZ5yd7eEq0",
+    "link": "https://www.youtube.com/watch?v=NRZ5yd7eEq0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NRZ5yd7eEq0",
+    "thumbnail": "https://i.ytimg.com/vi/NRZ5yd7eEq0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDd3hu0kLXIoQC-T_1Yox3_GatrIQ",
+    "title": "I Bought 12 Earbuds With My Own Money - Only Half Are Worth It! #notsponsored",
+    "published_date": "3 days ago",
+    "views": "80K views",
+    "extracted_views": 80000,
+    "length": "8:38",
+    "channel": {
+     "name": "Techy Pathshala",
+     "link": "https://www.youtube.com/@TechyPathshala"
+    }
+   },
+   {
+    "video_id": "rRGNbj4WDEI",
+    "link": "https://www.youtube.com/watch?v=rRGNbj4WDEI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rRGNbj4WDEI",
+    "thumbnail": "https://i.ytimg.com/vi/rRGNbj4WDEI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCF8efIZ4dbLhe84qTzDnvDcVIVbw",
+    "title": "OnePlus Nord Buds 4 vs realme Buds T500 Pro || Best TWS Under ₹3,000",
+    "published_date": "3 months ago",
+    "views": "45K views",
+    "extracted_views": 45000,
+    "length": "9:16",
+    "channel": {
+     "name": "AndroWide",
+     "link": "https://www.youtube.com/@androwide"
+    }
+   },
+   {
+    "video_id": "gU4c_d85ZmY",
+    "link": "https://www.youtube.com/watch?v=gU4c_d85ZmY&pp=ugUHEgVlbi1VU9IHCQk1DAGHKiGM7w%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gU4c_d85ZmY",
+    "thumbnail": "https://i.ytimg.com/vi/gU4c_d85ZmY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC0-jmmCYHqAVipmdwH3p0b6rr-uA",
+    "title": "Don't Buy Under $100 Earbuds Until You Watch This!",
+    "published_date": "10 months ago",
+    "views": "34K views",
+    "extracted_views": 34000,
+    "length": "22:06",
+    "channel": {
+     "name": "Scott's Tek",
+     "link": "https://www.youtube.com/@scottstek"
+    }
+   },
+   {
+    "video_id": "ccwa-SIkdkg",
+    "link": "https://www.youtube.com/watch?v=ccwa-SIkdkg&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ccwa-SIkdkg",
+    "thumbnail": "https://i.ytimg.com/vi/ccwa-SIkdkg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDhuvj0mfy81zJ45-7r06XlImMNDQ",
+    "title": "Don't Spend more than 2500 on IEMs || Best IEMs under 2500",
+    "published_date": "7 months ago",
+    "views": "290K views",
+    "extracted_views": 290000,
+    "length": "13:33",
+    "channel": {
+     "name": "Jignesh Chhatpar",
+     "link": "https://www.youtube.com/@jigneshchhatpar"
+    }
+   },
+   {
+    "video_id": "4F0289jmqQs",
+    "link": "https://www.youtube.com/watch?v=4F0289jmqQs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4F0289jmqQs",
+    "thumbnail": "https://i.ytimg.com/vi/4F0289jmqQs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJiXgeeR_nV3LIx5A27B0TKrU8BA",
+    "title": "2025 Earbuds Awards - Unexpected Winners!",
+    "published_date": "10 months ago",
+    "views": "855K views",
+    "extracted_views": 855000,
+    "length": "18:42",
+    "channel": {
+     "name": "Mike O'Brien",
+     "link": "https://www.youtube.com/@MikeOBrienMedia"
+    }
+   },
+   {
+    "video_id": "iumFoSph0ks",
+    "link": "https://www.youtube.com/watch?v=iumFoSph0ks",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iumFoSph0ks",
+    "thumbnail": "https://i.ytimg.com/vi/iumFoSph0ks/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAbGuEMAhBp5mj7jDqvLRFi766sKQ",
+    "title": "TOP 3 BEST Calling Earbuds Under ₹3000 🔥 Best ENC Earbuds Under 3000 | Calling King 👑",
+    "published_date": "2 months ago",
+    "views": "12K views",
+    "extracted_views": 12000,
+    "length": "7:53",
+    "channel": {
+     "name": "Mr LazyTech",
+     "link": "https://www.youtube.com/@MrLazyTech"
+    }
+   }
+  ],
+  "comments_next_page_token": "Eg0SC09sQm9aVWp0dktFGAYyJSIRIgtPbEJvWlVqdHZLRTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+  "comments_sorting_token": [
+   {
+    "title": "Top",
+    "token": "Eg0SC09sQm9aVWp0dktFGAYyVSIuIgtPbEJvWlVqdHZLRTAAeAKqAhpVZ3pFalMtV25icDh6UW9LeGVwNEFhQUJBZzABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+   },
+   {
+    "title": "Newest",
+    "token": "Eg0SC09sQm9aVWp0dktFGAYyOCIRIgtPbEJvWlVqdHZLRTABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+   }
+  ],
+  "transcript": {
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=OlBoZUjtvKE"
+  }
+ }
+}

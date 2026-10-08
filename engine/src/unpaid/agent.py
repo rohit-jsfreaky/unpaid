@@ -15,6 +15,7 @@ from typing import Any
 from pydantic import BaseModel
 
 from unpaid.board import Showcase, assemble, ranked, top_phones
+from unpaid.category import category_for
 from unpaid.collect import Plan, Query, collect
 from unpaid.config import CACHE_DIR, EVIDENCE_DIR, SHOWCASE_DIR, Settings, load_settings
 from unpaid.label import label_all
@@ -78,6 +79,7 @@ def plan_from(question: str, intent: Intent, s: Settings) -> Plan:
         window_days=s.window_days,
         max_videos=s.max_videos,
         must_haves=must,
+        product=product,
     )
 
 
@@ -100,10 +102,15 @@ class Workspace:
         client = Client.from_env("replay" if replay else None)
         client.cache = Cache(write_dir=root, read_dirs=(root, EVIDENCE_DIR))
         write = llm_dir or root / "llm"
+        # Every recorded run in evidence/ is readable, so any question asked before replays for free.
+        recorded = sorted(p.parent for p in EVIDENCE_DIR.glob("*/llm/*.json"))
         llm = LLM.from_env(
-            write_dir=write, read_dirs=(write, root / "llm", SHOWCASE_DIR / "llm"), mode="replay" if replay else None
+            write_dir=write,
+            read_dirs=tuple(dict.fromkeys((write, root / "llm", SHOWCASE_DIR / "llm", *recorded))),
+            mode="replay" if replay else None,
         )
-        links = LinkBook(root / "links.json", live=not replay, also_read=(SHOWCASE_DIR / "links.json",))
+        books = tuple(sorted(EVIDENCE_DIR.glob("*/links.json")))
+        links = LinkBook(root / "links.json", live=not replay, also_read=books)
         return cls(client=client, llm=llm, links=links)
 
 
@@ -120,12 +127,14 @@ def ask(question: str, ws: Workspace, on_event: OnEvent | None = None) -> Showca
     if not intent.is_buying_question:
         raise NotABuyingQuestion("Ask about something to buy, e.g. 'best phone under 30k for camera'.")
     plan = plan_from(question, intent, s)
+    cat = category_for(plan.product, plan.must_haves, ws.llm)
+    plan = plan.model_copy(update={"category": cat})
     emit({"type": "plan", "plan": plan.model_dump(), "must_haves": intent.must_haves})
 
     run = collect(ws.client, plan, s.gl, on_event=emit)
     emit({"type": "tool", "tool": "links", "step": "follow description links", "status": "start"})
-    labelled = label_all(run, ws.llm, ws.links, on_event=emit)
-    uses = find_uses(run, labelled.videos, ws.llm, on_event=emit)
+    labelled = label_all(run, ws.llm, ws.links, on_event=emit, cat=cat)
+    uses = find_uses(run, labelled.videos, ws.llm, on_event=emit, cat=cat)
     board, areas, _ = ranked(run, labelled, uses)
     phones = top_phones(board, areas)
     for p in phones:

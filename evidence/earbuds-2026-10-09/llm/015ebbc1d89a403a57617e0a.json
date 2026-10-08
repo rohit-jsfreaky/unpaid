@@ -1,0 +1,297 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube earbuds review: its description and what was said in the video (English, Hindi,\nHinglish, Telugu, Malayalam or a mix). The reviewer recommends the earbuds listed under PRODUCTS.\n\nFor each of those earbuds, find every place where the reviewer gives an opinion on one of these areas:\ngym, bass, fit, battery, sound, mic.\n- verdict \"good\": they praise it for that area or recommend it for people who care about that area.\n- verdict \"weak\": they say it falls short in that area.\n- Skip bare specs with no opinion (a bare spec with no opinion).\n- `phone` must be copied exactly from the PRODUCTS list.\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text: same script, spelling, punctuation and capitals. Never translate.\n- The quote itself must contain the word for the area (e.g. \"daud\", \"baas\", \"dheela\").\n- Use the shortest exact span that shows the opinion, at most 200 characters.\n- A transcript quote comes from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote.\nIf there is nothing, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: BBD Sale Live⚡️Best TWS Under 3000 in Flipkart Big Billion Days Sale 2026🔥Amazon GIF Sale\nCHANNEL: Technical Hannan\n\nDESCRIPTION:\nBBD Sale 2026 is Live⚡️Best TWS Under 3000 in Flipkart Big Billion Days Sale 2026🔥Amazon GIF Sale\n\nBest TWS Under 1000 to 5000 In 2026\nFlipkart Big Billion Days Sale 2026\nBest TWS Deals on Flipkart Big Billion Days Sale 2026\n\n\nHello Dosto. I am here with an amazing video which is based on Best TWS Earbuds Under 2500 to 3000 on Flipkart Big Billion Days Sale 2026. I've already tested almost all the Earbuds. I've made this video considering the ANC MODE, Calling Quality, Gaming mode, Premium Build and value for money TWS. Don't Forget to subscribe my channel and like this video! \n\nTop 5 Best ANC TWS Under 2000\nBest ANC TWS under 3000\nBest Earbuds Under 2500\nBest wireless earbuds Under 3000 in 2026\nBest ENC Earbuds Under 3000, Best TWS Earbuds Under 1500,\nBest Calling, Gaming Earbuds Under 1000 \nBest Earbuds Under 5000\nBest TWS under 2000\nBest Gaming Earbuds Under 3000\n\n———————————————————————————\n\n*Business Queries - mohdasifhannan@gmail.com\n\n*Instagram Id: https://www.instagram.com/technical_h... em8wbDNxdnBuamdt nBuamdt&utm_source=qr\n\n———————————————————————————\n\nBuying Links: \n\n\n🔺Under 1000 to 1500:\n\n\n*Oneplus Nord Buds 3r:\n\n*Boat Airdopes 300:\n\n*Onyze Armor:\n\n*Onyze Xact Shot:\n\n*Soundcore R50i :\n\n*Noise Buds N1:\n\n*Realme T110:\n\n*Number Navo Buds N1:\n\n\n🔺 Under 2000:\n\n\n*Realme Buds T310:\n\n*OnePlus Nord Buds 3:\n\n*SoundCore R50i NC:\n\n*Boat Airdopes Prime 701 ANC:\n\n*Boat Nirvana Crystal:\n\n\n🔺 Under 3000:\n\n\n*Realme Buds Air 7:\n\n*Oneplus Nord Buds 3 Pro: \n\n*CMF By Nothing Buds Pro:\n\n*Boat Nirvana Zenith Pro:\n\n\n🔺 Under 5000:\n\n\n*CMF By Nothing Buds Pro 2:\n\n*OnePlus Buds 3:\n\n*Realme Buds Air 7 Pro:\n\n*OnePlus Buds 4:\n\n—————————————————————————\n\n\n\n—————————————————————————\n\n\n—————————————————————————\n\n#besttwsearbuds \n#tws \n#earbuds \n#bestgaming \n#bestearbuds1500\n#besttwsunder3000 \n\n\nIn This Video\n\nBest ANC Earbuds Under 1000\nBest ANC TWS Under 1500\nBest Gaming TWS Under 1000\nTop 5 Best ANC TWS Under 1500\nBest TWS Earbuds Under 1000\nBest Calling Earbuds Under 2000\nBest Gaming And Calling Earbuds Under 1500\ntop 5 Best TWS Earbuds Under 1500\nBest ENC Earbuds Under 1500\ntop 5 Best gaming Earbuds Under 2000\nBest ANC TWS Under 1000 In Feb 2026\nBest Earbuds Under 1500 in 2026\nTop-5 Best TWS Under 1500 In 2026\n\n\nTop anc earbuds\nBest anc earbuds \nanc earbuds\nWireless earbuds under 1500\nBest anc earbuds under 1500 rupees\n#bestancearbuds \n#bestearbuds\n\nbest wireless earbuds\nEarbuds under 1500\nTWS under 1500\nFlipkart Big Billion Days Sale 2026\n\nTRANSCRIPT (one segment per line, [index] m:ss text):\n[0] 0:00 सो दोस्तों Amazon Flipkart पे सेल लाइव हो चुकी है। तो अगर आप लोग ₹3000 के अंदर दी बेस्ट TWS सर्च कर रहे हो ना अभी के टाइम पे तो इस वीडियो को मिस मत करना।\n[1] 0:09 यहां पर मैंने आप लोगों के लिए टॉप फाइव बेस्ट TWS को पिक किया जो कि अभी आपको सेल के टाइम पे डेफिनेटली बाय करना चाहिए।\n[2] 0:15 इग्नोर मत करना आप लोग। लेकिन मैं आपको बता देता हूं इन TWS के अंदर आपको क्या-क्या मिलेगा। प्रीमियम लुक एंड डिज़ाइन, बढ़िया कॉलिंग क्वालिटी, बढ़िया साउंड क्वालिटी एंड इसके अलावा कंफर्ट\n[3] 0:24 लेवल से भी कॉम्प्रोमाइज देखने को नहीं मिलता है। और यहां पर आपको बढ़िया रिलायबिलिटी भी देखने को मिल जाएगी सारे TWS के अंदर। तो चलते हैं फटाफट करते हैं वीडियो स्टार्ट। लेकिन उससे पहले लाइक और\n[4] 0:32 सब्सक्राइब करना मत भूलना। यहां पर पहला TWS होगा OnePlus न्स 3 Pro जहां पर आप लोगों को इनसेन फीचर्स मिलने वाले हैं। यह\n[5] 0:40 TWS आप लोगों को ₹2500 के अंदर देखने को मिल जाएगा सेल में। और जितने भी प्रोडक्ट मैं आप लोगों को बता रहा हूं ना इनके बेस्ट प्राइस को कंपेयर करने के बाद ही\n[6] 0:48 यहां पर मैंने वीडियो में टैग किया है प्रोडक्ट को। यहां से क्लिक करके आप लोग बाय कर सकते हो। अलग से जाकर सर्च करोगे तो प्राइस आपको डिफरेंस देखने को मिल सकता\n[7] 0:55 है। सेल के टाइम पे यह TWS आपको अंडर 2500 ही मिलेगा। तो यहां पर आप लोग को काफी कमाल के फीचर्स मिल जाते हैं। मतलब इनसेन\n[8] 1:02 फीचर्स हैं यहां पर आप लोगों को देखने को मिलेंगे जो यूनिक लुक एंड डिज़ाइन है। मैट फिनिश में आप लोगों को केस मिल जाता है।\n[9] 1:08 एल्गोनॉमिक डिज़ाइन है बर्ड्स के। तो कान में फिटिंग वगैरह काफी अच्छी आ जाती है।\n[10] 1:11 इरिटेशन फील नहीं होता है। दो-ती घंटे पहन के आप लोग आराम से यूज़ कर सकते हो। कोई दिक्कत यहां पर आप लोग फेस नहीं करते हो।\n[11] 1:18 12.4 एमm के डायनेमिक बेस ड्राइवर्स मिल जाते हैं। इसी के साथ-साथ अगर मैं साउंड क्वालिटी की बात करूं तो यहां पर जबरदस्त एक्सपीरियंस रहने वाला है। बेस वगैरह काफी\n[12] 1:26 अच्छे मिल जाते हैं। अगर आप लोग बेस लवर हो और स्पेशली म्यूजिक के लिए कोई TWS ढूंढ रहे हो तो इसको भी कंसीडर कर सकते हो। 2500 के बीच में आप लोगों को यह\n[13] 1:33 बढ़िया TWS मिलने वाला है। जहां पर वोकल्स, ट्रबल्स, इंस्ट्रूमेंट, सेपरेशन यह सारी चीज़ आप लोगों को वेल बैलेंस मिलने वाली है। बाकी सिक्स माइक का सिस्टम मिलता\n[14] 1:41 है फॉर बेटर कॉलिंग। तो, यहां पर आप लोगों को कॉलिंग क्वालिटी भी काफी अच्छी मिल जाती है। इसके अलावा 49db का एक्टिव नॉइज़ कैंसिलेशन यहां पर प्रोवाइड किया गया है जो कि बहुत अच्छी तरीके से वर्क करता है।\n[15] 1:51 यहां पर भी कोई इशू देखने को नहीं मिलेगा।\n[16] 1:53 साथ ही साथ यहां पर ड्यूल डिवाइस पेयरिंग का सपोर्ट भी प्रोवाइड किया गया है। तो एक टाइम पे आप लोग दो डिवाइस पेअर कर सकते हो। तो कॉलिंग और म्यूजिक के लिए वन ऑफ द बेस्ट TWS है। इसको कंसीडर करना मत भूलना।\n[17] 2:02 सभी TWS को यहां पर मैंने वीडियो में टैग कर रखा है। कहीं जाकर सर्च करने की जरूरत नहीं है। और यहां पर आपको Amazon और Flipkart के टैग प्रोडक्ट मिल जाएंगे। जी\n[18] 2:10 हां, अब यहां पर आपको Amazon टैग प्रोडक्ट भी देखने को मिलने वाले हैं। तो वहां से भी आप लोग बाय कर सकते हो जहां से आप लोगों का मन करे।\n[19] 2:17 अगला TWS है Realme Air7। जी हां, यह TWS आप लोगों को सेल के टाइम पे 28,2900 के देखने को मिल जाएंगे। तो यहां पर भी आप\n[20] 2:24 लोगों को बढ़िया-बढ़िया फीचर्स मिल जाते हैं। बढ़िया एएनसी के यहां पर आप लोगों को फीचर्स मिलने वाला है जो कि एक बहुत ही अच्छी तरीके से वर्क करता है। तो अंडर 3000 में ना यह एक वन ऑफ द बेस्ट कॉलिंग\n[21] 2:33 TWS है। अगर आप लोगों को सिर्फ कॉलिंग पर्पस से कोई TWS चाहिए जहां पर आपको प्रीमियम लुक एंड डिज़ और भी बढ़िया-बढ़िया फीचर्स चाहिए तो यह कॉलिंग के लिए काफी\n[22] 2:41 बढ़िया रहने वाला है। बाकी साउंड क्वालिटी भी यहां पर आपको अमेजिंग मिलने वाली है। बेस वगैरह काफी अच्छे मिल जाते हैं।\n[23] 2:47 वोकल्स, ट्रबल्स, इंस्ट्रूमेंट, सेपरेशन ये सारी चीजें आप लोगों को बैलेंस देखने को मिलने वाली है। वोकल्स काफी क्लियर रहते हैं। ज्यादा बेस है। इसकी वजह से ऐसा\n[24] 2:54 नहीं होगा कि आप लोगों को वोकल्स क्लियर सुनाई ना दे। यहां पर सारी चीजें आप लोगों को काफी बढ़िया मिलने वाली है। साउंड एक्सपीरियंस यहां पर काफी अच्छा रहने वाला\n[25] 3:01 है आपका। बाकी 52db का एक्टिवनेस कैंसिलेशन मिल जाता है जो कि बहुत अच्छी तरीके से वर्क करता है। 45 msh की लो लेटेंसी मिल जाती है। तो कैजुअल गेमिंग\n[26] 3:08 वगैरह कर सकते हो। बैटरी लाइफ भी यहां पर आपको काफी अच्छा मिलने वाला है। और Realme Link ऐप का सपोर्ट मिलता है जहां पर आप लोग जाके अपने हिसाब से काफी सारी चीजें कस्टमाइज कर सकते हो।\n[27] 3:18 नंबर थर्ड पे है CMF की तरफ से CMF BDS 2 PS यह TWS भी आपको अंडर 3000 में मिल जाएगा जिसका लुक एंड डिजाइन काफी यूनिक है\n[28] 3:26 स्क्वायर शेप में आप लोगों को केस मिलने वाला है मैट फिनिश के साथ ये आते हैं आराम से आप लोग पॉकेट वगैरह में कैरी कर सकते हो कैरी करने में कोई दिक्कत यहां पर नहीं आती है बहुत कॉम्पैक्ट साइज यहां पर आपको\n[29] 3:34 मिलने वाला है जहां पर आप लोगों को हाई रेस एलएचडीसी का सपोर्ट मिल जाता है।\n[30] 3:38 साउंड क्वालिटी यहां पर काफी रिच मिलने वाली है। जबरदस्त बेस यहां पर आप लोगों को देखने को मिल जाएगा। इसी के साथ-साथ यहां पर बढ़िया कॉलिंग क्वालिटी भी आपको मिलने\n[31] 3:46 वाली है। बाकी 50d का एक्टिवनेस कैंसिलेशन प्रोवाइड किया जाता है जो कि बहुत अच्छी तरीके से वर्क करता है। और इसके अलावा ड्यूल डिवाइस पेयरिंग का सपोर्ट, ऐप का सपोर्ट भी यहां पर प्रोवाइड किया जाता है।\n[32] 3:55 जहां पर आप लोग अपने हिसाब से कस्टमाइजेशन वगैरह कर सकते हो। और हां, यहां पर इन एयर डिटेक्शन वाले फीचर्स भी मिल जाते हैं।\n[33] 4:00 कानों से निकालते ही म्यूजिक प्ले और पॉज हो जाता है। वो चीज़ यहां पर आप लोग देख सकते हो। अगला TWS है OnePlus की तरफ से OnePlus न BDS 4 जिसका डेडिकेटेड वीडियो\n[34] 4:10 आप लोग मेरे चैनल पे जाके देख सकते हो। यह TWS अंडर 3000 ही ल्च हुआ था। मतलब 3100 का ल्च हुआ था। कार्ड ऑफर लगा के इसको आप लोग अंडर 3000 बाय कर सकते हो। यहां पर आप\n[35] 4:18 लोग कॉम्पैक्ट साइज में केस प्रोवाइड किया गया है। मैट फिनिश के साथ ये आते हैं।\n[36] 4:22 आराम से कैरी वगैरह कर सकते हो। एयर बड्स का लुक एंड डिज़ाइन भी यहां पर काफी अच्छा मिलने वाला है। मतलब एयर बड्स यहां पर आपको एगोनॉनमिक डिज़ाइन के साथ देखने को मिल जाते हैं। तो कानों में परफेक्ट फिट\n[37] 4:30 हो जाते हैं। ये आप लोग आराम से पहन के रनिंग वर्कआउट वगैरह कर सकते हो। इरिटेशन फील नहीं होता है। कानों में लूज फिट नहीं है। आराम से इसको पहन के आप लोग दो-चार\n[38] 4:37 घंटे यूज़ कर पाओगे। जिसके अंदर लेटेस्ट 6.1 का ब्लूटूथ वर्जन प्रोवाइड किया गया है। ड्यूल डिवाइस पेयरिंग का सपोर्ट मिल जाता है। Googleस्ट पेयरिंग का सपोर्ट भी\n[39] 4:45 यहां पर मिलने वाला है। मतलब कि जैसे ही आप लोग केस को ओपन करते हो ये इंस्टेंटली अपने लास्ट पेयरिंग डिवाइस के साथ पेअर हो जाते हैं। और यहां पर भी आपको ऐप का सपोर्ट मिलता है। हेम एलडी एप इंस्टॉल करना पड़ेगा आप लोग उसको पेअ करने के लिए।\n[40] 4:55 बाकी ड्यूल डिवाइस पेयरिंग का सपोर्ट एक टाइम पे दो डिवाइस आप लोग एक साथ पेअ कर सकते हो और वह काफी अच्छी तरीके से वर्क करता है। इसके अलावा इन एयर डिटेक्शन वाले\n[41] 5:03 फीचर्स बाकी साउंड क्वालिटी की अगर मैं बात करूं तो यहां पर आप लोगों को सारी चीजें काफी बैलेंस मिलने वाली है। अगर आप लोगों को डिटेल साउंड चाहिए ना तो इसको आप\n[42] 5:10 लोग कंसीडर कर सकते हो। वोकल्स, ट्रबगल्स, इंस्ट्रूमेंट, सेपरेशन वगैरह यहां पर आपको काफी अच्छे मिलने वाले हैं। बेस भी काफी अच्छे हैं। बहुत ओवर नहीं है। बहुत कम भी\n[43] 5:18 नहीं है। एक बैलेंस यहां पर आप लोगों को सारी चीजें देखने को मिलने वाली है।\n[44] 5:21 डिटेल्स यहां पर कॉम्प्रोमाइज देखने को नहीं मिलेगा आपको। 52db का एक्टिनस कैंसिलेशन मिल जाता है। तो यहां पर आपको साउंड क्वालिटी के अंदर और भी बढ़िया एक्सपीरियंस मिलने वाला है। इसको यूज़\n[45] 5:30 करके मैंने वर्कआउट वगैरह भी किया है। तो यहां पर आपको काफी अच्छी फिटिंग मिल जाती है। साउंड क्वालिटी काफी अच्छी रहने वाली है। इसका एएनसी बहुत ही बढ़िया लगा मुझे।\n[46] 5:37 जैसे ही मैं इसका एनसी ऑन करता हूं ना बिल्कुल साइलेंट एनवायरमेंट हो जाता है। बाकी सिक्स माइक का सिस्टम मिलता है।\n[47] 5:42 जिसकी वजह से कॉलिंग क्वालिटी यहां पर काफी बेटर हो जाती है। चाहे आप लोग आउटडोर इनडोर कहीं पर भी यूज़ करते हो। बाकी गेमिंग के लिए 47 एमए की लो लेटेंसी\n[48] 5:50 प्रोवाइड की गई है। तो यहां पर आप लोग कैजुअल टाइप टाइम पास गेमिंग कर सकते हो।\n[49] 5:53 प्रोफेशनल टाइप गेमिंग करने के लिए आपको वायर वाले इयरफोनस चूज़ करने पड़ेंगे।\n[50] 5:58 और नंबर वन पे जो TWS है वो है Realme की तरफ से आने वाला Realme T500 Pro। इसको मैंने ₹200 में बाय किया था। और आप लोग भी\n[51] 6:06 इस प्राइस में इसको बाय कर सकते हो। यह ओवरऑल एक बेस्ट TWS है। चाहे आप लोग का प्रेफरेंस ऑफ़ बेस्ट साउंड क्वालिटी, कॉलिंग क्वालिटी, कंफर्ट लेवल, बढ़िया\n[52] 6:14 एएनसी। तो यह TWS आप लोग कंसीडर कर सकते हो। यहां पर आप लोगों को सारी चीजें काफी अच्छी मिलने वाली है। वैसे नॉर्मल डज़ में यह आपको ₹3200 के आसपास देखने को मिलेगा।\n[53] 6:23 बट यह आप लोगों को अंडर ₹3000 भी मिल जाता है। काफी टाइम यहां पर मैंने देखा है 3000 इसका प्राइस रहता है। बट सेल में आप लोगों को यह ₹2500 का भी मिल जाएगा। तो यहां पर आप लोग इसको भी चेक आउट करना मत भूलना।\n[54] 6:33 सभी प्रोडक्ट को यहां पर मैंने वीडियो में टैग कर रखा है। Amazon, Flipkart जहां से भी बाय करना चाहो कर सकते हो। तो इसके अंदर भी आपको मिलता है लेटेस्ट 6.1 का\n[55] 6:40 ब्लूटूथ वर्जन, हाई रेस एलएसडीसी का सपोर्ट जहां पर साउंड क्वालिटी काफी रिच और बढ़िया मिलने वाली है। इसी के साथ यहां पर 3D स्पेशल ऑडियो का सपोर्ट भी मिल\n[56] 6:49 जाएगा। सिक्स माइक का सिस्टम मिलता है फॉर बेटर कॉलिंग क्वालिटी। बाकी यहां पर 56 आवर का प्लेबैक टाइम आप लोगों को मिल जाएगा। और गेमिंग के लिए यहां पर 45 ms की\n[57] 6:57 लो लेटेंसी मिल जाती है। जहां पर अच्छी खासी गेमिंग आप लोग कर सकते हो। और यार देखो अगर आप लोग बेस लवर हो ना तो यहां पर काफी तगड़ा बेस आप लोगों को मिल जाएगा।\n[58] 7:05 मतलब फुल वॉल्यूम पर भी यहां पर आपको डिस्टॉर्शन फील नहीं होता है। अगर आप लोग 70 टू 80% के वॉल्यूम पे सुनते हो ना तो यहां पर काफी बढ़िया एक्सपीरियंस आप लोगों\n[59] 7:13 को मिलेगा क्योंकि मैं आप लोग को रिकमेंड नहीं करूंगा कि 100% वॉल्यूम पे आप लोग गाने वगैरह सुनो। यह आपकी हेल्थ के लिए भी ठीक नहीं है और एयर बड्स भी यहां पर ना जो\n[60] 7:21 इसकी लाइफ होती है ना वो भी कम हो जाती है। तो आप लोग 80% वॉल्यूम तक सुन सकते हो जो कि काफी अच्छा एक्सपीरियंस देने वाला है। और इसका जो हाईलाइटिंग फीचर्स है ना\n[61] 7:29 वो है कि एक टाइम पे आप लोग इसको तीन डिवाइस के साथ पेअ कर सकते हो। जी हां, लैपटॉप, स्मार्टफोन, टैबलेट ये तीनों आप लोग एक साथ पेअ करके यूज़ कर सकते हो जो कि\n[62] 7:37 काफी अच्छी तरीके से वर्क भी करता है। तो हां, अगर आप लोगों को ओवरऑल एक बेस्ट TWS चाहिए एएसी के लिए, कॉलिंग के लिए, म्यूजिक के लिए, कंफर्ट लेवल के लिए और\n[63] 7:45 बढ़िया आप लोगों को बेस भी चाहिए तो आप लोग Realme T500 Pro को चेक आउट कर सकते हो। इसके अलावा OnePlus Not BDS 4 भी आप लोगों को काफी वैल्यू फॉर मनी प्रोवाइड\n[64] 7:53 करता है। इन सारे TWS को यहां पर मैंने वीडियो में टैग कर रखा है। Amazon, Flipkart के टैग प्रोडक्ट आप लोगों को मिल जाएंगे। क्लिक करके बाय कर सकते हो। करंट प्राइस चेक कर सकते हो। तो भाई यही थे वो\n[65] 8:02 टॉप फाइव बेस्ट TWS अंडर 3000 में जो कि आप लोग अभी बिल्कुल भी मिस मत करना। अभी के टाइम पे आप लोगों को ये सारे TWS काफी ज्यादा वैल्यू फॉर मनी प्रोवाइड करते हैं।\n[66] 8:11 सेल के बाद यही TWS आप लोगों को 3800 4000 के आसपास देखने को मिलेगा। तो बाद में आप लोग रिग्रेट करोगे उससे बढ़िया अभी आप लोग यहां पर क्लिक करके सारे प्रोडक्ट को चेक\n[67] 8:19 आउट कर सकते हो। जो भी बाय करना चाहो उसको बाय कर सकते हो। सो बस आज के लिए इतना ही। मैं उम्मीद करूंगा वीडियो पसंद आई होगी।\n[68] 8:25 अच्छी लगी हो तो लाइक कर देना। चैनल के ऊपर नए हो सब्सक्राइब जरूर कर लेना। इस तरह के यूज़फुल डिमांडिंग कंटेंट मैं लेके आता रहता हूं। बाकी मैं मिलूंगा आप लोग से नेक्स्ट वीडियो में।\n\nPRODUCTS:\n- OnePlus Nord Buds 3 Pro\n- Realme Buds Air 7\n- CMF by Nothing Buds Pro 2\n- OnePlus Nord Buds 4\n- Realme Buds Air 5 Pro"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "UseAnswer",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "area": {
+          "enum": [
+           "gym",
+           "bass",
+           "fit",
+           "battery",
+           "sound",
+           "mic"
+          ],
+          "type": "string"
+         },
+         "verdict": {
+          "enum": [
+           "good",
+           "weak"
+          ],
+          "type": "string"
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "area",
+         "verdict",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [
+   {
+    "phone": "OnePlus Nord Buds 3 Pro",
+    "area": "fit",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 9,
+    "quote": "एल्गोनॉमिक डिज़ाइन है बर्ड्स के। तो कान में फिटिंग वगैरह काफी अच्छी आ जाती है।",
+    "meaning_en": "The earbuds have an ergonomic design, providing a very good fit in the ears."
+   },
+   {
+    "phone": "OnePlus Nord Buds 3 Pro",
+    "area": "sound",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 11,
+    "quote": "साउंड क्वालिटी की बात करूं तो यहां पर जबरदस्त एक्सपीरियंस रहने वाला है।",
+    "meaning_en": "Speaking of sound quality, the experience is going to be tremendous."
+   },
+   {
+    "phone": "OnePlus Nord Buds 3 Pro",
+    "area": "bass",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 11,
+    "quote": "बेस वगैरह काफी अच्छे मिल जाते हैं।",
+    "meaning_en": "The bass is quite good."
+   },
+   {
+    "phone": "OnePlus Nord Buds 3 Pro",
+    "area": "mic",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 14,
+    "quote": "सिक्स माइक का सिस्टम मिलता है फॉर बेटर कॉलिंग। तो, यहां पर आप लोगों को कॉलिंग क्वालिटी भी काफी अच्छी मिल जाती है।",
+    "meaning_en": "It comes with a six-mic setup for better calls, offering very good call quality."
+   },
+   {
+    "phone": "Realme Buds Air 7",
+    "area": "mic",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 20,
+    "quote": "तो अंडर 3000 में ना यह एक वन ऑफ द बेस्ट कॉलिंग TWS है।",
+    "meaning_en": "Under 3000, this is one of the best TWS for calling."
+   },
+   {
+    "phone": "Realme Buds Air 7",
+    "area": "sound",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 22,
+    "quote": "बाकी साउंड क्वालिटी भी यहां पर आपको अमेजिंग मिलने वाली है।",
+    "meaning_en": "You also get amazing sound quality here."
+   },
+   {
+    "phone": "Realme Buds Air 7",
+    "area": "bass",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 22,
+    "quote": "बेस वगैरह काफी अच्छे मिल जाते हैं।",
+    "meaning_en": "The bass is quite good."
+   },
+   {
+    "phone": "Realme Buds Air 7",
+    "area": "battery",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 26,
+    "quote": "बैटरी लाइफ भी यहां पर आपको काफी अच्छा मिलने वाला है।",
+    "meaning_en": "You also get very good battery life here."
+   },
+   {
+    "phone": "CMF by Nothing Buds Pro 2",
+    "area": "sound",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 30,
+    "quote": "साउंड क्वालिटी यहां पर काफी रिच मिलने वाली है।",
+    "meaning_en": "The sound quality is quite rich here."
+   },
+   {
+    "phone": "CMF by Nothing Buds Pro 2",
+    "area": "bass",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 30,
+    "quote": "जबरदस्त बेस यहां पर आप लोगों को देखने को मिल जाएगा।",
+    "meaning_en": "You get tremendous bass here."
+   },
+   {
+    "phone": "CMF by Nothing Buds Pro 2",
+    "area": "mic",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 30,
+    "quote": "बढ़िया कॉलिंग क्वालिटी भी आपको मिलने वाली है।",
+    "meaning_en": "You also get great call quality."
+   },
+   {
+    "phone": "OnePlus Nord Buds 4",
+    "area": "fit",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 36,
+    "quote": "तो कानों में परफेक्ट फिट हो जाते हैं।",
+    "meaning_en": "They fit perfectly in the ears."
+   },
+   {
+    "phone": "OnePlus Nord Buds 4",
+    "area": "gym",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 37,
+    "quote": "ये आप लोग आराम से पहन के रनिंग वर्कआउट वगैरह कर सकते हो।",
+    "meaning_en": "You can comfortably wear them while doing running or workout."
+   },
+   {
+    "phone": "OnePlus Nord Buds 4",
+    "area": "bass",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 42,
+    "quote": "बेस भी काफी अच्छे हैं।",
+    "meaning_en": "The bass is also quite good."
+   },
+   {
+    "phone": "OnePlus Nord Buds 4",
+    "area": "sound",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 44,
+    "quote": "तो यहां पर आपको साउंड क्वालिटी के अंदर और भी बढ़िया एक्सपीरियंस मिलने वाला है।",
+    "meaning_en": "You will get an even better sound quality experience here."
+   },
+   {
+    "phone": "OnePlus Nord Buds 4",
+    "area": "mic",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 47,
+    "quote": "जिसकी वजह से कॉलिंग क्वालिटी यहां पर काफी बेटर हो जाती है।",
+    "meaning_en": "Because of which the call quality becomes much better."
+   },
+   {
+    "phone": "Realme Buds Air 5 Pro",
+    "area": "sound",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 55,
+    "quote": "साउंड क्वालिटी काफी रिच और बढ़िया मिलने वाली है।",
+    "meaning_en": "The sound quality is quite rich and good."
+   },
+   {
+    "phone": "Realme Buds Air 5 Pro",
+    "area": "mic",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 56,
+    "quote": "सिक्स माइक का सिस्टम मिलता है फॉर बेटर कॉलिंग क्वालिटी।",
+    "meaning_en": "It has a six-microphone setup for better call quality."
+   },
+   {
+    "phone": "Realme Buds Air 5 Pro",
+    "area": "bass",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 57,
+    "quote": "अगर आप लोग बेस लवर हो ना तो यहां पर काफी तगड़ा बेस आप लोगों को मिल जाएगा।",
+    "meaning_en": "If you are a bass lover, you get quite powerful bass here."
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 4792,
+  "completion_tokens": 3415,
+  "total_tokens": 8207,
+  "cost": 0.01640025,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.01640025,
+   "upstream_inference_prompt_cost": 0.003594,
+   "upstream_inference_completions_cost": 0.01280625
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 1620,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791490063-H9Hoo18OyMuYTwPOW53y"
+ }
+}

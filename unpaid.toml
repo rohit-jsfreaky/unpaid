@@ -19,4 +19,4 @@ max_videos = 30
 provider = "openrouter"
 model = "google/gemini-3.8-flash"
 # No new paid call once the saved calls add up to this much.
-spend_limit_usd = 2.0
+spend_limit_usd = 4.0

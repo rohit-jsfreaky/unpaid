@@ -9,10 +9,11 @@ from typing import Literal
 
 from pydantic import BaseModel
 
+from unpaid.category import PHONE, Category
 from unpaid.llm import LLM
 from unpaid.youtube import Transcript, VideoPage
 
-SYSTEM = """You read one YouTube video's description and transcript. The videos are Indian phone reviews and buying
+SYSTEM_TEMPLATE = """You read one YouTube video's description and transcript. The videos are Indian {noun} reviews and buying
 lists, in English, Hindi, Hinglish, Telugu, Malayalam or a mix.
 
 Find two things.
@@ -27,10 +28,10 @@ A) Every place the creator states a money tie, as one of these kinds:
 - denial: the creator says the video is NOT sponsored, or that no brand paid them.
 These are NOT money ties. Skip them: "for sponsorship / business / collab inquiries contact ...", "all content
 provided by this channel is for educational purposes", copyright or fair-use notes, talk about other people's sponsored
-ads, bank card offers and sale discounts, product tagging ("I've tagged the phones"), and the channel promoting its own
+ads, bank card offers and sale discounts, product tagging ("I've tagged the {plural}"), and the channel promoting its own
 app, channel, merch or giveaway.
 
-B) Every phone the creator recommends for the buyer, with its rank if they number their list (1 = their top pick).
+B) Every {item} the creator recommends for the buyer, with its rank if they number their list (1 = their top pick).
 
 Quoting rules (strict; your quotes are checked by a program and dropped if they don't match):
 - Copy each quote EXACTLY from the text below: same script, same spelling, same punctuation, same capitals.
@@ -39,9 +40,13 @@ Quoting rules (strict; your quotes are checked by a program and dropped if they 
 - A transcript quote must come from one segment [i] (it may run on into [i+1]); give that i as `segment`.
   A description quote has `segment` null.
 - `meaning_en`: a plain English meaning of the quote (a translation if it isn't English).
-- `phone`: the standard English "Brand Model" name, e.g. "Motorola Edge 60 Pro", "iQOO Neo 10", "Samsung Galaxy
-  M36". Don't include RAM/storage or colour.
-If there is nothing for a list, return an empty list. Never invent anything."""
+- `phone`: {name_rule}
+If there is nothing for a list, return an empty list. Never invent anything."""  # noqa: E501
+
+
+def system_prompt(cat: Category) -> str:
+    """The instructions for one kind of product. For phones this is, word for word, the recorded prompt."""
+    return SYSTEM_TEMPLATE.format(noun=cat.noun, plural=cat.plural, item=cat.item, name_rule=cat.name_rule)
 
 
 class Claim(BaseModel):
@@ -77,5 +82,5 @@ def user_prompt(page: VideoPage, transcript: Transcript | None) -> str:
     return "\n".join(lines)
 
 
-def extract(llm: LLM, page: VideoPage, transcript: Transcript | None) -> tuple[Extraction, str]:
-    return llm.structured(SYSTEM, user_prompt(page, transcript), Extraction)
+def extract(llm: LLM, page: VideoPage, transcript: Transcript | None, cat: Category = PHONE) -> tuple[Extraction, str]:
+    return llm.structured(system_prompt(cat), user_prompt(page, transcript), Extraction)

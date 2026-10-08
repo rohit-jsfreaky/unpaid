@@ -9,8 +9,8 @@ import json
 from collections import Counter
 from typing import Any
 
-from unpaid.board import Showcase
-from unpaid.config import ROOT
+from unpaid.board import REPORT_FILE, Showcase
+from unpaid.config import EVIDENCE_DIR, ROOT
 from unpaid.links import LinkBook
 from unpaid.proof import BRAND_SPONSORED, COMMISSION, NO_DISCLOSURE, Proven
 from unpaid.uses import AreaBoard
@@ -106,7 +106,18 @@ def landing(show: Showcase, book: LinkBook, answer_key: list[dict[str, Any]]) ->
         "must_haves": show.must_haves,
         "focus": [focus_example(show, a) for a in show.areas if a.focus],
         "report_id": show.id,
+        "reports": recorded_reports(show),
     }
+
+
+def recorded_reports(show: Showcase) -> list[dict[str, Any]]:
+    """Every recorded report a visitor can open: the showcase first, then any other product recorded in evidence/."""
+    out = [{"id": show.id, "question": show.question, "product": show.product, "reviews": len(show.videos)}]
+    for path in sorted(EVIDENCE_DIR.glob(f"*/{REPORT_FILE}")):
+        r = Showcase.model_validate_json(path.read_text(encoding="utf-8"))
+        if r.id != show.id:
+            out.append({"id": r.id, "question": r.question, "product": r.product, "reviews": len(r.videos)})
+    return out
 
 
 def focus_example(show: Showcase, a: AreaBoard) -> dict[str, Any]:

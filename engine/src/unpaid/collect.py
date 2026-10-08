@@ -15,6 +15,7 @@ from typing import Any
 from pydantic import BaseModel, Field
 
 from unpaid import youtube as yt
+from unpaid.category import PHONE, Category
 from unpaid.config import Settings
 from unpaid.serpapi import Client, SerpApiError
 
@@ -36,6 +37,9 @@ class Plan(BaseModel):
     max_videos: int
     # What the shopper said matters ("camera", "battery"). Not used to search; used to rank what reviewers praise.
     must_haves: list[str] = Field(default_factory=list)
+    # What is being bought, and the features reviewers judge it on (fixed before any search, saved with the run).
+    product: str = "phone"
+    category: Category = PHONE
 
 
 def showcase_plan(s: Settings) -> Plan:
@@ -51,6 +55,8 @@ def showcase_plan(s: Settings) -> Plan:
         window_days=s.window_days,
         max_videos=s.max_videos,
         must_haves=["camera", "battery"],
+        product="phone",
+        category=PHONE,
     )
 
 

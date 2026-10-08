@@ -12,6 +12,7 @@ from pathlib import Path
 from pydantic import BaseModel
 
 from unpaid.aggregate import Board, tally
+from unpaid.category import Category
 from unpaid.collect import Collection
 from unpaid.label import Labelled, showcase_paths
 from unpaid.prices import PhonePrices, prices
@@ -21,6 +22,8 @@ from unpaid.uses import AreaBoard, FoundUses, areas_for, tally_uses
 from unpaid.youtube import parse_created_at
 
 USES_FILE = "uses.json"
+# A run recorded with `unpaid ask --record-into evidence/<folder>` keeps its finished report here.
+REPORT_FILE = "report.json"
 
 
 class Review(BaseModel):
@@ -44,6 +47,8 @@ class Showcase(BaseModel):
     searches: list[str]  # what was searched on YouTube
     videos_found: int  # unique videos the searches returned
     must_haves: list[str]  # what the shopper said matters, in their words
+    product: str  # "phone", "earbuds"
+    category: Category  # the features reviewers judge it on (curated for phones, else from the LLM)
     focus: list[str]  # those must-haves as areas we rank (camera, battery, ...)
     not_tracked: list[str]  # must-haves we don't rank, shown as such
     reviews: list[Review]
@@ -86,8 +91,9 @@ def reviews_of(run: Collection) -> list[Review]:
 def ranked(run: Collection, labelled: Labelled, uses: FoundUses) -> tuple[Board, list[AreaBoard], list[str]]:
     """The overall ranking, the per-area rankings, and must-haves we don't track (shown as such)."""
     board = tally(labelled.videos)
-    focus, other = areas_for(run.plan.must_haves)
-    return board, tally_uses(labelled.videos, uses, board, focus), other
+    cat = run.plan.category
+    focus, other = areas_for(run.plan.must_haves, cat)
+    return board, tally_uses(labelled.videos, uses, board, focus, cat), other
 
 
 def top_phones(board: Board, areas: list[AreaBoard]) -> list[str]:
@@ -105,6 +111,8 @@ def assemble(question: str, run: Collection, labelled: Labelled, uses: FoundUses
         searches=[s.query for s in run.searches],
         videos_found=len(run.videos) + len(run.dropped),
         must_haves=run.plan.must_haves,
+        product=run.plan.product,
+        category=run.plan.category,
         focus=[a.area for a in areas if a.focus],
         not_tracked=other,
         reviews=reviews_of(run),

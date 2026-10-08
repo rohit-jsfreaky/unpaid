@@ -1,0 +1,18 @@
+You read one YouTube phone review: its description and what was said in the video (English, Hindi,
+Hinglish, Telugu, Malayalam or a mix). The reviewer recommends the phones listed under PHONES.
+
+For each of those phones, find every place where the reviewer gives an opinion on one of these areas:
+camera, battery, performance (including gaming), display, charging, design, software.
+- verdict "good": they praise it for that area or recommend it for people who care about that area.
+- verdict "weak": they say it falls short in that area.
+- Skip bare specs with no opinion ("it has a 5000mAh battery").
+- `phone` must be copied exactly from the PHONES list.
+
+Quoting rules (strict; your quotes are checked by a program and dropped if they don't match):
+- Copy each quote EXACTLY from the text: same script, spelling, punctuation and capitals. Never translate.
+- The quote itself must contain the word for the area (e.g. "camera", "कैमरा", "battery", "बैटरी").
+- Use the shortest exact span that shows the opinion, at most 200 characters.
+- A transcript quote comes from one segment [i] (it may run on into [i+1]); give that i as `segment`.
+  A description quote has `segment` null.
+- `meaning_en`: a plain English meaning of the quote.
+If there is nothing, return an empty list. Never invent anything.

@@ -7,6 +7,7 @@ from pathlib import Path
 
 from pydantic import BaseModel
 
+from unpaid.category import PHONE, Category
 from unpaid.collect import Collection, OnEvent, Video
 from unpaid.extract import extract
 from unpaid.links import LinkBook
@@ -22,7 +23,9 @@ class Labelled(BaseModel):
     videos: list[Proven]
 
 
-def label_all(run: Collection, llm: LLM, book: LinkBook, on_event: OnEvent | None = None) -> Labelled:
+def label_all(
+    run: Collection, llm: LLM, book: LinkBook, on_event: OnEvent | None = None, cat: Category = PHONE
+) -> Labelled:
     emit = on_event or (lambda _e: None)
     checked = book.check_all([x.url for v in run.videos if v.page for x in v.page.links])
     emit({"type": "tool", "tool": "links", "step": "follow description links", "status": "done", "checked": checked})
@@ -31,7 +34,7 @@ def label_all(run: Collection, llm: LLM, book: LinkBook, on_event: OnEvent | Non
         if v.page is None:
             return None
         emit({"type": "tool", "tool": "llm", "step": "find disclosures", "v": v.hit.video_id, "status": "start"})
-        ex, h = extract(llm, v.page, v.transcript)
+        ex, h = extract(llm, v.page, v.transcript, cat)
         p = prove(v.hit, v.page, v.transcript, ex, h, book)
         emit(
             {

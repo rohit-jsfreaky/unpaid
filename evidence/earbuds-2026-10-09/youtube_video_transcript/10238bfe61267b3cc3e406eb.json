@@ -1,0 +1,364 @@
+{
+ "request": {
+  "engine": "youtube_video_transcript",
+  "language_code": "en",
+  "v": "KZr_plcxdV0"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7f7a032a8e38ad82a5810",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/Y2sVKzctOY-HdyAfApf_AdyyReo32bWnDtoSlA9kdbs/6ac7f7a032a8e38ad82a5810.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Y2sVKzctOY-HdyAfApf_AdyyReo32bWnDtoSlA9kdbs/6ac7f7a032a8e38ad82a5810.md",
+   "created_at": "2026-10-08 20:05:52 UTC",
+   "processed_at": "2026-10-08 20:05:52 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=KZr_plcxdV0",
+   "raw_html_file": "https://serpapi.com/searches/Y2sVKzctOY-HdyAfApf_AdyyReo32bWnDtoSlA9kdbs/6ac7f7a032a8e38ad82a5810.html",
+   "prettify_html_file": "https://serpapi.com/searches/Y2sVKzctOY-HdyAfApf_AdyyReo32bWnDtoSlA9kdbs/6ac7f7a032a8e38ad82a5810.prettify",
+   "total_time_taken": 7.02
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "KZr_plcxdV0",
+   "language_code": "en"
+  },
+  "transcript": [
+   {
+    "start_ms": 0,
+    "snippet": "बेस्ट TWS अंडर 3000 इन 2026।",
+    "start_time_text": "0:00",
+    "start_time_label": "0 seconds"
+   },
+   {
+    "start_ms": 4000,
+    "snippet": "[संगीत]",
+    "start_time_text": "0:04",
+    "start_time_label": "4 seconds"
+   },
+   {
+    "start_ms": 8000,
+    "snippet": "देखो गाइस TWS सिर्फ अच्छे दिखने से या फिर बहुत ही ज्यादा फीचर्स दे देने से बेस्ट नहीं होते। मेनली हमें देखनी होती है दो चीजें साउंड क्वालिटी एंड माइक",
+    "start_time_text": "0:08",
+    "start_time_label": "8 seconds"
+   },
+   {
+    "start_ms": 16000,
+    "snippet": "क्वालिटी। अगर ये दोनों किसी TWS की सुपीरियर मिल रही है ना आपको तो वो एक बेस्ट TWS है। अब इस वीडियो में मैं आपको 20 से भी ज्यादा TWS को साइड बाय साइड",
+    "start_time_text": "0:16",
+    "start_time_label": "16 seconds"
+   },
+   {
+    "start_ms": 25000,
+    "snippet": "कंपेयर करने के बाद चार बेस्ट ऑप्शंस बताऊंगा। सिर्फ अपनी वीडियो को टॉप फाइव बताने के लिए। कोई भी बेकार की डीडब्ल्यूएस इंक्लूड नहीं की है मैंने। ये",
+    "start_time_text": "0:25",
+    "start_time_label": "25 seconds"
+   },
+   {
+    "start_ms": 33000,
+    "snippet": "जो चार ईडब्ल्यूएस है ना चाहे आपको एक अच्छी साउंड क्वालिटी चाहिए हो, माइक क्वालिटी चाहिए हो या और कोई भी डिफरेंट-डिफरेंट फीचर्स लाइक एएनसी, हाई",
+    "start_time_text": "0:33",
+    "start_time_label": "33 seconds"
+   },
+   {
+    "start_ms": 41000,
+    "snippet": "रेडियो, बड़ी बैटरी सारी चीजें मिल जाती है इनमें। अब TWS बताने से पहले एक बेसिक चीज समझ लो। सारे ही इयर बड्स के साथ ना आपको ऐप सपोर्ट मिलता है। मेक श्योर जब भी",
+    "start_time_text": "0:41",
+    "start_time_label": "41 seconds"
+   },
+   {
+    "start_ms": 49000,
+    "snippet": "आप TWS परचेस करो उस ऐप को डाउनलोड करके जो नॉर्मल इक्वलाइज हो के आते हैं ना TWS उनको अपने अकॉर्डिंग ट्यून कर लो। सो दैट आपको आपकी TW से एक बेस्ट साउंड मिलेगा।",
+    "start_time_text": "0:49",
+    "start_time_label": "49 seconds"
+   },
+   {
+    "start_ms": 58000,
+    "snippet": "अभी गाइस स्टार्ट करते हैं हमारी वीडियो को। एट नंबर फोर सीएमएफ नथिंग बट्स टू। इन इयर बर्ड्स को रिकमेंड करने का रीजन इनका",
+    "start_time_text": "0:58",
+    "start_time_label": "58 seconds"
+   },
+   {
+    "start_ms": 66000,
+    "snippet": "डिज़ या लुक नहीं है ना ही ब्रांड है। यह लिटरली जिस प्राइस पे स्टैंड आउट करते हैं ना काफी अच्छे-अच्छे ब्रांड्स को टक्कर देते हैं। ऑब्वियसली आपको एक स्टाइलिश एंड",
+    "start_time_text": "1:06",
+    "start_time_label": "1 minute, 6 seconds"
+   },
+   {
+    "start_ms": 74000,
+    "snippet": "डिफरेंट डिज़ाइन तो मिलता ही है। तीन डिफरेंट-डिफरेंट कलर्स आ जाते हैं इसमें।",
+    "start_time_text": "1:14",
+    "start_time_label": "1 minute, 14 seconds"
+   },
+   {
+    "start_ms": 77000,
+    "snippet": "इयर बड्स की मैग्नेट्स एंड एक्सपीरियंस भी बहुत अच्छा है। बट इसके अलावा आपको 11 mm के ड्राइवर्स मिलते हैं। जहां ना आपको बेस बहुत अच्छी मिलती है इन इयर बड्स में।",
+    "start_time_text": "1:17",
+    "start_time_label": "1 minute, 17 seconds"
+   },
+   {
+    "start_ms": 85000,
+    "snippet": "हालांकि आप सारी चीजें कंट्रोल कर सकते हो इनके ऐप के थ्रू। बट ऑडियो ट्रस्ट मी प्राइस के हिसाब से बहुत अच्छा आता है।",
+    "start_time_text": "1:25",
+    "start_time_label": "1 minute, 25 seconds"
+   },
+   {
+    "start_ms": 91000,
+    "snippet": "48b की आपको एक्टिव नॉइज़ कैंसिलेशन भी मिलती है। मतलब पंखे एसी की आवाज कैंसिल आउट हो जाती है इन कॉलिंग। हालांकि आपको",
+    "start_time_text": "1:31",
+    "start_time_label": "1 minute, 31 seconds"
+   },
+   {
+    "start_ms": 98000,
+    "snippet": "दूर की आवाज नहीं आएगी। बट अगर आपके बगल में बैठ के कोई बोलेगा तो डेफिनेटली वो साउंड आएगी। स्पेशल ऑडियो भी मिल जाती है।",
+    "start_time_text": "1:38",
+    "start_time_label": "1 minute, 38 seconds"
+   },
+   {
+    "start_ms": 104000,
+    "snippet": "55 आवर्स का टोटल प्लेबैक टाइम ये ऑफर करते हैं एंड 10 मिनट्स के चार्ज में 7.5 आवर्स का बैटरी बैकअप दे देते हैं। ये जो",
+    "start_time_text": "1:44",
+    "start_time_label": "1 minute, 44 seconds"
+   },
+   {
+    "start_ms": 111000,
+    "snippet": "इयर बड्स है ना गाइस ₹200 में मिल जाते हैं ऑन Flipkart। Amazon का प्राइस आप चेक आउट कर सकते हो। नीचे डिस्क्रिप्शन में मैंने सारे इयर बड्स के लिंक्स दिए हैं।",
+    "start_time_text": "1:51",
+    "start_time_label": "1 minute, 51 seconds"
+   },
+   {
+    "start_ms": 119000,
+    "snippet": "जाके डेफिनेटली चेक आउट करना। अगर आपको बजट में रह के एक बढ़िया प्रीमियम साउंड चाहिए। आपका काम हो जाए, कॉलिंग अच्छी हो जाए, म्यूजिक अच्छा हो जाए। एट नंबर फोर",
+    "start_time_text": "1:59",
+    "start_time_label": "1 minute, 59 seconds"
+   },
+   {
+    "start_ms": 127000,
+    "snippet": "यू कैन चेक दिस आउट। नाउ गाइज़, हियर कम्स द थर्ड वन व्हिच इज़ Realme Ebd्स Air7. अब गाइज़, यह इयर बड्स ना थोड़ी बहुत अच्छी वैल्यू लेके आते हैं आपके लिए। लाइक आपकी",
+    "start_time_text": "2:07",
+    "start_time_label": "2 minutes, 7 seconds"
+   },
+   {
+    "start_ms": 136000,
+    "snippet": "कॉल क्वालिटी एंड म्यूजिक क्वालिटी दोनों ड्रास्टिकली चेंज होती है। 12.4 mm के डायनामिक बेस्ड ड्राइवर्स मिलते हैं। काफी प्रीमियम इन हैंड एक्सपीरियंस मिलेगा",
+    "start_time_text": "2:16",
+    "start_time_label": "2 minutes, 16 seconds"
+   },
+   {
+    "start_ms": 144000,
+    "snippet": "आपको। केस भी काफी रिच फील देता है। आपको यहां पर 52db की हाइब्रिड एएनसी मिलती है।",
+    "start_time_text": "2:24",
+    "start_time_label": "2 minutes, 24 seconds"
+   },
+   {
+    "start_ms": 149000,
+    "snippet": "मतलब आप एएनसी ऑन ऑफ कर सकते हो। एंड साथ ही साथ सिक्स माइट्स का सेटअप मिलता है विद ईएनसी। तो पंखे वगैरह की आवाज कैंसिल आउट हो जाती है ड्यूरिंग कॉलिंग। एंड",
+    "start_time_text": "2:29",
+    "start_time_label": "2 minutes, 29 seconds"
+   },
+   {
+    "start_ms": 157000,
+    "snippet": "ट्रस्ट मी कॉल क्वालिटी लिटरली बहुत अच्छी आती है। 45 ms की आपको लो लेटेंसी भी मिलती है। तो स्टोरी गेम्स हो गए वहां आपको गेमिंग में हेल्प करते हैं। बट फॉर",
+    "start_time_text": "2:37",
+    "start_time_label": "2 minutes, 37 seconds"
+   },
+   {
+    "start_ms": 166000,
+    "snippet": "गेम्स जिनको लेटेंसी बिल्कुल नहीं चाहिए लाइक BGMI वगैरह उनके लिए रिकमेंडेड नहीं है। इसके अलावा यहां पे आपको हाई रिस्क एलएचडी सी कडक मिल जाते हैं। 360 स्पेशल",
+    "start_time_text": "2:46",
+    "start_time_label": "2 minutes, 46 seconds"
+   },
+   {
+    "start_ms": 174000,
+    "snippet": "ऑडियो मिलता ही है। IP55 वाटर रेजिस्टेंस भी है। इन सभी के अलावा ब्लूटूथ वर्जन 5.4 के साथ आते हैं। तो ड्यूल कनेक्टिविटी को सपोर्ट करेंगे। आप दो डिवाइस से एक साथ",
+    "start_time_text": "2:54",
+    "start_time_label": "2 minutes, 54 seconds"
+   },
+   {
+    "start_ms": 183000,
+    "snippet": "कनेक्ट रह सकते हो एंड इंस्टेंटली पेअ होते हैं। अब यह इयर बड्स आपको क्यों लेने चाहिए? अगर आपको साउंड बहुत लाउड चाहिए, आपके साउंड के अंदर बेस बहुत अच्छा चाहिए तो डेफिनेटली आप इसके साथ जा सकते हो।",
+    "start_time_text": "3:03",
+    "start_time_label": "3 minutes, 3 seconds"
+   },
+   {
+    "start_ms": 193000,
+    "snippet": "बैटरी बैकअप अराउंड 52 आवर्स का मिलता है।",
+    "start_time_text": "3:13",
+    "start_time_label": "3 minutes, 13 seconds"
+   },
+   {
+    "start_ms": 195000,
+    "snippet": "एंड यहां पर कोई भी फास्ट चार्जिंग वगैरह Realme ने मार्केट नहीं की। यह जो इयर बड्स है ना गाइस ₹3100 के अराउंड मिल जाते हैं। एंड आप Amazon, Flipkart दोनों पे जाके चेक आउट करना।",
+    "start_time_text": "3:15",
+    "start_time_label": "3 minutes, 15 seconds"
+   },
+   {
+    "start_ms": 204000,
+    "snippet": "कहीं हो सकता है आपको यह उससे भी कम बजट में मिले। इन शॉट Realme की तरफ से वन ऑफ द बेस्ट इयर बड्स हैं। ₹3000 के बजट में रह के। मेरी तरफ से हाईली रेकमेंडेड है उन",
+    "start_time_text": "3:24",
+    "start_time_label": "3 minutes, 24 seconds"
+   },
+   {
+    "start_ms": 213000,
+    "snippet": "लोगों को जिनको एक थंपी एंड डीप बेस पसंद है। चाहे आपको क्लासिकल म्यूजिक सुनना है, इडीएम म्यूजिक सुनना है जो आजकल लोग सुनते हैं। हर टाइप के म्यूजिक के लिए बेस्ट है।",
+    "start_time_text": "3:33",
+    "start_time_label": "3 minutes, 33 seconds"
+   },
+   {
+    "start_ms": 221000,
+    "snippet": "नाउ गाइस आते हैं OnePlus न BDS 3 Pro। अब ये जो इयर बड्स है ना गाइस एक स्टेप आगे आ जाते हैं। लाइक देखो 12.4 एमm के आपको",
+    "start_time_text": "3:41",
+    "start_time_label": "3 minutes, 41 seconds"
+   },
+   {
+    "start_ms": 228000,
+    "snippet": "डायनामिक ड्राइवर्स मिलते हैं। 49 डीB की एक्टिव नॉइज़ कैंसिलेशन भी आती है। इसके अलावा यहां पर भी आपको सिक्स माइक सेटअप मिलता है। 44 आवर्स की टोटल प्लेबैक टाइम",
+    "start_time_text": "3:48",
+    "start_time_label": "3 minutes, 48 seconds"
+   },
+   {
+    "start_ms": 236000,
+    "snippet": "एंड 10 मिनट्स के चार्ज में 11 आवर्स का स्पीडी फास्ट चार्ज ये ऑफर करता है। मेनली इयर बड्स हम लेते हैं साउंड एक्सपीरियंस के लिए। अब देखो साउंड एक्सपीरियंस की बात",
+    "start_time_text": "3:56",
+    "start_time_label": "3 minutes, 56 seconds"
+   },
+   {
+    "start_ms": 244000,
+    "snippet": "करें। OnePlus के इन इयर बड्स में आपको लिटरली क्रेजी साउंड ऑफर करते हैं ये।",
+    "start_time_text": "4:04",
+    "start_time_label": "4 minutes, 4 seconds"
+   },
+   {
+    "start_ms": 248000,
+    "snippet": "चाहे आप लाउडनेस की बात करो या बेस की बात करो दोनों ही चीजें बेस्ट निकल के आती है।",
+    "start_time_text": "4:08",
+    "start_time_label": "4 minutes, 8 seconds"
+   },
+   {
+    "start_ms": 253000,
+    "snippet": "आल्सो यहां पे आपको बेस वेव 2.0 भी मिलता है। जिसको बहुत ही ज्यादा पावरफुल बेस सुनना है तो वो इसमें स्विच कर सकता है।",
+    "start_time_text": "4:13",
+    "start_time_label": "4 minutes, 13 seconds"
+   },
+   {
+    "start_ms": 259000,
+    "snippet": "जिसको नॉर्मल साउंड सुननी है वो नॉर्मल साउंड सुन सकता है। इसके अलावा ब्लूटूथ 5.4 के साथ ही आते हैं ये भी एंड ₹47 एमh की आपको लो लेटेंसी मिल जाती है फॉर",
+    "start_time_text": "4:19",
+    "start_time_label": "4 minutes, 19 seconds"
+   },
+   {
+    "start_ms": 266000,
+    "snippet": "गेमिंग एंड ऑल। OnePlus के ये जो इयर बड्स है ना ₹3000 में आ जाते हैं। अब जो लोग कंफ्यूज हैं इनमें एंड Realme Air 7 में।",
+    "start_time_text": "4:26",
+    "start_time_label": "4 minutes, 26 seconds"
+   },
+   {
+    "start_ms": 273000,
+    "snippet": "उन दोनों को ही बता दूं। आप OnePlus में आपको साउंड थोड़ा सा बेटर मिलेगा बट Realme भी कम नहीं है। हल्का सा ही डिफरेंस है दोनों में। आप अपने अकॉर्डिंग",
+    "start_time_text": "4:33",
+    "start_time_label": "4 minutes, 33 seconds"
+   },
+   {
+    "start_ms": 281000,
+    "snippet": "डिसाइड करो आपको किस ब्रांड के साथ जाना है। साउंड में इतना ज्यादा कोई डिफरेंस नहीं है। दोनों ही बेहतर साउंड ऑफर करते हैं। नाउ गाइस आते हैं नंबर वन Realme BDS",
+    "start_time_text": "4:41",
+    "start_time_label": "4 minutes, 41 seconds"
+   },
+   {
+    "start_ms": 289000,
+    "snippet": "T500 Pro। अब ये जो इयर बड्स है ना गाइस थोड़ा गेम चेंज कर देते हैं। लाइक आज की लिस्ट के सबसे बेस्ट इयरफोंस हैं इन साउंड",
+    "start_time_text": "4:49",
+    "start_time_label": "4 minutes, 49 seconds"
+   },
+   {
+    "start_ms": 296000,
+    "snippet": "क्वालिटी एंड कॉल क्वालिटी एंड ओवरऑल बिल्ड। देखो यहां पर आपको काफी छोटी सी पॉकेट साइज डिब्बी में देखने को मिलते हैं। यह बिल्ड लिटरली बहुत अच्छा है इनका।",
+    "start_time_text": "4:56",
+    "start_time_label": "4 minutes, 56 seconds"
+   },
+   {
+    "start_ms": 304000,
+    "snippet": "काफी प्रीमियम फील होता है। आपको 12.4 एमm के हाई रिस्क ड्राइवर्स मिल जाते हैं विद स्पेशल ऑडियो। साथ की साथ आपको 50db की",
+    "start_time_text": "5:04",
+    "start_time_label": "5 minutes, 4 seconds"
+   },
+   {
+    "start_ms": 312000,
+    "snippet": "एएनसी भी मिलती है। इसके अलावा जो नई चीजें ऑफर होती है 56 आवर्स का आपको टोटल प्लेबैक टाइम मिलता है। ब्लूटूथ वर्जन 6.1",
+    "start_time_text": "5:12",
+    "start_time_label": "5 minutes, 12 seconds"
+   },
+   {
+    "start_ms": 319000,
+    "snippet": "आ जाता है। एकदम ही लेटेस्ट वाला। तो काफी फास्ट पेयरिंग एक्सपीरियंस मिलेगा आपको।",
+    "start_time_text": "5:19",
+    "start_time_label": "5 minutes, 19 seconds"
+   },
+   {
+    "start_ms": 324000,
+    "snippet": "सिक्स माइक सेटअप आता है तो कॉल क्वालिटी भी सुपीरियर निकल के आती है आज के सारे इयर बड्स के मुकाबले। इसके अलावा देखो अल्ट्रा लो लेटेंसी 45 ms की यहां भी मिल जाती है। तो आप बेसिक गेमिंग कर सकते हो।",
+    "start_time_text": "5:24",
+    "start_time_label": "5 minutes, 24 seconds"
+   },
+   {
+    "start_ms": 333000,
+    "snippet": "पर जिसको देखो मैक्सिमम बेस चाहिए ना आपके अपने इयर बड्स से वो इनके साथ जा सकते हो और जिसको मैक्सिमम बेस नहीं भी चाहिए। तो आपको सिंपली क्या करना है? इनका Realme",
+    "start_time_text": "5:33",
+    "start_time_label": "5 minutes, 33 seconds"
+   },
+   {
+    "start_ms": 342000,
+    "snippet": "link एप डाउनलोड करना है। वहां जाके इसको ट्यून करना है अपने अकॉर्डिंग। कोई भी इनका डिफरेंट एक्यू मोड सेलेक्ट कर लो जो आपको पसंद आए। एंड ट्रस्ट मी इनका जो",
+    "start_time_text": "5:42",
+    "start_time_label": "5 minutes, 42 seconds"
+   },
+   {
+    "start_ms": 350000,
+    "snippet": "डिफॉल्ट वाला ट्यून म्यूजिक है ना वो इतना अच्छा नहीं है। बट हां जब आप इसको Realme Link ऐप से चेंज कर लोगे तो बेस हल्का सा कम हो जाएगा। बिकॉज़ बेस बहुत ही बढ़ा हुआ",
+    "start_time_text": "5:50",
+    "start_time_label": "5 minutes, 50 seconds"
+   },
+   {
+    "start_ms": 358000,
+    "snippet": "आएगा नॉर्मली। तो वो जो एक्सपीरियंस आपको मिलेगा ना वो अनचेंजबल मिलेगा। कोई इयर बड आपको ऑफर नहीं कर सकता आज की लिस्ट के अंदर। इन इयर बड्स का जो प्राइस है ₹3200",
+    "start_time_text": "5:58",
+    "start_time_label": "5 minutes, 58 seconds"
+   },
+   {
+    "start_ms": 367000,
+    "snippet": "ऑन Amazon। बट देखो इसका प्राइस ना ₹3500 से 3000 के बीच में फ्लक्चुएट होता रहता है। तो मेरे को नहीं पता आप कब इस वीडियो को देख रहे हो। जाके चेक आउट कर लो। अगर",
+    "start_time_text": "6:07",
+    "start_time_label": "6 minutes, 7 seconds"
+   },
+   {
+    "start_ms": 375000,
+    "snippet": "यह इस बजट में आपको मिल रहा है तो बिल्कुल मिस आउट मत करना। दी बेस्ट इयर बड है ₹3000 के प्राइस रेंज के अंदर। नाउ गाइज़ अगर आप अभी भी कंफ्यूज हो तो मैं आपकी",
+    "start_time_text": "6:15",
+    "start_time_label": "6 minutes, 15 seconds"
+   },
+   {
+    "start_ms": 383000,
+    "snippet": "कंफ्यूजन को दूर कर देता हूं। अगर आपको सुपीरियर साउंड सुपीरियर माइक क्वालिटी चाहिए Realme BDS T500 Pro ले लो अगर आपके बजट में आ रहा है। बट अगर आपका बजट कम है",
+    "start_time_text": "6:23",
+    "start_time_label": "6 minutes, 23 seconds"
+   },
+   {
+    "start_ms": 391000,
+    "snippet": "तो आप OnePlus Notebd्स 3 Pro या फिर Realme Ebd्स Air7 दोनों में से कोई भी ले सकते हो। इसके अलावा अगर आपका बजट कम है",
+    "start_time_text": "6:31",
+    "start_time_label": "6 minutes, 31 seconds"
+   },
+   {
+    "start_ms": 398000,
+    "snippet": "2500 के अराउंड तो नथिंग BDS 2 बहुत अच्छे ऑप्शन है। अगर आपको कुछ डिफरेंट यूज़ करना है। बाकी तो गाइस आज की इस वीडियो में इतना ही। अगर आपको वीडियो पसंद आए तो लाइक",
+    "start_time_text": "6:38",
+    "start_time_label": "6 minutes, 38 seconds"
+   },
+   {
+    "start_ms": 406000,
+    "snippet": "करो, नीचे कमेंट्स मेरे को बताओ और किस टॉपिक पे वीडियो देखना चाहते हो मैं डेफिनेटली लाने की कोशिश करूंगा।",
+    "start_time_text": "6:46",
+    "start_time_label": "6 minutes, 46 seconds"
+   }
+  ]
+ }
+}

@@ -1,0 +1,162 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube earbuds review: its description and what was said in the video (English, Hindi,\nHinglish, Telugu, Malayalam or a mix). The reviewer recommends the earbuds listed under PRODUCTS.\n\nFor each of those earbuds, find every place where the reviewer gives an opinion on one of these areas:\ngym, bass, fit, battery, sound, mic.\n- verdict \"good\": they praise it for that area or recommend it for people who care about that area.\n- verdict \"weak\": they say it falls short in that area.\n- Skip bare specs with no opinion (a bare spec with no opinion).\n- `phone` must be copied exactly from the PRODUCTS list.\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text: same script, spelling, punctuation and capitals. Never translate.\n- The quote itself must contain the word for the area (e.g. \"gym\", \"bass\", \"eartips\").\n- Use the shortest exact span that shows the opinion, at most 200 characters.\n- A transcript quote comes from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote.\nIf there is nothing, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: Best Earbuds Under ₹3,000 in 2026 🔥 Top TWS Earbuds You Should Buy! | Telugu\nCHANNEL: Tech With Yesh Telugu\n\nDESCRIPTION:\nBest Earbuds Under ₹3,000 in 2026 🔥 Top TWS Earbuds You Should Buy! | Telugu\n\nRealme Buds Air 7: https://link.amazon/B06oOJinh\nRealme Buds Air 8: \nhttps://link.amazon/B0fl98flG\nRealme T500 Pro: https://link.amazon/B0689OwWP\nOnePlus Buds Nord 4: https://link.amazon/B0g6WIcCs\nOPPO Enco Air 5: https://link.amazon/B04EOWAZr\n\n👉🏻 Join Our Telegram Channel: https://t.me/techwithyeshdeals\n\n👉🏻 Our Instagram Page: https://insta.openinapp.co/hsuo7\n\n👉🏻 Our Whatsapp Channel: https://whatsapp.com/channel/0029Va98...\n\nContact us: techwithyeshtelugu@gmail.com✔️\n\nLooking for the best earbuds under ₹3,000 in India? 🎧🔥 There are a lot of TWS earbuds available in this price range, but not all of them are worth your money.\n\nIn this video, I've selected and compared some of the best TWS earbuds under ₹3,000 in 2026, focusing on the features that actually matter in everyday use.\n\nWe look at sound quality, bass, ANC, microphone quality, battery life, gaming performance, latency, comfort, connectivity and overall value for money to help you choose the right earbuds.\n\n🎧 In This Video:\n\n• Best Earbuds Under ₹3,000\n• Best TWS Earbuds Under ₹3000\n• Best Earbuds for Music\n• Best Earbuds for Calls\n• Best Earbuds for Gaming\n• Best ANC Earbuds Under ₹3000\n• Best Bass Earbuds Under ₹3000\n• Best Earbuds for iPhone & Android\n• Battery Life & Charging\n• Microphone & Call Quality\n• Sound Quality & Bass\n• Gaming & Low Latency\n• Comfort & Fit\n• Pros & Cons\n• Final Best Earbuds Picks\n\nWhether you want powerful bass, good ANC, clear calling, low-latency gaming or long battery life, this list will help you find the best earbuds within a ₹3,000 budget.\n\nIf you're searching for best earbuds under 3000, best TWS earbuds under 3000, best earbuds under ₹3000 in India, best wireless earbuds under 3000, best ANC earbuds under 3000, best bass earbuds under 3000, best earbuds for gaming under 3000 or best TWS 2026, this video is for you.\n\n💬 Which earbuds are you currently using? Tell me your favourite in the comments!\n\n👍 Like the video if you found it useful\n🔔 Subscribe for more Earbuds, Gadgets & Telugu Tech videos\n📲 Share this video with someone looking for new earbuds.\n\n\nProducts We Use To Create Content: \nCamera: https://amzn.to/4plRFpc\nZoom Lens: https://amzn.to/49Aquly\nMacro Lens: https://amzn.to/4bbzZJc\nMic: https://amzn.to/4q4H9Uq\nGodox Lights: https://amzn.to/49gtDpv\nGodox Softbox: https://amzn.to/49iMMqI\nTripod for Lights: https://amzn.to/4slsaqD\nDigitek Tripod: https://amzn.to/4jvBu7h\nBackground Cloth: https://amzn.to/4iYO7Ht\n\nDISCLAIMER-some contents are used for educational purposes under fair use. Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.\n\n\n       Thanks for watching❤️\n\n#BestEarbudsUnder3000 #BestTWS #Earbuds2026 #TWS #TechTelugu #TeluguTech #earbuds #tech #techwithyeshtelugu #techintelugu #trending #techwithyashtelugu\n\nTRANSCRIPT (one segment per line, [index] m:ss text):\n[0] 0:02 మీరు అండర్ 3000 లో బెస్ట్ ఇయర్ బడ్స్ కొనుక్కోవాలనుకుంటే ఈ వీడియో చూడండి.\n[1] 0:16 బాగా రీసెర్చ్ చేసి మాకు బెస్ట్ అనిపించిన బ్రాండ్స్ అన్నీ పక్క తీసి పెట్టాం. ప్రతి ఒక్క దానికి సర్వీస్ సెంటర్ లో ఉంటాయి.\n[2] 0:21 మీకు ఏ ప్రాబ్లం ఉండదు. మామూలుగా ఇలాంటి ఇయర్ బడ్స్ ఏందంటే మీకు రీప్లేస్మెంట్ డైరెక్ట్ గా చేసేస్తారు ఏదైనా ప్రాబ్లం వచ్చిందంటే చిన్న చిన్నవి తీసుకున్నారు అనుకోండి చాలా ఇబ్బంది పడాల్సి వస్తది వాళ్ళు రీప్లేస్మెంట్ చేస్తారో లేదో మనకు\n[3] 0:29 తెలియదు. అది మీరు వారంటీలో ఉంటే మీరు వారంటీలో ఉండి మీ బడ్స్ కి ఏమైనా ప్రాబ్లం్ వచ్చి మామూలుగా సాఫ్ట్వేర్ పరంగా హార్డ్వేర్ పరంగా ఏ విధంగా అయినా వాళ్ళు రీప్లేస్ చేస్తారు పీస్ టు పీస్\n[4] 0:37 అదే మీరు కావాలని పగలుకొట్టి చేసుకుంటే ఇలా చేయరు. మనం డామేజ్ కి ఏం చేయరు వాళ్ళు. మీకు ఏమైనా ఇష్యూ వచ్చి కనెక్ట్ అవ్వకపోవడం లేకపోతే ఏమనా బడ్ ఒకటి ఆగిపోవడం వన్ ఇయర్ లోపు ఇలాంటి\n[5] 0:45 ప్రాబ్లమ్స్ కి అయితే పీస్ టు పీస్ రీప్లేస్మెంట్ ఉంటది. దాన్నే రిపేర్ చేయగలితే రిపేర్ చేయచ్చేస్తారు కొన్ని సినారియోస్ లో సో ఇలాంటి సిచువేషన్స్ కూడా ఉంటాయి. ఇంక మనం బడ్స్ విషయానికి\n[6] 0:52 వెళ్ళిపోతే ఫస్ట్ వచ్చేటప్పటికి Realme Air7 అని ఉంటది. ఈ 1 1/2 ఇయర్ పాదవే నా దగ్గర Realme 8 ఉంది. దీని ప్రీవియస్ జనరేషన్ మన ఛానల్ లో వీడియో కూడా ఉంటది\n[7] 1:01 చూడండి ఒకసారి. ఆ Realme బట్స్ A7 12.4 mm డ్రైవర్స్ తో వస్తాయి. హైరెస్ట్ ఆడియో సపోర్ట్ ఉంటది. 52B యాక్టివ్ నాయిస్ క్యాన్సిలేషన్ సపోర్ట్ ఉంటది. మీరు యూస్\n[8] 1:08 చేస్తున్నప్పుడు కూడా మాక్సిమం సౌండ్ మీకు వెళ్ళిపోద్ది. మీకు ఎక్కడ బయట సరౌండింగ్ సౌండ్స్ ఇలాంటివి వినపడదు. మీరు కానీ ఆక్టివ్ నాయిస్ క్యాన్సిలేషన్ ఆన్ చేసుకుంటే 360° స్పేషియల్ ఆడియో సపోర్ట్\n[9] 1:15 కూడా ఉంటది. మామూలుగా ఆన్ చేసుకున్నాం అనుకోండి మళ్ళా ఎలా తిరిగితే అలా సౌండ్ తిరుగుతా ఉంటది. అది ఓకే ఒకసారి అన్నానే బాగుంటది కానీ మళ్లా ఎక్కువసారి విన్నాం అనుకోండి మనకు పెద్దగా అనిపించదు అది. మన\n[10] 1:23 సౌండ్ ఎక్స్పీరియన్స్ ని పాడు చేస్తది నిజం చెప్పాలంటే ఇంకా డ్యూవల్ డివైస్ కనెక్షన్ ఉంటది. ఒకేటేసారి రెండు డివైస్ లు కనెక్ట్ చేసుకోవచ్చు. సిక్స్ మైక్స్ ఉంటాయి. దీని ప్రైస్ వచ్చేటప్పటికి 3,300\n[11] 1:30 అలా ఉంటది. మీకు కార్డ్ ఆఫర్ అప్లై చేశారనుకోండి 3000 కే వచ్చేయొచ్చు. మోస్ట్ ఆఫ్ ది టైమ్స్ మీకు 3000 కి వస్తది ఇది.\n[12] 1:36 కానీ దానికన్నా ఒక 500 నేను ఎక్కువ పెట్టుకోగలను అనుకుంటే ఈ Realme A తీసుకోండి. నేను కూడా ఇవే యూస్ చేస్తాను.\n[13] 1:42 ఇది దాని తర్వాత జనరేషన్ ఇది. ఈ బడ్స్ కి సంబంధించిన వీడియో కూడా మన ఛానల్ లో ఉంటది చూడండి. దీనిలో టూ డ్రైవర్స్ ఉంటాయి డ్యూయల్ డ్రైవర్స్ తో వస్తుంది 11+6 అండ్ 52డిb నాయిస్ కాన్సిలేషన్ ఉంటది. చాలా\n[14] 1:50 బాగా నాయిస్ కాన్సిలేషన్ చేస్తది. డిజైన్ కూడా నాకు అసలు చాలా బాగా నచ్చింది ఇది. పైన వచ్చేటప్పటికి స్మూత్ టెక్చర్ ఉంటది.\n[15] 1:56 మనం ఇలా అనుకుంటా ఉండొచ్చు నేను అప్పుడప్పుడు అదే చేస్తుంటాను. చాలా స్మూత్ గా ఉంటది టెక్చర్ ఇది. చేతిలో పట్టుకోవడానికి గానిీ కంఫర్ట్ గా భలే ఉంటది అసలు. దీనికైతే త్రిపుల్ డివైస్ కనెక్షన్ ఉంది. ఒకటేసారి త్రీ డివైస్ లు\n[16] 2:04 కనెక్ట్ చేసుకోవచ్చు. చాలా మందికి ఇది అర్థం కాదు అసలు త్రిపుల్ డివైస్ కనెక్షన్ ఏంటి, డ్యూయల్ డివైస్ కనెక్షన్ ఏంటి అంటే ఫర్ ఎగ్జాంపుల్ నేను నా మొబైల్ కి కనెక్ట్ చేసుకోన్నాను. ఇదే బట్స్ ని నా లాప్టాప్ కి కూడా కనెక్ట్ చేసుకోన్నాను. ఇప్పుడు\n[17] 2:13 నేను నా లాప్టాప్ లో వీడియోస్ చూస్తా ఉన్నాను అనుకోండి నాకు మొబైల్ లో కాల్ వచ్చిందనుకోండి ఇక్కడ నేను కాల్ లిఫ్ట్ చేస్తే ఆటోమేటిక్ గా బట్స్ అనేటివి మొబైల్ కి కనెక్ట్ అయిపోతాయి. సేమ్ వీడియో\n[18] 2:21 చూసేటప్పుడు కూడా ఇప్పుడు నేను దీంట్లో వీడియోస్ చూస్తున్నాను ఇది పాస్ చేసి డిస్కనెక్ట్ కూడా చేయన అవసరం లేదు ఇది పాస్ చేసి ఏదైతే లాప్టాప్ కి కనెక్ట్ అయింది కదా ఈ బట్స్ వాటిలో గాని ప్లే\n[19] 2:29 చేశను అనుకోండి ఆటోమేటిక్ గా లాప్టాప్ లో నుంచి సౌండ్ వస్తుంది నాకు ఇది పాస్ లో ఉంటది కాబట్టి అలాగా డ్యూవల్ డివైస్ త్రిబుల్ డివైస్ ఎలాగైనా ఒకసారి ఒకటేసారి త్రీ డివైస్ లో కూడా కనెక్ట్ చేసుకోవచ్చు.\n[20] 2:38 నేను ఒకటేసారి రెండిట్లో ప్లే చేస్తాను అన్నప్పుడు రెండిట్లో రాదు. సో ఒక దాంట్లోనే ప్లే అవుతది. ఫస్ట్ దేంట్లో కనెక్ట్ అయిందో దాంట్లో ఇంకో దాంట్లో వినపడదు. సో ఇలా ఉంటది. ఈ Realme బట్స్\n[21] 2:45 ఎయిర్ ప్రైస్ వచ్చేటప్పటికి 3,800 అలా ఉంటది. ఒక 300 ఆఫర్ ఎప్పుడూ వస్తది మీకు 3,500 కలా వస్తది. దానికన్నా Realme A7 కన్నా ఒక 500 మేము పెట్టుకోగలం అనుకుంటే\n[22] 2:54 ఇవి తీసుకోండి చాలా బాగుంటాయి. ఇవి రెండిట్లో ఉంటాయి. Flipkart లో ఉంటాయి Amazon లో ఉంటాయి. సో Flipkart ది నేను టాక్ ప్రాక్స్ లో పెడతా చూడండి. అలానే Amazon ది డిస్క్రిప్షన్ లో ఉంటాయి.\n[23] 3:01 రెండిటి మీద క్లిక్ చేసి దేంట్లో తక్కువ ప్రైస్ ఉందో చూసుకోండి. దేనిలో తక్కువ వస్తే దాంట్లో కొనేసుకోండి. దాని తర్వాత ఇదే Realme నుంచి రీసెంట్ గా రిలీజ్ అయింది Realme T500 3000 లోపల చూస్తుంటే\n[24] 3:10 ఇది కూడా మీరు కన్సిడర్ చేయొచ్చు. దీంట్లో 12.4 mm డ్రైవర్స్ తో వస్తుంది. హైరెస్ట్ సపోర్ట్ ఉంటది. 50b నాయిస్ కాన్సలేషన్ తో వస్తుంది. బ్లూటూత్ వెర్షన్ 6.1 తో 6\n[25] 3:18 మైక్స్ ఉంటాయి. మీరు కాల్ మాడేటప్పుడు కూడా కొంచెం క్లియర్ గా వినపడుతది. అండ్ ఐip 55 రేటింగ్ తో వీళ్ళు చెప్పడం బ్యాటరీ వచ్చేటప్పటికి విత్సి తో ఈ కేస్ ప్లస్\n[26] 3:25 బడ్స్ మొత్తం చెప్తున్నాను నేను 33 అవర్స్ వస్తది. అదే మీరు anc ఆఫ్ చేసుకొని యూస్ చేశారు అనుకోండి 36 అవర్స్ అంటున్నారు.\n[27] 3:30 ఇది వేరీ అవ్వచ్చు. అండ్ కాంపాక్ట్ గా చాలా బాగుంటాయి ఈ బడ్స్ ఇది రీసెంట్ గా రిలీజ్ అయింది. దీని ప్రైస్ వచ్చేటప్పటికి 3,200 అలా ఉంటది. మీకు టాక్ ప్రొడక్షన్ లోనా చూడండి. Amazon లో గైని అవైలబుల్ గా\n[28] 3:39 ఉంటే నేను డిస్క్రిప్షన్ లో కూడా ఇస్తాను రెండు చెక్ చేయండి. ఇంకా ఈ Realme బట్స్ అన్నీ ఈ Realme యప్ ఇంక్లింగ్ లో మీరు కస్టమైజ్ చేసుకోవచ్చు మీకు కావాల్సిన మన వీడియోస్ లో నేను ఆల్రెడీ ఎక్స్ప్లెయిన్ చేశాను ఎలా చేయాలో ఒకసారి అవి చూడండి.\n[29] 3:48 దాని తర్వాత cmf నుంచి cmf2ప్లస్ బట్స్ ఉంటాయి. మీ దగ్గర నథింగ్ ఫోన్ సిఎఫ్ ఫోన్స్ గయ అనుకోండి మీరు ఇవి కూడా తీసుకోవచ్చు. వీటిలో 12 mm డ్రైవర్స్ ఉంటాయి. అలానే హైరెస్ ఐడియా సపోర్ట్\n[30] 3:56 చేస్తాయి. 50 DB నాయిస్ కాన్సిలేషన్ తో వస్తుంది. కొంచెం తక్కువ నాయిస్ కాన్సలేషన్ ఇప్పుడు నేను చెప్పిన వాటన్నిటిలో అండ్ బ్లూటూత్ ఆప్షన్ 5.4 తో వస్తుంది ఇది. ఇది కూడా తక్కువే దీంట్లో\n[31] 4:04 సిక్స్ మైక్స్ ఉంటాయి. మీరు కాల్స్ చాలా బాగా మాట్లాడుకోవచ్చు. నథింగ్ వాళ్ళ సౌండ్ సిగ్నేచర్ అసలు చాలా బాగుంటది. వీటి ప్రైస్ 3,300 అలా ఉంటది. మీకు ఆఫర్ లో 3000 కే రావచ్చు. మాక్సిమం మీకు Flipkart\n[32] 4:12 లోనే దొరుకుతాయి. నేను టాక్ ప్రొడక్ట్స్ లో పెడతాను. ఒకవేళ Amazon లో ఉంటే డిస్క్రిప్షన్ లో ఉంటది చెక్ చేయండి.\n[33] 4:16 నెక్స్ట్ onepl నుంచి OnePlus నా బట్స్ 4 అని ఉంటది. దీంట్లో 12.4 mm డ్రైవర్స్ తో వస్తాయి. మీకు సౌండ్ సిగ్నేచర్ చాలా బాగుంటది onepl ఎక్కువ బేస్ వస్తది మెయిన్\n[34] 4:24 గా బేస్ ఇష్టపడే వాళ్ళకి onepl చాలా బాగా సెట్ అవుతుంది. అండ్ 52B నాయిస్ క్యాన్సిలేషన్ ఉంటది. బ్లూటూత్ వెర్షన్ 6.1 తో వస్తుంది అండ్ సిక్స్ మైక్స్ తో వస్తుంది ఇది కూడా మాక్సిమం అన్ని సిక్స్\n[35] 4:32 మైక్స్ తోనే వస్తాయి అనుకోండి కానీ చాలా డిఫరెన్స్ ఉంటది మీరు కాల్స్ మాడేటప్పుడు ఒకదానికి ఒకదానికి onepl బడ్స్ కాల్స్ మాట్లాడడానికి చాలా బాగుంటాయి. నేను చెక్ చేసిన వాటన్నిటిలో నాకు కాల్స్\n[36] 4:40 మాట్లాడడానికి మాత్రం onepl చాలా బాగా నచ్చింది. ఒకవేళ మీరు కాల్స్ ఎక్కువ మాట్లాడదాం అనుకుంటే onepl తీసుకోవచ్చు.\n[37] 4:44 అండ్ ఐip 55 రేటింగ్ ఉంటది. ఇవి కూడా 3300 అలా ఉంటది. మీకు ఆఫర్ లో 3000 కే వస్తాయి.\n[38] 4:48 ఇవి Amazon లో ఉంటాయి చెక్ చేయండి. ఒకవేళ Flipkart లో ఉంటే నేను టాక్ ప్రొడక్ట్స్ లో పెడతాను. నెక్స్ట్ oppo ఎకోబట్స్ Air 5 అని ఉంటాయి. ఇవి మాకు అన్నీ బాగుండాలి.\n[39] 4:55 ఓన్లీ మాకు బేస్ఏ ఎక్కువ ఉండకూడదు. ప్రతి ఒక్కటి కరెక్ట్ గా ఉండాలనుకుంటే OPPO తీసుకోవచ్చు. OPPO సౌండ్ సిగ్నేచర్ అసలు చాలా బాగుంటది. నాకు వన్ ఆఫ్ ద బెస్ట్ అనిపిస్తాయి సౌండ్ సిగ్నేచర్ లో మాత్రం\n[40] 5:04 ఏది ఎక్కువ ఏది తక్కువ ఉండదు. ఇప్పుడు onepl నేను చెప్పా కదా నీకు ఎక్కువ బేస్ వస్తది. కానీ oppo లో ఏందంటే బేస్ డామినేట్ చేసేది కరెక్ట్ గా ఉంటది. అండ్ వోకల్స్ ఇన్స్ట్రుమెంట్స్ చాలా బాగా\n[41] 5:12 కనపడుతుంది. దీంట్లో 12 mm డైనమిక్ డ్రైవర్స్ యూస్ చేశారు. అండ్ 52డిb anc తో సపోర్ట్ తో వస్తుంది. బ్లూటూత్ వెర్షన్ 6.1 ఉంటది. వీటిలో కూడా సిక్స్ మైక్స్ ఉంటాయి. కాల్స్ కూడా మీకు బాగా\n[42] 5:21 మాట్లాడుకోవచ్చు ఏ ప్రాబ్లం ఉండదు. అండ్ ఐip 55 రేటింగ్ ఉంటది. ఇవి మీకు Amazon లో ఉంటాయి 3300 కి అలాగా ఆఫర్ లో మీకు 3000 కే వస్తాయి. అండ్ Flipkart లో కూడా ఉంటాయి\n[43] 5:28 చెక్ చేయండి రెండింట్లో ఉంటాయి. Flipkart అయితే నేను టాక్ ప్రొడక్ట్స్ లో పెడతాను.\n[44] 5:31 ఒకవేళ ఉంటే దేంట్లో తక్కువ వస్తే దానిలో తీసుకోండి ఆలోచించొద్దు. బట్స్ అన్ని అంతే రెండింట్లో ఉంటాయి. రెండు వెబ్సైట్లో చెక్ చేయండి mintra లో కూడా కొన్ని ఉంటాయి.\n[45] 5:37 మింత్రra లో ఉన్నా కానీ నేను ఇక్కడ టాక్ ప్రొడక్ట్స్ లో పెడతాను. సో అన్నిటిలో చెక్ చేసి మనకి ఎక్కడ తక్కువ వస్తే అక్కడ తీసుకోవడం బెటర్. సింపుల్ గా ఇవి నాకు బెస్ట్ అనిపించిన ఇయర్ బడ్స్ ఒక సిక్స్\n[46] 5:45 చెప్పే మీకు వీటిలో ఏవి తీసుకోమంటావ్ అని నన్ను అడిగితే నేను మీకు ఒక 500 ఎక్కువ పెట్టుకోవచ్చు అంటే ఫస్ట్ realme తీసుకోండి. ఇది నేను పర్సనల్ గా యూస్ చేస్తున్నా చాలా బాగున్నాయి నాకు నచ్చాయి.\n[47] 5:54 నాకు ఏది తక్కువ అనిపించలేదు ఏది ఎక్కువ అనిపించలేదు కరెక్ట్ గా ఉన్నాయి అన్ని లేదు మాకు బేస్ ఎక్కువ ఇష్టం మేము బేస్ ఎక్కువ వింటాం అన్నోళ్ళు వన్ప్లస్ తీసుకోండి. అలానే కొంచెం క్వాలిటీ\n[48] 6:02 క్వాలిటీ కూడా బాగుంటది. ఇంకా నథింగ్ ఫోన్స్ సిఎఫ్ ఫోన్స్ ఉంటాయి కదా వాళ్ళైతే సిఎ బట్స్ తీసుకోండి. మీకు ఇవి కూడా చాలా బాగుంటాయి. వీళ్ళు క్యూనింగ్ బాగుంటది. మీ దగ్గర నథింగ్ ఫోన్స్ కానీ, సిఎఫ్ ఫోన్స్\n[49] 6:10 కాని ఉంటే ఇవి కొంచెం ఫస్ట్ ప్రయారిటీ గా పెట్టుకోండి. లేదు మాకు అన్నీ కరెక్ట్ గా ఉండాలి అంటే మీరు OPPO లో తీసుకోవచ్చు.\n[50] 6:15 ప్రతి ఒక్కటి ఆన్ పాయింట్ ఉంటాయి. సో అవైనా చూస్ చేసుకోవచ్చు. OPPO ఫోన్స్ గనీ యూస్ చేస్తుంటే మెయిన్ గా Realme ఫోన్స్ యూస్ చేస్తుంటే ఇవి తీసేసుకోండి అంతే నేను ఇయ్యే చెప్తాను. ఎందుకంటే మొబైల్ బ్రాండ్\n[51] 6:23 బట్టి ఆప్టిమైజేషన్ మారుతది. అందువల్ల నేను చెప్తున్నాను మీ దగ్గర ఉన్న మొబైల్ బ్రాండ్ బట్టి ఎప్పుడు ఇయర్ బడ్స్ తీసుకోవడానికి ట్రై చేయండి. నేను మాత్రం డిఫరెంట్ లేండి మీకు చెప్తాను ఇది. కానీ\n[52] 6:32 నేను యూస్ చేసే మొబైల్ వేరు, బట్స్ వేరు ఇవి నేను కొనలేదు నాకు ఇవి అప్పుడు రివ్యూ యూనిట్ లో వచ్చాయి. చాలా బాగా నచ్చాయి.\n[53] 6:37 అప్పటి నుంచి ఇవే యూస్ చేస్తున్నాను వేరే కూడా తీసుకోకుండా. బట్ మీరు కొంటున్నారు కాబట్టి చెప్తున్నాను. మీ దగ్గర ఉన్న మొబైల్ ని బట్టి ఇయర్ బడ్స్ తీసుకోవడానికి ట్రై చేయండి. ఎందుకంటే నేను ప్రతి బ్రాండ్\n[54] 6:45 లో బెస్ట్ చెప్పేది. ఏది తీసిపోదు. అన్నీ బెస్టే ఉంటాయి. ఇంకా అక్కడ మీకు కొంచెం ఆప్టిమైజేషన్ హెల్ప్ చేస్తది అంతే.\n[55] 6:50 ఇప్పుడు మీకు స్ట్రిక్ట్ గా ఇవే బడ్జెట్ అనుకుంటే ఇప్పుడు ఈ 3000 లో ఇవి కన్సిడర్ చేయండి. వేరే బ్రాండ్స్ చిన్న చిన్న బ్రాండ్స్ ఉంటాయి. మీరు కావాలంటే అవి కూడా తీసుకోవచ్చు కానీ వాటికి కొంచెం మీకు\n[56] 6:58 సపోర్ట్ ఇవి కష్టం అవుతాయి. మాకు ఆఫ్టర్ సేల్స్ సపోర్ట్ ఇంపార్టెంట్. ఆ సపోర్ట్ లో కష్టం అవ్వకూడదు అని చెప్పి ఇవి చేశాను.\n[57] 7:03 లేదు మా బడ్జెట్ ఇంకా తక్కువ ఉంది అంటే ఒక వన్ మంత్ బ్యాక్ ఏమో ఇంకో వీడియో చేశాను నేను. అక్కడ 1000 నుంచి స్టార్ట్ చేసా ఆ వీడియో ఒకసారి చెక్ చేయండి. ఇది టోటల్ గా మీకు వీడియో నచ్చింది అనుకుంటాను. ప్రతి\n[58] 7:11 లింక్ డిస్క్రిప్షన్ లో ఉంటది అండ్ టాక్ ప్రొడక్ట్ లో ఉంటాయి. ఇక్కడి నుంచి కొనడానికి ట్రై చేయండి మాకు హెల్ప్ అవుతది. మీకు ఇంకా ఏమైనా డౌట్ ఉన్నా కామెంట్ చేయడం మర్చిపోవద్దు. నెక్స్ట్ దేని మీద వీడియో చేద్దాం అన్నా మీరు\n[59] 7:19 కామెంట్స్ లో చెప్తే వాటిని మేము కన్సిడర్ చేస్తాం అందులో నో డౌట్. ఎప్పుడు మీ కామెంట్స్ నుంచి మేము వీడియోస్ తీసుకొని చేస్తాం అది మీకు తెలిసింది. మీరు ఇలానే సపోర్ట్ చేస్తా ఉంటే ద బెస్ట్ కంటెంట్ మీ\n[60] 7:27 కోసం రోజు వస్తూనే ఉంటుంది. ఛానల్ సబ్స్క్రైబర్స్ చిన్నగా కనపడుతున్న క్వాలిటీలో ఏ రోజు కాంప్రమైస్ అవ్వమో అందులో నో డౌట్ అది మీకు తెలిసిందే. రోజు రోజుకి మమ్మల్ని ఇంప్రూవ్ చేసుకుంటానే వెళ్తున్నాం. జస్ట్ మీ సపోర్ట్ ఉండాలంతే.\n[61] 7:35 మళ్ళీ మనం నెక్స్ట్ వీడియోలోకి వెళ్దాం అంటిల్ దెన్ బాయ్.\n[62] 7:40 [సంగీతం]\n\nPRODUCTS:\n- Realme Buds Air 7\n- Realme Buds Air 8\n- Realme Buds T500\n- CMF Buds 2 Plus\n- OnePlus Nord Buds 4\n- OPPO Enco Air 5"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "UseAnswer",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "area": {
+          "enum": [
+           "gym",
+           "bass",
+           "fit",
+           "battery",
+           "sound",
+           "mic"
+          ],
+          "type": "string"
+         },
+         "verdict": {
+          "enum": [
+           "good",
+           "weak"
+          ],
+          "type": "string"
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "area",
+         "verdict",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [
+   {
+    "phone": "CMF Buds 2 Plus",
+    "area": "sound",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 31,
+    "quote": "నథింగ్ వాళ్ళ సౌండ్ సిగ్నేచర్ అసలు చాలా బాగుంటది.",
+    "meaning_en": "Nothing's sound signature is really very good."
+   },
+   {
+    "phone": "OnePlus Nord Buds 4",
+    "area": "sound",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 33,
+    "quote": "మీకు సౌండ్ సిగ్నేచర్ చాలా బాగుంటది",
+    "meaning_en": "You get a very good sound signature."
+   },
+   {
+    "phone": "OnePlus Nord Buds 4",
+    "area": "bass",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 47,
+    "quote": "లేదు మాకు బేస్ ఎక్కువ ఇష్టం మేము బేస్ ఎక్కువ వింటాం అన్నోళ్ళు వన్ప్లస్ తీసుకోండి.",
+    "meaning_en": "Those who like more bass and listen to a lot of bass should pick OnePlus."
+   },
+   {
+    "phone": "OPPO Enco Air 5",
+    "area": "sound",
+    "verdict": "good",
+    "source": "transcript",
+    "segment": 39,
+    "quote": "OPPO సౌండ్ సిగ్నేచర్ అసలు చాలా బాగుంటది.",
+    "meaning_en": "OPPO's sound signature is really very good."
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 5650,
+  "completion_tokens": 6319,
+  "total_tokens": 11969,
+  "cost": 0.02793375,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.02793375,
+   "upstream_inference_prompt_cost": 0.0042375,
+   "upstream_inference_completions_cost": 0.02369625
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 5914,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791490205-G8AhTwWP1fv074KRcpr1"
+ }
+}

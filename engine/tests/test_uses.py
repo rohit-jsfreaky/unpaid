@@ -5,6 +5,7 @@ from typing import Any
 from test_proof import hit, page, transcript
 
 from unpaid.aggregate import tally
+from unpaid.category import PHONE, AreaSpec
 from unpaid.collect import Video
 from unpaid.proof import COMMISSION, Evidence, Proven, ProvenPick
 from unpaid.uses import (
@@ -20,11 +21,15 @@ from unpaid.uses import (
 from unpaid.youtube import Segment, Transcript
 
 
+def area(key: str) -> AreaSpec:
+    return next(a for a in PHONE.areas if a.key == key)
+
+
 def test_area_words_match_spelling_variants_and_scripts() -> None:
-    assert names_area("एंड परफॉरमेंस भी आपको इसमें अच्छी मिल जाती है।", "performance")  # परफॉरमेंस, not परफॉर्मेंस
-    assert names_area("बैटरी बैकअप तो यार ठीक है।", "battery")
-    assert names_area("ఈ ఫోన్ కెమెరా చాలా బాగుంది", "camera")
-    assert names_area("The camera is great", "camera") and not names_area("The camera is great", "battery")
+    assert names_area("एंड परफॉरमेंस भी आपको इसमें अच्छी मिल जाती है।", area("performance"))  # not परफॉर्मेंस
+    assert names_area("बैटरी बैकअप तो यार ठीक है।", area("battery"))
+    assert names_area("ఈ ఫోన్ కెమెరా చాలా బాగుంది", area("camera"))
+    assert names_area("The camera is great", area("camera")) and not names_area("The camera is great", area("battery"))
 
 
 def test_names_phone_uses_whole_model_words() -> None:

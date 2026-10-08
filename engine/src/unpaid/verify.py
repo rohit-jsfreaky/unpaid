@@ -15,7 +15,7 @@ from collections.abc import Callable
 from pathlib import Path
 
 from unpaid.agent import Workspace, ask
-from unpaid.board import USES_FILE, Showcase, build
+from unpaid.board import REPORT_FILE, USES_FILE, Showcase, build
 from unpaid.collect import Collection, Plan, Recording, collect, showcase_plan
 from unpaid.config import EVIDENCE_DIR, PROBE_DIR, ROOT, SHOWCASE_DIR, api_key, llm_key, load_settings
 from unpaid.label import Labelled, label_all, showcase_paths
@@ -291,7 +291,8 @@ def checks() -> tuple[list[tuple[str, Callable[[], str]]], dict[str, object]]:
                 n += 1
                 assert u.phone in picks[vu.video_id], (vu.video_id, u.phone)
                 assert locate(u.quote, v.page, v.transcript, None), (vu.video_id, u.quote)
-                assert names_area(u.quote, u.area), (u.area, u.quote)
+                spec = next(a for a in run.plan.category.areas if a.key == u.area)
+                assert names_area(u.quote, spec), (u.area, u.quote)
         return f"{n} of {n} claims"
 
     @claim(
@@ -308,6 +309,30 @@ def checks() -> tuple[list[tuple[str, Callable[[], str]]], dict[str, object]]:
             lines.append(
                 f"{a.area}: {top.name}, praised by {top.good_no_disclosure}/{nd} reviewers with nothing to disclose "
                 f"(+{top.good_disclosed} with a money tie, {top.weak} call it weak)"
+            )
+        return "\n      ".join(lines)
+
+    recorded = sorted(EVIDENCE_DIR.glob(f"*/{REPORT_FILE}"))
+    runs: list[dict[str, object]] = []
+    numbers["recorded_runs"] = runs
+
+    @claim("Any product, not just phones: every recorded question replays end to end with no keys and 0 spend")
+    def _() -> str:
+        assert recorded, "no recorded question besides the showcase"
+        lines = []
+        for path in recorded:
+            saved = Showcase.model_validate_json(path.read_text(encoding="utf-8"))
+            with tempfile.TemporaryDirectory() as tmp:
+                ws = Workspace.open(replay=True, root=Path(tmp))
+                again = ask(saved.question, ws)
+            assert ws.client.searches_used == 0 and ws.llm.calls == 0, path
+            assert again == saved, f"stale {path}: re-record with unpaid ask --record-into"
+            ties = sum(bool(v.labels) for v in saved.videos)
+            best = [f"{a.area}: {a.best_no_disclosure or a.best_all or '-'}" for a in saved.areas if a.focus]
+            runs.append({"id": saved.id, "product": saved.product, "reviews": len(saved.videos), "with_ties": ties})
+            lines.append(
+                f"{saved.product}: {len(saved.videos)} reviews, {ties} with a money tie, "
+                f"features from the question: {', '.join(best) or 'none'}"
             )
         return "\n      ".join(lines)
 

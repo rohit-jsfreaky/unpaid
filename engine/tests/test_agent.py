@@ -85,7 +85,8 @@ def test_api_replays_the_demo_question_with_no_keys(tmp_path: Path, monkeypatch:
     other = lines(http.post("/ask", json={"question": "best laptop under 60k", "replay": True}).text)
     assert other[-1]["type"] == "error" and other[-1]["status"] == 404
     listed = http.get("/reports").json()
-    sample = next(r for r in listed if r["sample"])
+    sample = next(r for r in listed if r["id"] == "best-phone-under-30000-2026-10-08")
+    assert sample["sample"] and any(r["sample"] and r["id"].startswith("best-earbuds") for r in listed)
     assert (sample["id"], sample["reviews"], sample["with_money_ties"]) == ("best-phone-under-30000-2026-10-08", 21, 9)
     assert sample["top_pick"] == "Motorola Edge 70 Fusion" and sample["top_pick_price"] == 25799
     got = http.get(f"/reports/{sample['id']}").json()
@@ -103,4 +104,4 @@ def test_reports_list_skips_a_report_saved_by_an_older_version(tmp_path: Path, m
     (tmp_path / "reports" / "old.json").write_text('{"id": "old", "question": "x"}', encoding="utf-8")
     monkeypatch.setattr(api, "WORK_DIR", tmp_path)
     listed = TestClient(api.app).get("/reports")
-    assert listed.status_code == 200 and [r["sample"] for r in listed.json()] == [True]
+    assert listed.status_code == 200 and all(r["sample"] for r in listed.json())  # only the recorded samples

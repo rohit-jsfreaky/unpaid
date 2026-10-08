@@ -23,8 +23,8 @@ THIRD_PARTY = "Third-party sponsor"
 NO_DISCLOSURE = "No disclosure found"
 LABELS = (BRAND_SPONSORED, FREE_UNIT, COMMISSION, THIRD_PARTY)
 
-# Companies that sell phones in India. A sponsor on this list makes a video "Brand-sponsored"; any other sponsor
-# (an app, a retailer, a VPN) is a "Third-party sponsor".
+# Companies that sell phones in India. A sponsor whose name holds one of these, or the brand of a product the reviewer
+# recommends in that video, makes it "Brand-sponsored"; any other sponsor (an app, a retailer, a VPN) is "Third-party".
 PHONE_BRANDS = {
     "samsung", "galaxy", "motorola", "moto", "vivo", "iqoo", "oppo", "realme", "oneplus", "xiaomi", "redmi", "mi",
     "poco", "nothing", "cmf", "google", "pixel", "apple", "iphone", "infinix", "tecno", "lava", "honor", "asus",
@@ -45,11 +45,22 @@ def norm(text: str) -> str:
     return " ".join(ZERO_WIDTH.sub("", unicodedata.normalize("NFC", text)).split())
 
 
-def brand_word(party: str | None) -> str | None:
+def brand_word(party: str | None, brands: set[str] = PHONE_BRANDS) -> str | None:
+    """The sponsor's name holds a product brand: a brand the reviewer recommends here, or a known phone brand."""
     if not party:
         return None
     words = re.findall(r"[a-z0-9+]+", party.lower())
-    return next((w for w in words if w in PHONE_BRANDS), None)
+    return next((w for w in words if w in brands), None)
+
+
+def pick_brands(ex: Extraction | None) -> set[str]:
+    """Brands of the products this reviewer recommends: the first word of each pick ("boAt Airdopes 141" → boat)."""
+    out: set[str] = set()
+    for p in ex.picks if ex else []:
+        words = re.findall(r"[a-z0-9+]+", p.phone.lower())
+        if words:
+            out.add(words[0])
+    return out
 
 
 class Place(BaseModel):
@@ -224,7 +235,8 @@ def prove(
             if not first or first[0] not in norm(place.context).lower():
                 dropped.append(Dropped(kind=c.kind, quote=c.quote, reason=f"{c.party!r} isn't named where quoted"))
                 continue
-            label, party = (BRAND_SPONSORED if brand_word(c.party) else THIRD_PARTY), c.party
+            brands = PHONE_BRANDS | pick_brands(ex)
+            label, party = (BRAND_SPONSORED if brand_word(c.party, brands) else THIRD_PARTY), c.party
         labels.append(
             Evidence(
                 label=label,

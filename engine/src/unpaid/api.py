@@ -19,7 +19,7 @@ from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field, ValidationError
 
 from unpaid.agent import NotABuyingQuestion, Workspace, ask
-from unpaid.board import Showcase
+from unpaid.board import REPORT_FILE, Showcase
 from unpaid.config import CACHE_DIR, EVIDENCE_DIR, SHOWCASE_DIR
 from unpaid.llm import LLMError, LLMNotRecorded, SpendLimitReached
 from unpaid.serpapi import BudgetExceeded, Client, NotRecorded, SerpApiError, fetch_account
@@ -100,9 +100,14 @@ def load_reports() -> dict[str, tuple[Showcase, bool]]:
             # Saved by an older version of Unpaid: skip it rather than break the whole list.
             continue
         out[s.id] = (s, False)
-    sample = SHOWCASE_DIR / "board.json"
-    if sample.exists():
-        s = Showcase.model_validate_json(sample.read_text(encoding="utf-8"))
+    # Recorded runs in evidence/ are the samples: the phone showcase and any other question recorded there.
+    for sample in [SHOWCASE_DIR / "board.json", *sorted(EVIDENCE_DIR.glob(f"*/{REPORT_FILE}"))]:
+        if not sample.exists():
+            continue
+        try:
+            s = Showcase.model_validate_json(sample.read_text(encoding="utf-8"))
+        except (OSError, ValidationError):
+            continue
         out[s.id] = (s, True)
     return out
 

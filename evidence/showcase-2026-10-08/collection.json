@@ -21,11 +21,160 @@
   "must_haves": [
    "camera",
    "battery"
-  ]
+  ],
+  "product": "phone",
+  "category": {
+   "product": "phone",
+   "noun": "phone",
+   "plural": "phones",
+   "item": "phone",
+   "header": "PHONES",
+   "name_rule": "the standard English \"Brand Model\" name, e.g. \"Motorola Edge 60 Pro\", \"iQOO Neo 10\", \"Samsung Galaxy\n  M36\". Don't include RAM/storage or colour.",
+   "spec_example": "\"it has a 5000mAh battery\"",
+   "word_examples": "\"camera\", \"कैमरा\", \"battery\", \"बैटरी\"",
+   "areas": [
+    {
+     "key": "camera",
+     "name": "Camera",
+     "words": [
+      "camera",
+      "cam ",
+      "photo",
+      "selfie",
+      "portrait",
+      "zoom",
+      "telephoto",
+      "sensor",
+      "megapixel",
+      "कैमर",
+      "फोटो",
+      "फ़ोटो",
+      "सेल्फ",
+      "मेगापिक्सल",
+      "కెమెర",
+      "ఫోటో",
+      "సెల్ఫీ",
+      "ക്യാമറ",
+      "ഫോട്ടോ"
+     ],
+     "hint": ""
+    },
+    {
+     "key": "battery",
+     "name": "Battery",
+     "words": [
+      "battery",
+      "mah",
+      "backup",
+      "बैटर",
+      "बैट्र",
+      "बैकअप",
+      "బ్యాటర",
+      "బ్యాకప్",
+      "ബാറ്ററ",
+      "ബാക്കപ്പ്"
+     ],
+     "hint": ""
+    },
+    {
+     "key": "performance",
+     "name": "Performance",
+     "words": [
+      "performance",
+      "gaming",
+      "game",
+      "processor",
+      "chipset",
+      "snapdragon",
+      "dimensity",
+      "परफ",
+      "गेम",
+      "प्रोसेस",
+      "పర్ఫా",
+      "పెర్ఫా",
+      "గేమ",
+      "ప్రాసెస",
+      "പെർഫോ",
+      "ഗെയിം"
+     ],
+     "hint": "including gaming"
+    },
+    {
+     "key": "display",
+     "name": "Display",
+     "words": [
+      "display",
+      "screen",
+      "amoled",
+      "oled",
+      "lcd",
+      "brightness",
+      "nits",
+      "डिस्प्ल",
+      "स्क्रीन",
+      "एमोलेड",
+      "एलसीडी",
+      "డిస్ప్ల",
+      "స్క్రీన్",
+      "ഡിസ്പ്ല"
+     ],
+     "hint": ""
+    },
+    {
+     "key": "charging",
+     "name": "Charging",
+     "words": [
+      "charging",
+      "charger",
+      "चार्ज",
+      "ఛార్జ",
+      "చార్జ",
+      "ചാർജ"
+     ],
+     "hint": ""
+    },
+    {
+     "key": "design",
+     "name": "Design",
+     "words": [
+      "design",
+      "build",
+      "looks",
+      "slim",
+      "thin",
+      "weight",
+      "डिज़ाइन",
+      "डिजाइन",
+      "लुक",
+      "డిజైన్",
+      "లుక్",
+      "ഡിസൈൻ"
+     ],
+     "hint": ""
+    },
+    {
+     "key": "software",
+     "name": "Software",
+     "words": [
+      "software",
+      " ui",
+      "update",
+      "android",
+      "bloatware",
+      "सॉफ्टवेयर",
+      "अपडेट",
+      "సాఫ్ట్",
+      "అప్డేట్",
+      "സോഫ്റ്റ്"
+     ],
+     "hint": ""
+    }
+   ]
+  }
  },
  "gl": "in",
  "mode": "replay",
- "started_at": "2026-10-08T19:40:42.727862Z",
+ "started_at": "2026-10-08T20:03:41.607372Z",
  "elapsed_s": 0.1,
  "searches_used": 0,
  "searches": [

@@ -1,0 +1,217 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "A shopper in India wants to buy the product below. List the features reviewers judge this kind of\nproduct on, 5 to 7 of them, always including every feature the shopper says they care about.\nFor each feature give:\n- name: one or two plain lowercase English words (\"sound\", \"noise cancellation\", \"battery\").\n- words: 10 to 20 words reviewers use when they talk about it, so a sentence about this feature contains at least one:\n  1. English words and short stems (\"batter\" for battery, \"workout\").\n  2. The same English words the way YouTube's auto-captions spell them in Hindi, Telugu and Malayalam scripts.\n     Captions write English words by sound, not by meaning: \"बेस\" for bass, \"साउंड\" for sound, \"माइक\" for mic,\n     \"वर्कआउट\" for workout, \"रनिंग\" for running, \"बैटरी\" for battery, \"బేస్\", \"ബേസ്\".\n  3. Hindi words with the same meaning, in Devanagari and in Latin letters (\"आवाज़\", \"awaaz\").\nKeep each word short and specific to the feature; no common words like \"good\", \"quality\", \"best\"."
+   },
+   {
+    "role": "user",
+    "content": "PRODUCT: earbuds\nTHE SHOPPER CARES ABOUT:\n- gym\n- bass"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "Aspects",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "features": {
+       "items": {
+        "properties": {
+         "name": {
+          "type": "string"
+         },
+         "words": {
+          "items": {
+           "type": "string"
+          },
+          "type": "array"
+         }
+        },
+        "required": [
+         "name",
+         "words"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "features"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "features": [
+   {
+    "name": "gym",
+    "words": [
+     "gym",
+     "workout",
+     "running",
+     "sweat",
+     "sweatproof",
+     "ipx",
+     "jogging",
+     "जिम",
+     "वर्कआउट",
+     "रनिंग",
+     "జిమ్",
+     "వర్కౌట్",
+     "ജിം",
+     "വർക്കൗട്ട്",
+     "कसरत",
+     "kasrat",
+     "पसीना",
+     "paseena"
+    ]
+   },
+   {
+    "name": "bass",
+    "words": [
+     "bass",
+     "punchy",
+     "thump",
+     "subbass",
+     "rumble",
+     "boomy",
+     "बेस",
+     "पंच",
+     "थंप",
+     "బేస్",
+     "పంచ్",
+     "ബാസ്",
+     "പഞ്ച്",
+     "धमक",
+     "dhamak",
+     "भारी",
+     "bhaari"
+    ]
+   },
+   {
+    "name": "fit",
+    "words": [
+     "fit",
+     "grip",
+     "loose",
+     "tight",
+     "fallout",
+     "slip",
+     "eartips",
+     "फिट",
+     "ग्रिप",
+     "फॉल",
+     "ఫిట్",
+     "గ్రిప్",
+     "ഫിറ്റ്",
+     "ഗ്രിപ്പ്",
+     "पकड़",
+     "pakad",
+     "गिरना",
+     "girna"
+    ]
+   },
+   {
+    "name": "battery",
+    "words": [
+     "battery",
+     "backup",
+     "charging",
+     "playtime",
+     "mah",
+     "case",
+     "बैटरी",
+     "बैकअप",
+     "चार्जिंग",
+     "బ్యాటరీ",
+     "బ్యాకప్",
+     "ఛార్జింగ్",
+     "ബാറ്ററി",
+     "ബാക്കപ്പ്",
+     "चलेगी",
+     "chalegi"
+    ]
+   },
+   {
+    "name": "sound",
+    "words": [
+     "sound",
+     "audio",
+     "treble",
+     "vocal",
+     "clarity",
+     "loudness",
+     "साउंड",
+     "ऑडियो",
+     "ट्रेबल",
+     "సౌండ్",
+     "ఆడియో",
+     "സൗണ്ട്",
+     "ഓഡിയോ",
+     "आवाज़",
+     "awaaz",
+     "सुर"
+    ]
+   },
+   {
+    "name": "mic",
+    "words": [
+     "mic",
+     "calling",
+     "call",
+     "microphone",
+     "enc",
+     "clarity",
+     "माइक",
+     "कॉलिंग",
+     "कॉल",
+     "మైక్",
+     "కాలింగ్",
+     "മൈക്ക്",
+     "കോളിംഗ്",
+     "बात",
+     "baat",
+     "बातचीत"
+    ]
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 285,
+  "completion_tokens": 2123,
+  "total_tokens": 2408,
+  "cost": 0.008175,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.008175,
+   "upstream_inference_prompt_cost": 0.00021375,
+   "upstream_inference_completions_cost": 0.00796125
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 1366,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791490189-Awb2hnDW7QLdGuHSK3AS"
+ }
+}

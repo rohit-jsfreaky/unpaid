@@ -39,7 +39,7 @@ def _collect(args: argparse.Namespace) -> None:
 def _label(args: argparse.Namespace) -> None:
     from unpaid.collect import Collection
     from unpaid.config import SHOWCASE_DIR
-    from unpaid.label import label_all, showcase_paths
+    from unpaid.label import Labelled, label_all, showcase_paths
     from unpaid.links import LinkBook
     from unpaid.llm import LLM
 
@@ -58,6 +58,12 @@ def _label(args: argparse.Namespace) -> None:
             print(f"    x {d.kind}: {d.reason}: {d.quote[:80]!r}")
     print()
     print(f"{result.model}: {result.llm_calls} calls, {result.llm_cached} from disk, ${result.llm_cost_usd:.4f}")
+    if args.replay and out.exists():
+        # A replay re-proves the saved answers; the recording's own call count and cost stay as recorded.
+        before = Labelled.model_validate_json(out.read_text(encoding="utf-8"))
+        result = result.model_copy(
+            update={"llm_calls": before.llm_calls, "llm_cached": before.llm_cached, "llm_cost_usd": before.llm_cost_usd}
+        )
     out.write_text(result.model_dump_json(indent=1), encoding="utf-8")
     print(f"wrote {out}")
 
@@ -99,6 +105,7 @@ def main() -> None:
     q.add_argument("question")
     q.add_argument("--replay", action="store_true", help="answer only from recorded runs (no keys, no spend)")
     q.add_argument("--record-showcase", action="store_true", help="save new LLM answers into the showcase evidence")
+    q.add_argument("--record-into", help="record the whole run into this evidence folder (replays for judges)")
     us = sub.add_parser("uses", help="find what each recommended phone is good at (LLM finds, code proves)")
     us.add_argument("--replay", action="store_true", help="use saved LLM answers only")
     sub.add_parser("site", help="export the landing page's real examples (web/content/landing.json)")
@@ -136,7 +143,7 @@ def _uses(args: argparse.Namespace) -> None:
     from unpaid.config import SHOWCASE_DIR
     from unpaid.label import Labelled, showcase_paths
     from unpaid.llm import LLM
-    from unpaid.uses import find_uses
+    from unpaid.uses import FoundUses, find_uses
 
     run = Collection.model_validate_json((SHOWCASE_DIR / "collection.json").read_text(encoding="utf-8"))
     labelled = Labelled.model_validate_json(showcase_paths(SHOWCASE_DIR)[2].read_text(encoding="utf-8"))
@@ -152,6 +159,10 @@ def _uses(args: argparse.Namespace) -> None:
             print(f"    x {d.kind}: {d.reason}: {d.quote[:60]!r}")
     print(f"\n{found.model}: {found.llm_calls} calls, ${found.llm_cost_usd:.4f}")
     out = SHOWCASE_DIR / USES_FILE
+    if args.replay and out.exists():
+        # A replay re-proves the saved answers; the recording's own call count and cost stay as recorded.
+        before = FoundUses.model_validate_json(out.read_text(encoding="utf-8"))
+        found = found.model_copy(update={"llm_calls": before.llm_calls, "llm_cost_usd": before.llm_cost_usd})
     out.write_text(found.model_dump_json(indent=1), encoding="utf-8")
     print(f"wrote {out}")
 
@@ -172,10 +183,18 @@ def _site() -> None:
 
 
 def _ask(args: argparse.Namespace) -> None:
+    from pathlib import Path
+
     from unpaid.agent import Workspace, ask
+    from unpaid.board import REPORT_FILE
     from unpaid.config import SHOWCASE_DIR
 
-    ws = Workspace.open(replay=args.replay, llm_dir=SHOWCASE_DIR / "llm" if args.record_showcase else None)
+    if args.record_into:
+        # A recorded run: SerpApi files, LLM answers, link checks and the report all go into one evidence folder.
+        root = Path(args.record_into).resolve()
+        ws = Workspace.open(replay=args.replay, root=root)
+    else:
+        ws = Workspace.open(replay=args.replay, llm_dir=SHOWCASE_DIR / "llm" if args.record_showcase else None)
 
     def show(e: dict[str, object]) -> None:
         if e.get("type") == "tool" and e.get("status") == "start":
@@ -185,4 +204,11 @@ def _ask(args: argparse.Namespace) -> None:
     result = ask(args.question, ws, on_event=show)
     b = result.board
     print(f"\ntop (all): {b.top_all}\ntop (no disclosure): {b.top_no_disclosure}")
+    for a in result.areas:
+        if a.focus:
+            print(f"best for {a.area}: {a.best_no_disclosure} (no disclosure) / {a.best_all} (all)")
     print(f"searches used: {ws.client.searches_used}; LLM calls: {ws.llm.calls} new, {ws.llm.cached} saved")
+    if args.record_into:
+        out = Path(args.record_into) / REPORT_FILE
+        out.write_text(result.model_dump_json(indent=1), encoding="utf-8")
+        print(f"wrote {out}")

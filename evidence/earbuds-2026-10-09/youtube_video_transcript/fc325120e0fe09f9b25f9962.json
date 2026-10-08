@@ -1,0 +1,596 @@
+{
+ "request": {
+  "engine": "youtube_video_transcript",
+  "language_code": "en",
+  "v": "OlBoZUjtvKE"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7f7a2998aadaa3ad2240b",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/zft3RnPOJ0sBHfiDoQl65t3j9439hHdXo1A-XjZozEY/6ac7f7a2998aadaa3ad2240b.json",
+   "markdown_endpoint": "https://serpapi.com/searches/zft3RnPOJ0sBHfiDoQl65t3j9439hHdXo1A-XjZozEY/6ac7f7a2998aadaa3ad2240b.md",
+   "created_at": "2026-10-08 20:05:54 UTC",
+   "processed_at": "2026-10-08 20:05:54 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=OlBoZUjtvKE",
+   "raw_html_file": "https://serpapi.com/searches/zft3RnPOJ0sBHfiDoQl65t3j9439hHdXo1A-XjZozEY/6ac7f7a2998aadaa3ad2240b.html",
+   "prettify_html_file": "https://serpapi.com/searches/zft3RnPOJ0sBHfiDoQl65t3j9439hHdXo1A-XjZozEY/6ac7f7a2998aadaa3ad2240b.prettify",
+   "total_time_taken": 8.94
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "OlBoZUjtvKE",
+   "language_code": "en"
+  },
+  "transcript": [
+   {
+    "start_ms": 0,
+    "snippet": "भाई 3000 के प्राइस पे इतने सारे TWS इयर बड का ऑप्शन है कि आई नो आप लोग तो कंफ्यूज होंगे ही कि किस इयर बड को बाय करें। इसलिए आज के इस वीडियो में मैंने",
+    "start_time_text": "0:00",
+    "start_time_label": "0 seconds"
+   },
+   {
+    "start_ms": 8000,
+    "snippet": "डिफरेंट ऑप्शंस में से पांच बेस्ट TWS इयर बड को काफी डिटेल में कंपेयर किया है।",
+    "start_time_text": "0:08",
+    "start_time_label": "8 seconds"
+   },
+   {
+    "start_ms": 12000,
+    "snippet": "लाइक इन इयर बड के डिफरेंट स्पेक्स में लाइक इनकी साउंड क्वालिटी, कॉलिंग टेस्ट, एसी वाई, फिटिंग एंड कंफर्ट के बेसिस पे।",
+    "start_time_text": "0:12",
+    "start_time_label": "12 seconds"
+   },
+   {
+    "start_ms": 18000,
+    "snippet": "एंड वीडियो के एंड तक में ना आपका नेट चाहे कुछ भी हो मैं आपके लिए एक बेस्ट ट्रेड को रिकमेंड कर दूंगा। तो चलो विदाउट वेस्टिंग टाइम वीडियो को स्टार्ट करते हैं। वीडियो अगर देखने के बाद हेल्पफुल",
+    "start_time_text": "0:18",
+    "start_time_label": "18 seconds"
+   },
+   {
+    "start_ms": 27000,
+    "snippet": "लगे यार तो प्लीज लाइक करके जाना एंड थोड़ा सा और सपोर्ट दिखाना हो तो यार हाइप का बटन जरूर दबा देना ताकि वीडियो की थोड़ी सी रीच बढ़ सके। सबसे पहले इन",
+    "start_time_text": "0:27",
+    "start_time_label": "27 seconds"
+   },
+   {
+    "start_ms": 34000,
+    "snippet": "पांचों ही टिडुलस इयर बड का मैं एक-एक करके नाम बता देता हूं। पहला है बट 2+ यह Oppo का Oppo Ecobers Air5, यह OnePlus का",
+    "start_time_text": "0:34",
+    "start_time_label": "34 seconds"
+   },
+   {
+    "start_ms": 42000,
+    "snippet": "OnePlus नोट बट 3 Pro एंड यह Realme का Realme BDS Air7 एंड लास्ट एंड लेटेस्ट ये Realme T500 Pro को भी मैंने इंक्लूड किया है। एंड इस वीडियो में ये भी आपको पता चल",
+    "start_time_text": "0:42",
+    "start_time_label": "42 seconds"
+   },
+   {
+    "start_ms": 50000,
+    "snippet": "जाएगा कि Realme BS Air7 एंड Realme का ये T500 Pro के इयर बड में कौन सा इयर बड विनर है। तो सबसे पहले बिल्ड एंड डिज़ के बारे में बात करें यार तो सिंपल टर्म में",
+    "start_time_text": "0:50",
+    "start_time_label": "50 seconds"
+   },
+   {
+    "start_ms": 58000,
+    "snippet": "मैं बोलूं तो सारे इयर बड ना दिखने में काफी प्रीमियम लगते हैं। एंड देखो इन इयर बड के ना हिंज भी किसी में भी ऐसा लूज फील नहीं होता है। एंड हां मैग्नेटिक फोर्स भी",
+    "start_time_text": "0:58",
+    "start_time_label": "58 seconds"
+   },
+   {
+    "start_ms": 66000,
+    "snippet": "जो बर्ड्स एंड इयर बड के केस का है वो काफी अच्छा देके रखा हुआ है। मैंने काफी बार इनको ऐसे शेक करके देखा तो जो बर्ड्स है ना वो इयर बड के केस से नीचे नहीं गिर",
+    "start_time_text": "1:06",
+    "start_time_label": "1 minute, 6 seconds"
+   },
+   {
+    "start_ms": 74000,
+    "snippet": "रहे थे। एंड सारे इयर बड का जो केस है ना वो कॉम्पैक्ट साइज का है। तो पॉकेट वगैरह में भी डाल के आप इज़ली कैरी कर सकते हो।",
+    "start_time_text": "1:14",
+    "start_time_label": "1 minute, 14 seconds"
+   },
+   {
+    "start_ms": 80000,
+    "snippet": "बट मुझे ये Realme D500 Pro का जो इयर बड है ना ये सबसे ज्यादा छोटू लगा। मतलब सबसे ज्यादा कॉम्पैक्ट साइज मुझे इसी का लगा।",
+    "start_time_text": "1:20",
+    "start_time_label": "1 minute, 20 seconds"
+   },
+   {
+    "start_ms": 85000,
+    "snippet": "तो सिंपल मैं बोलूं तो देखो बिल्ड एंड डिज़ाइन में ना सारे इयर बड अच्छे हैं। सारे ऐसे प्रीमियम साइड ही फील लेते हैं।",
+    "start_time_text": "1:25",
+    "start_time_label": "1 minute, 25 seconds"
+   },
+   {
+    "start_ms": 90000,
+    "snippet": "तो यार पांचों इयर बड को ना बिल्ड एंड डिज़ाइन में जाता है 10 आउट ऑफ 10। इसके बाद देखो कॉलिंग के बारे में बात करें तो पांचों इयर बड में ना कॉलिंग के लिए लाइक फाइव सिक्स माइक तो देके रखा हुआ है",
+    "start_time_text": "1:30",
+    "start_time_label": "1 minute, 30 seconds"
+   },
+   {
+    "start_ms": 99000,
+    "snippet": "क्लेरिटी अच्छा आने के लिए बट रियल टाइम में लाइक आउटडोर में जहां बहुत ज्यादा व्हीकल वगैरह चलते हैं वहां पे इनकी कॉलिंग क्वालिटी कैसी है आप ये कॉलिंग",
+    "start_time_text": "1:39",
+    "start_time_label": "1 minute, 39 seconds"
+   },
+   {
+    "start_ms": 107000,
+    "snippet": "टेस्ट के रिजल्ट से सुन सकते हो। अभी ये नॉर्मल माइक के थ्रू आ रहा है। अभी देख सकते हो मैं आउटडोर कंडीशन में हूं। बहुत सारे नॉइज़ वगैरह है व्हीकल का। एंड फिलहाल",
+    "start_time_text": "1:47",
+    "start_time_label": "1 minute, 47 seconds"
+   },
+   {
+    "start_ms": 114000,
+    "snippet": "अभी ये ऑडियो सीएमएफ बट 2 प्लस से आ रहा है। तो आप देख सकते हो कॉलिंग के टाइम पे ये कितना नॉइज़ वगैरह को कैंसिल कर पा रहा है। एंड कुछ इस तरह से कॉलिंग के टाइम पे सामने वाले को ऑडियो जाएगी Oppo M5 से।",
+    "start_time_text": "1:54",
+    "start_time_label": "1 minute, 54 seconds"
+   },
+   {
+    "start_ms": 125000,
+    "snippet": "एंड अभी फिलहाल ये Realme T500 Pro से बात कर रहा हूं। तो सोच सकते हो कॉलिंग के टाइम पे कितना क्लियर ऑडियो आ रहा है।",
+    "start_time_text": "2:05",
+    "start_time_label": "2 minutes, 5 seconds"
+   },
+   {
+    "start_ms": 130000,
+    "snippet": "Realme T500 Pro से। एंड ये ऑडियो है Realme BD7 से कॉलिंग के टाइम पे। तो देख सकते हो कितना क्लियर ऑडियो आ रहा है।",
+    "start_time_text": "2:10",
+    "start_time_label": "2 minutes, 10 seconds"
+   },
+   {
+    "start_ms": 137000,
+    "snippet": "एंड बाकी ये लास्ट OnePlus Noteb 3 Pro की ऑडियो की क्वालिटी है कॉलिंग के टाइम पे।",
+    "start_time_text": "2:17",
+    "start_time_label": "2 minutes, 17 seconds"
+   },
+   {
+    "start_ms": 142000,
+    "snippet": "तो सुन सकते हो ये कितना ऑडियो को लाइक क्लियर ला पा रहा है कॉलिंग के टाइम पे।",
+    "start_time_text": "2:22",
+    "start_time_label": "2 minutes, 22 seconds"
+   },
+   {
+    "start_ms": 146000,
+    "snippet": "एंड कॉलिंग के मामले में ना इन तीन इयर बड की कॉलिंग क्लेरिटी मुझे सबसे अच्छी लगी।",
+    "start_time_text": "2:26",
+    "start_time_label": "2 minutes, 26 seconds"
+   },
+   {
+    "start_ms": 149000,
+    "snippet": "ये रहा कॉलिंग के पॉइंट्स इन पांचों इयर बड का। एंड देख सकते हो आप कॉलिंग में कौन सा इयर बड विनर है। अब देखो कंफर्ट एंड फिटिंग के बारे में बात करें तो इन पांचों",
+    "start_time_text": "2:29",
+    "start_time_label": "2 minutes, 29 seconds"
+   },
+   {
+    "start_ms": 157000,
+    "snippet": "इयर बड का ना मैंने एक-एक करके फिटिंग चेक करके देखा। तो कोई भी इयर बड वर्कआउट या फिर रनिंग वगैरह के टाइम में ऐसा लूज फील नहीं देता है। एंड अगर कंफर्ट प्रायोरिटी",
+    "start_time_text": "2:37",
+    "start_time_label": "2 minutes, 37 seconds"
+   },
+   {
+    "start_ms": 164000,
+    "snippet": "है ना तो कंफर्ट के लिए मैं हमेशा रिकमेंड करूंगा कि आप ओवर ईयर हेडफोन के साथ जाओ।",
+    "start_time_text": "2:44",
+    "start_time_label": "2 minutes, 44 seconds"
+   },
+   {
+    "start_ms": 168000,
+    "snippet": "एंड 3000 के बजट में ना यह दो हेडफोन है जिसमें आपको कंफर्ट सबसे टॉप नच मिलेगा। एंड साउंड की क्वालिटी भी इसकी अच्छी है।",
+    "start_time_text": "2:48",
+    "start_time_label": "2 minutes, 48 seconds"
+   },
+   {
+    "start_ms": 174000,
+    "snippet": "एंड इसका लिंक मैं डिस्क्रिप्शन में दे दूंगा। तो वहां जाके चेक कर सकते हो। बट अगर आपको एयर बडी लेना एंड स्टडी वगैरह प्रायोरिटी है तो मुझे OnePlus Noteb 3",
+    "start_time_text": "2:54",
+    "start_time_label": "2 minutes, 54 seconds"
+   },
+   {
+    "start_ms": 181000,
+    "snippet": "Pro एंड Oppo Eco Air5 का जो बड्स का साइज है ना वो थोड़ा सा ज्यादा छोटा एंड लाइट वेट लगा। एंड इनके बड्स ना कानों के अंदर",
+    "start_time_text": "3:01",
+    "start_time_label": "3 minutes, 1 second"
+   },
+   {
+    "start_ms": 188000,
+    "snippet": "लाइक इज़ली चले जाते हैं। एंड हां ये लाइक कंफर्टेबल ही फील कराते हैं। एंड ये रहे कंफर्ट एंड फिटिंग में इन पांचों इयर बड के ओवरऑल पॉइंट्स। एंड यहां पे यह OnePlus एंड यह Oppo का इयर बड आगे निकल जाता है।",
+    "start_time_text": "3:08",
+    "start_time_label": "3 minutes, 8 seconds"
+   },
+   {
+    "start_ms": 198000,
+    "snippet": "अब इन पांचों इयर बड का हम बैटरी बैक एंड फास्ट चार्जिंग के बारे में बात करें तो यह स्पेक शीट से आप देख सकते हो। बैटरी बैकअप पांचों में ही अच्छा देके रखा है।",
+    "start_time_text": "3:18",
+    "start_time_label": "3 minutes, 18 seconds"
+   },
+   {
+    "start_ms": 206000,
+    "snippet": "एंड फास्ट चार्जिंग का सपोर्ट भी पांचों में ही है। तो यार बैटरी के मामले में पांचों इयर बड अच्छे हैं। आपको लाइक ट्रैक करने का जरूरत नहीं पड़ेगा कि कितना आपने",
+    "start_time_text": "3:26",
+    "start_time_label": "3 minutes, 26 seconds"
+   },
+   {
+    "start_ms": 213000,
+    "snippet": "यूज़ किया है, कब चार्ज करना है एंड कितना बैटरी खत्म हुआ है। ये पांचों ही ना काफी अच्छा रियल टाइम में भी बैटरी बैकअप निकाल के देते हैं। बट अगर एक्सट्रीम बैटरी",
+    "start_time_text": "3:33",
+    "start_time_label": "3 minutes, 33 seconds"
+   },
+   {
+    "start_ms": 220000,
+    "snippet": "प्रायोरिटी है तो ये सेम है। बट 2 प्लस आपको सबसे अच्छा बैकअप निकाल के देगा। एंड यह रहा बैटरी बैकअप एंड फास्ट चार्जिंग का डाटा। यहां पे CM बट 2 प्लस ना थोड़ा सा स्लाइटली आगे है। बाकी इयर बड के कंपेयर।",
+    "start_time_text": "3:40",
+    "start_time_label": "3 minutes, 40 seconds"
+   },
+   {
+    "start_ms": 230000,
+    "snippet": "एंड साउंड क्वालिटी के बारे में बात करने से पहले सारे इयर बड को ना मैंने व्यू प्रोडक्शन सेक्शन में टैग कर दिया है। या फिर डिस्क्रिप्शन में भी आपको लिंक मिल जाएगा। तो वहां से अगर आप बाय करते हो तो",
+    "start_time_text": "3:50",
+    "start_time_label": "3 minutes, 50 seconds"
+   },
+   {
+    "start_ms": 238000,
+    "snippet": "थोड़ा सा मुझे सपोर्ट मिल जाएगा। बाकी आपको लॉस तो कुछ भी नहीं होगा। यार साउंड क्वालिटी के मामले में ना नंबर फाइव पे यानी मुझे जिसका साउंड क्वालिटी उतना अच्छा नहीं लगा वो है Oppo का इको बड्स",
+    "start_time_text": "3:58",
+    "start_time_label": "3 minutes, 58 seconds"
+   },
+   {
+    "start_ms": 246000,
+    "snippet": "एयर 5 का इयर बड। एंड देखो मुझे भी ना ये Oppo के इयर बड्स से ना काफी ज्यादा एक्सपेक्टेशन था साउंड क्वालिटी में। बट इस इयर बड ने मेरे एक्सपेक्टेशन को ना बिल्कुल भी जस्टिफाई नहीं किया। यहां पे",
+    "start_time_text": "4:06",
+    "start_time_label": "4 minutes, 6 seconds"
+   },
+   {
+    "start_ms": 255000,
+    "snippet": "ना ओवरऑल साउंड की क्वालिटी काफी दबीदबी फील होती है। एंड साउंड की क्वालिटी यहां पे थोड़ा सा ज्यादा ट्रेबल साइड भी फील देता है। मिड्स भी काफी ज्यादा दबेदबे",
+    "start_time_text": "4:15",
+    "start_time_label": "4 minutes, 15 seconds"
+   },
+   {
+    "start_ms": 262000,
+    "snippet": "लगते हैं। लाइक इंस्ट्रूमेंटल की क्लेरिटी एंड वोकल की ट्यूनिंग वगैरह भी म्यूजिक में खिलके नहीं आती है। एंड यहां पे साउंड क्वालिटी में ना थंपिंग बेस की भी काफी कमी है। तो साउंड क्वालिटी प्रायोरिटी है।",
+    "start_time_text": "4:22",
+    "start_time_label": "4 minutes, 22 seconds"
+   },
+   {
+    "start_ms": 271000,
+    "snippet": "तो डेफिनेटली इस इयर बड को आप स्किप करना।",
+    "start_time_text": "4:31",
+    "start_time_label": "4 minutes, 31 seconds"
+   },
+   {
+    "start_ms": 273000,
+    "snippet": "इसके बाद नंबर फोर पे ना साउंड क्वालिटी के मामले में ये सेम बट 2 प्लस का इयर बड।",
+    "start_time_text": "4:33",
+    "start_time_label": "4 minutes, 33 seconds"
+   },
+   {
+    "start_ms": 277000,
+    "snippet": "अब अगर ऑनेस्टली मैं बोलूं तो बाकी इयर बड्स अगर मैं सेम है बट 2 प्लस को कंपेयर करूं तो इसकी भी साउंड की क्वालिटी मुझे उतनी अच्छी नहीं लगी। यहां पे साउंड का जो ओवरऑल प्रेजेंटेशन है ना वो बैलेंस में",
+    "start_time_text": "4:37",
+    "start_time_label": "4 minutes, 37 seconds"
+   },
+   {
+    "start_ms": 286000,
+    "snippet": "रखने का कोशिश किया गया है। बट बैलेंस के चक्कर में यहां पे डीप ज्यादा बेस भी फील नहीं होगा आपको। एंड साउंड में मिड्स वगैरह एंड वोकल की जो क्लेरिटी है ना वो",
+    "start_time_text": "4:46",
+    "start_time_label": "4 minutes, 46 seconds"
+   },
+   {
+    "start_ms": 293000,
+    "snippet": "भी थोड़ी सी दबीदबी फील आती है बैलेंस के चक्कर में। तो कुल मिला के मैं बोलूं ना तो यहां पे भी साउंड की क्लेरिटी ना 3000 के इयर बड के अकॉर्डिंग उतना रिच एंड",
+    "start_time_text": "4:53",
+    "start_time_label": "4 minutes, 53 seconds"
+   },
+   {
+    "start_ms": 301000,
+    "snippet": "प्रीमियम फील नहीं देता है। सबसे प्रीमियम मुझे साउंड की क्वालिटी ना ये तीन इयर बड का लगा। यह OnePlus का एंड यह Realme के दो इयर बड का। बट इन तीनों में भी मैंने",
+    "start_time_text": "5:01",
+    "start_time_label": "5 minutes, 1 second"
+   },
+   {
+    "start_ms": 309000,
+    "snippet": "बहुत सारे सॉन्ग सुने। तो डिफरेंट सॉन्ग सुनने के बाद यार मैं नंबर थर्ड पे इन तीनों में भी ना ये Realme B7 को रखूंगा।",
+    "start_time_text": "5:09",
+    "start_time_label": "5 minutes, 9 seconds"
+   },
+   {
+    "start_ms": 316000,
+    "snippet": "देखो यहां पे ना बेस तो काफी लाउड देके रखा हुआ है। काफी थंपिंग डीप बेस देके रखा हुआ है। तो अगर आप एक बेस लवर हो ना तो इसकी साउंड की क्वालिटी आपको काफी अच्छी",
+    "start_time_text": "5:16",
+    "start_time_label": "5 minutes, 16 seconds"
+   },
+   {
+    "start_ms": 323000,
+    "snippet": "लगेगी। एंड बेस के साथ-साथ ना यहां पे साउंड की जो क्लेरिटी है ना वो भी डिसेंट में अच्छा देके रखा हुआ है। बट दो चार सॉन्ग्स सुनने के बाद ना मुझे यहां पे भी",
+    "start_time_text": "5:23",
+    "start_time_label": "5 minutes, 23 seconds"
+   },
+   {
+    "start_ms": 330000,
+    "snippet": "ना ज्यादा बेस के कारण मे्स थोड़े से दबेदबे फील हुए। मतलब उतना ज्यादा दबता नहीं है। और जो क्लेरिटी है वो अच्छा मेंटेन ही रहता है। बट हां बेस यहां पे थोड़ा सा ज्यादा और पावर देके रखा हुआ है।",
+    "start_time_text": "5:30",
+    "start_time_label": "5 minutes, 30 seconds"
+   },
+   {
+    "start_ms": 341000,
+    "snippet": "एंड यहां पे भी ना ऐप का सपोर्ट देके रखा हुआ है। एंड प्लीज इयर बड लेने के बाद ना ऐप को डाउनलोड कर लेना। क्योंकि डिफ़ॉल्ट मोड में ना ये Realme BDS 87 की जो साउंड",
+    "start_time_text": "5:41",
+    "start_time_label": "5 minutes, 41 seconds"
+   },
+   {
+    "start_ms": 348000,
+    "snippet": "की क्वालिटी है ना वो कुछ ज्यादा ही बेस सेंट्रिक फील होती है। बट ऐप को डाउनलोड करके खुद के अगर कस्टम एक्यू मोड में ट्यूनिंग करके आप साउंड सुनते हो तो आपको बैलेंस साइड में ही फील देती है। अब अगर",
+    "start_time_text": "5:48",
+    "start_time_label": "5 minutes, 48 seconds"
+   },
+   {
+    "start_ms": 357000,
+    "snippet": "बात करें कि साउंड की क्वालिटी सबसे ज्यादा प्रीमियम कौन से इयर बड की है 3000 के बजट में तो वो है ये दो इयर बड्स। बट इन दोनों में अगर मैं कंपेयर करूं तो नंबर",
+    "start_time_text": "5:57",
+    "start_time_label": "5 minutes, 57 seconds"
+   },
+   {
+    "start_ms": 364000,
+    "snippet": "सेकंड पे आता है यह Realme बट C500 Pro का इयर बड। सबसे पहले मैं यही बोलूंगा कि जब इयर बड को बाय करते हो ना तो डिफॉल्ट मोड में यहां पे भी ना साउंड की क्वालिटी बेस",
+    "start_time_text": "6:04",
+    "start_time_label": "6 minutes, 4 seconds"
+   },
+   {
+    "start_ms": 371000,
+    "snippet": "सेंट्रिक देके रखा हुआ है। तो इसका भी आप डाउनलोड कर लेना। एंड ये स्क्रीन पे आपको एक साउंड प्रोफाइल शो हो रहा होगा। इस पे मैंने स्विच करके साउंड को सुना था। तो",
+    "start_time_text": "6:11",
+    "start_time_label": "6 minutes, 11 seconds"
+   },
+   {
+    "start_ms": 379000,
+    "snippet": "साउंड की क्वालिटी ना मुझे यहां पे काफी अच्छा लगा। मतलब आपको डीप एंड थंपिंग बेस भी मिलेगा। साथ में और जो साउंड की क्लेरिटी है मिड्स एंड वोकल वगैरह की जो",
+    "start_time_text": "6:19",
+    "start_time_label": "6 minutes, 19 seconds"
+   },
+   {
+    "start_ms": 387000,
+    "snippet": "ट्यूनिंग है ना वो भी काफी अच्छे से परफेक्ट बैलेंस में रहता है। बट हां एक कंडीशन है डिफॉल्ट मोड में ये भी इयर बड बेस सेंट्री साउंड देता है बट ऐप को",
+    "start_time_text": "6:27",
+    "start_time_label": "6 minutes, 27 seconds"
+   },
+   {
+    "start_ms": 395000,
+    "snippet": "डाउनलोड करके थोड़े बहुत ट्यूनिंग करके सुनते हो तो हां साउंड की क्लेरिटी मुझे काफी अच्छा लगा। तो Realme T500 Pro की भी साउंड क्वालिटी अच्छी है। बट हां खुद के",
+    "start_time_text": "6:35",
+    "start_time_label": "6 minutes, 35 seconds"
+   },
+   {
+    "start_ms": 403000,
+    "snippet": "अकॉर्डिंग कस्टम ट्यूनिंग कर लेना तो आपको डीप बेस भी अच्छा खासा फील होगा। एंड क्लेरिटी भी काफी अच्छे से मेंट रहती है।",
+    "start_time_text": "6:43",
+    "start_time_label": "6 minutes, 43 seconds"
+   },
+   {
+    "start_ms": 409000,
+    "snippet": "तो इन दोनों में ना जो ओरल साउंड की क्लेरिटी है, रिचनेस एंड प्रीमियमनेस है, तो Realme T5 Pro में ना अच्छा है। Realme Air7 के कंपेयर में। Realme Air7 ना थोड़ा",
+    "start_time_text": "6:49",
+    "start_time_label": "6 minutes, 49 seconds"
+   },
+   {
+    "start_ms": 418000,
+    "snippet": "ज्यादा ही बेस सेंट्रिक फील होता है। एंड नंबर वन पे ना साउंड क्वालिटी के मामले में ये OnePlus का Noteb 3 Pro है। एंड आप बिलीव नहीं करोगे। मैं खुद सिक्स मंथ से",
+    "start_time_text": "6:58",
+    "start_time_label": "6 minutes, 58 seconds"
+   },
+   {
+    "start_ms": 426000,
+    "snippet": "इस इयर बड को यूज़ कर रहा हूं। एंड यहां पे ना नो कंप्रोमाइज वाला साउंड क्वालिटी मिलता है। मतलब साउंड की जो क्लेरिटी है ना वो भी परफेक्ट बैलेंस में रहती है।",
+    "start_time_text": "7:06",
+    "start_time_label": "7 minutes, 6 seconds"
+   },
+   {
+    "start_ms": 433000,
+    "snippet": "साउंड में मिड्स, वोकल इंस्ट्रूमेंटल वगैरह की जो ट्यूनिंग एंड क्लेरिटी है ना वो परफेक्ट बैलेंस में रहती है। साथ में बेस भी ना काफी डीप फील देता है। एंड बेस",
+    "start_time_text": "7:13",
+    "start_time_label": "7 minutes, 13 seconds"
+   },
+   {
+    "start_ms": 442000,
+    "snippet": "ना मिड्स वगैरह को बिल्कुल भी ओवरपावर नहीं करता है। मतलब एक वर्ड में अगर मैं बोलूं कि अगर नो कॉम्प्रोमाइज वाला साउंड क्वालिटी चाहिए तो आप आंख बंद करके OnePlus Noteb 3 Pro को बाय कर सकते हो।",
+    "start_time_text": "7:22",
+    "start_time_label": "7 minutes, 22 seconds"
+   },
+   {
+    "start_ms": 451000,
+    "snippet": "बाकी ये रहा साउंड क्वालिटी में इन पांचों इफेक्ट के पॉइंट्स। एंड साउंड क्वालिटी के मामले में OnePlus Note BD 3 Pro क्लियर विनर है। एंड सेकंड बेस्ट चॉइस है यह Realme BT500। अब देखो गेमिंग टेस्ट के",
+    "start_time_text": "7:31",
+    "start_time_label": "7 minutes, 31 seconds"
+   },
+   {
+    "start_ms": 461000,
+    "snippet": "बारे में बात करें। अगर आप म्यूजिक सुनने के साथ-साथ केजुअल गेमिंग भी करते हो तो देखो सारे में ही ना लो लाइट से मोड देके रखा हुआ है। बट यार मैंने एक-एक करके ना",
+    "start_time_text": "7:41",
+    "start_time_label": "7 minutes, 41 seconds"
+   },
+   {
+    "start_ms": 468000,
+    "snippet": "इन पांचों इयर बड का गेमिंग टेस्ट करके देखा। तो मुझे सबसे अच्छा एक्सपीरियंस ना इन दो इयर बड का लगा।",
+    "start_time_text": "7:48",
+    "start_time_label": "7 minutes, 48 seconds"
+   },
+   {
+    "start_ms": 474000,
+    "snippet": "अब यार साउंड में अगर एसी के बारे में बात करें ना तो सारे में एसी का सपोर्ट तो देके रखा हुआ है। एंड सारे इयर बड ना स्पेक्स में तो लिख देते हैं कि किसी में 50db का एसी है। किसी में 52db का एसी है।",
+    "start_time_text": "7:54",
+    "start_time_label": "7 minutes, 54 seconds"
+   },
+   {
+    "start_ms": 485000,
+    "snippet": "बट हां रियल लाइफ में लाइक जहां पे ट्रैफिक वगैरह का नॉइज़ रहता है या फिर फैन वगैरह का नॉइज़ रहता है, एसी का नॉइज़ रहता है। तो इन इयर बड रियल टाइम में",
+    "start_time_text": "8:05",
+    "start_time_label": "8 minutes, 5 seconds"
+   },
+   {
+    "start_ms": 492000,
+    "snippet": "कितना परसेंट बैकग्राउंड नॉइज़ को कैंसिल कर पाता है। चलो मैं एक-एक करके बताता हूं। तो देखो एसी के मामले में ना नंबर फाइव पे जहां पे आपका सबसे कम इफेक्टिव",
+    "start_time_text": "8:12",
+    "start_time_label": "8 minutes, 12 seconds"
+   },
+   {
+    "start_ms": 500000,
+    "snippet": "एसी मिलता है। तो वो है ये सीएम बट 2 प्लस। यहां पे ना 48b का एसी तो देके रखा हुआ है बट वो एसी नाम का है क्योंकि ये बैकग्राउंड में फैन वगैरह के नॉइज़ को",
+    "start_time_text": "8:20",
+    "start_time_label": "8 minutes, 20 seconds"
+   },
+   {
+    "start_ms": 508000,
+    "snippet": "सिर्फ 40% तक ही कैंसिल कर पाते। तो एसी प्रायोरिटी है तो इसे स्किप करना। इसके बाद नंबर फोर पे एसी के मामले में ये Oppo Air Eco 5 है। ऑनेस्टली बोलूं तो इसका भी",
+    "start_time_text": "8:28",
+    "start_time_label": "8 minutes, 28 seconds"
+   },
+   {
+    "start_ms": 516000,
+    "snippet": "एसी मुझे काफी बेकार लगा। यहां पे ऑन स्पेक्स 52B का एसी देके रखा हुआ है। बट रियल टाइम में ना ये सिर्फ 50% ही बैकग्राउंड नॉइज़ को कैंसिल कर पाता है।",
+    "start_time_text": "8:36",
+    "start_time_label": "8 minutes, 36 seconds"
+   },
+   {
+    "start_ms": 525000,
+    "snippet": "एंड नंबर थर्ड पे इफेक्टिव एसी के मामले में Realme BS Air7 है। यहां पे 52B का एसी है। बट रियल टाइम में भी ना एनसी इफेक्टिव है। लगभग 85% तक ये बैकग्राउंड",
+    "start_time_text": "8:45",
+    "start_time_label": "8 minutes, 45 seconds"
+   },
+   {
+    "start_ms": 534000,
+    "snippet": "नॉइज़ को कैंसिल कर देता है। लाइक फैन, ट्रैफिक एंड एसी वगैरह के नॉइज़। इसके बाद मुझे सबसे ज्यादा इफेक्टिव एईसी ना ये OnePlus Note 3 Pro एंड ये Realme B T500",
+    "start_time_text": "8:54",
+    "start_time_label": "8 minutes, 54 seconds"
+   },
+   {
+    "start_ms": 542000,
+    "snippet": "Pro का अलग है। यहां पे एसी ना काफी ज्यादा इफेक्टिव देके रखा हुआ है। इन दोनों इयर बड की मुझे एसी ना लगभग एक जैसी लगी। ये अप्रोक्स 9095% तक बैकग्राउंड",
+    "start_time_text": "9:02",
+    "start_time_label": "9 minutes, 2 seconds"
+   },
+   {
+    "start_ms": 551000,
+    "snippet": "नॉइज़ को कैंसिल कर देते हैं काफी इफेक्टिवली। तो एसी अगर आपका प्रायोरिटी है ना तो इन दो इयर बड में से किसी एक को आंख बंद करके बाय कर सकते हो। एंड ये रहा एसी के पॉइंट्स। एंड यहां पे ना ये Realme",
+    "start_time_text": "9:11",
+    "start_time_label": "9 minutes, 11 seconds"
+   },
+   {
+    "start_ms": 560000,
+    "snippet": "T500 Pro एंड ये OnePlus Noteb 3 Pro दोनों ही विनर है। अब देखो कनेक्टिविटी के बारे में बात करें। लाइक इन पांचों इयर बड में कनेक्शन वगैरह में कोई इशू है क्या?",
+    "start_time_text": "9:20",
+    "start_time_label": "9 minutes, 20 seconds"
+   },
+   {
+    "start_ms": 567000,
+    "snippet": "तो मैंने एक-एक करके ना इन पांचों इयर बड को काफी बार कनेक्ट डिस्कनेक्ट करके देखा फोन से। तो हां ये पांचों इयर बड तीन से चार सेकंड में फोन से कनेक्ट हो जाते हैं",
+    "start_time_text": "9:27",
+    "start_time_label": "9 minutes, 27 seconds"
+   },
+   {
+    "start_ms": 575000,
+    "snippet": "एक बार पैर करने के बाद। तो कनेक्टिविटी में पांचों इयर बड में ना किसी में भी कोई भी इशू नहीं है। अब देखो सारे स्पेक्स के बारे में तो हमने बात कर लिया। एंड ये रहा",
+    "start_time_text": "9:35",
+    "start_time_label": "9 minutes, 35 seconds"
+   },
+   {
+    "start_ms": 582000,
+    "snippet": "इन पांचों इयर बड के डिफरेंट स्पेक्स में पॉइंट्स। एंड इन पॉइंट्स को आप थोड़ा सा एनालाइज करोगे ना तो इससे आपको क्लियरली पता चल जाएगा। जैसे ओवरऑल अगर आपका साउंड क्वालिटी प्रायोरिटी है तो आपको आंख बंद",
+    "start_time_text": "9:42",
+    "start_time_label": "9 minutes, 42 seconds"
+   },
+   {
+    "start_ms": 591000,
+    "snippet": "करके OnePlus Noteb 3 Pro को बाय करना चाहिए। मतलब यहां पे 3000 के बजट में ना नो कॉम्प्रोमाइज वाला साउंड मिलता है। एंड मैं खुद 6 महीने से इस रबड को डेली यूज़ कर",
+    "start_time_text": "9:51",
+    "start_time_label": "9 minutes, 51 seconds"
+   },
+   {
+    "start_ms": 599000,
+    "snippet": "रहा हूं। एंड साउंड क्वालिटी के मामले में सेकंड सबसे बेस्ट चॉइस है ये Realme BD T500 Pro। बस यहां पे एक कंडीशन है डिफॉल्ट मोड में थोड़ा सा बेस सेंट्रिक",
+    "start_time_text": "9:59",
+    "start_time_label": "9 minutes, 59 seconds"
+   },
+   {
+    "start_ms": 607000,
+    "snippet": "साउंड मिलता है। तो ऐप को डाउनलोड करके थोड़ा सा ट्यूनिंग कर लेना। तो आपको परफेक्ट बैलेंस में डीप बेस के साथ क्लेरिटी वाला साउंड मिलेगा। एंड अगर एनसी",
+    "start_time_text": "10:07",
+    "start_time_label": "10 minutes, 7 seconds"
+   },
+   {
+    "start_ms": 614000,
+    "snippet": "प्रायोरिटी है तो इन दोनों इयर बड का सबसे ज्यादा इफेक्टिव एसी है। तो इन दोनों इयर बड में से किसी को भी बाय कर सकते हो। एंड कॉलिंग के मामले में ना इन तीन इयर बड की",
+    "start_time_text": "10:14",
+    "start_time_label": "10 minutes, 14 seconds"
+   },
+   {
+    "start_ms": 621000,
+    "snippet": "कॉलिंग क्लेरिटी मुझे सबसे अच्छी लगी। तो गाइस, यह थी आज की वीडियो। होप आपको वीडियो हेल्पफुल लगा हो। अगर वीडियो पसंद आया तो यार लाइक करके जाना एंड थोड़ा सा और सपोर्ट दिखाना हो यार, तो प्लीज हाइप",
+    "start_time_text": "10:21",
+    "start_time_label": "10 minutes, 21 seconds"
+   },
+   {
+    "start_ms": 630000,
+    "snippet": "कर देना ताकि वीडियो की थोड़ी सी रीच बढ़ सके। क्योंकि ऐसे वीडियो बनाने में ना काफी ज्यादा एफर्ट एंड टाइम लगता है। तो एटलीस्ट आप लोग हाइप तो कर ही सकते हो। तो",
+    "start_time_text": "10:30",
+    "start_time_label": "10 minutes, 30 seconds"
+   },
+   {
+    "start_ms": 638000,
+    "snippet": "यार मिलते हैं नेक्स्ट वीडियो में। तब तक के लिए ब- बाय। अपने गाड़ी देखो।",
+    "start_time_text": "10:38",
+    "start_time_label": "10 minutes, 38 seconds"
+   }
+  ],
+  "chapters": [
+   {
+    "chapter": "Chapter 1: Best Earbuds Under 3000",
+    "start_ms": 0,
+    "start_time_text": "0:00"
+   },
+   {
+    "chapter": "Chapter 2: Build Quality & Design Comparison",
+    "start_ms": 55000,
+    "start_time_text": "0:55"
+   },
+   {
+    "chapter": "Chapter 3: Calling Test Results",
+    "start_ms": 93000,
+    "start_time_text": "1:33"
+   },
+   {
+    "chapter": "Chapter 4: Comfort (Long Hour Use) & Fitting(Running, Gym)",
+    "start_ms": 153000,
+    "start_time_text": "2:33"
+   },
+   {
+    "chapter": "Chapter 5: Battery Backup & Fast Charging",
+    "start_ms": 198000,
+    "start_time_text": "3:18"
+   },
+   {
+    "chapter": "Chapter 6: Sound Quality Comparison",
+    "start_ms": 230000,
+    "start_time_text": "3:50"
+   },
+   {
+    "chapter": "Chapter 7: Realme Buds T500 Pro vs Realme Buds AIr 7",
+    "start_ms": 367000,
+    "start_time_text": "6:07"
+   },
+   {
+    "chapter": "Chapter 8: Gaming Test",
+    "start_ms": 460000,
+    "start_time_text": "7:40"
+   },
+   {
+    "chapter": "Chapter 9: Best ANC Earbuds Under ₹3000?",
+    "start_ms": 475000,
+    "start_time_text": "7:55"
+   },
+   {
+    "chapter": "Chapter 10: Bluetooth Connectivity & Dual Pairing",
+    "start_ms": 564000,
+    "start_time_text": "9:24"
+   }
+  ]
+ }
+}
