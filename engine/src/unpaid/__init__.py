@@ -95,6 +95,13 @@ def main() -> None:
     lb.add_argument("--replay", action="store_true", help="use saved LLM answers and link checks only")
     bd = sub.add_parser("board", help="rank the phones and fetch live prices for the top ones")
     bd.add_argument("--replay", action="store_true", help="use recorded prices only")
+    q = sub.add_parser("ask", help="ask a buying question; prints every step, then the top picks")
+    q.add_argument("question")
+    q.add_argument("--replay", action="store_true", help="answer only from recorded runs (no keys, no spend)")
+    q.add_argument("--record-showcase", action="store_true", help="save new LLM answers into the showcase evidence")
+    sv = sub.add_parser("serve", help="run the API on localhost")
+    sv.add_argument("--port", type=int, default=8000)
+    sv.add_argument("--reload", action="store_true", help="restart when engine code changes (development)")
     args = parser.parse_args()
 
     if args.cmd == "account":
@@ -108,3 +115,26 @@ def main() -> None:
         _label(args)
     elif args.cmd == "board":
         _board(args)
+    elif args.cmd == "ask":
+        _ask(args)
+    elif args.cmd == "serve":
+        import uvicorn
+
+        uvicorn.run("unpaid.api:app", host="127.0.0.1", port=args.port, reload=args.reload)
+
+
+def _ask(args: argparse.Namespace) -> None:
+    from unpaid.agent import Workspace, ask
+    from unpaid.config import SHOWCASE_DIR
+
+    ws = Workspace.open(replay=args.replay, llm_dir=SHOWCASE_DIR / "llm" if args.record_showcase else None)
+
+    def show(e: dict[str, object]) -> None:
+        if e.get("type") == "tool" and e.get("status") == "start":
+            return
+        print(json.dumps(e, ensure_ascii=False)[:200])
+
+    result = ask(args.question, ws, on_event=show)
+    b = result.board
+    print(f"\ntop (all): {b.top_all}\ntop (no disclosure): {b.top_no_disclosure}")
+    print(f"searches used: {ws.client.searches_used}; LLM calls: {ws.llm.calls} new, {ws.llm.cached} saved")

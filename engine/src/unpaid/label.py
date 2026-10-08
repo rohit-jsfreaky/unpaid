@@ -7,7 +7,7 @@ from pathlib import Path
 
 from pydantic import BaseModel
 
-from unpaid.collect import Collection, Video
+from unpaid.collect import Collection, OnEvent, Video
 from unpaid.extract import extract
 from unpaid.links import LinkBook
 from unpaid.llm import LLM
@@ -22,14 +22,28 @@ class Labelled(BaseModel):
     videos: list[Proven]
 
 
-def label_all(run: Collection, llm: LLM, book: LinkBook) -> Labelled:
-    book.check_all([x.url for v in run.videos if v.page for x in v.page.links])
+def label_all(run: Collection, llm: LLM, book: LinkBook, on_event: OnEvent | None = None) -> Labelled:
+    emit = on_event or (lambda _e: None)
+    checked = book.check_all([x.url for v in run.videos if v.page for x in v.page.links])
+    emit({"type": "tool", "tool": "links", "step": "follow description links", "status": "done", "checked": checked})
 
     def one(v: Video) -> Proven | None:
         if v.page is None:
             return None
+        emit({"type": "tool", "tool": "llm", "step": "find disclosures", "v": v.hit.video_id, "status": "start"})
         ex, h = extract(llm, v.page, v.transcript)
-        return prove(v.hit, v.page, v.transcript, ex, h, book)
+        p = prove(v.hit, v.page, v.transcript, ex, h, book)
+        emit(
+            {
+                "type": "video",
+                "v": p.video_id,
+                "channel": p.channel,
+                "labels": p.label_names,
+                "picks": len(p.picks),
+                "dropped": len(p.dropped),
+            }
+        )
+        return p
 
     with ThreadPoolExecutor(max_workers=6) as pool:
         proven = [p for p in pool.map(one, run.videos) if p is not None]

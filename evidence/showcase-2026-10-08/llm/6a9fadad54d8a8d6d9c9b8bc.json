@@ -1,0 +1,106 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read a shopper's question and fill in search settings for finding YouTube review videos in\nIndia. Don't answer the question.\n\n- is_buying_question: true only if they want help choosing a product to buy.\n- product: the kind of product in one or two plain lowercase English words, singular (\"phone\", \"earbuds\",\n  \"laptop\", \"smartwatch\"). Use the shopper's own word when it's a common one: \"phone\" stays \"phone\".\n- budget_inr: the most they want to spend, in whole rupees (\"30k\" = 30000, \"1.5 lakh\" = 150000), or null.\n- sale_event: the sale they mention, lowercase (\"big billion days\", \"great indian festival\"), or null.\n- must_haves: short lowercase features they care about (\"camera\", \"battery\", \"gaming\"), or an empty list."
+   },
+   {
+    "role": "user",
+    "content": "best phone under 30k for camera and battery, big billion days"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "Intent",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "is_buying_question": {
+       "type": "boolean"
+      },
+      "product": {
+       "type": "string"
+      },
+      "budget_inr": {
+       "anyOf": [
+        {
+         "type": "integer"
+        },
+        {
+         "type": "null"
+        }
+       ]
+      },
+      "sale_event": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ]
+      },
+      "must_haves": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "is_buying_question",
+      "product",
+      "budget_inr",
+      "sale_event",
+      "must_haves"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "is_buying_question": true,
+  "product": "phone",
+  "budget_inr": 30000,
+  "sale_event": "big billion days",
+  "must_haves": [
+   "camera",
+   "battery"
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 221,
+  "completion_tokens": 116,
+  "total_tokens": 337,
+  "cost": 0.00060075,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00060075,
+   "upstream_inference_prompt_cost": 0.00016575,
+   "upstream_inference_completions_cost": 0.000435
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 75,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791483969-9iIYf1AKEPtMDTH1pn9X"
+ }
+}

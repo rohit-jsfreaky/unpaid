@@ -14,3 +14,6 @@ __pycache__/
 *.md
 !README.md
 !hackathon.md
+
+# Ad-hoc live runs. The published record is evidence/.
+cache/

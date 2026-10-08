@@ -84,17 +84,32 @@ def follow(url: str, transport: httpx.BaseTransport | None = None) -> LinkCheck:
 class LinkBook:
     """Saved link checks. Live mode checks what's missing; replay mode only reads."""
 
-    def __init__(self, path: Path, live: bool, transport: httpx.BaseTransport | None = None) -> None:
+    def __init__(
+        self,
+        path: Path,
+        live: bool,
+        transport: httpx.BaseTransport | None = None,
+        also_read: tuple[Path, ...] = (),
+    ) -> None:
         self.path = path
         self.live = live
         self.transport = transport
-        raw = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
-        self.checks = {u: LinkCheck.model_validate(c) for u, c in raw.items()}
+        self.checks = self._load(path)
+        # Recorded checks (e.g. the showcase's) are read but never rewritten.
+        self.recorded: dict[str, LinkCheck] = {}
+        for extra in also_read:
+            self.recorded.update(self._load(extra))
 
-    def check_all(self, urls: list[str]) -> None:
-        todo = sorted({u for u in urls if worth_checking(u) and u not in self.checks})
+    @staticmethod
+    def _load(path: Path) -> dict[str, LinkCheck]:
+        raw = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+        return {u: LinkCheck.model_validate(c) for u, c in raw.items()}
+
+    def check_all(self, urls: list[str]) -> int:
+        """Check every link not seen before. Returns how many were checked now."""
+        todo = sorted({u for u in urls if worth_checking(u) and self.get(u) is None})
         if not todo:
-            return
+            return 0
         if not self.live:
             raise LookupError(f"{len(todo)} link(s) never checked; replay mode makes no network calls")
         with ThreadPoolExecutor(max_workers=4) as pool:
@@ -103,6 +118,7 @@ class LinkBook:
         self.path.parent.mkdir(parents=True, exist_ok=True)
         data = {u: c.model_dump(mode="json") for u, c in sorted(self.checks.items())}
         self.path.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+        return len(todo)
 
     def get(self, url: str) -> LinkCheck | None:
-        return self.checks.get(url)
+        return self.checks.get(url) or self.recorded.get(url)

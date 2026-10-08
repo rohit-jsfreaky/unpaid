@@ -9,12 +9,14 @@ import json
 import os
 import re
 import sys
+import tempfile
 from collections import Counter
 from collections.abc import Callable
 from pathlib import Path
 
+from unpaid.agent import Workspace, ask
 from unpaid.board import Showcase, build
-from unpaid.collect import Collection, Recording, collect, showcase_plan
+from unpaid.collect import Collection, Plan, Recording, collect, showcase_plan
 from unpaid.config import EVIDENCE_DIR, PROBE_DIR, ROOT, SHOWCASE_DIR, api_key, llm_key, load_settings
 from unpaid.label import Labelled, label_all, showcase_paths
 from unpaid.links import LinkBook
@@ -243,6 +245,18 @@ def checks() -> tuple[list[tuple[str, Callable[[], str]]], dict[str, object]]:
             said = f"Rs {low.price:,} at {low.seller} ({len(pp.offers)} sellers)" if low else "— (no listing found)"
             out.append(f"{pp.phone}: {said}")
         return "; ".join(out)
+
+    @claim("Ask in plain words: the agent plans the recorded searches and rebuilds the board (no keys, 0 spend)")
+    def _() -> str:
+        with tempfile.TemporaryDirectory() as tmp:  # nothing cached on this machine can help
+            ws = Workspace.open(replay=True, root=Path(tmp))
+            plans: list[dict[str, object]] = []
+            again = ask(run.plan.question, ws, on_event=lambda e: plans.append(e) if e["type"] == "plan" else None)
+        assert plans and Plan.model_validate(plans[0]["plan"]) == showcase_plan(settings)
+        assert ws.client.searches_used == 0 and ws.llm.calls == 0
+        assert again == show, "the agent's board differs from board.json"
+        queries = ", ".join(f"{q.text!r} ({q.hl})" for q in run.plan.queries)
+        return f"{run.plan.question!r} → {queries}"
 
     @claim("Budget guard refuses a run that would cross the limit in unpaid.toml")
     def _() -> str:
