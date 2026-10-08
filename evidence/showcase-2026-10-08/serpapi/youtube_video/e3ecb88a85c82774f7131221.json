@@ -1,0 +1,875 @@
+{
+ "request": {
+  "engine": "youtube_video",
+  "gl": "in",
+  "hl": "en",
+  "v": "hnkajx6OItY"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7d0a616c0e29d7364d020",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/ROm32wlJkd_2PIuecUQkO_wGlmWLf39WFTWevsEM59M/6ac7d0a616c0e29d7364d020.json",
+   "markdown_endpoint": "https://serpapi.com/searches/ROm32wlJkd_2PIuecUQkO_wGlmWLf39WFTWevsEM59M/6ac7d0a616c0e29d7364d020.md",
+   "created_at": "2026-10-08 17:19:34 UTC",
+   "processed_at": "2026-10-08 17:19:34 UTC",
+   "youtube_video_url": "https://www.youtube.com/watch?v=hnkajx6OItY",
+   "raw_html_file": "https://serpapi.com/searches/ROm32wlJkd_2PIuecUQkO_wGlmWLf39WFTWevsEM59M/6ac7d0a616c0e29d7364d020.html",
+   "prettify_html_file": "https://serpapi.com/searches/ROm32wlJkd_2PIuecUQkO_wGlmWLf39WFTWevsEM59M/6ac7d0a616c0e29d7364d020.prettify",
+   "total_time_taken": 1.19
+  },
+  "search_parameters": {
+   "engine": "youtube_video",
+   "v": "hnkajx6OItY",
+   "gl": "in",
+   "hl": "en"
+  },
+  "title": "Best Mobiles Under 30K In Dasara Sales || Flipkart Big Billion Days || Amazon Great Indian Festival",
+  "thumbnail": "https://i.ytimg.com/vi/hnkajx6OItY/maxresdefault.jpg",
+  "channel": {
+   "name": "Telugu Techno Spring",
+   "thumbnail": "https://yt3.ggpht.com/t8NkPz1naMPMUHdArn6wK3VjRudBdyvOpjebEZTd5DFck_1Ie5fj__8yPUSGtpFUVzHVkFP4qg=s176-c-k-c0x00ffffff-no-rj",
+   "link": "https://www.youtube.com/@TeluguTechnospring",
+   "subscribers": "164K subscribers",
+   "extracted_subscribers": 164000,
+   "verified": true
+  },
+  "views": "65,104 views",
+  "extracted_views": 65104,
+  "likes": "1K",
+  "extracted_likes": 1000,
+  "published_date": "Oct 5, 2026",
+  "description": {
+   "content": "Best Mobiles Under 30K In Dasara Sales || Flipkart Big Billion Days || Amazon Great Indian Festival\n\nAmazon Mobile Links:\n\niQoo 15R: https://link.amazon/B0cfNpz34\n\nOneplus 15R: https://link.amazon/B04YFtMV5\n\nSamsung S25 Ultra: https://link.amazon/B06Tkf5iH\n\nOnePlus 13s: https://link.amazon/B0gS9oOr1\n\nOnePlus: Nord 6: https://link.amazon/B0csJBg9e\n\n\nTelegram Deals Channel -  https://t.me/Telugutechnospringdeals\n\n2nd Channel :-    / @nehemiahmedabalimi  \n\nFor Promotions : technehemiahofficial@gmail.com\n\nMy Video Gear :\n\nMy Camera: https://urlgeni.us/amzn/Y8o1mi\n\nMy Prime Lens: https://urlgeni.us/amzn/9_GFg_\n\nMy Primary Mic: https://urlgeni.us/amzn/2qJ5gM\n\nMic Stand: https://urlgeni.us/amzn/4YRnKV\n\nMy Chair: https://urlgeni.us/amzn/QhFTzk\n\nMy Tripod: https://urlgeni.us/amzn/Yeg0Ud\n\nDJI Mic: https://urlgeni.us/amzn/SJ1P8j\n\nMac Mini M4: https://urlgeni.us/amzn/0Hlpis\n\nMy Monitor: https://urlgeni.us/amzn/zcKVkr\n\nMy Keyboard: https://urlgeni.us/amzn/FFEdef\n\nMy Mouse (MX Master 3s): https://urlgeni.us/amzn/0osLkD\n\nCard Reader: https://urlgeni.us/amzn/34ifAT\n\nRBG Stick Light: https://urlgeni.us/amzn/F_Xbk\n\nDigitek Ring Light: https://urlgeni.us/amzn/yWd6j\n\nGodox SL60 Light: https://urlgeni.us/amzn/BtBKy\n\nSoftbox: https://urlgeni.us/amzn/KfuHf3\n\nStand: https://urlgeni.us/amzn/Lpba2W\n\nGodox Sl 60 2B: https://urlgeni.us/amzn/dVy5jl\n\nBackground Gret Cloth: https://amzn.to/4hFJ12A\n\nCloth Stand: https://urlgeni.us/amzn/Q2r8DJ\n\nCloth Clips: https://urlgeni.us/amzn/xE2g98\n\nCorner RGB Lamp: https://urlgeni.us/amzn/CBggAk\n\nBackground Lamp: https://urlgeni.us/amzn/qN1WLw\n\n\nFollow me on Social Media:-\n\nTwitter :- https://twitter.com/TechNehemiah?s=09\n\nInstagram :- https://www.instagram.com/telugu_tech...",
+   "links": [
+    {
+     "start_index": 133,
+     "length": 29,
+     "text": "https://link.amazon/B0cfNpz34",
+     "url": "https://link.amazon/B0cfNpz34"
+    },
+    {
+     "start_index": 177,
+     "length": 29,
+     "text": "https://link.amazon/B04YFtMV5",
+     "url": "https://link.amazon/B04YFtMV5"
+    },
+    {
+     "start_index": 227,
+     "length": 29,
+     "text": "https://link.amazon/B06Tkf5iH",
+     "url": "https://link.amazon/B06Tkf5iH"
+    },
+    {
+     "start_index": 271,
+     "length": 29,
+     "text": "https://link.amazon/B0gS9oOr1",
+     "url": "https://link.amazon/B0gS9oOr1"
+    },
+    {
+     "start_index": 319,
+     "length": 29,
+     "text": "https://link.amazon/B0csJBg9e",
+     "url": "https://link.amazon/B0csJBg9e"
+    },
+    {
+     "start_index": 377,
+     "length": 36,
+     "text": "https://t.me/Telugutechnospringdeals",
+     "url": "https://t.me/Telugutechnospringdeals"
+    },
+    {
+     "start_index": 430,
+     "length": 26,
+     "text": "   / @nehemiahmedabalimi  ",
+     "url": "https://www.youtube.com/channel/UC4ow1V2jRSqXLUa9kRlomxg",
+     "type": "channel"
+    },
+    {
+     "start_index": 535,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/Y8o1mi",
+     "url": "https://urlgeni.us/amzn/Y8o1mi"
+    },
+    {
+     "start_index": 582,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/9_GFg_",
+     "url": "https://urlgeni.us/amzn/9_GFg_"
+    },
+    {
+     "start_index": 630,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/2qJ5gM",
+     "url": "https://urlgeni.us/amzn/2qJ5gM"
+    },
+    {
+     "start_index": 673,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/4YRnKV",
+     "url": "https://urlgeni.us/amzn/4YRnKV"
+    },
+    {
+     "start_index": 715,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/QhFTzk",
+     "url": "https://urlgeni.us/amzn/QhFTzk"
+    },
+    {
+     "start_index": 758,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/Yeg0Ud",
+     "url": "https://urlgeni.us/amzn/Yeg0Ud"
+    },
+    {
+     "start_index": 799,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/SJ1P8j",
+     "url": "https://urlgeni.us/amzn/SJ1P8j"
+    },
+    {
+     "start_index": 844,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/0Hlpis",
+     "url": "https://urlgeni.us/amzn/0Hlpis"
+    },
+    {
+     "start_index": 888,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/zcKVkr",
+     "url": "https://urlgeni.us/amzn/zcKVkr"
+    },
+    {
+     "start_index": 933,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/FFEdef",
+     "url": "https://urlgeni.us/amzn/FFEdef"
+    },
+    {
+     "start_index": 990,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/0osLkD",
+     "url": "https://urlgeni.us/amzn/0osLkD"
+    },
+    {
+     "start_index": 1035,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/34ifAT",
+     "url": "https://urlgeni.us/amzn/34ifAT"
+    },
+    {
+     "start_index": 1084,
+     "length": 29,
+     "text": "https://urlgeni.us/amzn/F_Xbk",
+     "url": "https://urlgeni.us/amzn/F_Xbk"
+    },
+    {
+     "start_index": 1135,
+     "length": 29,
+     "text": "https://urlgeni.us/amzn/yWd6j",
+     "url": "https://urlgeni.us/amzn/yWd6j"
+    },
+    {
+     "start_index": 1184,
+     "length": 29,
+     "text": "https://urlgeni.us/amzn/BtBKy",
+     "url": "https://urlgeni.us/amzn/BtBKy"
+    },
+    {
+     "start_index": 1224,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/KfuHf3",
+     "url": "https://urlgeni.us/amzn/KfuHf3"
+    },
+    {
+     "start_index": 1263,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/Lpba2W",
+     "url": "https://urlgeni.us/amzn/Lpba2W"
+    },
+    {
+     "start_index": 1311,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/dVy5jl",
+     "url": "https://urlgeni.us/amzn/dVy5jl"
+    },
+    {
+     "start_index": 1366,
+     "length": 23,
+     "text": "https://amzn.to/4hFJ12A",
+     "url": "https://amzn.to/4hFJ12A"
+    },
+    {
+     "start_index": 1404,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/Q2r8DJ",
+     "url": "https://urlgeni.us/amzn/Q2r8DJ"
+    },
+    {
+     "start_index": 1449,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/xE2g98",
+     "url": "https://urlgeni.us/amzn/xE2g98"
+    },
+    {
+     "start_index": 1498,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/CBggAk",
+     "url": "https://urlgeni.us/amzn/CBggAk"
+    },
+    {
+     "start_index": 1547,
+     "length": 30,
+     "text": "https://urlgeni.us/amzn/qN1WLw",
+     "url": "https://urlgeni.us/amzn/qN1WLw"
+    },
+    {
+     "start_index": 1620,
+     "length": 37,
+     "text": "https://twitter.com/TechNehemiah?s=09",
+     "url": "https://twitter.com/TechNehemiah?s=09"
+    },
+    {
+     "start_index": 1672,
+     "length": 40,
+     "text": "https://www.instagram.com/telugu_tech...",
+     "url": "https://www.instagram.com/telugu_techno_spring/?igsh=a3N5b3RsZ2VuYWR3&utm_source=qr"
+    }
+   ]
+  },
+  "related_videos": [
+   {
+    "video_id": "_3y13mXqW5A",
+    "link": "https://www.youtube.com/watch?v=_3y13mXqW5A",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_3y13mXqW5A",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/_3y13mXqW5A/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdrGlki0NhB8QH7tPEytQcwHsjag",
+     "rich": "https://i.ytimg.com/an_webp/_3y13mXqW5A/mqdefault_6s.webp?du=3000&sqp=CNCQn9YG&rs=AOn4CLB-qU8Iws4xU9cSrl3VwjYy2diROg"
+    },
+    "title": "Best Mobiles From 10K to 1 Lakh || Flipkart Big Billion Days & Amazon Great Indian Festival | Telugu",
+    "published_date": "1d ago",
+    "views": "177K",
+    "extracted_views": 177000,
+    "channel": {
+     "name": "Telugu Techno Spring",
+     "link": "https://www.youtube.com/@TeluguTechnospring",
+     "thumbnail": "https://yt3.ggpht.com/t8NkPz1naMPMUHdArn6wK3VjRudBdyvOpjebEZTd5DFck_1Ie5fj__8yPUSGtpFUVzHVkFP4qg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "_zJtEveibs0",
+    "link": "https://www.youtube.com/watch?v=_zJtEveibs0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_zJtEveibs0",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/_zJtEveibs0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCKPICLAWFFi19zdYw-0J_dzrMCAg",
+     "rich": "https://i.ytimg.com/an_webp/_zJtEveibs0/mqdefault_6s.webp?du=3000&sqp=CIqDn9YG&rs=AOn4CLDlnpnJqbleOYrewu8Qq8r2AZzmSg"
+    },
+    "title": "Market BIG Crash Explained, 10 stocks in this market FALL, UPI Good News, JIO IPO",
+    "published_date": "3h ago",
+    "views": "51K",
+    "extracted_views": 51000,
+    "channel": {
+     "name": "DAY TRADER తెలుగు",
+     "link": "https://www.youtube.com/@daytradertelugu",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nf2ysT9T6WowgHbpep6qYKzNYmGoBAmxUBJcBthPzBUS8=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "oYgqdcHG3Rc",
+    "link": "https://www.youtube.com/watch?v=oYgqdcHG3Rc&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oYgqdcHG3Rc",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/oYgqdcHG3Rc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBhgIbq7-fVDMa6a33zI8dzNRwmQw",
+     "rich": "https://i.ytimg.com/an_webp/oYgqdcHG3Rc/mqdefault_6s.webp?du=3000&sqp=CN_1ntYG&rs=AOn4CLDhTXbfB8VHD2l_OBt9_36KvrYs8A"
+    },
+    "title": "🚨ELON MUSK vs MODI Starlink War | Jio vs Airtel vs Starlink | SECRETS Exposing in Internet | VR Raja",
+    "published_date": "1h ago",
+    "views": "14K",
+    "extracted_views": 14000,
+    "channel": {
+     "name": "V R RAJA",
+     "link": "https://www.youtube.com/@iamvrraja",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l_Gn7v6e56H_QAkKp11Ri7GHgLq7vxZmb4vBIlJJsjy5c=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "GmoCf-xN9cQ",
+    "link": "https://www.youtube.com/watch?v=GmoCf-xN9cQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GmoCf-xN9cQ",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/GmoCf-xN9cQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLApsUPP-gqiuKBzwZ-G5DxB8HavPA",
+     "rich": "https://i.ytimg.com/an_webp/GmoCf-xN9cQ/mqdefault_6s.webp?du=3000&sqp=CNCTn9YG&rs=AOn4CLBvqn2UCTFHv9w7UzU0JF_VQeWFAg"
+    },
+    "title": "Top 10 MOST Trending Phone Deals & మీరు ఎదురుచూస్తున్న ఫోన్ డీల్స్ ఇవే! Flipkart ఆఫర్లు లైవ్ 🚨",
+    "published_date": "1h ago",
+    "views": "4.3K",
+    "extracted_views": 4300,
+    "channel": {
+     "name": "TechFacts in Telugu",
+     "link": "https://www.youtube.com/@TechFactsRafee",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lppv-qloh8JyOD3syWhIjTEYa1SgszE0scs-toNeNHgac=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "ad6x7P5PmWw",
+    "link": "https://www.youtube.com/watch?v=ad6x7P5PmWw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ad6x7P5PmWw",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ad6x7P5PmWw/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLbEnFjRFyi0D4yOAykFbCZ1LD7A",
+     "rich": "https://i.ytimg.com/an_webp/ad6x7P5PmWw/mqdefault_6s.webp?du=3000&sqp=CKz7ntYG&rs=AOn4CLCzpHjqOBZjiTPHqxuD7gEJe84nGA"
+    },
+    "title": "How does Barbeque Nation make a profit with unlimited food? 🍗 | Rise & Fall of Barbeque Nation",
+    "published_date": "4h ago",
+    "views": "8.8K",
+    "extracted_views": 8800,
+    "channel": {
+     "name": "Alchemist Talks ",
+     "link": "https://www.youtube.com/@alchemisttalks-j7g",
+     "thumbnail": "https://yt3.ggpht.com/vrGvPkr6rNOXwOc0XT0vXI4YQJptH3eZoA6CDvfHB1TmYxj6Rd2JWVqCKCi0JWOIQg0d-v52GQ=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "zTH4O1oQHgc",
+    "link": "https://www.youtube.com/watch?v=zTH4O1oQHgc&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zTH4O1oQHgc",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/zTH4O1oQHgc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAdlH6QHMq5Q7ICV7yDmFdBReiEAA",
+     "rich": "https://i.ytimg.com/an_webp/zTH4O1oQHgc/mqdefault_6s.webp?du=3000&sqp=CI_zntYG&rs=AOn4CLDkdPzkJoKjNTcOyU1XZAZ4hQ-pYQ"
+    },
+    "title": "TOP 15+ Best Deals 🔥 Flipkart BBD & Amazon Great Indian Festival Sale 2026",
+    "published_date": "1h ago",
+    "views": "5.9K",
+    "extracted_views": 5900,
+    "channel": {
+     "name": "besttechintelugu",
+     "link": "https://www.youtube.com/@besttechinteluguofficial",
+     "thumbnail": "https://yt3.ggpht.com/TZ3G0I_Muu8UDgV55SCutvlawvMUede84WLeenxcAh94QL9R_1pa7I0VY8bKtWfbwKT5R0Cq=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New",
+     "Auto-dubbed"
+    ]
+   },
+   {
+    "video_id": "lSbKfGL42cU",
+    "link": "https://www.youtube.com/watch?v=lSbKfGL42cU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lSbKfGL42cU",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lSbKfGL42cU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGWLAvXfmkGeR3rmonvKdDjrp3YA",
+     "rich": "https://i.ytimg.com/an_webp/lSbKfGL42cU/mqdefault_6s.webp?du=3000&sqp=CMDvntYG&rs=AOn4CLCbIIdlDcw4i3V5EaphR1y3fAhBIg"
+    },
+    "title": "Tech News 2257 || OnePlus & POCO Deals, Samsung AI Glasses, OpenAI, Youtube A/B, Figure AI Robos.Etc",
+    "published_date": "6d ago",
+    "views": "375K",
+    "extracted_views": 375000,
+    "channel": {
+     "name": "Prasadtechintelugu",
+     "link": "https://www.youtube.com/@Prasadtechintelugu",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lruRqXcu0HALPqtLYA2bOuxiPWRgD6Gn389lG5BgVN2fw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "3Fml9tFDQig",
+    "link": "https://www.youtube.com/watch?v=3Fml9tFDQig",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3Fml9tFDQig",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/3Fml9tFDQig/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBuS9TtdGHHYy2Bavz9DoRUfeOEGg",
+     "rich": "https://i.ytimg.com/an_webp/3Fml9tFDQig/mqdefault_6s.webp?du=3000&sqp=CMCDn9YG&rs=AOn4CLCla0ws2GSp5v8HAY4nFPvRQCUuVw"
+    },
+    "title": "మీ డబ్బు ఇక చెల్లదు || Elon Musk చెప్పిన షాకింగ్ భవిష్యత్తు || The End of Money",
+    "published_date": "1d ago",
+    "views": "70K",
+    "extracted_views": 70000,
+    "channel": {
+     "name": "Telugu Knowledge",
+     "link": "https://www.youtube.com/@teluguknowledge42",
+     "thumbnail": "https://yt3.ggpht.com/V5kXp8U8fs1BXikieyiTP1Xj9aafyQXD9Xt8httY4PxiKQ-0kx203W9J1Ds_18IFFICYwfrz=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "07Ebd9xmyjo",
+    "link": "https://www.youtube.com/watch?v=07Ebd9xmyjo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=07Ebd9xmyjo",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/07Ebd9xmyjo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZRIhHi_sHMbGTkqhpVnQcygxmhg",
+     "rich": "https://i.ytimg.com/an_webp/07Ebd9xmyjo/mqdefault_6s.webp?du=3000&sqp=CNqMn9YG&rs=AOn4CLAOFuLpmqm1ceuPyEFebENHxKAz0A"
+    },
+    "title": "₹10K മുതൽ ₹1 Lakh വരെ! 🔥 ഈ Sale-ൽ വാങ്ങേണ്ട Phones ഇവയാണ്!",
+    "published_date": "22h ago",
+    "views": "15K",
+    "extracted_views": 15000,
+    "channel": {
+     "name": "Phone Maniac",
+     "link": "https://www.youtube.com/@PhoneManiacOfficial",
+     "thumbnail": "https://yt3.ggpht.com/It6C-EbtepX8lzyjsuGoUOma9oJjxxjstdTt6U8OKIkCZ682dkU-B0IQKUiz9BUK8uv8xE5L=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "Ye_9Lu8vHj8",
+    "link": "https://www.youtube.com/watch?v=Ye_9Lu8vHj8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ye_9Lu8vHj8",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/Ye_9Lu8vHj8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBXjtZA1wBUBJCNxRDZQPNb4E_STg",
+     "rich": "https://i.ytimg.com/an_webp/Ye_9Lu8vHj8/mqdefault_6s.webp?du=3000&sqp=CK6Sn9YG&rs=AOn4CLDGa2MNYl6FiWf-2PkCIYooIAEVJQ"
+    },
+    "title": "korean kanakaraju story Narration  by Karthikeya Sastry || In My Opinion Telugu",
+    "published_date": "1d ago",
+    "views": "101K",
+    "extracted_views": 101000,
+    "channel": {
+     "name": " In My Opinion Telugu",
+     "link": "https://www.youtube.com/@Inmyopinionofficial",
+     "thumbnail": "https://yt3.ggpht.com/YA0cgntIyg7XqB2nVKf5dVFWkHkvo2GksCP5-tpaU3ZQlxsGUyWYvOY14DrhTHDZocpVqKLDcw=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "l4V8oMbtsC8",
+    "link": "https://www.youtube.com/watch?v=l4V8oMbtsC8&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l4V8oMbtsC8",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/l4V8oMbtsC8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDuxKfMoWrR0Rd33zZsIqJuCdGWZg",
+     "rich": "https://i.ytimg.com/an_webp/l4V8oMbtsC8/mqdefault_6s.webp?du=3000&sqp=CI2en9YG&rs=AOn4CLBWn7bZswv2qRKosg41bWx1KFUbbA"
+    },
+    "title": "Best Mobiles From 10K to 1 Lakh Telugu | Flipkart Big Billion Days & Amazon Great Indian Festival",
+    "published_date": "4h ago",
+    "views": "23K",
+    "extracted_views": 23000,
+    "channel": {
+     "name": "Tharun Telugu Tech",
+     "link": "https://www.youtube.com/@TharunTeluguTech",
+     "thumbnail": "https://yt3.ggpht.com/QAkBhbov76cxEwhwDxby_SoXcaVU8RWy4Y8IoatrFv2R-NbpJUx91hDcNkHdZrM-yMh9nIm7=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "HLCi6TmYxB0",
+    "link": "https://www.youtube.com/watch?v=HLCi6TmYxB0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HLCi6TmYxB0",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/HLCi6TmYxB0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCd8tg-RIZAhz4dD_gSnLWzBDwpxw",
+     "rich": "https://i.ytimg.com/an_webp/HLCi6TmYxB0/mqdefault_6s.webp?du=3000&sqp=CNb4ntYG&rs=AOn4CLC-GX4YZdKwvFral7pf1F6tzcDSFg"
+    },
+    "title": "🚨BIG FALL ALERT! -Why India Is Falling While AI Stocks Rise in the US? | Sundara Rami Reddy |SumanTV",
+    "published_date": "4h ago",
+    "views": "8.4K",
+    "extracted_views": 8400,
+    "channel": {
+     "name": "SumanTV Finance",
+     "link": "https://www.youtube.com/@SumanTVFinance",
+     "thumbnail": "https://yt3.ggpht.com/qIGNKdEYGf7pwGWr2YCNmehVCgLwndMWfXHnKTFGhOaxJed95ii-QpWpMHqJLR-7E15FX_ZQYd4=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "M-Dnvsrq-48",
+    "link": "https://www.youtube.com/watch?v=M-Dnvsrq-48&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=M-Dnvsrq-48",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/M-Dnvsrq-48/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDnK9_hjfNV81oMEUl6VDnrtva94Q",
+     "rich": "https://i.ytimg.com/an_webp/M-Dnvsrq-48/mqdefault_6s.webp?du=3000&sqp=CNuDn9YG&rs=AOn4CLAVd87mSA6FFnqo41zeFykIIlO2Og"
+    },
+    "title": "Best TVs & Soundbars Deals 🤩 Don't Miss 🔥🔥 Flipkart BBD & Amazon Sale | Telugu",
+    "published_date": "8h ago",
+    "views": "57K",
+    "extracted_views": 57000,
+    "channel": {
+     "name": "besttechintelugu",
+     "link": "https://www.youtube.com/@besttechinteluguofficial",
+     "thumbnail": "https://yt3.ggpht.com/TZ3G0I_Muu8UDgV55SCutvlawvMUede84WLeenxcAh94QL9R_1pa7I0VY8bKtWfbwKT5R0Cq=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New",
+     "Auto-dubbed"
+    ]
+   },
+   {
+    "video_id": "N-rk0teW6DY",
+    "link": "https://www.youtube.com/watch?v=N-rk0teW6DY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=N-rk0teW6DY",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/N-rk0teW6DY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDO7B-OaZOcj6RSTDLG4tV1cxVUFQ",
+     "rich": "https://i.ytimg.com/an_webp/N-rk0teW6DY/mqdefault_6s.webp?du=3000&sqp=CPian9YG&rs=AOn4CLDMBAfk43Mk_04TTA42VeaVvEAclQ"
+    },
+    "title": "Breaking News- F1 Students! $70K OPT + $30K Proposed Fee | New DHS Rule Going to Federal Register",
+    "published_date": "18h ago",
+    "views": "15K",
+    "extracted_views": 15000,
+    "channel": {
+     "name": "Yogs Talk",
+     "link": "https://www.youtube.com/@yogstalk",
+     "thumbnail": "https://yt3.ggpht.com/_RACQBEagjTueFy_Ii3Fqlb-kt50jOTSw0LEG42Gaq83-ikhQqFbUeRajQ2q76s9jC-DiBCQ=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "zZ8dupGrPZA",
+    "link": "https://www.youtube.com/watch?v=zZ8dupGrPZA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zZ8dupGrPZA",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/zZ8dupGrPZA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDGJCXq50iB6pC8RzEG9-GMAoFhDg",
+     "rich": "https://i.ytimg.com/an_webp/zZ8dupGrPZA/mqdefault_6s.webp?du=3000&sqp=CPCWn9YG&rs=AOn4CLDfT5_tZIkWDOW5w4i3WY3hNCHthQ"
+    },
+    "title": "Best Smartphones to Buy in Amazon Great Indian Festival & Flipkart Big Billion Days 2026 |10K-₹1Lakh",
+    "published_date": "1d ago",
+    "views": "1.1M",
+    "extracted_views": 1100000,
+    "channel": {
+     "name": "Prasadtechintelugu",
+     "link": "https://www.youtube.com/@Prasadtechintelugu",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lruRqXcu0HALPqtLYA2bOuxiPWRgD6Gn389lG5BgVN2fw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "rxR85K2A-ik",
+    "link": "https://www.youtube.com/watch?v=rxR85K2A-ik",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rxR85K2A-ik",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/rxR85K2A-ik/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA6y3fL4Y24ANW8d6SvSm-U_qVSOA",
+     "rich": "https://i.ytimg.com/an_webp/rxR85K2A-ik/mqdefault_6s.webp?du=3000&sqp=CI7sntYG&rs=AOn4CLDgyQ2y6sNymtzTLXwJJ3RM1OKaQA"
+    },
+    "title": "Traveling From Bolivia 🇧🇴  To Chile 🇨🇱 | Crossing Land Border | Uma Telugu Traveller",
+    "published_date": "14h ago",
+    "views": "250K",
+    "extracted_views": 250000,
+    "channel": {
+     "name": "Uma Telugu Traveller",
+     "link": "https://www.youtube.com/@UmaTeluguTraveller",
+     "thumbnail": "https://yt3.ggpht.com/rbVxyswoCPKui2BqdMuZmK3foCyw_wa3h8X9Al34PQRkyc-hRzejR772ha2fyYmQ7AgumBQUp14=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "dxgmIIssc_s",
+    "link": "https://www.youtube.com/watch?v=dxgmIIssc_s",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dxgmIIssc_s",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/dxgmIIssc_s/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCXcO2XcMoY7kgIgSjxKylQOGrnlA",
+     "rich": "https://i.ytimg.com/an_webp/dxgmIIssc_s/mqdefault_6s.webp?du=3000&sqp=CLiCn9YG&rs=AOn4CLCnP2I6NiBebyfcHvZiPZb4tOxSZg"
+    },
+    "title": "Best Laptops in Flipkart Sale 2026: మీరు కొనాల్సిన టాప్ లాప్‌టాప్స్ ఇవే! ✅",
+    "published_date": "1d ago",
+    "views": "81K",
+    "extracted_views": 81000,
+    "channel": {
+     "name": "Tech Report Telugu",
+     "link": "https://www.youtube.com/@TechReportTelugu",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m6M4TKla1mqyTVVETWKsfmVEcyJN8yKHinTGCZYfZs0A=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "VfY3O12cGNA",
+    "link": "https://www.youtube.com/watch?v=VfY3O12cGNA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VfY3O12cGNA",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/VfY3O12cGNA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCv6QF6VOS0WwW8JqYtb9-wj2IU2w",
+     "rich": "https://i.ytimg.com/an_webp/VfY3O12cGNA/mqdefault_6s.webp?du=3000&sqp=CKD-ntYG&rs=AOn4CLA8lMoLwqvRGwWIS5EE_1aKtTihwQ"
+    },
+    "title": "Xiaomi 17 - Is It REALLY Worth Buying? | Heating? Software Experience? Amazon Great Indian Festival",
+    "published_date": "33 min ago",
+    "views": "324",
+    "extracted_views": 324,
+    "channel": {
+     "name": "Telugu Techno Spring",
+     "link": "https://www.youtube.com/@TeluguTechnospring",
+     "thumbnail": "https://yt3.ggpht.com/t8NkPz1naMPMUHdArn6wK3VjRudBdyvOpjebEZTd5DFck_1Ie5fj__8yPUSGtpFUVzHVkFP4qg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "Q8Rz3eFV9Wo",
+    "link": "https://www.youtube.com/watch?v=Q8Rz3eFV9Wo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Q8Rz3eFV9Wo",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/Q8Rz3eFV9Wo/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrHQ2WfYu7po2xnFuKNkxOvFshow",
+     "rich": "https://i.ytimg.com/an_webp/Q8Rz3eFV9Wo/mqdefault_6s.webp?du=3000&sqp=CO6Bn9YG&rs=AOn4CLBwVVZcsX2ZMyz9iXk2-RVIjhbRHA"
+    },
+    "title": "Samsung Galaxy S25 Ultra Review Telugu 🔥 ₹85,000కి కొనచ్చా? | Amazon GIF Sale Best Deal 📱",
+    "published_date": "1d ago",
+    "views": "26K",
+    "extracted_views": 26000,
+    "channel": {
+     "name": "Mr. Techie",
+     "link": "https://www.youtube.com/@Mr.Techieintelugu",
+     "thumbnail": "https://yt3.ggpht.com/EKbP5_ZN399JGVMxNBO6jTsubpoAkti0xqLASmvFLkUnuumMsElvmx4Z1mWu-SnkFyQQUQ60=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "ecBXglukCD4",
+    "link": "https://www.youtube.com/watch?v=ecBXglukCD4&pp=ugUHEgVlbi1HQg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ecBXglukCD4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ecBXglukCD4/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA4xIS3Ptl-oHUCKol_nf0CuJZ6cg",
+     "rich": "https://i.ytimg.com/an_webp/ecBXglukCD4/mqdefault_6s.webp?du=3000&sqp=CPSTn9YG&rs=AOn4CLAowOO17mPIUGs0hApF7lE0VC2h-g"
+    },
+    "title": "The Only Smartphone Deals Under 30,000! Ft. Amazon and Flipkart",
+    "published_date": "3h ago",
+    "views": "30K",
+    "extracted_views": 30000,
+    "channel": {
+     "name": "TechWiser",
+     "link": "https://www.youtube.com/@techwiser",
+     "thumbnail": "https://yt3.ggpht.com/dbqVd_qDsNJLWqrUFB0vOxSbhzRaOG_yxEbiX573Hd3mHinEjj-JYmXlENvkKeQxaZ9sudwvgRw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   }
+  ],
+  "related_videos_next_page_token": "CBQSKRILaG5rYWp4Nk9JdFnAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAq0AsyczZMNnd6VkNBclNDQW9EOGo0QUNnN0NQZ3NJa0xlcHItYTdyYjdfQVFvRDhqNEFDZzdDUGdzSXpkMkp2YS1pbTVuX0FRb0Q4ajRBQ2c3Q1Bnc0lsN3FianR6T2lzU2hBUW9EOGo0QUNnM0NQZ29JeE91MzR2N1BnTFVhQ2dQeVBnQUtEY0ktQ2dqc3NyN3l6NzJzNzJrS0FfSS1BQW9Pd2o0TENJZTh3TkMxaF82WXpRRUtBX0ktQUFvT3dqNExDTVd6NDVmR3o3S1RsUUVLQV9JLUFBb093ajRMQ0tpRWpZcnR2dW1zM0FFS0FfSS1BQW9Pd2o0TENMcVVtLVA5N3NiWTB3RUtBX0ktQUFvTndqNEtDTC04dlBudXBmXzNZUW9EOGo0QUNnN0NQZ3NJci1DMnQ0eVUzOEtYQVFvRDhqNEFDZzNDUGdvSW5Zamp6SlBkcU5nY0NnUHlQZ0FLRGNJLUNnaVA5NnZYN1BlNThETUtBX0ktQUFvTndqNEtDTGJRMjd5dG1ybjFOd29EOGo0QUNnN0NQZ3NJa1B1c2phbTN4OF9OQVFvRDhqNEFDZzdDUGdzSXFmU0Q3TXFjbjRxdkFRb0Q4ajRBQ2czQ1Bnb0ktLWV4MllqRWlZeDNDZ1B5UGdBS0RjSS1DZ2pRc2ZEc3RlZU4tMVVLQV9JLUFBb053ajRLQ09ycTE0cmUtNXppUXdvRDhqNEFDZzNDUGdvSXZwQ1EzYVh3bGVCNUNnUHlQZ0FLR3BvX0Z3b1ZUM3czTXpneU5UY3pNVGd3TWpJek9UUXpNakkzQ2hxYVB4Y0tGVTk4TXpReU56ZzFNek0xT1RnNU5UY3pNemN4TUFvYm1qOFlDaFpQZkRFMk16VTBORGcxTWprek5qUTNPVEEyTnpVekNodWFQeGdLRms5OE1UYzVOek0yTXpneU1qazJNalUzTXpJeE9UTUtHNW9fR0FvV1Qzd3hOVEU0T1RreE16ZzNPRFF5TVRJd09UWXlNZ29hbWo4WENoVlBmRGt5TWpNeU1EZ3hORFExTnpNMU16WXhPRElLR3BvX0Z3b1ZUM3cyTURVNU5qSTBOVE0wTXprNU5qazBOVEkwQ2hxYVB4Y0tGVTk4TWpreU56QTBOalU0TXpNMU1UUTROVGN3TmdvYm1qOFlDaFpQZkRFMk5qSXpORFUyTVRreE1EYzJOVFEwTmpJM0NodWFQeGdLRms5OE1UY3hOelEzTkRnek5qWTBOakV6TmpZek16TUtHcG9fRndvVlQzd3lOREU1T1RFM05qY3dPREF3TkRreU56WTNDZ1B5UGdBS0FfSS1BQklYQUFJRUJnZ0tEQTRRRWhRV0dCb2NIaUFpSkNZb05EVWFCQWdBRUFFYUJBZ0NFQU1hQkFnRUVBVWFCQWdHRUFjYUJBZ0lFQWthQkFnS0VBc2FCQWdNRUEwYUJBZ09FQThhQkFnUUVCRWFCQWdTRUJNYUJBZ1VFQlVhQkFnV0VCY2FCQWdZRUJrYUJBZ2FFQnNhQkFnY0VCMGFCQWdlRUI4YUJBZ2dFQ0VhQkFnaUVDTWFCQWdrRUNVYUJBZ21FQ2NhQkFnb0VDa2FCQWdvRUNvYUJBZ29FQ3NhQkFnb0VDd2FCQWdvRUMwYUJBZ29FQzRhQkFnb0VDOGFCQWdvRURBYUJBZ29FREVhQkFnb0VESWFCQWdvRURNYUJBZzBFQ2thQkFnMEVDb2FCQWcwRUNzYUJBZzBFQ3dhQkFnMEVDMGFCQWcwRUM0YUJBZzBFQzhhQkFnMEVEQWFCQWcwRURFYUJBZzBFRElhQkFnMEVETWFCQWcxRUNrYUJBZzFFQ29hQkFnMUVDc2FCQWcxRUN3YUJBZzFFQzBhQkFnMUVDNGFCQWcxRUM4YUJBZzFFREFhQkFnMUVERWFCQWcxRURJYUJBZzFFRE1xRndBQ0JBWUlDZ3dPRUJJVUZoZ2FIQjRnSWlRbUtEUTFqD3dhdGNoLW5leHQtZmVlZA%3D%3D",
+  "end_screen_videos": [
+   {
+    "video_id": "_3y13mXqW5A",
+    "link": "https://www.youtube.com/watch?v=_3y13mXqW5A",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_3y13mXqW5A",
+    "thumbnail": "https://i.ytimg.com/vi/_3y13mXqW5A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC1jlJkCm9av4xc_QFJgO8Lqopu6w",
+    "title": "Best Mobiles From 10K to 1 Lakh || Flipkart Big Billion Days & Amazon Great Indian Festival | Telugu",
+    "published_date": "1 day ago",
+    "views": "177K views",
+    "extracted_views": 177000,
+    "length": "24:51",
+    "channel": {
+     "name": "Telugu Techno Spring",
+     "link": "https://www.youtube.com/@TeluguTechnospring"
+    }
+   },
+   {
+    "video_id": "_zJtEveibs0",
+    "link": "https://www.youtube.com/watch?v=_zJtEveibs0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_zJtEveibs0",
+    "thumbnail": "https://i.ytimg.com/vi/_zJtEveibs0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCKPICLAWFFi19zdYw-0J_dzrMCAg",
+    "title": "Market BIG Crash Explained, 10 stocks in this market FALL, UPI Good News, JIO IPO",
+    "published_date": "3 hours ago",
+    "views": "51K views",
+    "extracted_views": 51000,
+    "length": "28:04",
+    "channel": {
+     "name": "DAY TRADER తెలుగు",
+     "link": "https://www.youtube.com/@daytradertelugu"
+    }
+   },
+   {
+    "video_id": "oYgqdcHG3Rc",
+    "link": "https://www.youtube.com/watch?v=oYgqdcHG3Rc",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oYgqdcHG3Rc",
+    "thumbnail": "https://i.ytimg.com/vi/oYgqdcHG3Rc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBhgIbq7-fVDMa6a33zI8dzNRwmQw",
+    "title": "🚨ELON MUSK vs MODI Starlink War | Jio vs Airtel vs Starlink | SECRETS Exposing in Internet | VR Raja",
+    "published_date": "1 hour ago",
+    "views": "14K views",
+    "extracted_views": 14000,
+    "length": "16:35",
+    "channel": {
+     "name": "V R RAJA",
+     "link": "https://www.youtube.com/@iamvrraja"
+    }
+   },
+   {
+    "video_id": "GmoCf-xN9cQ",
+    "link": "https://www.youtube.com/watch?v=GmoCf-xN9cQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GmoCf-xN9cQ",
+    "thumbnail": "https://i.ytimg.com/vi/GmoCf-xN9cQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLApsUPP-gqiuKBzwZ-G5DxB8HavPA",
+    "title": "Top 10 MOST Trending Phone Deals & మీరు ఎదురుచూస్తున్న ఫోన్ డీల్స్ ఇవే! Flipkart ఆఫర్లు లైవ్ 🚨",
+    "published_date": "1 hour ago",
+    "views": "4.3K views",
+    "extracted_views": 4300,
+    "length": "5:07",
+    "channel": {
+     "name": "TechFacts in Telugu",
+     "link": "https://www.youtube.com/@TechFactsRafee"
+    }
+   },
+   {
+    "video_id": "ad6x7P5PmWw",
+    "link": "https://www.youtube.com/watch?v=ad6x7P5PmWw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ad6x7P5PmWw",
+    "thumbnail": "https://i.ytimg.com/vi/ad6x7P5PmWw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDGwQOVLcdF_QZUxCBceOwEC2MWcw",
+    "title": "How does Barbeque Nation make a profit with unlimited food? 🍗 | Rise & Fall of Barbeque Nation",
+    "published_date": "4 hours ago",
+    "views": "8.8K views",
+    "extracted_views": 8800,
+    "length": "10:52",
+    "channel": {
+     "name": "Alchemist Talks ",
+     "link": "https://www.youtube.com/@alchemisttalks-j7g"
+    }
+   },
+   {
+    "video_id": "zTH4O1oQHgc",
+    "link": "https://www.youtube.com/watch?v=zTH4O1oQHgc&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zTH4O1oQHgc",
+    "thumbnail": "https://i.ytimg.com/vi/zTH4O1oQHgc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAdlH6QHMq5Q7ICV7yDmFdBReiEAA",
+    "title": "TOP 15+ Best Deals 🔥 Flipkart BBD & Amazon Great Indian Festival Sale 2026",
+    "published_date": "1 hour ago",
+    "views": "5.9K views",
+    "extracted_views": 5900,
+    "length": "5:54",
+    "channel": {
+     "name": "besttechintelugu",
+     "link": "https://www.youtube.com/@besttechinteluguofficial"
+    }
+   },
+   {
+    "video_id": "lSbKfGL42cU",
+    "link": "https://www.youtube.com/watch?v=lSbKfGL42cU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lSbKfGL42cU",
+    "thumbnail": "https://i.ytimg.com/vi/lSbKfGL42cU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGWLAvXfmkGeR3rmonvKdDjrp3YA",
+    "title": "Tech News 2257 || OnePlus & POCO Deals, Samsung AI Glasses, OpenAI, Youtube A/B, Figure AI Robos.Etc",
+    "published_date": "6 days ago",
+    "views": "375K views",
+    "extracted_views": 375000,
+    "length": "10:52",
+    "channel": {
+     "name": "Prasadtechintelugu",
+     "link": "https://www.youtube.com/@Prasadtechintelugu"
+    }
+   },
+   {
+    "video_id": "3Fml9tFDQig",
+    "link": "https://www.youtube.com/watch?v=3Fml9tFDQig&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3Fml9tFDQig",
+    "thumbnail": "https://i.ytimg.com/vi/3Fml9tFDQig/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBuS9TtdGHHYy2Bavz9DoRUfeOEGg",
+    "title": "మీ డబ్బు ఇక చెల్లదు || Elon Musk చెప్పిన షాకింగ్ భవిష్యత్తు || The End of Money",
+    "published_date": "1 day ago",
+    "views": "70K views",
+    "extracted_views": 70000,
+    "length": "16:21",
+    "channel": {
+     "name": "Telugu Knowledge",
+     "link": "https://www.youtube.com/@teluguknowledge42"
+    }
+   },
+   {
+    "video_id": "07Ebd9xmyjo",
+    "link": "https://www.youtube.com/watch?v=07Ebd9xmyjo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=07Ebd9xmyjo",
+    "thumbnail": "https://i.ytimg.com/vi/07Ebd9xmyjo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZRIhHi_sHMbGTkqhpVnQcygxmhg",
+    "title": "₹10K മുതൽ ₹1 Lakh വരെ! 🔥 ഈ Sale-ൽ വാങ്ങേണ്ട Phones ഇവയാണ്!",
+    "published_date": "22 hours ago",
+    "views": "15K views",
+    "extracted_views": 15000,
+    "length": "13:17",
+    "channel": {
+     "name": "Phone Maniac",
+     "link": "https://www.youtube.com/@PhoneManiacOfficial"
+    }
+   },
+   {
+    "video_id": "Ye_9Lu8vHj8",
+    "link": "https://www.youtube.com/watch?v=Ye_9Lu8vHj8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ye_9Lu8vHj8",
+    "thumbnail": "https://i.ytimg.com/vi/Ye_9Lu8vHj8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBXjtZA1wBUBJCNxRDZQPNb4E_STg",
+    "title": "korean kanakaraju story Narration  by Karthikeya Sastry || In My Opinion Telugu",
+    "published_date": "1 day ago",
+    "views": "101K views",
+    "extracted_views": 101000,
+    "length": "18:08",
+    "channel": {
+     "name": " In My Opinion Telugu",
+     "link": "https://www.youtube.com/@Inmyopinionofficial"
+    }
+   },
+   {
+    "video_id": "l4V8oMbtsC8",
+    "link": "https://www.youtube.com/watch?v=l4V8oMbtsC8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l4V8oMbtsC8",
+    "thumbnail": "https://i.ytimg.com/vi/l4V8oMbtsC8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDuxKfMoWrR0Rd33zZsIqJuCdGWZg",
+    "title": "Best Mobiles From 10K to 1 Lakh Telugu | Flipkart Big Billion Days & Amazon Great Indian Festival",
+    "published_date": "4 hours ago",
+    "views": "23K views",
+    "extracted_views": 23000,
+    "length": "22:02",
+    "channel": {
+     "name": "Tharun Telugu Tech",
+     "link": "https://www.youtube.com/@TharunTeluguTech"
+    }
+   },
+   {
+    "video_id": "HLCi6TmYxB0",
+    "link": "https://www.youtube.com/watch?v=HLCi6TmYxB0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HLCi6TmYxB0",
+    "thumbnail": "https://i.ytimg.com/vi/HLCi6TmYxB0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCd8tg-RIZAhz4dD_gSnLWzBDwpxw",
+    "title": "🚨BIG FALL ALERT! -Why India Is Falling While AI Stocks Rise in the US? | Sundara Rami Reddy |SumanTV",
+    "published_date": "4 hours ago",
+    "views": "8.4K views",
+    "extracted_views": 8400,
+    "length": "11:33",
+    "channel": {
+     "name": "SumanTV Finance",
+     "link": "https://www.youtube.com/@SumanTVFinance"
+    }
+   }
+  ],
+  "comments_next_page_token": "Eg0SC2hua2FqeDZPSXRZGAYyJSIRIgtobmthang2T0l0WTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+  "comments_sorting_token": [
+   {
+    "title": "Top",
+    "token": "Eg0SC2hua2FqeDZPSXRZGAYyVSIuIgtobmthang2T0l0WTAAeAKqAhpVZ3lpWElmOXVuckJqTFQyc2tGNEFhQUJBZzABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+   },
+   {
+    "title": "Newest",
+    "token": "Eg0SC2hua2FqeDZPSXRZGAYyOCIRIgtobmthang2T0l0WTABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+   }
+  ],
+  "transcript": {
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=hnkajx6OItY"
+  }
+ }
+}

@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import threading
 from collections.abc import Callable, Iterable
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -131,6 +132,7 @@ class Client:
     account: Callable[[str], dict[str, Any]] = fetch_account
     transport: httpx.BaseTransport | None = None
     searches_used: int = 0
+    _lock: threading.Lock = field(default_factory=threading.Lock, repr=False)
 
     @classmethod
     def from_env(cls, mode: Mode | None = None) -> Client:
@@ -175,8 +177,9 @@ class Client:
             data = {}
         if r.status_code != 200:
             raise SerpApiError(f"SerpApi HTTP {r.status_code}: {data.get('error', 'no message')}")
-        self.searches_used += 1
-        return self.cache.put(params, data, self.key)
+        with self._lock:
+            self.searches_used += 1
+            return self.cache.put(params, data, self.key)
 
 
 @dataclass(frozen=True)

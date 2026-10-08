@@ -1,0 +1,803 @@
+{
+ "request": {
+  "engine": "youtube_video",
+  "gl": "in",
+  "hl": "en",
+  "v": "ecBXglukCD4"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7d0aaa973c49ae74804c4",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/4E8aAix59lemAv_Xkwq_eJBWi3s4_2pA1b6hfcSLRww/6ac7d0aaa973c49ae74804c4.json",
+   "markdown_endpoint": "https://serpapi.com/searches/4E8aAix59lemAv_Xkwq_eJBWi3s4_2pA1b6hfcSLRww/6ac7d0aaa973c49ae74804c4.md",
+   "created_at": "2026-10-08 17:19:38 UTC",
+   "processed_at": "2026-10-08 17:19:38 UTC",
+   "youtube_video_url": "https://www.youtube.com/watch?v=ecBXglukCD4",
+   "raw_html_file": "https://serpapi.com/searches/4E8aAix59lemAv_Xkwq_eJBWi3s4_2pA1b6hfcSLRww/6ac7d0aaa973c49ae74804c4.html",
+   "prettify_html_file": "https://serpapi.com/searches/4E8aAix59lemAv_Xkwq_eJBWi3s4_2pA1b6hfcSLRww/6ac7d0aaa973c49ae74804c4.prettify",
+   "total_time_taken": 0.95
+  },
+  "search_parameters": {
+   "engine": "youtube_video",
+   "v": "ecBXglukCD4",
+   "gl": "in",
+   "hl": "en"
+  },
+  "title": "The Only Smartphone Deals Under 30,000! Ft. Amazon and Flipkart",
+  "thumbnail": "https://i.ytimg.com/vi/ecBXglukCD4/maxresdefault.jpg",
+  "channel": {
+   "name": "TechWiser",
+   "thumbnail": "https://yt3.ggpht.com/dbqVd_qDsNJLWqrUFB0vOxSbhzRaOG_yxEbiX573Hd3mHinEjj-JYmXlENvkKeQxaZ9sudwvgRw=s176-c-k-c0x00ffffff-no-rj",
+   "link": "https://www.youtube.com/@techwiser",
+   "subscribers": "2.57M subscribers",
+   "extracted_subscribers": 2570000,
+   "verified": true
+  },
+  "views": "30,506 views",
+  "extracted_views": 30506,
+  "likes": "726",
+  "extracted_likes": 726,
+  "published_date": "Oct 8, 2026",
+  "description": {
+   "content": "Brands quietly launched lower-RAM variants just in time for the sale, and most buyers won't even notice. Before you hit \"Buy Now\", watch this: the best phones under ₹30K that don't fall for the BS 🚨\n\n#MotorolaIndia #ItsTheTimeToMoto #BigBillionMotoDeals #BiggestDealsEver\n\n\n🚀 We Are Hiring! APPLY HERE: https://techwiser.com/we-are-hiring\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE For More Videos Like This! 🌟\n\n------------------------------------------------------------------------------\n \n🌟  Follow Us Other Social Media Platforms 🌟 \n\n🐦 Twitter:   / techwiser  \n👩‍👧‍👦 Facebook:   / techwiser  \n📷 Instagram:   / techwiser  \n🌍 Website: http://techwiser.com\n------------------------------------------------------------------------------\n \n🌟 Team TechWiser 🌟 \n\n🙋🏻‍♂️ Video Producer:   / praaatiiik  \n📹 Channel Manager:   / mr_dinesh_ji  \n👨🏻‍💻 Script:   / shoubhik_sadhu   \n👨🏻‍💻 Video Editor:   / y_singhal  \n👨🏻‍💻 Video Editor:   / development_enthusiast  \n👨🏻‍💻 Video Editor:   / sathvikpanchumarthy  \n👨🏻‍💻 Video Editor:   / yuv.3gp  \n\n#Tech #Smartphones #TeamTechWiser",
+   "links": [
+    {
+     "start_index": 201,
+     "length": 14,
+     "text": "MotorolaIndia ",
+     "url": "https://www.youtube.com/hashtag/motorolaindia",
+     "type": "browse"
+    },
+    {
+     "start_index": 216,
+     "length": 17,
+     "text": "ItsTheTimeToMoto ",
+     "url": "https://www.youtube.com/hashtag/itsthetimetomoto",
+     "type": "browse"
+    },
+    {
+     "start_index": 234,
+     "length": 20,
+     "text": "BigBillionMotoDeals ",
+     "url": "https://www.youtube.com/hashtag/bigbillionmotodeals",
+     "type": "browse"
+    },
+    {
+     "start_index": 255,
+     "length": 17,
+     "text": "BiggestDealsEver\n",
+     "url": "https://www.youtube.com/hashtag/biggestdealsever",
+     "type": "browse"
+    },
+    {
+     "start_index": 305,
+     "length": 35,
+     "text": "tps://techwiser.com/we-are-hiring\n\n",
+     "url": "https://techwiser.com/we-are-hiring"
+    },
+    {
+     "start_index": 554,
+     "length": 15,
+     "text": "hwiser  \n👩‍👧‍👦 ",
+     "url": "https://twitter.com/TechWiser"
+    },
+    {
+     "start_index": 589,
+     "length": 15,
+     "text": "ser  \n📷 Instagr",
+     "url": "https://www.facebook.com/techwiser"
+    },
+    {
+     "start_index": 619,
+     "length": 15,
+     "text": "er  \n🌍 Website:",
+     "url": "https://www.instagram.com/techwiser"
+    },
+    {
+     "start_index": 647,
+     "length": 20,
+     "text": "iser.com\n-----------",
+     "url": "http://techwiser.com/"
+    },
+    {
+     "start_index": 796,
+     "length": 16,
+     "text": "\n📹 Channel Manag",
+     "url": "https://www.instagram.com/praaatiiik"
+    },
+    {
+     "start_index": 833,
+     "length": 18,
+     "text": " \n👨🏻‍💻 Script:   /",
+     "url": "https://www.instagram.com/mr_dinesh_ji"
+    },
+    {
+     "start_index": 868,
+     "length": 20,
+     "text": " \n👨🏻‍💻 Video Editor:",
+     "url": "https://www.instagram.com/shoubhik_sadhu/"
+    },
+    {
+     "start_index": 912,
+     "length": 15,
+     "text": "deo Editor:   /",
+     "url": "https://www.instagram.com/y_singhal/"
+    },
+    {
+     "start_index": 950,
+     "length": 28,
+     "text": "  \n👨🏻‍💻 Video Editor:   / sa",
+     "url": "https://www.instagram.com/development_enthusiast/"
+    },
+    {
+     "start_index": 1001,
+     "length": 25,
+     "text": "💻 Video Editor:   / yuv.3",
+     "url": "https://www.instagram.com/sathvikpanchumarthy/"
+    },
+    {
+     "start_index": 1049,
+     "length": 13,
+     "text": "s #TeamTechWi",
+     "url": "https://www.instagram.com/yuv.3gp/"
+    },
+    {
+     "start_index": 1064,
+     "length": 5,
+     "text": "r",
+     "url": "https://www.youtube.com/hashtag/tech",
+     "type": "browse"
+    },
+    {
+     "start_index": 1070,
+     "length": 12,
+     "url": "https://www.youtube.com/hashtag/smartphones",
+     "type": "browse"
+    },
+    {
+     "start_index": 1083,
+     "length": 14,
+     "url": "https://www.youtube.com/hashtag/teamtechwiser",
+     "type": "browse"
+    }
+   ]
+  },
+  "related_videos": [
+   {
+    "video_id": "lLrtAYOhRGU",
+    "link": "https://www.youtube.com/watch?v=lLrtAYOhRGU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lLrtAYOhRGU",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lLrtAYOhRGU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCMBTfpowpj0qL4ku0kVGaiq-pc1A",
+     "rich": "https://i.ytimg.com/an_webp/lLrtAYOhRGU/mqdefault_6s.webp?du=3000&sqp=CPn_ntYG&rs=AOn4CLDo206opFDWv6gWKrQIQ0q5UWHWDw"
+    },
+    "title": "Best Phone Deals - Flipkart BDD & Amazon GIF 2026 | Don’t Buy in FOMO!",
+    "published_date": "4h ago",
+    "views": "18K",
+    "extracted_views": 18000,
+    "channel": {
+     "name": "Tech Buffet",
+     "link": "https://www.youtube.com/@TechBuffet",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n2o4O0cAvEmC8EMe6TYYJ6-rUGeeqnKd38iGdRKVPxZojB=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "mJnEsQbqnS4",
+    "link": "https://www.youtube.com/watch?v=mJnEsQbqnS4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mJnEsQbqnS4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/mJnEsQbqnS4/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAi_QkNooazNNiPQVtf6HbWvTHmjA",
+     "rich": "https://i.ytimg.com/an_webp/mJnEsQbqnS4/mqdefault_6s.webp?du=3000&sqp=CJ71ntYG&rs=AOn4CLCs5lPCL8HHit4JowASssEdaLGNsw"
+    },
+    "title": "4G Coming Back?, 3 Lakh Ka iPhone?, 2nm Chip War, iOS Bugs, Claude vs GPT Vs Gemini | #PodcasTT🎙️",
+    "published_date": "3h ago",
+    "views": "41K",
+    "extracted_views": 41000,
+    "channel": {
+     "name": "Trakin Tech",
+     "link": "https://www.youtube.com/@TrakinTech",
+     "thumbnail": "https://yt3.ggpht.com/CoxkM-bkUecdch2e4R7gaa5gyMAqrhKrYqyjTL0_kkJ1lUb44-cNA5tAOYKX1jAk1OVEU1qO6g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "6to9dBBg85o",
+    "link": "https://www.youtube.com/watch?v=6to9dBBg85o",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6to9dBBg85o",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/6to9dBBg85o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDenIE6ebxBgZEKxATO-5osIa25uQ",
+     "rich": "https://i.ytimg.com/an_webp/6to9dBBg85o/mqdefault_6s.webp?du=3000&sqp=CLqgn9YG&rs=AOn4CLDPsa4co_hZP9Vn-buQ86O-1ABqMg"
+    },
+    "title": "HONOR 600S 5G 😳 8100mAh Battery + IP69K! | Review 🔥",
+    "published_date": "2d ago",
+    "views": "20",
+    "extracted_views": 20,
+    "channel": {
+     "name": "NET Experiment",
+     "link": "https://www.youtube.com/@NET_Experiment",
+     "thumbnail": "https://yt3.ggpht.com/9M31UgVe-On_QnyFEXhAByErtJmU_vehryIfBsaLQitgExpKlOTfwKdfYLwXHOZN6P7TTk_8uKw=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "vzlK59IG5K4",
+    "link": "https://www.youtube.com/watch?v=vzlK59IG5K4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vzlK59IG5K4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/vzlK59IG5K4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBoauikhbHHsMT8kyL50nBrZi4Rtg",
+     "rich": "https://i.ytimg.com/an_webp/vzlK59IG5K4/mqdefault_6s.webp?du=3000&sqp=CKrwntYG&rs=AOn4CLCH4NVd9VlLTVj3Iij5fRmzhx_jtQ"
+    },
+    "title": "Why Are You ALWAYS Tired? | India's Vitamin D & B12 Crisis | Jaago Grahak Jaago | Dhruv Rathee",
+    "published_date": "2h ago",
+    "views": "488K",
+    "extracted_views": 488000,
+    "channel": {
+     "name": "Dhruv Rathee",
+     "link": "https://www.youtube.com/@dhruvrathee",
+     "thumbnail": "https://yt3.ggpht.com/ATJuCH36wHPiFwumVBm423ouLVGQtq2pkPMOlSCclqqXErazOWyl4n07MRmbFnSJTL5P02Fq=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "XIBcA0R6AD4",
+    "link": "https://www.youtube.com/watch?v=XIBcA0R6AD4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XIBcA0R6AD4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/XIBcA0R6AD4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBYcQ4gpvKOkltmKDg0Ya4hQUFVGA",
+     "rich": "https://i.ytimg.com/an_webp/XIBcA0R6AD4/mqdefault_6s.webp?du=3000&sqp=CI6Bn9YG&rs=AOn4CLCunbGtIdGyQnxJJI_3UFkr0IChnA"
+    },
+    "title": "Trump Wants His Golf Club to Be Camp David & Jimmy Kimmel's Message to Guillermo's Dancing Haters",
+    "published_date": "13h ago",
+    "views": "2.1M",
+    "extracted_views": 2100000,
+    "channel": {
+     "name": "Jimmy Kimmel Live",
+     "link": "https://www.youtube.com/@JimmyKimmelLive",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lhbMFP_RRAtTgX-58mKKhuVG_P-qESOBnMDiPE0vhJgEMm=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "E7Ohd98bqE4",
+    "link": "https://www.youtube.com/watch?v=E7Ohd98bqE4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=E7Ohd98bqE4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/E7Ohd98bqE4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDrbpvkhq77EC3NMqddlTaLuJ52qQ",
+     "rich": "https://i.ytimg.com/an_webp/E7Ohd98bqE4/mqdefault_6s.webp?du=3000&sqp=CIyCn9YG&rs=AOn4CLCBe-n4-UN9X3cCjZBKZtLOLrs93Q"
+    },
+    "title": "Jio-Airtel-Vi New Rule😍,GTA 6 Mobile Coming🤯,iQOO 16 India Launch,Xiaomi Big Bad News😭,GT 50 Pro",
+    "published_date": "3h ago",
+    "views": "85K",
+    "extracted_views": 85000,
+    "channel": {
+     "name": "Techno Ruhez",
+     "link": "https://www.youtube.com/@TechnoRuhez",
+     "thumbnail": "https://yt3.ggpht.com/QRorXoNjkwDgFhrnplEqz189m9qAgdM3aglBMM4Eat3dULvqu2fyutNchcB_U8REOd83LmYWqyY=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "dsaWzv206gE",
+    "link": "https://www.youtube.com/watch?v=dsaWzv206gE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dsaWzv206gE",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/dsaWzv206gE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCVvcuGvdkZXUeoDy6CmXdNJuFa_w",
+     "rich": "https://i.ytimg.com/an_webp/dsaWzv206gE/mqdefault_6s.webp?du=3000&sqp=CISNn9YG&rs=AOn4CLDkGUflbsh78vbEsdtW1UpHLVCKPA"
+    },
+    "title": "10 HIDDEN Smartphone Deals in Flipkart Big Billion Days & Amazon Sale 2026",
+    "published_date": "1h ago",
+    "views": "4.8K",
+    "extracted_views": 4800,
+    "channel": {
+     "name": "Techy Kiran",
+     "link": "https://www.youtube.com/@TechyKiran",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_meuJFq_j4Y1ZyUGAJ5q0OsnIzQmEVddRF8tZVARvIhGfU=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "g01HPntRJpY",
+    "link": "https://www.youtube.com/watch?v=g01HPntRJpY&pp=ugUEEgJlbg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=g01HPntRJpY",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/g01HPntRJpY/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9AcEF-_wylShsXL7dtViZkNppmA",
+     "rich": "https://i.ytimg.com/an_webp/g01HPntRJpY/mqdefault_6s.webp?du=3000&sqp=CPSUn9YG&rs=AOn4CLASKCnbNVIQd4yy7Zl1H-xy83K6sw"
+    },
+    "title": "A strange shift in IT | Why the industry is changing faster than anyone expected?",
+    "published_date": "3h ago",
+    "views": "100K",
+    "extracted_views": 100000,
+    "channel": {
+     "name": "Think School",
+     "link": "https://www.youtube.com/@ThinkSchool",
+     "thumbnail": "https://yt3.ggpht.com/9BhJtkvh3GjjLqtve2o-CKZJPb79ZEwjoqag9JznlIywBimKTeIfpVQMyrnTIYoXXQOm2hY9nA=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "aUgJJRycXXk",
+    "link": "https://www.youtube.com/watch?v=aUgJJRycXXk",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aUgJJRycXXk",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/aUgJJRycXXk/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAEwvYVjrjN1nMOXPzkMKhDmNl5vg",
+     "rich": "https://i.ytimg.com/an_webp/aUgJJRycXXk/mqdefault_6s.webp?du=3000&sqp=CImDn9YG&rs=AOn4CLCCjb_0ay7HLTr31me_7LmwKDdqJg"
+    },
+    "title": "You Should WAIT to Buy a Googlebook (First 24 Hours)",
+    "published_date": "55 min ago",
+    "views": "2.9K",
+    "extracted_views": 2900,
+    "channel": {
+     "name": "9to5Google",
+     "link": "https://www.youtube.com/@9to5Google",
+     "thumbnail": "https://yt3.ggpht.com/FRA_4XHHggh2Oe8iL7F7xFDnIJh1ceOWQqGcw1fsoUhf3K7S2Kua9Eaku47SX58iW60seC6TrbU=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "F2Y5so5nuGA",
+    "link": "https://www.youtube.com/watch?v=F2Y5so5nuGA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=F2Y5so5nuGA",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/F2Y5so5nuGA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1OOCPHUwB61NaYA_qMGOkVdlvWQ",
+     "rich": "https://i.ytimg.com/an_webp/F2Y5so5nuGA/mqdefault_6s.webp?du=3000&sqp=CMCRn9YG&rs=AOn4CLDROVC3OgokNhm7HfSx31wjLAeGbA"
+    },
+    "title": "Oppo Find X10 Pro Max almost ruined the iPhone for me",
+    "published_date": "6h ago",
+    "views": "27K",
+    "extracted_views": 27000,
+    "channel": {
+     "name": "Snowball ",
+     "link": "https://www.youtube.com/@Techsnowball",
+     "thumbnail": "https://yt3.ggpht.com/4ihCGoLZh0cJe9WVQmC3sG91xfMJv93d703IXi6FrGuZOsGL3z0ptlUNPQ90oWEMkg748JVM=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "EIe41PrCz88",
+    "link": "https://www.youtube.com/watch?v=EIe41PrCz88",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EIe41PrCz88",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/EIe41PrCz88/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB1A5AnhR1fXdrMLze5tjj91bSUsg",
+     "rich": "https://i.ytimg.com/an_webp/EIe41PrCz88/mqdefault_6s.webp?du=3000&sqp=CNiWn9YG&rs=AOn4CLBKqai8J5od-1V58FSqDzlz_hHklw"
+    },
+    "title": "Big Billion Day & Great Indian Festival 2026 | Flipkart Amazon Sale | Home Appliance Deals",
+    "published_date": "12h ago",
+    "views": "72K",
+    "extracted_views": 72000,
+    "channel": {
+     "name": "The Grapevine",
+     "link": "https://www.youtube.com/@TheGrapevineIndia",
+     "thumbnail": "https://yt3.ggpht.com/p-g5kQBo1U0pzgsFPF7Gs2b82dpJMuwd2Pmp87nrI3EpDEswOWEzLm0kf_tFCIH6pd5flu_fGg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "taZ0KMthpZs",
+    "link": "https://www.youtube.com/watch?v=taZ0KMthpZs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=taZ0KMthpZs",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/taZ0KMthpZs/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAx1GVKdcjKTbqNICk3Tj1OFNKuzg",
+     "rich": "https://i.ytimg.com/an_webp/taZ0KMthpZs/mqdefault_6s.webp?du=3000&sqp=COmIn9YG&rs=AOn4CLBp-BNdp5X0rEHUbro2y2yiBR8jLg"
+    },
+    "title": "My FAVORITE Phone DEALS in Amazon & Flipkart SALE ! *NO CONFUSION*",
+    "published_date": "1d ago",
+    "views": "434K",
+    "extracted_views": 434000,
+    "channel": {
+     "name": "TechBar",
+     "link": "https://www.youtube.com/@TechBar",
+     "thumbnail": "https://yt3.ggpht.com/TQ3e9Ye1BqlarAIyngEWlrKVyCVQpNYMiGUsE5PZSXjQ94cPXb01HfdCFpovzn_JMyUO8e4o=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "9xBIWCi9qb8",
+    "link": "https://www.youtube.com/watch?v=9xBIWCi9qb8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9xBIWCi9qb8",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/9xBIWCi9qb8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDb1Lcy2WIad5FlposuphjPkpsNFg",
+     "rich": "https://i.ytimg.com/an_webp/9xBIWCi9qb8/mqdefault_6s.webp?du=3000&sqp=CKbjntYG&rs=AOn4CLC1qoIQcB-8LNJk9dM7ZCzxBWrDdA"
+    },
+    "title": "POCO X8 Under ₹26K! Can We Trust This Deal? | 15 Days Extreme Test",
+    "published_date": "3h ago",
+    "views": "11K",
+    "extracted_views": 11000,
+    "channel": {
+     "name": "Perfect Gadget",
+     "link": "https://www.youtube.com/@PerfectGadget",
+     "thumbnail": "https://yt3.ggpht.com/aeZFKiYws9dSWTsP-f317nwG6rXEWMzCmWMxId0X9oCMuKcAsz-UG95VszjuulZiNCjEj4e7=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "RQQbRaGuRY8",
+    "link": "https://www.youtube.com/watch?v=RQQbRaGuRY8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RQQbRaGuRY8",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/RQQbRaGuRY8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC-uKSkkh_KkWvb_dQZFqBahBL56A",
+     "rich": "https://i.ytimg.com/an_webp/RQQbRaGuRY8/mqdefault_6s.webp?du=3000&sqp=CPCGn9YG&rs=AOn4CLBEtgM_2U07wUcGnqoQdHFAet_rnA"
+    },
+    "title": "AMBANI IS KING OF INDIA?? ELON MUSK TARGETS PM MODI AND AMBANI | By Prashant Dhawan",
+    "published_date": "35 min ago",
+    "views": "54K",
+    "extracted_views": 54000,
+    "channel": {
+     "name": "Adda247 Skills",
+     "link": "https://www.youtube.com/@adda247-skills",
+     "thumbnail": "https://yt3.ggpht.com/j68Hr1NtrD4LLjZgfO_4An4CFJgUlJeLj4NZATFCWePPH5oWlr-Q0xgODZ9R7qZ7mehbRRJ9=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "pL3xeFqZxvg",
+    "link": "https://www.youtube.com/watch?v=pL3xeFqZxvg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pL3xeFqZxvg",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/pL3xeFqZxvg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDc_e-DCSstm6SzlWZUze91g0jfyQ",
+     "rich": "https://i.ytimg.com/an_webp/pL3xeFqZxvg/mqdefault_6s.webp?du=3000&sqp=CPiOn9YG&rs=AOn4CLDxQHQQd7Yl-4k_kw2lEhgQDVgmoQ"
+    },
+    "title": "Best Smartphone to Buy - My Clear Suggestion (2026)",
+    "published_date": "1d ago",
+    "views": "1M",
+    "extracted_views": 1000000,
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy",
+     "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "xxCqvOV-qdU",
+    "link": "https://www.youtube.com/watch?v=xxCqvOV-qdU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xxCqvOV-qdU",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/xxCqvOV-qdU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcWxPkTX2Nd5IruyF8doSK7BzvPg",
+     "rich": "https://i.ytimg.com/an_webp/xxCqvOV-qdU/mqdefault_6s.webp?du=3000&sqp=CNyEn9YG&rs=AOn4CLDPKB4NikC3kYsDG-rV4JdMqQU5-g"
+    },
+    "title": "Xiaomi 18 Fold Review: Duo-n't Be Fooled",
+    "published_date": "16h ago",
+    "views": "165K",
+    "extracted_views": 165000,
+    "channel": {
+     "name": "MrMobile [Michael Fisher]",
+     "link": "https://www.youtube.com/@TheMrMobile",
+     "thumbnail": "https://yt3.ggpht.com/RpqJy1uS9sbNkT9zExMcvg0_wiGr-84xC-D0k5gLyOtDw1NMSzySlMz-ldmBtWCKqgUzjHMu=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "uipjLQWtbD0",
+    "link": "https://www.youtube.com/watch?v=uipjLQWtbD0&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uipjLQWtbD0",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/uipjLQWtbD0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADCb8snzTS3RkUEzFVV6FGpwNXNw",
+     "rich": "https://i.ytimg.com/an_webp/uipjLQWtbD0/mqdefault_6s.webp?du=3000&sqp=CMuEn9YG&rs=AOn4CLDbxTDzWavtxwZ6NuL1dtwFXhlELw"
+    },
+    "title": "The Ultimate Android Tablet? Galaxy Tab S12 Ultra & S12+",
+    "published_date": "2h ago",
+    "views": "27K",
+    "extracted_views": 27000,
+    "channel": {
+     "name": "Venom's Tech",
+     "link": "https://www.youtube.com/@VenomsTech",
+     "thumbnail": "https://yt3.ggpht.com/kUzxkRk6c-b2pN_bZ_bYhbe7bZ0JVVhtVR_g953YZuGBQfm7CwdOVDbt27WP_zb5CXiVTkzVMg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New",
+     "Auto-dubbed"
+    ]
+   },
+   {
+    "video_id": "lUzg1YBUNDo",
+    "link": "https://www.youtube.com/watch?v=lUzg1YBUNDo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lUzg1YBUNDo",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lUzg1YBUNDo/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBDts-4WKorVIZyoeTPhoAhA8JUNw",
+     "rich": "https://i.ytimg.com/an_webp/lUzg1YBUNDo/mqdefault_6s.webp?du=3000&sqp=CL6En9YG&rs=AOn4CLBYkt_EmdZQxQBBqrympuXYLBvR-Q"
+    },
+    "title": "My Final Picks : Flipkart BBD & Amazon GIF Sale | DON'T SKIP 🚨",
+    "published_date": "1d ago",
+    "views": "259K",
+    "extracted_views": 259000,
+    "channel": {
+     "name": "Techno Ruhez",
+     "link": "https://www.youtube.com/@TechnoRuhez",
+     "thumbnail": "https://yt3.ggpht.com/QRorXoNjkwDgFhrnplEqz189m9qAgdM3aglBMM4Eat3dULvqu2fyutNchcB_U8REOd83LmYWqyY=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "NWzI8ZeOvvQ",
+    "link": "https://www.youtube.com/watch?v=NWzI8ZeOvvQ&pp=ugUEEgJlbg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NWzI8ZeOvvQ",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/NWzI8ZeOvvQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAcXUPt-THWdfM1qguvqOWfGYF-0Q",
+     "rich": "https://i.ytimg.com/an_webp/NWzI8ZeOvvQ/mqdefault_6s.webp?du=3000&sqp=CKyHn9YG&rs=AOn4CLBpI94yg7ZBHLm1JMhp48Q-X0uBYw"
+    },
+    "title": "10 Phones You'll REGRET Buying in 2027 (And 10 Worth The Cost)",
+    "published_date": "1d ago",
+    "views": "12K",
+    "extracted_views": 12000,
+    "channel": {
+     "name": "The Top Tech Insider",
+     "link": "https://www.youtube.com/@TheTopTechInsiderYT",
+     "thumbnail": "https://yt3.ggpht.com/eEYIDNclicWf3o3FB8_ZWZ6vFngKRdAO96fwvt1kxQLH4Et4OIkl-njVu3zOF4ky6KmyJPKv=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "nR3oP65ssQI",
+    "link": "https://www.youtube.com/watch?v=nR3oP65ssQI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nR3oP65ssQI",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/nR3oP65ssQI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBSjD81ZQnf5F_rTpP_YOhPUY3z3A",
+     "rich": "https://i.ytimg.com/an_webp/nR3oP65ssQI/mqdefault_6s.webp?du=3000&sqp=CPqgn9YG&rs=AOn4CLCsIzf__qizdyAc0oY8PisHAmcqfw"
+    },
+    "title": "Best Smartphones to buy in Amazon and Flipkart Sale",
+    "published_date": "2d ago",
+    "views": "127K",
+    "extracted_views": 127000,
+    "channel": {
+     "name": "Mr Techpedia",
+     "link": "https://www.youtube.com/@mrtechpedia",
+     "thumbnail": "https://yt3.ggpht.com/7Rmj1INkkNH5zCtJUIp3-AUVtnZZYGjkwxHTTzKFeQ4USpRcgwgjx530ZfGS56mXIfvgla3U=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   }
+  ],
+  "related_videos_next_page_token": "CBQSKRILZWNCWGdsdWtDRDTAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqnAkyczZMNnd6dUJncnJCZ29EOGo0QUNnN0NQZ3NJNVlpRm5aaWd1OTJVQVFvRDhqNEFDZzdDUGdzSXJycXF0NUNXOGN5WUFRb0Q4ajRBQ2c3Q1Bnc0ltdWVEZzhHdWotM3FBUW9EOGo0QUNnN0NQZ3NJcnNtYmtQM2MwcHlfQVFvRDhqNEFDZzNDUGdvSXZvRG9vN1NBbDhCY0NnUHlQZ0FLRGNJLUNnak8wTzc0X2E3bzJSTUtBX0ktQUFvTndqNEtDSUhVMC0zdjJhWGpkZ29EOGo0QUNnN0NQZ3NJbHMzRTJ1Zm4wYWFEQVFvRDhqNEFDZzNDUGdvSS1icng1TkdrZ3FScENnUHlQZ0FLRGNJLUNnamc4Sjd6cUxhT3N4Y0tBX0ktQUFvTndqNEtDTS1maTliUG11N0RFQW9EOGo0QUNnN0NQZ3NJbTh1RzI0eUZuZE8xQVFvRDhqNEFDZzdDUGdzSXY5UDJ4WUtMa29qM0FRb0Q4ajRBQ2czQ1Bnb0lqNHU1amRyb2hvSkZDZ1B5UGdBS0RzSS1Dd2o0amVmVWhhXzgzcVFCQ2dQeVBnQUtEc0ktQ3dqVjBfcXJ6dGVxaU1jQkNnUHlQZ0FLRHNJLUN3aTkyTFd0ME9XWWxib0JDZ1B5UGdBS0RzSS1Dd2k2Nk5DQzJKcTRwcFVCQ2dQeVBnQUtEY0ktQ2dqMF9icThtWjZ5dGpVS0FfSS1BQW9Pd2o0TENJTGlzdlA2aF9xT25RRUtBX0ktQUFvYW1qOFhDaFZQZkRreU1qTXlNRGd4TkRRMU56TTFNell4T0RJS0dwb19Gd29WVDN3eU9USTNNRFEyTlRnek16VXhORGcxTnpBMkNocWFQeGNLRlU5OE16VTRORGs0TlRReE1UYzJNVFUxTmpVMU53b2JtajhZQ2haUGZERTJPVGMxTXpJMU5qRXpPREkxTmpJM056STBDaHVhUHhnS0ZrOThNVGN3TlRVNE9ERXlNakl5TURZME16VXhNakVLR3BvX0Z3b1ZUM3c0TURFNE9USXdPRE01TURJMk16ZzNOREl4Q2dQeVBnQUtBX0ktQUJJWEFBSUVCZ2dLREE0UUVoUVdHQm9jSGlBaUpDWW9MekFhQkFnQUVBRWFCQWdDRUFNYUJBZ0VFQVVhQkFnR0VBY2FCQWdJRUFrYUJBZ0tFQXNhQkFnTUVBMGFCQWdPRUE4YUJBZ1FFQkVhQkFnU0VCTWFCQWdVRUJVYUJBZ1dFQmNhQkFnWUVCa2FCQWdhRUJzYUJBZ2NFQjBhQkFnZUVCOGFCQWdnRUNFYUJBZ2lFQ01hQkFna0VDVWFCQWdtRUNjYUJBZ29FQ2thQkFnb0VDb2FCQWdvRUNzYUJBZ29FQ3dhQkFnb0VDMGFCQWdvRUM0YUJBZ3ZFQ2thQkFndkVDb2FCQWd2RUNzYUJBZ3ZFQ3dhQkFndkVDMGFCQWd2RUM0YUJBZ3dFQ2thQkFnd0VDb2FCQWd3RUNzYUJBZ3dFQ3dhQkFnd0VDMGFCQWd3RUM0cUZ3QUNCQVlJQ2d3T0VCSVVGaGdhSEI0Z0lpUW1LQzh3ag93YXRjaC1uZXh0LWZlZWQ%3D",
+  "end_screen_videos": [
+   {
+    "video_id": "lLrtAYOhRGU",
+    "link": "https://www.youtube.com/watch?v=lLrtAYOhRGU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lLrtAYOhRGU",
+    "thumbnail": "https://i.ytimg.com/vi/lLrtAYOhRGU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCMBTfpowpj0qL4ku0kVGaiq-pc1A",
+    "title": "Best Phone Deals - Flipkart BDD & Amazon GIF 2026 | Don’t Buy in FOMO!",
+    "published_date": "4 hours ago",
+    "views": "18K views",
+    "extracted_views": 18000,
+    "length": "13:57",
+    "channel": {
+     "name": "Tech Buffet",
+     "link": "https://www.youtube.com/@TechBuffet"
+    }
+   },
+   {
+    "video_id": "mJnEsQbqnS4",
+    "link": "https://www.youtube.com/watch?v=mJnEsQbqnS4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mJnEsQbqnS4",
+    "thumbnail": "https://i.ytimg.com/vi/mJnEsQbqnS4/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAi_QkNooazNNiPQVtf6HbWvTHmjA",
+    "title": "4G Coming Back?, 3 Lakh Ka iPhone?, 2nm Chip War, iOS Bugs, Claude vs GPT Vs Gemini | #PodcasTT🎙️",
+    "published_date": "3 hours ago",
+    "views": "41K views",
+    "extracted_views": 41000,
+    "length": "43:04",
+    "channel": {
+     "name": "Trakin Tech",
+     "link": "https://www.youtube.com/@TrakinTech"
+    }
+   },
+   {
+    "video_id": "6to9dBBg85o",
+    "link": "https://www.youtube.com/watch?v=6to9dBBg85o",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6to9dBBg85o",
+    "thumbnail": "https://i.ytimg.com/vi/6to9dBBg85o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDenIE6ebxBgZEKxATO-5osIa25uQ",
+    "title": "HONOR 600S 5G 😳 8100mAh Battery + IP69K! | Review 🔥",
+    "published_date": "2 days ago",
+    "views": "20 views",
+    "extracted_views": 20,
+    "length": "2:18",
+    "channel": {
+     "name": "NET Experiment",
+     "link": "https://www.youtube.com/@NET_Experiment"
+    }
+   },
+   {
+    "video_id": "vzlK59IG5K4",
+    "link": "https://www.youtube.com/watch?v=vzlK59IG5K4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vzlK59IG5K4",
+    "thumbnail": "https://i.ytimg.com/vi/vzlK59IG5K4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBoauikhbHHsMT8kyL50nBrZi4Rtg",
+    "title": "Why Are You ALWAYS Tired? | India's Vitamin D & B12 Crisis | Jaago Grahak Jaago | Dhruv Rathee",
+    "published_date": "2 hours ago",
+    "views": "488K views",
+    "extracted_views": 488000,
+    "length": "19:05",
+    "channel": {
+     "name": "Dhruv Rathee",
+     "link": "https://www.youtube.com/@dhruvrathee"
+    }
+   },
+   {
+    "video_id": "XIBcA0R6AD4",
+    "link": "https://www.youtube.com/watch?v=XIBcA0R6AD4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XIBcA0R6AD4",
+    "thumbnail": "https://i.ytimg.com/vi/XIBcA0R6AD4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBYcQ4gpvKOkltmKDg0Ya4hQUFVGA",
+    "title": "Trump Wants His Golf Club to Be Camp David & Jimmy Kimmel's Message to Guillermo's Dancing Haters",
+    "published_date": "13 hours ago",
+    "views": "2.1M views",
+    "extracted_views": 2100000,
+    "length": "18:28",
+    "channel": {
+     "name": "Jimmy Kimmel Live",
+     "link": "https://www.youtube.com/@JimmyKimmelLive"
+    }
+   },
+   {
+    "video_id": "E7Ohd98bqE4",
+    "link": "https://www.youtube.com/watch?v=E7Ohd98bqE4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=E7Ohd98bqE4",
+    "thumbnail": "https://i.ytimg.com/vi/E7Ohd98bqE4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDrbpvkhq77EC3NMqddlTaLuJ52qQ",
+    "title": "Jio-Airtel-Vi New Rule😍,GTA 6 Mobile Coming🤯,iQOO 16 India Launch,Xiaomi Big Bad News😭,GT 50 Pro",
+    "published_date": "3 hours ago",
+    "views": "85K views",
+    "extracted_views": 85000,
+    "length": "11:24",
+    "channel": {
+     "name": "Techno Ruhez",
+     "link": "https://www.youtube.com/@TechnoRuhez"
+    }
+   },
+   {
+    "video_id": "dsaWzv206gE",
+    "link": "https://www.youtube.com/watch?v=dsaWzv206gE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dsaWzv206gE",
+    "thumbnail": "https://i.ytimg.com/vi/dsaWzv206gE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCVvcuGvdkZXUeoDy6CmXdNJuFa_w",
+    "title": "10 HIDDEN Smartphone Deals in Flipkart Big Billion Days & Amazon Sale 2026",
+    "published_date": "1 hour ago",
+    "views": "4.8K views",
+    "extracted_views": 4800,
+    "length": "13:06",
+    "channel": {
+     "name": "Techy Kiran",
+     "link": "https://www.youtube.com/@TechyKiran"
+    }
+   },
+   {
+    "video_id": "g01HPntRJpY",
+    "link": "https://www.youtube.com/watch?v=g01HPntRJpY&pp=ugUEEgJlbg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=g01HPntRJpY",
+    "thumbnail": "https://i.ytimg.com/vi/g01HPntRJpY/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9AcEF-_wylShsXL7dtViZkNppmA",
+    "title": "A strange shift in IT | Why the industry is changing faster than anyone expected?",
+    "published_date": "3 hours ago",
+    "views": "100K views",
+    "extracted_views": 100000,
+    "length": "15:32",
+    "channel": {
+     "name": "Think School",
+     "link": "https://www.youtube.com/@ThinkSchool"
+    }
+   },
+   {
+    "video_id": "aUgJJRycXXk",
+    "link": "https://www.youtube.com/watch?v=aUgJJRycXXk",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aUgJJRycXXk",
+    "thumbnail": "https://i.ytimg.com/vi/aUgJJRycXXk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBKb9YKRIsSph4IoJG1J2vYoE5J8g",
+    "title": "You Should WAIT to Buy a Googlebook (First 24 Hours)",
+    "published_date": "55 minutes ago",
+    "views": "2.9K views",
+    "extracted_views": 2900,
+    "length": "15:27",
+    "channel": {
+     "name": "9to5Google",
+     "link": "https://www.youtube.com/@9to5Google"
+    }
+   },
+   {
+    "video_id": "F2Y5so5nuGA",
+    "link": "https://www.youtube.com/watch?v=F2Y5so5nuGA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=F2Y5so5nuGA",
+    "thumbnail": "https://i.ytimg.com/vi/F2Y5so5nuGA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1OOCPHUwB61NaYA_qMGOkVdlvWQ",
+    "title": "Oppo Find X10 Pro Max almost ruined the iPhone for me",
+    "published_date": "6 hours ago",
+    "views": "27K views",
+    "extracted_views": 27000,
+    "length": "12:57",
+    "channel": {
+     "name": "Snowball ",
+     "link": "https://www.youtube.com/@Techsnowball"
+    }
+   },
+   {
+    "video_id": "EIe41PrCz88",
+    "link": "https://www.youtube.com/watch?v=EIe41PrCz88",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EIe41PrCz88",
+    "thumbnail": "https://i.ytimg.com/vi/EIe41PrCz88/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB1A5AnhR1fXdrMLze5tjj91bSUsg",
+    "title": "Big Billion Day & Great Indian Festival 2026 | Flipkart Amazon Sale | Home Appliance Deals",
+    "published_date": "12 hours ago",
+    "views": "72K views",
+    "extracted_views": 72000,
+    "length": "40:10",
+    "channel": {
+     "name": "The Grapevine",
+     "link": "https://www.youtube.com/@TheGrapevineIndia"
+    }
+   },
+   {
+    "video_id": "taZ0KMthpZs",
+    "link": "https://www.youtube.com/watch?v=taZ0KMthpZs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=taZ0KMthpZs",
+    "thumbnail": "https://i.ytimg.com/vi/taZ0KMthpZs/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAx1GVKdcjKTbqNICk3Tj1OFNKuzg",
+    "title": "My FAVORITE Phone DEALS in Amazon & Flipkart SALE ! *NO CONFUSION*",
+    "published_date": "1 day ago",
+    "views": "434K views",
+    "extracted_views": 434000,
+    "length": "16:07",
+    "channel": {
+     "name": "TechBar",
+     "link": "https://www.youtube.com/@TechBar"
+    }
+   }
+  ],
+  "comments_next_page_token": "Eg0SC2VjQlhnbHVrQ0Q0GAYyJSIRIgtlY0JYZ2x1a0NENDAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+  "comments_sorting_token": [
+   {
+    "title": "Top",
+    "token": "Eg0SC2VjQlhnbHVrQ0Q0GAYyVSIuIgtlY0JYZ2x1a0NENDAAeAKqAhpVZ3dMSHBVNGV3YlJyaW90b3FWNEFhQUJBZzABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+   },
+   {
+    "title": "Newest",
+    "token": "Eg0SC2VjQlhnbHVrQ0Q0GAYyOCIRIgtlY0JYZ2x1a0NENDABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+   }
+  ],
+  "transcript": {
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=ecBXglukCD4"
+  }
+ }
+}

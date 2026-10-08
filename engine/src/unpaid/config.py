@@ -13,6 +13,8 @@ ROOT = Path(os.environ.get("UNPAID_ROOT", Path(__file__).resolve().parents[3]))
 CACHE_DIR = ROOT / "cache"
 EVIDENCE_DIR = ROOT / "evidence"
 PROBE_DIR = EVIDENCE_DIR / "probe-2026-10-07"
+# The recorded demo run: raw SerpApi files in serpapi/, the run itself in collection.json.
+SHOWCASE_DIR = EVIDENCE_DIR / "showcase-2026-10-08"
 
 
 @dataclass(frozen=True)

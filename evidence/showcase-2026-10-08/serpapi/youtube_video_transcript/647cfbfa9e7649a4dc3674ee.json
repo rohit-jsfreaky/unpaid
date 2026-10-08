@@ -1,0 +1,222 @@
+{
+ "request": {
+  "engine": "youtube_video_transcript",
+  "language_code": "en",
+  "v": "duBKXZrsKg8"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7d094d3c5123414e8b3c3",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/6ffo9kCbmMmsbQRuT32g0QFQ7Mb-LZu_15egwYQx_bg/6ac7d094d3c5123414e8b3c3.json",
+   "markdown_endpoint": "https://serpapi.com/searches/6ffo9kCbmMmsbQRuT32g0QFQ7Mb-LZu_15egwYQx_bg/6ac7d094d3c5123414e8b3c3.md",
+   "created_at": "2026-10-08 17:19:16 UTC",
+   "processed_at": "2026-10-08 17:19:16 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=duBKXZrsKg8",
+   "raw_html_file": "https://serpapi.com/searches/6ffo9kCbmMmsbQRuT32g0QFQ7Mb-LZu_15egwYQx_bg/6ac7d094d3c5123414e8b3c3.html",
+   "prettify_html_file": "https://serpapi.com/searches/6ffo9kCbmMmsbQRuT32g0QFQ7Mb-LZu_15egwYQx_bg/6ac7d094d3c5123414e8b3c3.prettify",
+   "total_time_taken": 7.8
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "duBKXZrsKg8",
+   "language_code": "en"
+  },
+  "transcript": [
+   {
+    "start_ms": 0,
+    "snippet": "Friends, this video is going to be very important for a lot of people. We did the Under Rs 30K video 15 days ago & we got a very good response.",
+    "start_time_text": "0:00",
+    "start_time_label": "0 seconds"
+   },
+   {
+    "start_ms": 7000,
+    "snippet": "But, since the BBT sale has been announced, the prices are going up & down. And that's why a lot of people have asked which phone should I buy if I want to buy an Under Rs 30K phone.",
+    "start_time_text": "0:07",
+    "start_time_label": "7 seconds"
+   },
+   {
+    "start_ms": 17000,
+    "snippet": "And for that, I'm making this video. So this is going to save you a lot of money & you'll also get to know which phone you should buy for what.",
+    "start_time_text": "0:17",
+    "start_time_label": "17 seconds"
+   },
+   {
+    "start_ms": 25000,
+    "snippet": "But before that, you know what to do, SUBSCRIBE & hit the BELL ICON! Now, there's a phone whose price hasn't gone up or down. And according to me, this phone is an all-rounder.",
+    "start_time_text": "0:25",
+    "start_time_label": "25 seconds"
+   },
+   {
+    "start_ms": 35000,
+    "snippet": "That is Moto Edge 70 Fusion. In fact, if I talk about the entire Edge 70 series, I'm impressed that they haven't increased the prices much.",
+    "start_time_text": "0:35",
+    "start_time_label": "35 seconds"
+   },
+   {
+    "start_ms": 42000,
+    "snippet": "They're trying to keep the price stable & Edge 70 Fusion is really good. I'd say it's an all-rounder in my list. Because it has a great display with a 1.5'' quad curved AMOLED display with 144Hz.",
+    "start_time_text": "0:42",
+    "start_time_label": "42 seconds"
+   },
+   {
+    "start_ms": 53000,
+    "snippet": "It has Gorilla Glass 7 Eye protection. Do you know why I'm saying it's an all-rounder? In this price range, there are a lot of compromises in the camera. Again, not here. It has a 50MP Sony LeTia 710 OIS, 13MP Ultrawide & Macro.",
+    "start_time_text": "0:53",
+    "start_time_label": "53 seconds"
+   },
+   {
+    "start_ms": 64000,
+    "snippet": "And it also has a 32MP selfie sensor which can shoot 4K videos. So you can shoot 4K videos on both the front & back.",
+    "start_time_text": "1:04",
+    "start_time_label": "1 minute, 4 seconds"
+   },
+   {
+    "start_ms": 71000,
+    "snippet": "It has a big 7000mAh battery, 68W charging, IP68 & 69 certification. For performance, it has a 7S Gen4.",
+    "start_time_text": "1:11",
+    "start_time_label": "1 minute, 11 seconds"
+   },
+   {
+    "start_ms": 78000,
+    "snippet": "I'd say it's decent. I won't say it's out & out, you can do casual gaming. It has a curved screen, it's subjective & a lot of people like it.",
+    "start_time_text": "1:18",
+    "start_time_label": "1 minute, 18 seconds"
+   },
+   {
+    "start_ms": 87000,
+    "snippet": "And you get the 828 variant in Rs 29,999. So you can definitely go for it. And if you want performance & gaming is the most important, then I'd say it's the Oppo K13 Turbo Pro.",
+    "start_time_text": "1:27",
+    "start_time_label": "1 minute, 27 seconds"
+   },
+   {
+    "start_ms": 99000,
+    "snippet": "Because it has the 8S Gen4 chipset, a 7000mAh battery with 80W charging. In negatives, it has a 50MP main camera & a 2MP secondary camera which doesn't make sense.",
+    "start_time_text": "1:39",
+    "start_time_label": "1 minute, 39 seconds"
+   },
+   {
+    "start_ms": 110000,
+    "snippet": "It doesn't have an ultrawide telephoto sensor. And it has a 16MP selfie sensor which shoots 1080p. It has pre-installed apps but you can uninstall them.",
+    "start_time_text": "1:50",
+    "start_time_label": "1 minute, 50 seconds"
+   },
+   {
+    "start_ms": 118000,
+    "snippet": "And you get 256GB storage in Rs 29,999. If battery is important for you, then I'd say the Realme P4 Power.",
+    "start_time_text": "1:58",
+    "start_time_label": "1 minute, 58 seconds"
+   },
+   {
+    "start_ms": 125000,
+    "snippet": "It has a 10000mAh battery & it's one of the biggest on a smartphone in this price range. It has a good display & I'd say it's Dimensity 7400 Ultra.",
+    "start_time_text": "2:05",
+    "start_time_label": "2 minutes, 5 seconds"
+   },
+   {
+    "start_ms": 133000,
+    "snippet": "There's only 1 thing, the Realme UI has a lot of pre-installed apps & bloatware. So that's what the negatives are.",
+    "start_time_text": "2:13",
+    "start_time_label": "2 minutes, 13 seconds"
+   },
+   {
+    "start_ms": 140000,
+    "snippet": "If you're looking for long term software updates, then it's Samsung. You can look at Samsung Galaxy F70 Pro.",
+    "start_time_text": "2:20",
+    "start_time_label": "2 minutes, 20 seconds"
+   },
+   {
+    "start_ms": 148000,
+    "snippet": "You get 6 years of major Android updates & 6 years of security updates. Everything else is fine, it has a good display & a 6th Gen 3 processor. In terms of performance, it's not all that great.",
+    "start_time_text": "2:28",
+    "start_time_label": "2 minutes, 28 seconds"
+   },
+   {
+    "start_ms": 156000,
+    "snippet": "In terms of camera, it's a 50MP main camera with a 5MP ultrawide. And the worst thing is that it's a 6GB RAM variant with 6GB RAM.",
+    "start_time_text": "2:36",
+    "start_time_label": "2 minutes, 36 seconds"
+   },
+   {
+    "start_ms": 164000,
+    "snippet": "So that, I'm not too sure.",
+    "start_time_text": "2:44",
+    "start_time_label": "2 minutes, 44 seconds"
+   },
+   {
+    "start_ms": 166000,
+    "snippet": "If you're a techie or a nerd & you're looking for a unique design, then you get the Nothing Phone 4 at a good price. You get a transparent design at the back & a glyph bar.",
+    "start_time_text": "2:46",
+    "start_time_label": "2 minutes, 46 seconds"
+   },
+   {
+    "start_ms": 174000,
+    "snippet": "So there's definitely a uniqueness. You get a 50-8MP camera & the Nothing OS has a clean UI. So if you're a nerd, then you can definitely look at it.",
+    "start_time_text": "2:54",
+    "start_time_label": "2 minutes, 54 seconds"
+   },
+   {
+    "start_ms": 183000,
+    "snippet": "It's a 6th Gen 4 processor & in terms of performance, it's alright. So that's what it is. These are the phones that you can buy under Rs 30K & for different use cases.",
+    "start_time_text": "3:03",
+    "start_time_label": "3 minutes, 3 seconds"
+   },
+   {
+    "start_ms": 193000,
+    "snippet": "Like I said, it's an all rounder & a balanced phone. Like I said, it's an all rounder & a balanced phone. For gaming & performance, I'd say it's the K13 Turbo Pro. For battery, it's the Realme P4 Power.",
+    "start_time_text": "3:13",
+    "start_time_label": "3 minutes, 13 seconds"
+   },
+   {
+    "start_ms": 202000,
+    "snippet": "For OS updates, it's the Samsung Galaxy F70 Pro. And for design & uniqueness, it's the Nothing Phone 4 P.",
+    "start_time_text": "3:22",
+    "start_time_label": "3 minutes, 22 seconds"
+   },
+   {
+    "start_ms": 208000,
+    "snippet": "If you had to make this list, or if you had to buy a phone under Rs 30K, which one would you buy? Do let us know in the COMMENTS!",
+    "start_time_text": "3:28",
+    "start_time_label": "3 minutes, 28 seconds"
+   },
+   {
+    "start_ms": 216000,
+    "snippet": "That's all for this video, until the next one, Keep Trakin & Stay Safe!",
+    "start_time_text": "3:36",
+    "start_time_label": "3 minutes, 36 seconds"
+   }
+  ],
+  "chapters": [
+   {
+    "chapter": "Chapter 1: Introduction",
+    "start_ms": 0,
+    "start_time_text": "0:00"
+   },
+   {
+    "chapter": "Chapter 2: 1st Best Smartphone Under ₹30,000",
+    "start_ms": 34000,
+    "start_time_text": "0:34"
+   },
+   {
+    "chapter": "Chapter 3: 2nd Best Smartphone Under ₹30,000",
+    "start_ms": 93000,
+    "start_time_text": "1:33"
+   },
+   {
+    "chapter": "Chapter 4: 3rd Best Smartphone Under ₹30,000",
+    "start_ms": 122000,
+    "start_time_text": "2:02"
+   },
+   {
+    "chapter": "Chapter 5: 4th Best Smartphone Under ₹30,000",
+    "start_ms": 139000,
+    "start_time_text": "2:19"
+   },
+   {
+    "chapter": "Chapter 6: 5th Best Smartphone Under ₹30,000",
+    "start_ms": 166000,
+    "start_time_text": "2:46"
+   }
+  ]
+ }
+}

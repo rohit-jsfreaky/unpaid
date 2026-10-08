@@ -9,10 +9,12 @@ import json
 import os
 import re
 import sys
+from collections import Counter
 from collections.abc import Callable
 from pathlib import Path
 
-from unpaid.config import EVIDENCE_DIR, PROBE_DIR, ROOT, api_key, load_settings
+from unpaid.collect import Collection, Recording, collect, showcase_plan
+from unpaid.config import EVIDENCE_DIR, PROBE_DIR, ROOT, SHOWCASE_DIR, api_key, load_settings
 from unpaid.serpapi import BudgetExceeded, Cache, Client, receipt
 
 SKIP_DIRS = {".git", ".venv", "node_modules", ".next", "__pycache__", ".pytest_cache", ".ruff_cache"}
@@ -53,14 +55,61 @@ def checks() -> tuple[list[tuple[str, Callable[[], str]]], dict[str, object]]:
 
     @claim("Every recorded SerpApi file carries its receipt (search id, json_endpoint, timestamp)")
     def _() -> str:
-        files = sorted(EVIDENCE_DIR.rglob("*.json"))
-        files = [p for p in files if p.name != "numbers.json"]
+        files = [*PROBE_DIR.glob("*.json"), *(SHOWCASE_DIR / "serpapi").rglob("*.json")]
         assert files, "no recorded files"
         for path in files:
             doc = json.loads(path.read_text(encoding="utf-8"))
             r = receipt(doc.get("response", doc))
             assert r.search_id and r.json_endpoint.startswith("https://serpapi.com/searches/") and r.created_at, path
         return f"{len(files)} of {len(files)} files"
+
+    settings = load_settings()
+    replay = Client(mode="replay", key=None, cache=Cache(write_dir=SHOWCASE_DIR, read_dirs=(SHOWCASE_DIR,)))
+    run = collect(replay, showcase_plan(settings), settings.gl)
+    rec = Recording.model_validate_json((SHOWCASE_DIR / "recording.json").read_text(encoding="utf-8"))
+    said = [v for v in run.videos if v.transcript and v.transcript.segments]
+    scripts = Counter(v.transcript.script for v in said if v.transcript)
+    numbers["showcase"] = {
+        "question": run.plan.question,
+        "searches": len(run.searches),
+        "candidates": len(run.videos) + len(run.dropped),
+        "videos": len(run.videos),
+        "transcripts": len(said),
+        "transcript_scripts": dict(scripts.most_common()),
+        "recorded_elapsed_s": rec.elapsed_s,
+        "recorded_searches": rec.searches_used + len(run.searches),
+    }
+
+    @claim("The showcase run replays with no API key and no searches, identical to collection.json")
+    def _() -> str:
+        frozen = Collection.model_validate_json((SHOWCASE_DIR / "collection.json").read_text(encoding="utf-8"))
+        assert replay.searches_used == 0
+        assert [v.model_dump() for v in run.videos] == [v.model_dump() for v in frozen.videos], "stale collection"
+        assert run.dropped == frozen.dropped
+        return f"{len(run.videos)} videos, {len(run.dropped)} dropped with a reason, 0 searches used"
+
+    @claim("Recorded live: 21 videos opened and 18 transcripts read in one 42-search pass")
+    def _() -> str:
+        files = len(list((SHOWCASE_DIR / "serpapi").rglob("*.json")))
+        assert (rec.videos_opened, rec.transcripts_read, rec.searches_used) == (21, 18, 42), rec
+        assert files == len(run.searches) + rec.searches_used == 45, files
+        assert rec.transcripts_read == len(said)
+        return f"{rec.elapsed_s}s on {rec.started_at:%d %b %H:%M} UTC; {files} SerpApi files on disk"
+
+    @claim("Every opened video is recent and names the budget; every skipped one says why")
+    def _() -> str:
+        for v in run.videos:
+            assert v.hit.age_days is not None and v.hit.age_days <= run.plan.window_days, v.hit.title
+            assert re.search(run.plan.title_pattern, v.hit.title, re.IGNORECASE), v.hit.title
+        assert all(d.reason for d in run.dropped)
+        missing = [v for v in run.videos if not (v.transcript and v.transcript.segments)]
+        assert all(v.problem for v in missing), [v.hit.video_id for v in missing if not v.problem]
+        return f"no transcript from SerpApi: {', '.join(v.hit.channel for v in missing)}"
+
+    @claim("Transcripts are read in the language YouTube returned (no translation step)")
+    def _() -> str:
+        assert set(scripts) <= {"latin", "devanagari", "telugu", "malayalam"}, scripts
+        return ", ".join(f"{k} {n}" for k, n in scripts.most_common())
 
     @claim("Budget guard refuses a run that would cross the limit in unpaid.toml")
     def _() -> str:

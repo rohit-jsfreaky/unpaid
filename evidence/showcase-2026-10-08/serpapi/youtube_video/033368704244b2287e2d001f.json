@@ -1,0 +1,727 @@
+{
+ "request": {
+  "engine": "youtube_video",
+  "gl": "in",
+  "hl": "en",
+  "v": "bon0dkkSExE"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7d0aff607a9293d20e52b",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/CF1DXf4z-5G_2GVbLeq0C8QJAogB6GjpuzesDX7wRms/6ac7d0aff607a9293d20e52b.json",
+   "markdown_endpoint": "https://serpapi.com/searches/CF1DXf4z-5G_2GVbLeq0C8QJAogB6GjpuzesDX7wRms/6ac7d0aff607a9293d20e52b.md",
+   "created_at": "2026-10-08 17:19:43 UTC",
+   "processed_at": "2026-10-08 17:19:43 UTC",
+   "youtube_video_url": "https://www.youtube.com/watch?v=bon0dkkSExE",
+   "raw_html_file": "https://serpapi.com/searches/CF1DXf4z-5G_2GVbLeq0C8QJAogB6GjpuzesDX7wRms/6ac7d0aff607a9293d20e52b.html",
+   "prettify_html_file": "https://serpapi.com/searches/CF1DXf4z-5G_2GVbLeq0C8QJAogB6GjpuzesDX7wRms/6ac7d0aff607a9293d20e52b.prettify",
+   "total_time_taken": 1.23
+  },
+  "search_parameters": {
+   "engine": "youtube_video",
+   "v": "bon0dkkSExE",
+   "gl": "in",
+   "hl": "en"
+  },
+  "title": "Best Smartphone Under ₹30,000 🔥 Flipkart BBD + Amazon GIF Sale 2026 | DON’T MISS!",
+  "thumbnail": "https://i.ytimg.com/vi/bon0dkkSExE/maxresdefault.jpg",
+  "channel": {
+   "name": "Techie Bist",
+   "thumbnail": "https://yt3.ggpht.com/-p8vl3wqPb3U6k9Ngb9xUSd6ar5jUsYU_hSICxnFucEYw3j8qLWzTua-WJmoMNGwgo1AackQzg=s176-c-k-c0x00ffffff-no-rj",
+   "link": "https://www.youtube.com/@TechieBist",
+   "subscribers": "349K subscribers",
+   "extracted_subscribers": 349000,
+   "verified": true
+  },
+  "views": "20,446 views",
+  "extracted_views": 20446,
+  "likes": "494",
+  "extracted_likes": 494,
+  "published_date": "Oct 8, 2026",
+  "description": {
+   "content": "Looking for the Best Phones Under ₹30,000 in Flipkart Big Billion Days (BBD) & Amazon Great Indian Festival (GIF) Sale 2026? 🔥 In this video, we bring you the TOP 5 BEST smartphone deals under ₹30K with the biggest price drops and offers.\nFrom gaming & performance to camera, AMOLED display, 120Hz refresh rate, 5G, battery and fast charging, we compare the best smartphones available during the sale to find the BEST VALUE-FOR-MONEY phone under ₹30,000.\n\n📱 In This Video:\n✅ Best Phones Under ₹30K in Flipkart BBD\n✅ Best Phones Under ₹30K in Amazon GIF\n✅ Biggest Price Drops & Best Offers\n✅ BBD vs Amazon GIF Deals\n✅ Which Phone Should You BUY?\n\n🔥 Planning to buy a phone under ₹30,000 during BBD or Amazon GIF? DON’T BUY before watching this video!\n\n#BestPhonesUnder30000 #BestPhoneUnder30K #FlipkartBBD #AmazonGIF #BBDSale2026 #AmazonGIF2026 #BestPhoneDeals #TechieBist\n\n\nFOLLOW US ON THE WhatsApp Channel for the Best Deals and BTS !! :  https://whatsapp.com/channel/0029Va9f...\nInstagram:   / techiebist  \n\n\nYour queries: \n best phones under 30000\nbest mobile under 30000\nflipkart big billion days\nflipkart bbd sale 2026\namazon gif sale 2026\nbest phones under 30000 2026\nbest phone under 30000 2026\nbest camera phone under 30000\n\n\nBusiness contact: connect.techiebist@gmail.com",
+   "links": [
+    {
+     "start_index": 754,
+     "length": 21,
+     "text": "stPhonesUnder30000 #B",
+     "url": "https://www.youtube.com/hashtag/bestphonesunder30000",
+     "type": "browse"
+    },
+    {
+     "start_index": 776,
+     "length": 18,
+     "text": "stPhoneUnder30K #F",
+     "url": "https://www.youtube.com/hashtag/bestphoneunder30k",
+     "type": "browse"
+    },
+    {
+     "start_index": 795,
+     "length": 12,
+     "text": "ipkartBBD #A",
+     "url": "https://www.youtube.com/hashtag/flipkartbbd",
+     "type": "browse"
+    },
+    {
+     "start_index": 808,
+     "length": 10,
+     "text": "azonGIF #B",
+     "url": "https://www.youtube.com/hashtag/amazongif",
+     "type": "browse"
+    },
+    {
+     "start_index": 819,
+     "length": 12,
+     "text": "DSale2026 #A",
+     "url": "https://www.youtube.com/hashtag/bbdsale2026",
+     "type": "browse"
+    },
+    {
+     "start_index": 832,
+     "length": 14,
+     "text": "azonGIF2026 #B",
+     "url": "https://www.youtube.com/hashtag/amazongif2026",
+     "type": "browse"
+    },
+    {
+     "start_index": 847,
+     "length": 15,
+     "text": "stPhoneDeals #T",
+     "url": "https://www.youtube.com/hashtag/bestphonedeals",
+     "type": "browse"
+    },
+    {
+     "start_index": 863,
+     "length": 11,
+     "text": "chieBist\n\n\n",
+     "url": "https://www.youtube.com/hashtag/techiebist",
+     "type": "browse"
+    },
+    {
+     "start_index": 944,
+     "length": 40,
+     "text": "ps://whatsapp.com/channel/0029Va9f...\nIn",
+     "url": "https://whatsapp.com/channel/0029Va9fqRgD8SDtOpPysI10"
+    },
+    {
+     "start_index": 996,
+     "length": 16,
+     "text": " techiebist  \n\n\n",
+     "url": "https://www.instagram.com/techiebist/"
+    }
+   ]
+  },
+  "related_videos": [
+   {
+    "video_id": "dsaWzv206gE",
+    "link": "https://www.youtube.com/watch?v=dsaWzv206gE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dsaWzv206gE",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/dsaWzv206gE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQRfOwBTkPxbbxCFoXiE8UHlA_yA"
+    },
+    "title": "10 HIDDEN Smartphone Deals in Flipkart Big Billion Days & Amazon Sale 2026",
+    "published_date": "1h ago",
+    "views": "4.8K",
+    "extracted_views": 4800,
+    "channel": {
+     "name": "Techy Kiran",
+     "link": "https://www.youtube.com/@TechyKiran",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_meuJFq_j4Y1ZyUGAJ5q0OsnIzQmEVddRF8tZVARvIhGfU=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "mJnEsQbqnS4",
+    "link": "https://www.youtube.com/watch?v=mJnEsQbqnS4&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mJnEsQbqnS4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/mJnEsQbqnS4/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDTPf2z69usfKwrnAGS9A6VpN8Euw"
+    },
+    "title": "4G Coming Back?, 3 Lakh Ka iPhone?, 2nm Chip War, iOS Bugs, Claude vs GPT Vs Gemini | #PodcasTT🎙️",
+    "published_date": "3h ago",
+    "views": "41K",
+    "extracted_views": 41000,
+    "channel": {
+     "name": "Trakin Tech",
+     "link": "https://www.youtube.com/@TrakinTech",
+     "thumbnail": "https://yt3.ggpht.com/CoxkM-bkUecdch2e4R7gaa5gyMAqrhKrYqyjTL0_kkJ1lUb44-cNA5tAOYKX1jAk1OVEU1qO6g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "lLrtAYOhRGU",
+    "link": "https://www.youtube.com/watch?v=lLrtAYOhRGU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lLrtAYOhRGU",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lLrtAYOhRGU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIBNNbOxdaU7LmZHDu8UlJkMJfxg"
+    },
+    "title": "Best Phone Deals - Flipkart BDD & Amazon GIF 2026 | Don’t Buy in FOMO!",
+    "published_date": "4h ago",
+    "views": "18K",
+    "extracted_views": 18000,
+    "channel": {
+     "name": "Tech Buffet",
+     "link": "https://www.youtube.com/@TechBuffet",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n2o4O0cAvEmC8EMe6TYYJ6-rUGeeqnKd38iGdRKVPxZojB=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "E7Ohd98bqE4",
+    "link": "https://www.youtube.com/watch?v=E7Ohd98bqE4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=E7Ohd98bqE4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/E7Ohd98bqE4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIZ6Y8y6XZYnPMsPO6rTcWgjYRJA"
+    },
+    "title": "Jio-Airtel-Vi New Rule😍,GTA 6 Mobile Coming🤯,iQOO 16 India Launch,Xiaomi Big Bad News😭,GT 50 Pro",
+    "published_date": "3h ago",
+    "views": "85K",
+    "extracted_views": 85000,
+    "channel": {
+     "name": "Techno Ruhez",
+     "link": "https://www.youtube.com/@TechnoRuhez",
+     "thumbnail": "https://yt3.ggpht.com/QRorXoNjkwDgFhrnplEqz189m9qAgdM3aglBMM4Eat3dULvqu2fyutNchcB_U8REOd83LmYWqyY=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "mqAzKB2Ou9k",
+    "link": "https://www.youtube.com/watch?v=mqAzKB2Ou9k",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mqAzKB2Ou9k",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/mqAzKB2Ou9k/hqdefault.jpg?v=6ac7c1de&sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAU25gju6vrwwElR2-6M2pkLv6FPg"
+    },
+    "title": "🔴SALE IS LIVE 🔥 Flipkart BBD + Amazon GIF 2026 | BEST Deals & Biggest Discounts! 🔴 LIVE",
+    "views": "435 watching",
+    "extracted_views": 435,
+    "channel": {
+     "name": "Techie Bist",
+     "link": "https://www.youtube.com/@TechieBist",
+     "thumbnail": "https://yt3.ggpht.com/-p8vl3wqPb3U6k9Ngb9xUSd6ar5jUsYU_hSICxnFucEYw3j8qLWzTua-WJmoMNGwgo1AackQzg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "ecBXglukCD4",
+    "link": "https://www.youtube.com/watch?v=ecBXglukCD4&pp=ugUHEgVlbi1HQg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ecBXglukCD4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ecBXglukCD4/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD76rhf50ngHvRHy9AfzjtB3pg-2w"
+    },
+    "title": "The Only Smartphone Deals Under 30,000! Ft. Amazon and Flipkart",
+    "published_date": "3h ago",
+    "views": "30K",
+    "extracted_views": 30000,
+    "channel": {
+     "name": "TechWiser",
+     "link": "https://www.youtube.com/@techwiser",
+     "thumbnail": "https://yt3.ggpht.com/dbqVd_qDsNJLWqrUFB0vOxSbhzRaOG_yxEbiX573Hd3mHinEjj-JYmXlENvkKeQxaZ9sudwvgRw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "vzlK59IG5K4",
+    "link": "https://www.youtube.com/watch?v=vzlK59IG5K4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vzlK59IG5K4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/vzlK59IG5K4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAnpO3B_NC5-bK_b4P8sF053hVzPg"
+    },
+    "title": "Why Are You ALWAYS Tired? | India's Vitamin D & B12 Crisis | Jaago Grahak Jaago | Dhruv Rathee",
+    "published_date": "2h ago",
+    "views": "488K",
+    "extracted_views": 488000,
+    "channel": {
+     "name": "Dhruv Rathee",
+     "link": "https://www.youtube.com/@dhruvrathee",
+     "thumbnail": "https://yt3.ggpht.com/ATJuCH36wHPiFwumVBm423ouLVGQtq2pkPMOlSCclqqXErazOWyl4n07MRmbFnSJTL5P02Fq=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "xpGy2Nf7lI4",
+    "link": "https://www.youtube.com/watch?v=xpGy2Nf7lI4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xpGy2Nf7lI4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/xpGy2Nf7lI4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAxbOHqAnb61gpba5bnsMVNQpQETA"
+    },
+    "title": "Best Phone Under 35000 To 40000 | Best Camera Phone Under 35000 To 40000 *Crazy Deals⚡️*",
+    "published_date": "12h ago",
+    "views": "12K",
+    "extracted_views": 12000,
+    "channel": {
+     "name": "Mr Technical",
+     "link": "https://www.youtube.com/@MrTechnical",
+     "thumbnail": "https://yt3.ggpht.com/F7b4HfKW6y68cLLha2fJK_yIoUKxS69AGmoSntG942m8Cgnqyq6XmngM8hGr3u9-age3MKh0gA=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "NWzI8ZeOvvQ",
+    "link": "https://www.youtube.com/watch?v=NWzI8ZeOvvQ&pp=ugUEEgJlbtIHCQk1DAGHKiGM7w%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NWzI8ZeOvvQ",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/NWzI8ZeOvvQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC2TNJYKZMjjghKqGnli7dZ0ClbWQ"
+    },
+    "title": "10 Phones You'll REGRET Buying in 2027 (And 10 Worth The Cost)",
+    "published_date": "1d ago",
+    "views": "12K",
+    "extracted_views": 12000,
+    "channel": {
+     "name": "The Top Tech Insider",
+     "link": "https://www.youtube.com/@TheTopTechInsiderYT",
+     "thumbnail": "https://yt3.ggpht.com/eEYIDNclicWf3o3FB8_ZWZ6vFngKRdAO96fwvt1kxQLH4Et4OIkl-njVu3zOF4ky6KmyJPKv=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "ocb-BXL2SbY",
+    "link": "https://www.youtube.com/watch?v=ocb-BXL2SbY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ocb-BXL2SbY",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ocb-BXL2SbY/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLChcM26QPj5BxW1ZLiGVs2RGsBWzw"
+    },
+    "title": "Samsung S25 | Worth in 2026 Flipkart BBD SALE?",
+    "published_date": "22h ago",
+    "views": "43K",
+    "extracted_views": 43000,
+    "channel": {
+     "name": "AndroWide",
+     "link": "https://www.youtube.com/@androwide",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lO9mDPwMYTCwaw-M03JMnCcAc6fOs4TgSV7zLdedy-DPw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "pg2HubRUVdY",
+    "link": "https://www.youtube.com/watch?v=pg2HubRUVdY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pg2HubRUVdY",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/pg2HubRUVdY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCYvgZ9wj8n0GixRRFYiXNH5dF4Ag"
+    },
+    "title": "Best Smartphone Under ₹30,000 in 2026 🔥 BBD + Amazon Sale",
+    "published_date": "1d ago",
+    "views": "66K",
+    "extracted_views": 66000,
+    "channel": {
+     "name": "Tech Buffet",
+     "link": "https://www.youtube.com/@TechBuffet",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n2o4O0cAvEmC8EMe6TYYJ6-rUGeeqnKd38iGdRKVPxZojB=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "EIe41PrCz88",
+    "link": "https://www.youtube.com/watch?v=EIe41PrCz88",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EIe41PrCz88",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/EIe41PrCz88/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFLEgK-5FgQzyJ91H37yu-DFb7xg"
+    },
+    "title": "Big Billion Day & Great Indian Festival 2026 | Flipkart Amazon Sale | Home Appliance Deals",
+    "published_date": "12h ago",
+    "views": "72K",
+    "extracted_views": 72000,
+    "channel": {
+     "name": "The Grapevine",
+     "link": "https://www.youtube.com/@TheGrapevineIndia",
+     "thumbnail": "https://yt3.ggpht.com/p-g5kQBo1U0pzgsFPF7Gs2b82dpJMuwd2Pmp87nrI3EpDEswOWEzLm0kf_tFCIH6pd5flu_fGg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "pL3xeFqZxvg",
+    "link": "https://www.youtube.com/watch?v=pL3xeFqZxvg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pL3xeFqZxvg",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/pL3xeFqZxvg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDXZeoYotiVbrlriDYLyJFkAHU4Ag"
+    },
+    "title": "Best Smartphone to Buy - My Clear Suggestion (2026)",
+    "published_date": "1d ago",
+    "views": "1M",
+    "extracted_views": 1000000,
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy",
+     "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "61vf5yMQ0GQ",
+    "link": "https://www.youtube.com/watch?v=61vf5yMQ0GQ&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=61vf5yMQ0GQ",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/61vf5yMQ0GQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCE9F1Mdu5-4fL216mHmLzyIYb4xQ"
+    },
+    "title": "Samsung A36 1.5 years review 🤯| A36 5g Big Billion Day Sale 2026 | Flipkart Sale| Samsung a36 5g",
+    "published_date": "4h ago",
+    "views": "1.1K",
+    "extracted_views": 1100,
+    "channel": {
+     "name": "TECH YOUTH",
+     "link": "https://www.youtube.com/@TECHYYOUTH",
+     "thumbnail": "https://yt3.ggpht.com/wHBBClm8w7MyAP8XhD4_kdTbBLsF1HIsSMxo_guiOLvEURuuIRhOPZzAIgIu5jkExrTsLLde=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "yVyACUncP9I",
+    "link": "https://www.youtube.com/watch?v=yVyACUncP9I",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yVyACUncP9I",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/yVyACUncP9I/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2D-hnmZJOBvI0BPVz5rziH4QKbg"
+    },
+    "title": "Best Gaming Phone Under 50000 – Don't Buy These in the Sale!",
+    "published_date": "1d ago",
+    "views": "81K",
+    "extracted_views": 81000,
+    "channel": {
+     "name": "Gaming Pathshala",
+     "link": "https://www.youtube.com/@GamingPathshalaOP",
+     "thumbnail": "https://yt3.ggpht.com/9DVbkgT2xYejeINCdYo1elmetDpyj2KuTfAlfhZohBYbfoqpIUDw9dGcrVy83EHyLm3ps4AtXw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "F2Y5so5nuGA",
+    "link": "https://www.youtube.com/watch?v=F2Y5so5nuGA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=F2Y5so5nuGA",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/F2Y5so5nuGA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7l3oX8vhIkzAzGRM24D1fZcQB0g"
+    },
+    "title": "Oppo Find X10 Pro Max almost ruined the iPhone for me",
+    "published_date": "6h ago",
+    "views": "27K",
+    "extracted_views": 27000,
+    "channel": {
+     "name": "Snowball ",
+     "link": "https://www.youtube.com/@Techsnowball",
+     "thumbnail": "https://yt3.ggpht.com/4ihCGoLZh0cJe9WVQmC3sG91xfMJv93d703IXi6FrGuZOsGL3z0ptlUNPQ90oWEMkg748JVM=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "lerzrPmGURw",
+    "link": "https://www.youtube.com/watch?v=lerzrPmGURw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lerzrPmGURw",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lerzrPmGURw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAtVRFlxFd0TLQ9NRNyoVMfxlpZvw"
+    },
+    "title": "Best Smartphone Live Suggestion - 2026 !",
+    "published_date": "Streamed 1d ago",
+    "views": "472K",
+    "extracted_views": 472000,
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy",
+     "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "w1vkLZKweBg",
+    "link": "https://www.youtube.com/watch?v=w1vkLZKweBg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=w1vkLZKweBg",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/w1vkLZKweBg/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDG8ipPRJCqbiXW80WvnUB93U0fAQ"
+    },
+    "title": "Amazon Great Indian Festival | Crazy Offers But.....Aap Galti Mat Karna | Best Phones to Buy",
+    "published_date": "23h ago",
+    "views": "19K",
+    "extracted_views": 19000,
+    "channel": {
+     "name": "Gizmo Gyan",
+     "link": "https://www.youtube.com/@GizmoGyan",
+     "thumbnail": "https://yt3.ggpht.com/sqtjBmF-6KIdqszQHM6uLpe7j9gEmtp74fwd0wsekgUoBN0EE7dSNB7C7dBG5ogC13JKuhweKQ=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "O503oD5pWbg",
+    "link": "https://www.youtube.com/watch?v=O503oD5pWbg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=O503oD5pWbg",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/O503oD5pWbg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7PKJGKKdx9ljg17WgArvEgPnz5A"
+    },
+    "title": "Best Phone Deals From ₹20,000 to ₹30,000 in Flipkart Big Billion Day Sale",
+    "published_date": "12h ago",
+    "views": "80K",
+    "extracted_views": 80000,
+    "channel": {
+     "name": "Perfect Gadget",
+     "link": "https://www.youtube.com/@PerfectGadget",
+     "thumbnail": "https://yt3.ggpht.com/aeZFKiYws9dSWTsP-f317nwG6rXEWMzCmWMxId0X9oCMuKcAsz-UG95VszjuulZiNCjEj4e7=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "mFt24H4LYf4",
+    "link": "https://www.youtube.com/watch?v=mFt24H4LYf4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mFt24H4LYf4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/mFt24H4LYf4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBRiHXK-oL59Wjse5c314OWeeAdFA"
+    },
+    "title": "5 Phones With HIDDEN Costs Nobody Warns You About",
+    "published_date": "5h ago",
+    "views": "598",
+    "extracted_views": 598,
+    "channel": {
+     "name": "The Top Tech Insider",
+     "link": "https://www.youtube.com/@TheTopTechInsiderYT",
+     "thumbnail": "https://yt3.ggpht.com/eEYIDNclicWf3o3FB8_ZWZ6vFngKRdAO96fwvt1kxQLH4Et4OIkl-njVu3zOF4ky6KmyJPKv=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   }
+  ],
+  "related_videos_next_page_token": "CBQSKRILYm9uMGRra1NFeEXAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqmgoyczZMNnd6TUJ3ckpCd29EOGo0QUNnM0NQZ29JZ2RUVDdlX1pwZU4yQ2dQeVBnQUtEc0ktQ3dpdXVxcTNrSmJ4ekpnQkNnUHlQZ0FLRHNJLUN3amxpSVdkbUtDNzNaUUJDZ1B5UGdBS0RjSS1DZ2pPME83NF9hN28yUk1LQV9JLUFBb093ajRMQ05uM3V1eUI1WXpRbWdFS0FfSS1BQW9Od2o0S0NMNlFrTjJsOEpYZ2VRb0Q4ajRBQ2c3Q1Bnc0lyc21ia1AzYzBweV9BUW9EOGo0QUNnN0NQZ3NJanFudXY0M2I3TWpHQVFvRDhqNEFDZzNDUGdvSTlQMjZ2Sm1lc3JZMUNnUHlQZ0FLRHNJLUN3aTJrOW1YMThDXzQ2RUJDZ1B5UGdBS0RzSS1Dd2pXcTlHaW1fZmhocVlCQ2dQeVBnQUtEY0ktQ2dqUG40dld6NXJ1d3hBS0FfSS1BQW9Pd2o0TENQaU41OVNGcl96ZXBBRUtBX0ktQUFvT3dqNExDT1NndzVqeV9QZXQ2d0VLQV9JLUFBb093ajRMQ05MXzhNNlVnYUN1eVFFS0FfSS1BQW9Od2o0S0NPRHdudk9vdG82ekZ3b0Q4ajRBQ2c3Q1Bnc0luS0taek1fMXZQV1ZBUW9EOGo0QUNnN0NQZ3NJbVBEQmxkbUYtYTNEQVFvRDhqNEFDZzNDUGdvSXVMT2w4NFAwemM0N0NnUHlQZ0FLRHNJLUN3ai13NjN3aDl6ZHJaZ0JDZ1B5UGdBS0c1b19HQW9XVDN3eE1qZ3pORFEwT0RJME1EWXdNVE15TXpnek13b2JtajhZQ2haUGZERTJNakUzTWpnek5UUTNNemsyTXpBMU1UWTFDaHFhUHhjS0ZVOThNamt5TnpBME5qVTRNek0xTVRRNE5UY3dOZ29hbWo4WENoVlBmRGMzTXpZNU1qYzNORE16T0RBME16STJPRE1LRzVvX0dBb1dUM3d4TkRVek9UYzRNREF4TXpNek9EWTNOREl3TlFvYW1qOFhDaFZQZkRreU1qTXlNRGd4TkRRMU56TTFNell4T0RJS0dwb19Gd29WVDN3MU9USXpNelEzTVRRMk9ETTFPVGMyTlRNeUNocWFQeGNLRlU5OE5qWTJNakF5TnpFM09UZzNNRGswTURjeU1nb0Q4ajRBQ2dQeVBnQVNGd0FDQkFZSUNnd09FQklVRmhnYUhCNGdJaVFtS0RFeUdnUUlBQkFCR2dRSUFoQURHZ1FJQkJBRkdnUUlCaEFIR2dRSUNCQUpHZ1FJQ2hBTEdnUUlEQkFOR2dRSURoQVBHZ1FJRUJBUkdnUUlFaEFUR2dRSUZCQVZHZ1FJRmhBWEdnUUlHQkFaR2dRSUdoQWJHZ1FJSEJBZEdnUUlIaEFmR2dRSUlCQWhHZ1FJSWhBakdnUUlKQkFsR2dRSUpoQW5HZ1FJS0JBcEdnUUlLQkFxR2dRSUtCQXJHZ1FJS0JBc0dnUUlLQkF0R2dRSUtCQXVHZ1FJS0JBdkdnUUlLQkF3R2dRSU1SQXBHZ1FJTVJBcUdnUUlNUkFyR2dRSU1SQXNHZ1FJTVJBdEdnUUlNUkF1R2dRSU1SQXZHZ1FJTVJBd0dnUUlNaEFwR2dRSU1oQXFHZ1FJTWhBckdnUUlNaEFzR2dRSU1oQXRHZ1FJTWhBdUdnUUlNaEF2R2dRSU1oQXdLaGNBQWdRR0NBb01EaEFTRkJZWUdod2VJQ0lrSmlneE1nag93YXRjaC1uZXh0LWZlZWQ%3D",
+  "end_screen_videos": [
+   {
+    "video_id": "dsaWzv206gE",
+    "link": "https://www.youtube.com/watch?v=dsaWzv206gE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dsaWzv206gE",
+    "thumbnail": "https://i.ytimg.com/vi/dsaWzv206gE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQRfOwBTkPxbbxCFoXiE8UHlA_yA",
+    "title": "10 HIDDEN Smartphone Deals in Flipkart Big Billion Days & Amazon Sale 2026",
+    "published_date": "1 hour ago",
+    "views": "4.8K views",
+    "extracted_views": 4800,
+    "length": "13:06",
+    "channel": {
+     "name": "Techy Kiran",
+     "link": "https://www.youtube.com/@TechyKiran"
+    }
+   },
+   {
+    "video_id": "mJnEsQbqnS4",
+    "link": "https://www.youtube.com/watch?v=mJnEsQbqnS4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mJnEsQbqnS4",
+    "thumbnail": "https://i.ytimg.com/vi/mJnEsQbqnS4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDXTArwr9sI-J1W48VpNmGbZ3L7_g",
+    "title": "4G Coming Back?, 3 Lakh Ka iPhone?, 2nm Chip War, iOS Bugs, Claude vs GPT Vs Gemini | #PodcasTT🎙️",
+    "published_date": "3 hours ago",
+    "views": "41K views",
+    "extracted_views": 41000,
+    "length": "43:04",
+    "channel": {
+     "name": "Trakin Tech",
+     "link": "https://www.youtube.com/@TrakinTech"
+    }
+   },
+   {
+    "video_id": "lLrtAYOhRGU",
+    "link": "https://www.youtube.com/watch?v=lLrtAYOhRGU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lLrtAYOhRGU",
+    "thumbnail": "https://i.ytimg.com/vi/lLrtAYOhRGU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIBNNbOxdaU7LmZHDu8UlJkMJfxg",
+    "title": "Best Phone Deals - Flipkart BDD & Amazon GIF 2026 | Don’t Buy in FOMO!",
+    "published_date": "4 hours ago",
+    "views": "18K views",
+    "extracted_views": 18000,
+    "length": "13:57",
+    "channel": {
+     "name": "Tech Buffet",
+     "link": "https://www.youtube.com/@TechBuffet"
+    }
+   },
+   {
+    "video_id": "E7Ohd98bqE4",
+    "link": "https://www.youtube.com/watch?v=E7Ohd98bqE4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=E7Ohd98bqE4",
+    "thumbnail": "https://i.ytimg.com/vi/E7Ohd98bqE4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIZ6Y8y6XZYnPMsPO6rTcWgjYRJA",
+    "title": "Jio-Airtel-Vi New Rule😍,GTA 6 Mobile Coming🤯,iQOO 16 India Launch,Xiaomi Big Bad News😭,GT 50 Pro",
+    "published_date": "3 hours ago",
+    "views": "85K views",
+    "extracted_views": 85000,
+    "length": "11:24",
+    "channel": {
+     "name": "Techno Ruhez",
+     "link": "https://www.youtube.com/@TechnoRuhez"
+    }
+   },
+   {
+    "video_id": "mqAzKB2Ou9k",
+    "link": "https://www.youtube.com/watch?v=mqAzKB2Ou9k",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mqAzKB2Ou9k",
+    "thumbnail": "https://i.ytimg.com/vi/mqAzKB2Ou9k/hqdefault.jpg?v=6ac7c1de&sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAU25gju6vrwwElR2-6M2pkLv6FPg",
+    "title": "🔴SALE IS LIVE 🔥 Flipkart BBD + Amazon GIF 2026 | BEST Deals & Biggest Discounts! 🔴 LIVE",
+    "published_date": "1 hour ago",
+    "views": "435 watching",
+    "extracted_views": 435,
+    "live": true,
+    "channel": {
+     "name": "Techie Bist",
+     "link": "https://www.youtube.com/@TechieBist"
+    }
+   },
+   {
+    "video_id": "ecBXglukCD4",
+    "link": "https://www.youtube.com/watch?v=ecBXglukCD4&pp=ugUHEgVlbi1HQg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ecBXglukCD4",
+    "thumbnail": "https://i.ytimg.com/vi/ecBXglukCD4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAs64RLTC3hsztNRthofoie_YasOg",
+    "title": "The Only Smartphone Deals Under 30,000! Ft. Amazon and Flipkart",
+    "published_date": "3 hours ago",
+    "views": "30K views",
+    "extracted_views": 30000,
+    "length": "12:23",
+    "channel": {
+     "name": "TechWiser",
+     "link": "https://www.youtube.com/@techwiser"
+    }
+   },
+   {
+    "video_id": "vzlK59IG5K4",
+    "link": "https://www.youtube.com/watch?v=vzlK59IG5K4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vzlK59IG5K4",
+    "thumbnail": "https://i.ytimg.com/vi/vzlK59IG5K4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAnpO3B_NC5-bK_b4P8sF053hVzPg",
+    "title": "Why Are You ALWAYS Tired? | India's Vitamin D & B12 Crisis | Jaago Grahak Jaago | Dhruv Rathee",
+    "published_date": "2 hours ago",
+    "views": "488K views",
+    "extracted_views": 488000,
+    "length": "19:05",
+    "channel": {
+     "name": "Dhruv Rathee",
+     "link": "https://www.youtube.com/@dhruvrathee"
+    }
+   },
+   {
+    "video_id": "xpGy2Nf7lI4",
+    "link": "https://www.youtube.com/watch?v=xpGy2Nf7lI4&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xpGy2Nf7lI4",
+    "thumbnail": "https://i.ytimg.com/vi/xpGy2Nf7lI4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAxbOHqAnb61gpba5bnsMVNQpQETA",
+    "title": "Best Phone Under 35000 To 40000 | Best Camera Phone Under 35000 To 40000 *Crazy Deals⚡️*",
+    "published_date": "12 hours ago",
+    "views": "12K views",
+    "extracted_views": 12000,
+    "length": "7:50",
+    "channel": {
+     "name": "Mr Technical",
+     "link": "https://www.youtube.com/@MrTechnical"
+    }
+   },
+   {
+    "video_id": "NWzI8ZeOvvQ",
+    "link": "https://www.youtube.com/watch?v=NWzI8ZeOvvQ&pp=ugUEEgJlbg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NWzI8ZeOvvQ",
+    "thumbnail": "https://i.ytimg.com/vi/NWzI8ZeOvvQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC2TNJYKZMjjghKqGnli7dZ0ClbWQ",
+    "title": "10 Phones You'll REGRET Buying in 2027 (And 10 Worth The Cost)",
+    "published_date": "1 day ago",
+    "views": "12K views",
+    "extracted_views": 12000,
+    "length": "22:51",
+    "channel": {
+     "name": "The Top Tech Insider",
+     "link": "https://www.youtube.com/@TheTopTechInsiderYT"
+    }
+   },
+   {
+    "video_id": "ocb-BXL2SbY",
+    "link": "https://www.youtube.com/watch?v=ocb-BXL2SbY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ocb-BXL2SbY",
+    "thumbnail": "https://i.ytimg.com/vi/ocb-BXL2SbY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmAcyhkPgXA1_pOFftSjf1bfOKBA",
+    "title": "Samsung S25 | Worth in 2026 Flipkart BBD SALE?",
+    "published_date": "22 hours ago",
+    "views": "43K views",
+    "extracted_views": 43000,
+    "length": "8:22",
+    "channel": {
+     "name": "AndroWide",
+     "link": "https://www.youtube.com/@androwide"
+    }
+   },
+   {
+    "video_id": "pg2HubRUVdY",
+    "link": "https://www.youtube.com/watch?v=pg2HubRUVdY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pg2HubRUVdY",
+    "thumbnail": "https://i.ytimg.com/vi/pg2HubRUVdY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCYvgZ9wj8n0GixRRFYiXNH5dF4Ag",
+    "title": "Best Smartphone Under ₹30,000 in 2026 🔥 BBD + Amazon Sale",
+    "published_date": "1 day ago",
+    "views": "66K views",
+    "extracted_views": 66000,
+    "length": "16:44",
+    "channel": {
+     "name": "Tech Buffet",
+     "link": "https://www.youtube.com/@TechBuffet"
+    }
+   },
+   {
+    "video_id": "EIe41PrCz88",
+    "link": "https://www.youtube.com/watch?v=EIe41PrCz88",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EIe41PrCz88",
+    "thumbnail": "https://i.ytimg.com/vi/EIe41PrCz88/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFLEgK-5FgQzyJ91H37yu-DFb7xg",
+    "title": "Big Billion Day & Great Indian Festival 2026 | Flipkart Amazon Sale | Home Appliance Deals",
+    "published_date": "12 hours ago",
+    "views": "72K views",
+    "extracted_views": 72000,
+    "length": "40:10",
+    "channel": {
+     "name": "The Grapevine",
+     "link": "https://www.youtube.com/@TheGrapevineIndia"
+    }
+   }
+  ],
+  "comments_next_page_token": "Eg0SC2JvbjBka2tTRXhFGAYyJSIRIgtib24wZGtrU0V4RTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+  "comments_sorting_token": [
+   {
+    "title": "Top",
+    "token": "Eg0SC2JvbjBka2tTRXhFGAYyVSIuIgtib24wZGtrU0V4RTAAeAKqAhpVZ3pQUDJGU1BZZXdCc2pBek94NEFhQUJBZzABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+   },
+   {
+    "title": "Newest",
+    "token": "Eg0SC2JvbjBka2tTRXhFGAYyOCIRIgtib24wZGtrU0V4RTABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+   }
+  ],
+  "transcript": {
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=bon0dkkSExE"
+  }
+ }
+}

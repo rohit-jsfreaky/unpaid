@@ -1,0 +1,851 @@
+{
+ "request": {
+  "engine": "youtube_video",
+  "gl": "in",
+  "hl": "en",
+  "v": "EqkttDCDhaA"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7d092f680d108c18d61fa",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/y-Crgvygt0-QEHHzY-MyuR8eZSm8KSjWPP6l-Q78iiM/6ac7d092f680d108c18d61fa.json",
+   "markdown_endpoint": "https://serpapi.com/searches/y-Crgvygt0-QEHHzY-MyuR8eZSm8KSjWPP6l-Q78iiM/6ac7d092f680d108c18d61fa.md",
+   "created_at": "2026-10-08 17:19:14 UTC",
+   "processed_at": "2026-10-08 17:19:14 UTC",
+   "youtube_video_url": "https://www.youtube.com/watch?v=EqkttDCDhaA",
+   "raw_html_file": "https://serpapi.com/searches/y-Crgvygt0-QEHHzY-MyuR8eZSm8KSjWPP6l-Q78iiM/6ac7d092f680d108c18d61fa.html",
+   "prettify_html_file": "https://serpapi.com/searches/y-Crgvygt0-QEHHzY-MyuR8eZSm8KSjWPP6l-Q78iiM/6ac7d092f680d108c18d61fa.prettify",
+   "total_time_taken": 1.83
+  },
+  "search_parameters": {
+   "engine": "youtube_video",
+   "v": "EqkttDCDhaA",
+   "gl": "in",
+   "hl": "en"
+  },
+  "title": "The Best Smartphone Under 30,000! (September 2026)",
+  "thumbnail": "https://i.ytimg.com/vi/EqkttDCDhaA/maxresdefault.jpg",
+  "channel": {
+   "name": "TechWiser",
+   "thumbnail": "https://yt3.ggpht.com/dbqVd_qDsNJLWqrUFB0vOxSbhzRaOG_yxEbiX573Hd3mHinEjj-JYmXlENvkKeQxaZ9sudwvgRw=s176-c-k-c0x00ffffff-no-rj",
+   "link": "https://www.youtube.com/@techwiser",
+   "subscribers": "2.57M subscribers",
+   "extracted_subscribers": 2570000,
+   "verified": true
+  },
+  "views": "542,685 views",
+  "extracted_views": 542685,
+  "likes": "3.7K",
+  "extracted_likes": 3700,
+  "published_date": "Sep 12, 2026",
+  "description": {
+   "content": "A phone that launched at ₹31,999 is now selling for 45K. A ₹13,000 hike in 6 months! 😱 Here are 5 under-30K smartphones that are still proper paisa wasool.\n\n It's LIVE 👉https://ai.techwiser.com/ \n🤖 Meet WiserAI — 1.5 years of our life, finally out in the open.'\n\nWe got tired of searching for a phone and getting sponsored junk we never asked for. So we built the thing we always wished existed. Real prices. Honest pros and cons. Trained on our own database and every review we've made.\n\nChapters:\n00:00 – Introduction & Smartphone Price Hikes\n00:54 – TechWiser Launch\n02:21 – Realme P4 (Best All-Rounder Under ₹25k)\n04:23 – Bonus Option: Realme GT 70\n05:03 – Samsung Galaxy M56 5G\n06:54 – OPPO K13 Turbo (Best Gaming Option)\n08:26 – Motorola Edge 60 Pro (Best Value & Cameras)\n10:18 – Conclusion & Final Verdict\n\n🚀 We Are Hiring! APPLY HERE: https://techwiser.com/we-are-hiring\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE For More Videos Like This! 🌟\n\n------------------------------------------------------------------------------\n \n🌟  Follow Us Other Social Media Platforms 🌟 \n\n🐦 Twitter:   / techwiser  \n👩‍👧‍👦 Facebook:   / techwiser  \n📷 Instagram:   / techwiser  \n🌍 Website: http://techwiser.com\n------------------------------------------------------------------------------\n \n🌟 Team TechWiser 🌟 \n\n🙋🏻‍♂️ Video Producer:   / praaatiiik  \n📹 Channel Manager:   / mr_dinesh_ji  \n👨🏻‍💻 Script:   / shoubhik_sadhu   \n👨🏻‍💻 Video Editor:   / y_singhal  \n👨🏻‍💻 Video Editor:   / development_enthusiast  \n👨🏻‍💻 Video Editor:   / sathvikpanchumarthy  \n👨🏻‍💻 Video Editor:   / yuv.3gp  \n\n#Tech #Smartphones #TeamTechWiser",
+   "links": [
+    {
+     "start_index": 171,
+     "length": 25,
+     "text": "tps://ai.techwiser.com/ \n",
+     "url": "https://ai.techwiser.com/"
+    },
+    {
+     "start_index": 502,
+     "length": 5,
+     "text": "00 – ",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&pp=0gcJCWMAwfN6Pr3D",
+     "type": "watch"
+    },
+    {
+     "start_index": 548,
+     "length": 5,
+     "text": "54 – ",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=54s",
+     "type": "watch"
+    },
+    {
+     "start_index": 573,
+     "length": 5,
+     "text": "21 – ",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=141s",
+     "type": "watch"
+    },
+    {
+     "start_index": 621,
+     "length": 5,
+     "text": "23 – ",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=263s",
+     "type": "watch"
+    },
+    {
+     "start_index": 656,
+     "length": 5,
+     "text": "03 – ",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=303s",
+     "type": "watch"
+    },
+    {
+     "start_index": 686,
+     "length": 5,
+     "text": "54 – ",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=414s",
+     "type": "watch"
+    },
+    {
+     "start_index": 730,
+     "length": 5,
+     "text": "26 – ",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=506s",
+     "type": "watch"
+    },
+    {
+     "start_index": 782,
+     "length": 5,
+     "text": "18 – ",
+     "url": "https://www.youtube.com/watch?v=EqkttDCDhaA&t=618s",
+     "type": "watch"
+    },
+    {
+     "start_index": 848,
+     "length": 35,
+     "text": "s://techwiser.com/we-are-hiring\n\n🌟 ",
+     "url": "https://techwiser.com/we-are-hiring"
+    },
+    {
+     "start_index": 1097,
+     "length": 15,
+     "text": "iser  \n👩‍👧‍👦 Fa",
+     "url": "https://twitter.com/TechWiser"
+    },
+    {
+     "start_index": 1132,
+     "length": 15,
+     "text": "r  \n📷 Instagram",
+     "url": "https://www.facebook.com/techwiser"
+    },
+    {
+     "start_index": 1162,
+     "length": 15,
+     "text": "  \n🌍 Website: h",
+     "url": "https://www.instagram.com/techwiser"
+    },
+    {
+     "start_index": 1190,
+     "length": 20,
+     "text": "er.com\n-------------",
+     "url": "http://techwiser.com/"
+    },
+    {
+     "start_index": 1339,
+     "length": 16,
+     "text": " Channel Manager",
+     "url": "https://www.instagram.com/praaatiiik"
+    },
+    {
+     "start_index": 1376,
+     "length": 18,
+     "text": "👨🏻‍💻 Script:   / s",
+     "url": "https://www.instagram.com/mr_dinesh_ji"
+    },
+    {
+     "start_index": 1411,
+     "length": 20,
+     "text": "👨🏻‍💻 Video Editor:  ",
+     "url": "https://www.instagram.com/shoubhik_sadhu/"
+    },
+    {
+     "start_index": 1455,
+     "length": 15,
+     "text": "o Editor:   / d",
+     "url": "https://www.instagram.com/y_singhal/"
+    },
+    {
+     "start_index": 1493,
+     "length": 28,
+     "text": "\n👨🏻‍💻 Video Editor:   / sath",
+     "url": "https://www.instagram.com/development_enthusiast/"
+    },
+    {
+     "start_index": 1544,
+     "length": 25,
+     "text": "Video Editor:   / yuv.3gp",
+     "url": "https://www.instagram.com/sathvikpanchumarthy/"
+    },
+    {
+     "start_index": 1592,
+     "length": 13,
+     "text": "#TeamTechWise",
+     "url": "https://www.instagram.com/yuv.3gp/"
+    },
+    {
+     "start_index": 1607,
+     "length": 5,
+     "url": "https://www.youtube.com/hashtag/tech",
+     "type": "browse"
+    },
+    {
+     "start_index": 1613,
+     "length": 12,
+     "url": "https://www.youtube.com/hashtag/smartphones",
+     "type": "browse"
+    },
+    {
+     "start_index": 1626,
+     "length": 14,
+     "url": "https://www.youtube.com/hashtag/teamtechwiser",
+     "type": "browse"
+    }
+   ]
+  },
+  "chapters": [
+   {
+    "title": "Introduction & Smartphone Price Hikes",
+    "thumbnail": "https://i.ytimg.com/vi/EqkttDCDhaA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBarTcE3WPreOMqdaNFH_b7nx40pg",
+    "time_start": 0
+   },
+   {
+    "title": "TechWiser Launch",
+    "thumbnail": "https://i.ytimg.com/vi/EqkttDCDhaA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBarTcE3WPreOMqdaNFH_b7nx40pg",
+    "time_start": 54
+   },
+   {
+    "title": "Realme P4 (Best All-Rounder Under ₹25k)",
+    "thumbnail": "https://i.ytimg.com/vi/EqkttDCDhaA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBarTcE3WPreOMqdaNFH_b7nx40pg",
+    "time_start": 141
+   },
+   {
+    "title": "Bonus Option: Realme GT 70",
+    "thumbnail": "https://i.ytimg.com/vi/EqkttDCDhaA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBarTcE3WPreOMqdaNFH_b7nx40pg",
+    "time_start": 263
+   },
+   {
+    "title": "Samsung Galaxy M56 5G",
+    "thumbnail": "https://i.ytimg.com/vi/EqkttDCDhaA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBarTcE3WPreOMqdaNFH_b7nx40pg",
+    "time_start": 303
+   },
+   {
+    "title": "OPPO K13 Turbo (Best Gaming Option)",
+    "thumbnail": "https://i.ytimg.com/vi/EqkttDCDhaA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBarTcE3WPreOMqdaNFH_b7nx40pg",
+    "time_start": 414
+   },
+   {
+    "title": "Motorola Edge 60 Pro (Best Value & Cameras)",
+    "thumbnail": "https://i.ytimg.com/vi/EqkttDCDhaA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBarTcE3WPreOMqdaNFH_b7nx40pg",
+    "time_start": 506
+   },
+   {
+    "title": "Conclusion & Final Verdict",
+    "thumbnail": "https://i.ytimg.com/vi/EqkttDCDhaA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBarTcE3WPreOMqdaNFH_b7nx40pg",
+    "time_start": 618
+   }
+  ],
+  "related_videos": [
+   {
+    "video_id": "ecBXglukCD4",
+    "link": "https://www.youtube.com/watch?v=ecBXglukCD4&pp=ugUHEgVlbi1HQg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ecBXglukCD4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ecBXglukCD4/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA4xIS3Ptl-oHUCKol_nf0CuJZ6cg",
+     "rich": "https://i.ytimg.com/an_webp/ecBXglukCD4/mqdefault_6s.webp?du=3000&sqp=CPSTn9YG&rs=AOn4CLAowOO17mPIUGs0hApF7lE0VC2h-g"
+    },
+    "title": "The Only Smartphone Deals Under 30,000! Ft. Amazon and Flipkart",
+    "published_date": "3h ago",
+    "views": "30K",
+    "extracted_views": 30000,
+    "channel": {
+     "name": "TechWiser",
+     "link": "https://www.youtube.com/@techwiser",
+     "thumbnail": "https://yt3.ggpht.com/dbqVd_qDsNJLWqrUFB0vOxSbhzRaOG_yxEbiX573Hd3mHinEjj-JYmXlENvkKeQxaZ9sudwvgRw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "ZRVRBnrSNnc",
+    "link": "https://www.youtube.com/watch?v=ZRVRBnrSNnc",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZRVRBnrSNnc",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ZRVRBnrSNnc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLARdrZWiXHBjdJACTcjJmWJHc9YOw",
+     "rich": "https://i.ytimg.com/an_webp/ZRVRBnrSNnc/mqdefault_6s.webp?du=3000&sqp=CJ6Ln9YG&rs=AOn4CLCoSTSCvfrJTOQ9FrPS8NrKH68E1A"
+    },
+    "title": "Top 5 Best Smartphones Under ₹30000 ⚡September 2026",
+    "published_date": "3w ago",
+    "views": "1.3M",
+    "extracted_views": 1300000,
+    "channel": {
+     "name": "Trakin Tech",
+     "link": "https://www.youtube.com/@TrakinTech",
+     "thumbnail": "https://yt3.ggpht.com/CoxkM-bkUecdch2e4R7gaa5gyMAqrhKrYqyjTL0_kkJ1lUb44-cNA5tAOYKX1jAk1OVEU1qO6g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "WpwNao-jBM4",
+    "link": "https://www.youtube.com/watch?v=WpwNao-jBM4&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WpwNao-jBM4",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/WpwNao-jBM4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfxGm2r1JZlqDNXf3LwBZFpSV4TA",
+     "rich": "https://i.ytimg.com/an_webp/WpwNao-jBM4/mqdefault_6s.webp?du=3000&sqp=CIqfn9YG&rs=AOn4CLC_0NEq529OFZafIK7uHhCxI7MKyg"
+    },
+    "title": "The BEST CAMERA PHONE under ₹15k, ₹20k, ₹30k, ₹40k and ₹60k",
+    "published_date": "3mo ago",
+    "views": "714K",
+    "extracted_views": 714000,
+    "channel": {
+     "name": "Kunal Malhotra",
+     "link": "https://www.youtube.com/@KunalMalhotraKM",
+     "thumbnail": "https://yt3.ggpht.com/WNS-zMnDexvyKzv5evnObtdZydqnotpesHRDRB5bUgYa-AE_B3pCFIkYcVA2szyX07sJ7BvlXZA=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "JUzsrqTqmf8",
+    "link": "https://www.youtube.com/watch?v=JUzsrqTqmf8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JUzsrqTqmf8",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/JUzsrqTqmf8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDYx30b-n4_DZ3VIJ1vp6_XNMIX4A",
+     "rich": "https://i.ytimg.com/an_webp/JUzsrqTqmf8/mqdefault_6s.webp?du=3000&sqp=CPqWn9YG&rs=AOn4CLCUXRx1rjmk1zLayzJJo3YoEHYQeA"
+    },
+    "title": "Top 7 Phones From ₹20,000 to ₹30,000 Rupees !",
+    "published_date": "3d ago",
+    "views": "702K",
+    "extracted_views": 702000,
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy",
+     "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "gDGa38U39GU",
+    "link": "https://www.youtube.com/watch?v=gDGa38U39GU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gDGa38U39GU",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/gDGa38U39GU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDAGxn6KWuSqv-ww9qxmZj6bXffbw",
+     "rich": "https://i.ytimg.com/an_webp/gDGa38U39GU/mqdefault_6s.webp?du=3000&sqp=CKmcn9YG&rs=AOn4CLDtOo4jZ7Q4MQYi0WCJiPtYj_IKQQ"
+    },
+    "title": "Top 5 Best Phone Under 25000 | Best Phone Under 25000 | Best Phones Under 25000 | Phones Under 25k",
+    "published_date": "1mo ago",
+    "views": "2.8K",
+    "extracted_views": 2800,
+    "channel": {
+     "name": "Deepak Bharti and Tech Deepak"
+    }
+   },
+   {
+    "video_id": "pL3xeFqZxvg",
+    "link": "https://www.youtube.com/watch?v=pL3xeFqZxvg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pL3xeFqZxvg",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/pL3xeFqZxvg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDc_e-DCSstm6SzlWZUze91g0jfyQ",
+     "rich": "https://i.ytimg.com/an_webp/pL3xeFqZxvg/mqdefault_6s.webp?du=3000&sqp=CPiOn9YG&rs=AOn4CLDxQHQQd7Yl-4k_kw2lEhgQDVgmoQ"
+    },
+    "title": "Best Smartphone to Buy - My Clear Suggestion (2026)",
+    "published_date": "1d ago",
+    "views": "1M",
+    "extracted_views": 1000000,
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy",
+     "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "BoeMxkRUaRI",
+    "link": "https://www.youtube.com/watch?v=BoeMxkRUaRI&pp=ugUEEgJlbg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BoeMxkRUaRI",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/BoeMxkRUaRI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB6AfTvCu43bCsnidIa3XVp9YpHwg",
+     "rich": "https://i.ytimg.com/an_webp/BoeMxkRUaRI/mqdefault_6s.webp?du=3000&sqp=CNiAn9YG&rs=AOn4CLCx_5Xk0cd-J_kEHtIQRxqMppx8_Q"
+    },
+    "title": "Best Phones Under Rs 30000 That Are Actually Worth It! (August 2026)",
+    "published_date": "1mo ago",
+    "views": "432K",
+    "extracted_views": 432000,
+    "channel": {
+     "name": "Trakin Tech English",
+     "link": "https://www.youtube.com/@TrakinTechEnglish",
+     "thumbnail": "https://yt3.ggpht.com/YuHZ_v-j87R-VuvZYPHlpJipVR_H7Iatij-9cTsf8Mvf1Y4R5FMao12k4CTmbaWzgY5JqHyELVA=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "zZ8dupGrPZA",
+    "link": "https://www.youtube.com/watch?v=zZ8dupGrPZA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zZ8dupGrPZA",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/zZ8dupGrPZA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDGJCXq50iB6pC8RzEG9-GMAoFhDg",
+     "rich": "https://i.ytimg.com/an_webp/zZ8dupGrPZA/mqdefault_6s.webp?du=3000&sqp=CPCWn9YG&rs=AOn4CLDfT5_tZIkWDOW5w4i3WY3hNCHthQ"
+    },
+    "title": "Best Smartphones to Buy in Amazon Great Indian Festival & Flipkart Big Billion Days 2026 |10K-₹1Lakh",
+    "published_date": "1d ago",
+    "views": "1.1M",
+    "extracted_views": 1100000,
+    "channel": {
+     "name": "Prasadtechintelugu",
+     "link": "https://www.youtube.com/@Prasadtechintelugu",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lruRqXcu0HALPqtLYA2bOuxiPWRgD6Gn389lG5BgVN2fw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "pg2HubRUVdY",
+    "link": "https://www.youtube.com/watch?v=pg2HubRUVdY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pg2HubRUVdY",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/pg2HubRUVdY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCbPrs3w7UYncMd6679C0YMO7ca5Q",
+     "rich": "https://i.ytimg.com/an_webp/pg2HubRUVdY/mqdefault_6s.webp?du=3000&sqp=CJ6On9YG&rs=AOn4CLAxUCkIPNSRMC39JDvtsgnVg-5PRQ"
+    },
+    "title": "Best Smartphone Under ₹30,000 in 2026 🔥 BBD + Amazon Sale",
+    "published_date": "1d ago",
+    "views": "66K",
+    "extracted_views": 66000,
+    "channel": {
+     "name": "Tech Buffet",
+     "link": "https://www.youtube.com/@TechBuffet",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n2o4O0cAvEmC8EMe6TYYJ6-rUGeeqnKd38iGdRKVPxZojB=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "s7aOJYueEtI",
+    "link": "https://www.youtube.com/watch?v=s7aOJYueEtI&pp=ugUHEgVlbi1HQg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=s7aOJYueEtI",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/s7aOJYueEtI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_LcUNQxmIba94H6kg4-Ip-HolQA",
+     "rich": "https://i.ytimg.com/an_webp/s7aOJYueEtI/mqdefault_6s.webp?du=3000&sqp=CL6bn9YG&rs=AOn4CLDv1U4zQudKobOtT5cGqFdVIh0dAA"
+    },
+    "title": "I Investigated India’s Biggest Smartphone Controversy",
+    "published_date": "4mo ago",
+    "views": "9.7M",
+    "extracted_views": 9700000,
+    "channel": {
+     "name": "Mrwhosetheboss",
+     "link": "https://www.youtube.com/@Mrwhosetheboss",
+     "thumbnail": "https://yt3.ggpht.com/QFI5OsUuSRHV-YpwksnVqpqWC19gjU55smnxPzLVU5Y5ohqKIkxq21nV_VfBJhvanYeMBot21A=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "GmAHJfIUM90",
+    "link": "https://www.youtube.com/watch?v=GmAHJfIUM90",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GmAHJfIUM90",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/GmAHJfIUM90/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDWeBO2VUdlV8pg1r8sRSUb2h_1Hw",
+     "rich": "https://i.ytimg.com/an_webp/GmAHJfIUM90/mqdefault_6s.webp?du=3000&sqp=CIOKn9YG&rs=AOn4CLBdACfO4-vNYO6h-fcjBoWL-JiEMA"
+    },
+    "title": "₹30000 താഴെയുള്ള BEST PHONES | Best Phones Under 30K in 2026",
+    "published_date": "2mo ago",
+    "views": "218K",
+    "extracted_views": 218000,
+    "channel": {
+     "name": "Mr Perfect Tech",
+     "link": "https://www.youtube.com/@MrPerfectTechofficial",
+     "thumbnail": "https://yt3.ggpht.com/OpFeTNesl6lnEwy8-TBrAKGiDb3vB9WbwNm8HALv3JEF4D3M3XSsqn8F1Rb4mVz9lIiSz1hz=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "tcV8R29VAII",
+    "link": "https://www.youtube.com/watch?v=tcV8R29VAII&pp=ugUHEgVlbi1HQtIHCQk1DAGHKiGM7w%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tcV8R29VAII",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/tcV8R29VAII/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB49VI8uUT2pUFsxo4-G_fr9x7tYw",
+     "rich": "https://i.ytimg.com/an_webp/tcV8R29VAII/mqdefault_6s.webp?du=3000&sqp=COb_ntYG&rs=AOn4CLBBchrJGAGrpdkwdIss5cEOv20FPw"
+    },
+    "title": "Why Indians Hate SmartWatches!",
+    "published_date": "4mo ago",
+    "views": "417K",
+    "extracted_views": 417000,
+    "channel": {
+     "name": "TechWiser",
+     "link": "https://www.youtube.com/@techwiser",
+     "thumbnail": "https://yt3.ggpht.com/dbqVd_qDsNJLWqrUFB0vOxSbhzRaOG_yxEbiX573Hd3mHinEjj-JYmXlENvkKeQxaZ9sudwvgRw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "duBKXZrsKg8",
+    "link": "https://www.youtube.com/watch?v=duBKXZrsKg8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=duBKXZrsKg8",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/duBKXZrsKg8/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDGKuLVSlh0B7ydLy-ehANjzVXAAA",
+     "rich": "https://i.ytimg.com/an_webp/duBKXZrsKg8/mqdefault_6s.webp?du=3000&sqp=CPeLn9YG&rs=AOn4CLBaOfX-DBxhP-7l0nDv5scDZudU5A"
+    },
+    "title": "Top 5 Best Smartphones Under ₹30000 ⚡ Ft. Best Flipkart BBD Deals",
+    "published_date": "4d ago",
+    "views": "555K",
+    "extracted_views": 555000,
+    "channel": {
+     "name": "Trakin Tech",
+     "link": "https://www.youtube.com/@TrakinTech",
+     "thumbnail": "https://yt3.ggpht.com/CoxkM-bkUecdch2e4R7gaa5gyMAqrhKrYqyjTL0_kkJ1lUb44-cNA5tAOYKX1jAk1OVEU1qO6g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "taZ0KMthpZs",
+    "link": "https://www.youtube.com/watch?v=taZ0KMthpZs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=taZ0KMthpZs",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/taZ0KMthpZs/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAx1GVKdcjKTbqNICk3Tj1OFNKuzg",
+     "rich": "https://i.ytimg.com/an_webp/taZ0KMthpZs/mqdefault_6s.webp?du=3000&sqp=COmIn9YG&rs=AOn4CLBp-BNdp5X0rEHUbro2y2yiBR8jLg"
+    },
+    "title": "My FAVORITE Phone DEALS in Amazon & Flipkart SALE ! *NO CONFUSION*",
+    "published_date": "1d ago",
+    "views": "434K",
+    "extracted_views": 434000,
+    "channel": {
+     "name": "TechBar",
+     "link": "https://www.youtube.com/@TechBar",
+     "thumbnail": "https://yt3.ggpht.com/TQ3e9Ye1BqlarAIyngEWlrKVyCVQpNYMiGUsE5PZSXjQ94cPXb01HfdCFpovzn_JMyUO8e4o=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "YI4DyIi5sGA",
+    "link": "https://www.youtube.com/watch?v=YI4DyIi5sGA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YI4DyIi5sGA",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/YI4DyIi5sGA/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAxlNd9YYxBBEVGNjSfmJGcLEBcJg",
+     "rich": "https://i.ytimg.com/an_webp/YI4DyIi5sGA/mqdefault_6s.webp?du=3000&sqp=CMD5ntYG&rs=AOn4CLAOvERiLDMIB3o0qPZ8CFBe9udmJQ"
+    },
+    "title": "Nothing Phone New Price Changes Everything !",
+    "published_date": "6d ago",
+    "views": "397K",
+    "extracted_views": 397000,
+    "channel": {
+     "name": "Tech Burner",
+     "link": "https://www.youtube.com/@TechBurner",
+     "thumbnail": "https://yt3.ggpht.com/bTsh7WNnCpVNUK7yKXzK_sIEv3wL5ufda6p1NRFIGWgbUGvPQbFFwhIGc7MMTked-FtHJLrG6g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "lUzg1YBUNDo",
+    "link": "https://www.youtube.com/watch?v=lUzg1YBUNDo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lUzg1YBUNDo",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lUzg1YBUNDo/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCbcB8MuiF1LTeisSr6Ta-q-5J2ZQ",
+     "rich": "https://i.ytimg.com/an_webp/lUzg1YBUNDo/mqdefault_6s.webp?du=3000&sqp=CL6En9YG&rs=AOn4CLBYkt_EmdZQxQBBqrympuXYLBvR-Q"
+    },
+    "title": "My Final Picks : Flipkart BBD & Amazon GIF Sale | DON'T SKIP 🚨",
+    "published_date": "1d ago",
+    "views": "259K",
+    "extracted_views": 259000,
+    "channel": {
+     "name": "Techno Ruhez",
+     "link": "https://www.youtube.com/@TechnoRuhez",
+     "thumbnail": "https://yt3.ggpht.com/QRorXoNjkwDgFhrnplEqz189m9qAgdM3aglBMM4Eat3dULvqu2fyutNchcB_U8REOd83LmYWqyY=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "VX-R0Qr2tMY",
+    "link": "https://www.youtube.com/watch?v=VX-R0Qr2tMY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VX-R0Qr2tMY",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/VX-R0Qr2tMY/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBkRhb54-Wrfcapr5WCnjzhyEDACg",
+     "rich": "https://i.ytimg.com/an_webp/VX-R0Qr2tMY/mqdefault_6s.webp?du=3000&sqp=CJLnntYG&rs=AOn4CLDsd1ZND4vUeNm7WFuCzwJIc4ByOA"
+    },
+    "title": "Top 10 Smartphones with HUGE DISCOUNT in Flipkart Big Billion Days Sale & Amazon Sale 2026",
+    "published_date": "1d ago",
+    "views": "165K",
+    "extracted_views": 165000,
+    "channel": {
+     "name": "Techy Kiran",
+     "link": "https://www.youtube.com/@TechyKiran",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_meuJFq_j4Y1ZyUGAJ5q0OsnIzQmEVddRF8tZVARvIhGfU=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New",
+     "Auto-dubbed"
+    ]
+   },
+   {
+    "video_id": "lrsYgV9Fogc",
+    "link": "https://www.youtube.com/watch?v=lrsYgV9Fogc",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lrsYgV9Fogc",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lrsYgV9Fogc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCq-kA7p1McIn4DsV8ifx3Xs4V2g",
+     "rich": "https://i.ytimg.com/an_webp/lrsYgV9Fogc/mqdefault_6s.webp?du=3000&sqp=COfontYG&rs=AOn4CLAu4bo-SDk5KCNX_1LHRsdDRLTvwA"
+    },
+    "title": "Most Balanced Phone Under ₹35,000 | Realme P4s vs vivo T5 vs moto Edge 70 Fusion",
+    "published_date": "1mo ago",
+    "views": "157K",
+    "extracted_views": 157000,
+    "channel": {
+     "name": "Perfect Gadget",
+     "link": "https://www.youtube.com/@PerfectGadget",
+     "thumbnail": "https://yt3.ggpht.com/aeZFKiYws9dSWTsP-f317nwG6rXEWMzCmWMxId0X9oCMuKcAsz-UG95VszjuulZiNCjEj4e7=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "nR3oP65ssQI",
+    "link": "https://www.youtube.com/watch?v=nR3oP65ssQI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nR3oP65ssQI",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/nR3oP65ssQI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBSjD81ZQnf5F_rTpP_YOhPUY3z3A",
+     "rich": "https://i.ytimg.com/an_webp/nR3oP65ssQI/mqdefault_6s.webp?du=3000&sqp=CPqgn9YG&rs=AOn4CLCsIzf__qizdyAc0oY8PisHAmcqfw"
+    },
+    "title": "Best Smartphones to buy in Amazon and Flipkart Sale",
+    "published_date": "2d ago",
+    "views": "127K",
+    "extracted_views": 127000,
+    "channel": {
+     "name": "Mr Techpedia",
+     "link": "https://www.youtube.com/@mrtechpedia",
+     "thumbnail": "https://yt3.ggpht.com/7Rmj1INkkNH5zCtJUIp3-AUVtnZZYGjkwxHTTzKFeQ4USpRcgwgjx530ZfGS56mXIfvgla3U=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "WiWsZiD-Xx0",
+    "link": "https://www.youtube.com/watch?v=WiWsZiD-Xx0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WiWsZiD-Xx0",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/WiWsZiD-Xx0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD04WdrhWYwoMfgQcDf_uoduHJFsQ",
+     "rich": "https://i.ytimg.com/an_webp/WiWsZiD-Xx0/mqdefault_6s.webp?du=3000&sqp=CMbontYG&rs=AOn4CLC4XZU_Gndh7L2RqsUROzwTlmxhmw"
+    },
+    "title": "Top 6 Best Smartphones Under ₹50000 ⚡ August 2026",
+    "published_date": "2mo ago",
+    "views": "673K",
+    "extracted_views": 673000,
+    "channel": {
+     "name": "Trakin Tech",
+     "link": "https://www.youtube.com/@TrakinTech",
+     "thumbnail": "https://yt3.ggpht.com/CoxkM-bkUecdch2e4R7gaa5gyMAqrhKrYqyjTL0_kkJ1lUb44-cNA5tAOYKX1jAk1OVEU1qO6g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   }
+  ],
+  "related_videos_next_page_token": "CBQSKRILRXFrdHREQ0RoYUHAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAq3AgyczZMNnd5LUJncTdCZ29EOGo0QUNnM0NQZ29JdnBDUTNhWHdsZUI1Q2dQeVBnQUtEY0ktQ2dqMzdNalc1NkRVaW1VS0FfSS1BQW9Od2o0S0NNNkpqUDJvcllQT1dnb0Q4ajRBQ2czQ1Bnb0lfN09xcC1xVnU2WWxDZ1B5UGdBS0RzSS1Dd2psNk4tcF9Odm1tSUFCQ2dQeVBnQUtEc0ktQ3dqNGplZlVoYV84M3FRQkNnUHlQZ0FLRGNJLUNnaVMwdEdpNUpqand3WUtBX0ktQUFvT3dqNExDSkQ3ckkycHQ4ZlB6UUVLQV9JLUFBb093ajRMQ05hcjBhS2I5LUdHcGdFS0FfSS1BQW9Pd2o0TENOS2wtTnpZeEtQYnN3RUtBX0ktQUFvTndqNEtDTjNuMEpEZjVJR3dHZ29EOGo0QUNnN0NQZ3NJZ29IVS12YUkzLUsxQVFvRDhqNEFDZzNDUGdvSWo5U3cxOW5Ma3ZCMkNnUHlQZ0FLRHNJLUN3aWJ5NGJiaklXZDA3VUJDZ1B5UGdBS0RjSS1DZ2pnNE9iRmlQbUF4MkFLQV9JLUFBb093ajRMQ0xybzBJTFltcmltbFFFS0FfSS1BQW9Od2o0S0NNYnAydGVRdXVTX1ZRb0Q4ajRBQ2c3Q1Bnc0loOFNXLXBXUXh0MldBUW9EOGo0QUNnN0NQZ3NJZ3VLeThfcUgtbzZkQVFvRDhqNEFDZzNDUGdvSW5iNzVoLUtNNjVKYUNnUHlQZ0FLR3BvX0Z3b1ZUM3d5T1RBd056ZzBNVGM1TlRjek1URXhNREkwQ2h1YVB4Z0tGazk4TVRjeE56UTNORGd6TmpZME5qRXpOall6TXpNS0c1b19HQW9XVDN3eE1UYzFOREV3TWpFd01qa3dOamcyT0RJNU5Rb2FtajhYQ2hWUGZETTBOalUxTURBME1UVXdNREk0TkRBeE56QUtHcG9fRndvVlQzdzBNRFF6T0RjMk9UTTJNVEU0TWpRME1EQTBDZ1B5UGdBS0FfSS1BQklYQUFJRUJnZ0tEQTRRRWhRV0dCb2NIaUFpSkNZb0xpOGFCQWdBRUFFYUJBZ0NFQU1hQkFnRUVBVWFCQWdHRUFjYUJBZ0lFQWthQkFnS0VBc2FCQWdNRUEwYUJBZ09FQThhQkFnUUVCRWFCQWdTRUJNYUJBZ1VFQlVhQkFnV0VCY2FCQWdZRUJrYUJBZ2FFQnNhQkFnY0VCMGFCQWdlRUI4YUJBZ2dFQ0VhQkFnaUVDTWFCQWdrRUNVYUJBZ21FQ2NhQkFnb0VDa2FCQWdvRUNvYUJBZ29FQ3NhQkFnb0VDd2FCQWdvRUMwYUJBZ3VFQ2thQkFndUVDb2FCQWd1RUNzYUJBZ3VFQ3dhQkFndUVDMGFCQWd2RUNrYUJBZ3ZFQ29hQkFndkVDc2FCQWd2RUN3YUJBZ3ZFQzBxRndBQ0JBWUlDZ3dPRUJJVUZoZ2FIQjRnSWlRbUtDNHZqD3dhdGNoLW5leHQtZmVlZA%3D%3D",
+  "end_screen_videos": [
+   {
+    "video_id": "ecBXglukCD4",
+    "link": "https://www.youtube.com/watch?v=ecBXglukCD4&pp=ugUHEgVlbi1HQg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ecBXglukCD4",
+    "thumbnail": "https://i.ytimg.com/vi/ecBXglukCD4/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA4xIS3Ptl-oHUCKol_nf0CuJZ6cg",
+    "title": "The Only Smartphone Deals Under 30,000! Ft. Amazon and Flipkart",
+    "published_date": "3 hours ago",
+    "views": "30K views",
+    "extracted_views": 30000,
+    "length": "12:23",
+    "channel": {
+     "name": "TechWiser",
+     "link": "https://www.youtube.com/@techwiser"
+    }
+   },
+   {
+    "video_id": "ZRVRBnrSNnc",
+    "link": "https://www.youtube.com/watch?v=ZRVRBnrSNnc&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZRVRBnrSNnc",
+    "thumbnail": "https://i.ytimg.com/vi/ZRVRBnrSNnc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLARdrZWiXHBjdJACTcjJmWJHc9YOw",
+    "title": "Top 5 Best Smartphones Under ₹30000 ⚡September 2026",
+    "published_date": "3 weeks ago",
+    "views": "1.3M views",
+    "extracted_views": 1300000,
+    "length": "5:19",
+    "channel": {
+     "name": "Trakin Tech",
+     "link": "https://www.youtube.com/@TrakinTech"
+    }
+   },
+   {
+    "video_id": "WpwNao-jBM4",
+    "link": "https://www.youtube.com/watch?v=WpwNao-jBM4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WpwNao-jBM4",
+    "thumbnail": "https://i.ytimg.com/vi/WpwNao-jBM4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfxGm2r1JZlqDNXf3LwBZFpSV4TA",
+    "title": "The BEST CAMERA PHONE under ₹15k, ₹20k, ₹30k, ₹40k and ₹60k",
+    "published_date": "3 months ago",
+    "views": "714K views",
+    "extracted_views": 714000,
+    "length": "16:41",
+    "channel": {
+     "name": "Kunal Malhotra",
+     "link": "https://www.youtube.com/@KunalMalhotraKM"
+    }
+   },
+   {
+    "video_id": "JUzsrqTqmf8",
+    "link": "https://www.youtube.com/watch?v=JUzsrqTqmf8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JUzsrqTqmf8",
+    "thumbnail": "https://i.ytimg.com/vi/JUzsrqTqmf8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDYx30b-n4_DZ3VIJ1vp6_XNMIX4A",
+    "title": "Top 7 Phones From ₹20,000 to ₹30,000 Rupees !",
+    "published_date": "3 days ago",
+    "views": "702K views",
+    "extracted_views": 702000,
+    "length": "9:39",
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy"
+    }
+   },
+   {
+    "video_id": "gDGa38U39GU",
+    "link": "https://www.youtube.com/watch?v=gDGa38U39GU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gDGa38U39GU",
+    "thumbnail": "https://i.ytimg.com/vi/gDGa38U39GU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDAGxn6KWuSqv-ww9qxmZj6bXffbw",
+    "title": "Top 5 Best Phone Under 25000 | Best Phone Under 25000 | Best Phones Under 25000 | Phones Under 25k",
+    "published_date": "1 month ago",
+    "views": "2.8K views",
+    "extracted_views": 2800,
+    "length": "7:53",
+    "channel": {
+     "name": "Deepak Bharti and Tech Deepak"
+    }
+   },
+   {
+    "video_id": "pL3xeFqZxvg",
+    "link": "https://www.youtube.com/watch?v=pL3xeFqZxvg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pL3xeFqZxvg",
+    "thumbnail": "https://i.ytimg.com/vi/pL3xeFqZxvg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDc_e-DCSstm6SzlWZUze91g0jfyQ",
+    "title": "Best Smartphone to Buy - My Clear Suggestion (2026)",
+    "published_date": "1 day ago",
+    "views": "1M views",
+    "extracted_views": 1000000,
+    "length": "19:36",
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy"
+    }
+   },
+   {
+    "video_id": "BoeMxkRUaRI",
+    "link": "https://www.youtube.com/watch?v=BoeMxkRUaRI&pp=ugUEEgJlbtIHCQk1DAGHKiGM7w%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BoeMxkRUaRI",
+    "thumbnail": "https://i.ytimg.com/vi/BoeMxkRUaRI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB6AfTvCu43bCsnidIa3XVp9YpHwg",
+    "title": "Best Phones Under Rs 30000 That Are Actually Worth It! (August 2026)",
+    "published_date": "1 month ago",
+    "views": "432K views",
+    "extracted_views": 432000,
+    "length": "6:15",
+    "channel": {
+     "name": "Trakin Tech English",
+     "link": "https://www.youtube.com/@TrakinTechEnglish"
+    }
+   },
+   {
+    "video_id": "zZ8dupGrPZA",
+    "link": "https://www.youtube.com/watch?v=zZ8dupGrPZA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zZ8dupGrPZA",
+    "thumbnail": "https://i.ytimg.com/vi/zZ8dupGrPZA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDGJCXq50iB6pC8RzEG9-GMAoFhDg",
+    "title": "Best Smartphones to Buy in Amazon Great Indian Festival & Flipkart Big Billion Days 2026 |10K-₹1Lakh",
+    "published_date": "1 day ago",
+    "views": "1.1M views",
+    "extracted_views": 1100000,
+    "length": "28:46",
+    "channel": {
+     "name": "Prasadtechintelugu",
+     "link": "https://www.youtube.com/@Prasadtechintelugu"
+    }
+   },
+   {
+    "video_id": "pg2HubRUVdY",
+    "link": "https://www.youtube.com/watch?v=pg2HubRUVdY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pg2HubRUVdY",
+    "thumbnail": "https://i.ytimg.com/vi/pg2HubRUVdY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCbPrs3w7UYncMd6679C0YMO7ca5Q",
+    "title": "Best Smartphone Under ₹30,000 in 2026 🔥 BBD + Amazon Sale",
+    "published_date": "1 day ago",
+    "views": "66K views",
+    "extracted_views": 66000,
+    "length": "16:44",
+    "channel": {
+     "name": "Tech Buffet",
+     "link": "https://www.youtube.com/@TechBuffet"
+    }
+   },
+   {
+    "video_id": "s7aOJYueEtI",
+    "link": "https://www.youtube.com/watch?v=s7aOJYueEtI&pp=ugUHEgVlbi1HQg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=s7aOJYueEtI",
+    "thumbnail": "https://i.ytimg.com/vi/s7aOJYueEtI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_LcUNQxmIba94H6kg4-Ip-HolQA",
+    "title": "I Investigated India’s Biggest Smartphone Controversy",
+    "published_date": "4 months ago",
+    "views": "9.7M views",
+    "extracted_views": 9700000,
+    "length": "41:31",
+    "channel": {
+     "name": "Mrwhosetheboss",
+     "link": "https://www.youtube.com/@Mrwhosetheboss"
+    }
+   },
+   {
+    "video_id": "GmAHJfIUM90",
+    "link": "https://www.youtube.com/watch?v=GmAHJfIUM90",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GmAHJfIUM90",
+    "thumbnail": "https://i.ytimg.com/vi/GmAHJfIUM90/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDWeBO2VUdlV8pg1r8sRSUb2h_1Hw",
+    "title": "₹30000 താഴെയുള്ള BEST PHONES | Best Phones Under 30K in 2026",
+    "published_date": "2 months ago",
+    "views": "218K views",
+    "extracted_views": 218000,
+    "length": "18:17",
+    "channel": {
+     "name": "Mr Perfect Tech",
+     "link": "https://www.youtube.com/@MrPerfectTechofficial"
+    }
+   },
+   {
+    "video_id": "tcV8R29VAII",
+    "link": "https://www.youtube.com/watch?v=tcV8R29VAII&pp=ugUHEgVlbi1HQg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tcV8R29VAII",
+    "thumbnail": "https://i.ytimg.com/vi/tcV8R29VAII/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB49VI8uUT2pUFsxo4-G_fr9x7tYw",
+    "title": "Why Indians Hate SmartWatches!",
+    "published_date": "4 months ago",
+    "views": "417K views",
+    "extracted_views": 417000,
+    "length": "11:35",
+    "channel": {
+     "name": "TechWiser",
+     "link": "https://www.youtube.com/@techwiser"
+    }
+   }
+  ],
+  "comments_next_page_token": "Eg0SC0Vxa3R0RENEaGFBGAYyJSIRIgtFcWt0dERDRGhhQTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+  "comments_sorting_token": [
+   {
+    "title": "Top",
+    "token": "Eg0SC0Vxa3R0RENEaGFBGAYyVSIuIgtFcWt0dERDRGhhQTAAeAKqAhpVZ3hEV0tkeWtSTHV1V05CRmlCNEFhQUJBZzABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+   },
+   {
+    "title": "Newest",
+    "token": "Eg0SC0Vxa3R0RENEaGFBGAYyOCIRIgtFcWt0dERDRGhhQTABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+   }
+  ],
+  "transcript": {
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=EqkttDCDhaA"
+  }
+ }
+}

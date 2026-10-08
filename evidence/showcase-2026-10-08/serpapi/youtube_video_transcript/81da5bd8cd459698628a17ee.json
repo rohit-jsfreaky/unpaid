@@ -1,0 +1,418 @@
+{
+ "request": {
+  "engine": "youtube_video_transcript",
+  "language_code": "en",
+  "v": "tJHSco5gJhA"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7d0af8b61d6790ca6e329",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/WIdu1fu5BNbfXybkz8fnBOTA_gnBci-txtmpQu154Q8/6ac7d0af8b61d6790ca6e329.json",
+   "markdown_endpoint": "https://serpapi.com/searches/WIdu1fu5BNbfXybkz8fnBOTA_gnBci-txtmpQu154Q8/6ac7d0af8b61d6790ca6e329.md",
+   "created_at": "2026-10-08 17:19:43 UTC",
+   "processed_at": "2026-10-08 17:19:43 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=tJHSco5gJhA",
+   "raw_html_file": "https://serpapi.com/searches/WIdu1fu5BNbfXybkz8fnBOTA_gnBci-txtmpQu154Q8/6ac7d0af8b61d6790ca6e329.html",
+   "prettify_html_file": "https://serpapi.com/searches/WIdu1fu5BNbfXybkz8fnBOTA_gnBci-txtmpQu154Q8/6ac7d0af8b61d6790ca6e329.prettify",
+   "total_time_taken": 7.06
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "tJHSco5gJhA",
+   "language_code": "en"
+  },
+  "transcript": [
+   {
+    "start_ms": 0,
+    "snippet": "मैक्सिमा फोनों का प्राइस यार रिवील हो चुका है जो बिकने वाले हैं Flipkart की बिग बिलियन डे सेल Amazon की ग्रेट इंडियन फेस्टिवल सेल में लेकिन इस बार हर एक साल",
+    "start_time_text": "0:00",
+    "start_time_label": "0 seconds"
+   },
+   {
+    "start_ms": 9000,
+    "snippet": "जो है ऐसा आपको डिस्काउंट नहीं मिलेगा पक्की वाली बात है क्योंकि फोन का जो प्राइस है वो भी बहुत ज्यादा महंगा है",
+    "start_time_text": "0:09",
+    "start_time_label": "9 seconds"
+   },
+   {
+    "start_ms": 16000,
+    "snippet": "लेकिन जिनका बजट है 25 से लेकर ₹00 के बीच अच्छा कमाल का 5G वाला फोन लेना चाहते हैं वो भी नया वाला मैं टोटल आपको पांच ऐसे",
+    "start_time_text": "0:16",
+    "start_time_label": "16 seconds"
+   },
+   {
+    "start_ms": 24000,
+    "snippet": "धुरंधर फोन बताऊंगा जो सेल के दौरान सही प्राइस में आने वाले हैं। हां जो बाय लिंक है वो भी आपको मेरे ही वीडियो में मिल जाएगा। Vivoक में आपको क्लिक करना है।",
+    "start_time_text": "0:24",
+    "start_time_label": "24 seconds"
+   },
+   {
+    "start_ms": 34000,
+    "snippet": "बहुत सारे फोन खुल के सामने आ जाएंगे। जो फोन आपको अच्छा लग रहा हो उसपे टैप करिए।",
+    "start_time_text": "0:34",
+    "start_time_label": "34 seconds"
+   },
+   {
+    "start_ms": 38000,
+    "snippet": "वो सीधे यार आपको रीडायरेक्ट कर देगा वेबसाइट में। दिमाग में कोई क्वेश्चन है वो भी कमेंट करके पूछिएगा। हां वीडियो को",
+    "start_time_text": "0:38",
+    "start_time_label": "38 seconds"
+   },
+   {
+    "start_ms": 45000,
+    "snippet": "लाइक और शेयर पक्का करिएगा। सबसे पहला जो फोन है वो तो नया वाला है Oppo का K14 P+।",
+    "start_time_text": "0:45",
+    "start_time_label": "45 seconds"
+   },
+   {
+    "start_ms": 52000,
+    "snippet": "Oppo ने यार यहां पर आपको बहुत कुछ अच्छा दिया है। एक तो यार फोन ल्च हुआ है।",
+    "start_time_text": "0:52",
+    "start_time_label": "52 seconds"
+   },
+   {
+    "start_ms": 56000,
+    "snippet": "Android 17 के साथ 2 प्लस 3 ईयर का अपडेट मिल जाएगा। आई आर रिमोट मिल रहा है। जो थोड़े से ब्लोट वेयर है उसको आप हटा",
+    "start_time_text": "0:56",
+    "start_time_label": "56 seconds"
+   },
+   {
+    "start_ms": 63000,
+    "snippet": "लीजिएगा। तरह-तरह के आई वाले फीचर्स आपको मिलते हैं। Oppo का जो कलर ओएस है ना वो मेरे हिसाब से बहुत ज्यादा स्मूथ ऑलवेज",
+    "start_time_text": "1:03",
+    "start_time_label": "1 minute, 3 seconds"
+   },
+   {
+    "start_ms": 70000,
+    "snippet": "काम करता है। सॉफ्टवेयर में कोई दिक्कत नहीं है। बिंदास आप कॉल को भी रिकॉर्ड कर सकते हैं। बैक डिज़ देखने में अच्छा दिख रहा है। हाथ की उंगलियां भी नहीं छप रही",
+    "start_time_text": "1:10",
+    "start_time_label": "1 minute, 10 seconds"
+   },
+   {
+    "start_ms": 79000,
+    "snippet": "है। फ़ का जो वजन है बैटरी के हिसाब से ज्यादा मैं नहीं कहूंगा। वैसे बैटरी है 8000 एमh की। पूरा का पूरा दिन बिंदास चल",
+    "start_time_text": "1:19",
+    "start_time_label": "1 minute, 19 seconds"
+   },
+   {
+    "start_ms": 87000,
+    "snippet": "जाएगी। 8 घंटे प्लस का स्क्रीन ऑन टाइम आपको मिलेगा। 45 W का चार्जर इन द बॉक्स है। आगे की तरफ 1.5 के का 144 हर्टz वाला एमलेड डिस्प्ले का इस्तेमाल किया गया है।",
+    "start_time_text": "1:27",
+    "start_time_label": "1 minute, 27 seconds"
+   },
+   {
+    "start_ms": 98000,
+    "snippet": "इसकी जो पीक ब्राइटनेस है वो है 3600 निट्स की। डिस्प्ले में कोई भी बजल्स नहीं है। डिस्प्ले भी यार सही कलर निकाल रहा",
+    "start_time_text": "1:38",
+    "start_time_label": "1 minute, 38 seconds"
+   },
+   {
+    "start_ms": 106000,
+    "snippet": "है। 50 मेगापिक्सल का कैमरा है। कोई भी अल्ट्रा वाइड वाला सेंसर आपको नहीं मिलता है। फोटो भी यार अच्छी आती है। 4K वाले",
+    "start_time_text": "1:46",
+    "start_time_label": "1 minute, 46 seconds"
+   },
+   {
+    "start_ms": 113000,
+    "snippet": "वीडियो आप रिकॉर्ड कर सकते हैं। यहां पर जो प्रोसेसर है वो है MediaTek DM 3D 7360 Max वाला। भाई प्रोसेसर तो काफी दमदार",
+    "start_time_text": "1:53",
+    "start_time_label": "1 minute, 53 seconds"
+   },
+   {
+    "start_ms": 122000,
+    "snippet": "दिया गया है। LPDDR 4X की RAM है। UFS 3.1 का स्टोरेज टाइप मिल जाता है। कुल मिला के मैं आपको यही कह सकता हूं इस बार जो Oppo",
+    "start_time_text": "2:02",
+    "start_time_label": "2 minutes, 2 seconds"
+   },
+   {
+    "start_ms": 130000,
+    "snippet": "का K14 Plus आया है ना ये बहुत सारी चीजों में धुरंधर है। अगला जो डिवाइस है वो है",
+    "start_time_text": "2:10",
+    "start_time_label": "2 minutes, 10 seconds"
+   },
+   {
+    "start_ms": 137000,
+    "snippet": "Samsung Galaxy M47 5G। वैसे सेम चीजें F70 Pro में भी मिलती है। वो फ़ यार Flipkart में है और जो M47 है ये आपको",
+    "start_time_text": "2:17",
+    "start_time_label": "2 minutes, 17 seconds"
+   },
+   {
+    "start_ms": 146000,
+    "snippet": "मिलता है Amazon में। दोनों ही फोनों में 6000 एमh की बैटरी दी जा रही है। अलग से आपको चार्जर खरीदना पड़ेगा। बैटरी बैकअप",
+    "start_time_text": "2:26",
+    "start_time_label": "2 minutes, 26 seconds"
+   },
+   {
+    "start_ms": 153000,
+    "snippet": "तो यार ठीक है। 45 W की चार्जिंग का आपको मैक्सिमम सपोर्ट मिल रहा है। सिंगल स्पीकर का प्रयोग किया गया है। प्रोसेसर है",
+    "start_time_text": "2:33",
+    "start_time_label": "2 minutes, 33 seconds"
+   },
+   {
+    "start_ms": 161000,
+    "snippet": "Snapdragon का 63 LPDDR 5X की RAM में UFS 3.1 का स्टोरेज टाइप दिया जा रहा है। परफॉर्मेंस में भी कोई दिक्कत नहीं है।",
+    "start_time_text": "2:41",
+    "start_time_label": "2 minutes, 41 seconds"
+   },
+   {
+    "start_ms": 170000,
+    "snippet": "Samsung का सॉफ्टवेयर ऑलवेज बेस्ट ही होता है। वैसे फोन आया था Android 16 के साथ। छ साल का आपको अपडेट मिल जाएगा। वो भी 6 साल",
+    "start_time_text": "2:50",
+    "start_time_label": "2 minutes, 50 seconds"
+   },
+   {
+    "start_ms": 178000,
+    "snippet": "सिक्योरिटी के साथ। काफी सारे एi वाले फीचर्स हैं। सॉफ्टवेयर के मामले में हर एक Samsung का फोन अच्छा ही होता है। आगे की",
+    "start_time_text": "2:58",
+    "start_time_label": "2 minutes, 58 seconds"
+   },
+   {
+    "start_ms": 187000,
+    "snippet": "तरफ 120 हर्टz का एमलेड वाली डिस्प्ले का इस्तेमाल किया गया है। 1400 इट्स की पीक ब्राइटनेस है। पंच छोल दिया जा रहा है।",
+    "start_time_text": "3:07",
+    "start_time_label": "3 minutes, 7 seconds"
+   },
+   {
+    "start_ms": 194000,
+    "snippet": "अच्छा हुआ यार। यू शेप वाली नच का इस्तेमाल नहीं किया गया है। बैक वाला जो डिज़ाइन है वो भी काफी सुंदर है। और जो",
+    "start_time_text": "3:14",
+    "start_time_label": "3 minutes, 14 seconds"
+   },
+   {
+    "start_ms": 201000,
+    "snippet": "मेरे पास रंग आया है M47 का ये तो यार मुझे देखने में काफी झकास दिख रहा है। यहां पर 50 मेगापिक्सल का कैमरा है।",
+    "start_time_text": "3:21",
+    "start_time_label": "3 minutes, 21 seconds"
+   },
+   {
+    "start_ms": 210000,
+    "snippet": "अल्ट्रा वाइड वाला सेंसर नहीं हटाया गया है। फोटो भी शार्प आती है। 4K वाले वीडियो आप रिकॉर्ड कर सकते हैं। ओवरऑल मैं यही",
+    "start_time_text": "3:30",
+    "start_time_label": "3 minutes, 30 seconds"
+   },
+   {
+    "start_ms": 218000,
+    "snippet": "कहना चाहूंगा जिन लोगों को नॉन चाइनीस फोन लेना है तो मेरे हिसाब से Samsung का M47 ₹26,000 के आसपास आपको यार ऑफर के बाद मिलेगा। इस प्राइस में कमाल का फोन है।",
+    "start_time_text": "3:38",
+    "start_time_label": "3 minutes, 38 seconds"
+   },
+   {
+    "start_ms": 230000,
+    "snippet": "अगला जो डिवाइस है वो है Motorola का S70 फ्यूजन और यहां पर Android 16 का प्रयोग किया गया है। 3+ 4 ईयर का अपडेट मिल",
+    "start_time_text": "3:50",
+    "start_time_label": "3 minutes, 50 seconds"
+   },
+   {
+    "start_ms": 239000,
+    "snippet": "जाएगा। अच्छे वाले AI के फीचर्स मिलते हैं। इधर-उधर वाली एप्लीकेशन भी आपको नहीं दी जा रही। IP 6869 की रेटिंग भले ही आपको",
+    "start_time_text": "3:59",
+    "start_time_label": "3 minutes, 59 seconds"
+   },
+   {
+    "start_ms": 248000,
+    "snippet": "मिल रही है। प्लीज अपने फोन को कभी भी मत नहलाइएगा। DOB एटमॉस वाला फीचर है। डबल स्पीकर का भी प्रयोग किया गया है।",
+    "start_time_text": "4:08",
+    "start_time_label": "4 minutes, 8 seconds"
+   },
+   {
+    "start_ms": 254000,
+    "snippet": "Snapdragon का 7HZ4 वाला जो प्रोसेसर है ये काफी दमदार है। बेंचम स्कोर आपके सामने फ़ कहीं भी लैग नहीं होता है। वैसे पीछे की",
+    "start_time_text": "4:14",
+    "start_time_label": "4 minutes, 14 seconds"
+   },
+   {
+    "start_ms": 264000,
+    "snippet": "तरफ वीगन लेदर आपको मिल रहा है। स्लिपरी जरा सा नहीं है। वजन भी बहुत ज्यादा नहीं है। वन हैंड वाला फ़ोन आपको लेना है ना तो Motorola का S70 फ्यूज़ आपको यार जचेगा।",
+    "start_time_text": "4:24",
+    "start_time_label": "4 minutes, 24 seconds"
+   },
+   {
+    "start_ms": 274000,
+    "snippet": "आगे की तरफ 1.5 के का 144 हर्टz वाला एमोलेड डिस्प्ले का इस्तेमाल किया गया है।",
+    "start_time_text": "4:34",
+    "start_time_label": "4 minutes, 34 seconds"
+   },
+   {
+    "start_ms": 279000,
+    "snippet": "इसकी जो पीक ब्राइटनेस है वो है 5200 निट्स की गोल्ला ग्लास 7i की प्रोटेक्शन भी मिल रही है। डिस्प्ले यार बहुत ही मस्त",
+    "start_time_text": "4:39",
+    "start_time_label": "4 minutes, 39 seconds"
+   },
+   {
+    "start_ms": 288000,
+    "snippet": "वाले कलर निकालता है। बैटरी है 7000 एमh की बिंदास यार 7 1/2 घंटे प्लस का आपको",
+    "start_time_text": "4:48",
+    "start_time_label": "4 minutes, 48 seconds"
+   },
+   {
+    "start_ms": 295000,
+    "snippet": "स्क्रीन ऑन टाइम मिल जाएगा। 68 W का चार्जर साथ में आपको दिया जा रहा है। मेरे हिसाब से Motorola का S70 फ्यूजन में आपको",
+    "start_time_text": "4:55",
+    "start_time_label": "4 minutes, 55 seconds"
+   },
+   {
+    "start_ms": 303000,
+    "snippet": "बहुत कुछ बिंदास ही मिल रहा है। अगला जो डिवाइस है वो है Vivo T5X। सेम चीज है IQ के Z1X में भी आपको मिल रही है। वो फ़",
+    "start_time_text": "5:03",
+    "start_time_label": "5 minutes, 3 seconds"
+   },
+   {
+    "start_ms": 312000,
+    "snippet": "Amazon में है और जो Vivo वाला डिवाइस है ये आपको मिल जाता है Flipkart में। जो फ़ यार आपको सस्ता मिले उसकी तरफ आप जा सकते",
+    "start_time_text": "5:12",
+    "start_time_label": "5 minutes, 12 seconds"
+   },
+   {
+    "start_ms": 319000,
+    "snippet": "हैं। प्रोसेसर है MediaTek का DMD 7400 टर्बो वाला। LPDDR 4X की RAM है। यह 3.1",
+    "start_time_text": "5:19",
+    "start_time_label": "5 minutes, 19 seconds"
+   },
+   {
+    "start_ms": 326000,
+    "snippet": "का स्टोरेज टाइप दिया जाता है। फ़ लैग तो नहीं करेगा। 7200 एमh की बैटरी पूरा का पूरा दिन चलेगी। 44 W का चार्जर इन द",
+    "start_time_text": "5:26",
+    "start_time_label": "5 minutes, 26 seconds"
+   },
+   {
+    "start_ms": 335000,
+    "snippet": "बॉक्स है। IP68 69 की रेटिंग Vivo ने आपको दिया है। लेकिन आपको बिल्कुल भी नहीं नहलाना है। बैक में पॉलीकारेट है। कृपया",
+    "start_time_text": "5:35",
+    "start_time_label": "5 minutes, 35 seconds"
+   },
+   {
+    "start_ms": 344000,
+    "snippet": "करके बैक कवर लगा के अपने फोन का इस्तेमाल करिएगा। 50 मेगापिक्सल का कैमरा है। फोटो या डिसेंट टाइप की आती है। 4K वाले वीडियो",
+    "start_time_text": "5:44",
+    "start_time_label": "5 minutes, 44 seconds"
+   },
+   {
+    "start_ms": 351000,
+    "snippet": "आप रिकॉर्ड कर सकते हैं। लेकिन कोई भी अल्ट्रा वाइड वाला सेंसर नहीं मिल रहा।",
+    "start_time_text": "5:51",
+    "start_time_label": "5 minutes, 51 seconds"
+   },
+   {
+    "start_ms": 356000,
+    "snippet": "लेटेस्ट Android 16 में बेस्ड है। 2 + 4 ईयर का अपडेट मिल जाएगा। थोड़े से आपको ब्लूटूथ दिए जा रहा है। जिनको आपको डिलीट",
+    "start_time_text": "5:56",
+    "start_time_label": "5 minutes, 56 seconds"
+   },
+   {
+    "start_ms": 364000,
+    "snippet": "ही करना पड़ेगा। इनका जो सॉफ्टवेयर है ना वो पहले से तो यार अच्छा हो चुका है लेकिन यहां पर आगे की तरफ एमोलेड वाला डिस्प्ले",
+    "start_time_text": "6:04",
+    "start_time_label": "6 minutes, 4 seconds"
+   },
+   {
+    "start_ms": 371000,
+    "snippet": "नहीं है। 120 हर्टz का फुल एचडी प्लस वाले डिस्प्ले से आपको काम चलाना पड़ेगा। पंच होल का इस्तेमाल किया गया है। वैसे स्पीकर",
+    "start_time_text": "6:11",
+    "start_time_label": "6 minutes, 11 seconds"
+   },
+   {
+    "start_ms": 379000,
+    "snippet": "आपको दो दिए जा रहे हैं। जिन लोगों को Vivo या तो IQ का डिवाइस लेना है तो आपके पास है Vivo T5X या ico Z1X वैसे आपको कौन सा डिवाइस अच्छा लगा है कमेंट करके बताइए।",
+    "start_time_text": "6:19",
+    "start_time_label": "6 minutes, 19 seconds"
+   },
+   {
+    "start_ms": 390000,
+    "snippet": "मैंने सभी फोन को ना अपने ही वीडियो में टैग कर रखा है। डायरेक्ट यार वीडियो से ही खरीदिएगा। अब जो आखिरी नंबर में फोन है वो",
+    "start_time_text": "6:30",
+    "start_time_label": "6 minutes, 30 seconds"
+   },
+   {
+    "start_ms": 397000,
+    "snippet": "है Poco का X8। सेम चीजें Redmi Note 17 Pro में दी जा रही है। वो फोन Amazon में",
+    "start_time_text": "6:37",
+    "start_time_label": "6 minutes, 37 seconds"
+   },
+   {
+    "start_ms": 404000,
+    "snippet": "बिकता है और जो Poco का X8 है ये आपको मिल जाएगा Flipkart में। देखिए दोनों ही फोनों में आपको यार बड़ी वाली बैटरी दी जा रही है",
+    "start_time_text": "6:44",
+    "start_time_label": "6 minutes, 44 seconds"
+   },
+   {
+    "start_ms": 412000,
+    "snippet": "9000 एमh की। पूरा का पूरा दिन यार काफी प्यार से फोन चल जाएगा। 67 W का चार्जर बॉक्स के अंदर मिल रहा है। IP 69K तक की",
+    "start_time_text": "6:52",
+    "start_time_label": "6 minutes, 52 seconds"
+   },
+   {
+    "start_ms": 421000,
+    "snippet": "रेटिंग दी जा रही है। यह तो कमाल की बात है। डिज़ यार Redmi का भी अच्छा है और Poco का भी यार आपको सुंदर लगने वाला है। बैक",
+    "start_time_text": "7:01",
+    "start_time_label": "7 minutes, 1 second"
+   },
+   {
+    "start_ms": 429000,
+    "snippet": "में 50 मेगापिक्सल का कैमरा मिल रहा है जो आपको थोड़ा सा गोरा बनाता है। आप यार 1080p तक के वीडियो रिकॉर्ड कर सकते हैं।",
+    "start_time_text": "7:09",
+    "start_time_label": "7 minutes, 9 seconds"
+   },
+   {
+    "start_ms": 437000,
+    "snippet": "कोई भी अल्ट्रा वाइड वाला सेंसर नहीं दिया जा रहा। यहां पर जो प्रोसेसर है वो है Snapdragon का 6HZ4",
+    "start_time_text": "7:17",
+    "start_time_label": "7 minutes, 17 seconds"
+   },
+   {
+    "start_ms": 444000,
+    "snippet": "जिसको यार मैं एवरेज कह सकता हूं Bengy स्कोर आपके सामने लेकिन डिस्प्ले में यार Redmi और Poco वालों ने कोई भी कमी नहीं",
+    "start_time_text": "7:24",
+    "start_time_label": "7 minutes, 24 seconds"
+   },
+   {
+    "start_ms": 451000,
+    "snippet": "छोड़ी है। 1.5K का 120 हz एमलेड वाले डिस्प्ले का इस्तेमाल किया गया है। 32 यूनिट्स की पीक ब्राइटनेस है। डॉलB विज़न",
+    "start_time_text": "7:31",
+    "start_time_label": "7 minutes, 31 seconds"
+   },
+   {
+    "start_ms": 459000,
+    "snippet": "का भी सपोर्ट मिल रहा है। गोरिल्ला ग्लास VTS 2 वाली प्रोटेक्शन है। डिस्प्ले मस्त ही कहलाएगा। चाहे वो Poco का X8 का हो या",
+    "start_time_text": "7:39",
+    "start_time_label": "7 minutes, 39 seconds"
+   },
+   {
+    "start_ms": 467000,
+    "snippet": "तो Redmi Note 17 Pro का। यहां पर Android 16 का प्रयोग किया गया है। लंबा सॉफ्टवेयर का अपडेट मिल जाएगा 4 प्लस 6 ईयर का।",
+    "start_time_text": "7:47",
+    "start_time_label": "7 minutes, 47 seconds"
+   },
+   {
+    "start_ms": 476000,
+    "snippet": "थोड़े से आपको ब्लोट पेयर दिए जा रहे हैं।",
+    "start_time_text": "7:56",
+    "start_time_label": "7 minutes, 56 seconds"
+   },
+   {
+    "start_ms": 477000,
+    "snippet": "कृपया करके डिलीट कर लीजिएगा। आईआर रिमोट है। UI को चलाते समय आपको प्रॉब्लम तो नहीं होने वाली है। और दोनों फोन ना कुछ दिन पहले ही इंडिया में लॉन्च हुए हैं।",
+    "start_time_text": "7:57",
+    "start_time_label": "7 minutes, 57 seconds"
+   },
+   {
+    "start_ms": 487000,
+    "snippet": "यही कुछ ऐसे डिवाइस थे जो आप 25 से लेकर ₹00 के बीच Flipkart की बिग बिलियन डे सेल Amazon की ग्रेट इंडियन फेस्टिवल सेल में",
+    "start_time_text": "8:07",
+    "start_time_label": "8 minutes, 7 seconds"
+   },
+   {
+    "start_ms": 495000,
+    "snippet": "खरीद सकते हैं। दिमाग में कोई भी क्वेश्चन खड़खड़ा रहा हो कमेंट करके पूछिएगा। बस यार यही कहूंगा हंसते रहिए, मुस्कुराते रहिए, चमचमाते रहिए और इस वीडियो को पक्का सब तक",
+    "start_time_text": "8:15",
+    "start_time_label": "8 minutes, 15 seconds"
+   },
+   {
+    "start_ms": 504000,
+    "snippet": "शेयर कर दीजिएगा। चलिए मिलते हैं नेक्स्ट वीडियो में। थैंक यू। जय हिंद।",
+    "start_time_text": "8:24",
+    "start_time_label": "8 minutes, 24 seconds"
+   }
+  ]
+ }
+}

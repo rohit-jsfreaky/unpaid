@@ -1,1 +1,17 @@
-{}
+{
+ "showcase": {
+  "question": "best phone under 30k for camera and battery, big billion days",
+  "searches": 3,
+  "candidates": 38,
+  "videos": 21,
+  "transcripts": 18,
+  "transcript_scripts": {
+   "devanagari": 12,
+   "latin": 3,
+   "telugu": 2,
+   "malayalam": 1
+  },
+  "recorded_elapsed_s": 60.7,
+  "recorded_searches": 45
+ }
+}

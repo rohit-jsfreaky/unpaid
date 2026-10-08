@@ -1,0 +1,490 @@
+{
+ "request": {
+  "engine": "youtube_video_transcript",
+  "language_code": "en",
+  "v": "JUzsrqTqmf8"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7d094ae39f3f8e997525e",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/NN5h-YjC6Eiiw5kez5yXZtoucTNf6SEnlVf1CKDo-BA/6ac7d094ae39f3f8e997525e.json",
+   "markdown_endpoint": "https://serpapi.com/searches/NN5h-YjC6Eiiw5kez5yXZtoucTNf6SEnlVf1CKDo-BA/6ac7d094ae39f3f8e997525e.md",
+   "created_at": "2026-10-08 17:19:16 UTC",
+   "processed_at": "2026-10-08 17:19:16 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=JUzsrqTqmf8",
+   "raw_html_file": "https://serpapi.com/searches/NN5h-YjC6Eiiw5kez5yXZtoucTNf6SEnlVf1CKDo-BA/6ac7d094ae39f3f8e997525e.html",
+   "prettify_html_file": "https://serpapi.com/searches/NN5h-YjC6Eiiw5kez5yXZtoucTNf6SEnlVf1CKDo-BA/6ac7d094ae39f3f8e997525e.prettify",
+   "total_time_taken": 21.31
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "JUzsrqTqmf8",
+   "language_code": "en"
+  },
+  "transcript": [
+   {
+    "start_ms": 0,
+    "snippet": "जय हिंद दोस्तों क्या हाल है? ओके आज की वीडियो यह सजेशन है अंडर ₹0000 ₹000 से ₹00 में जो फोन अभी मिल रहे हैं कुछ फोन",
+    "start_time_text": "0:00",
+    "start_time_label": "0 seconds"
+   },
+   {
+    "start_ms": 9000,
+    "snippet": "आपको याद होंगे Vivo T4 Pro I का कभी Neo 10R जैसे फोन Samsung Galaxy S24 FE OnePlus Note 5 Poco X7 Pro IQ Z10",
+    "start_time_text": "0:09",
+    "start_time_label": "9 seconds"
+   },
+   {
+    "start_ms": 18000,
+    "snippet": "इनफैक्ट Oppo K3 Turbo ऐसेसे फोन नहीं मिल रहे हैं। पर यह वीडियो जाने के बाद या जब",
+    "start_time_text": "0:18",
+    "start_time_label": "18 seconds"
+   },
+   {
+    "start_ms": 25000,
+    "snippet": "आप चेक करें अगर K-3 Turbo दिख जाए आपको अंडर 30,000 तो डेफिनेटली जिसको परफॉर्मेंस अच्छा चाहिए कैमरा इसका ज्यादा टारगेटेड नहीं है बट गेमिंग परफॉर्मेंस यह",
+    "start_time_text": "0:25",
+    "start_time_label": "25 seconds"
+   },
+   {
+    "start_ms": 34000,
+    "snippet": "अच्छा निकाल के दे देगा। एंड याद होगा मैंने तो काफी पहले आपको इस वीडियो में बताया था कि एग्जैक्टली पहले जैसी प्राइसिंग उम्मीद मत लगाइएगा Amazon, Flipkart सेल में। अगर आपका अच्छा फोन चल",
+    "start_time_text": "0:34",
+    "start_time_label": "34 seconds"
+   },
+   {
+    "start_ms": 42000,
+    "snippet": "रहा है चलाते रहिए। लेकिन हमें भी पता है बहुत सारे लोग नया फोन लेंगे। जिनको जरूरत है किसी को गिफ्ट देना है या पहली बार लेना है अपग्रेड करना है लॉन्ग टाइम बाद",
+    "start_time_text": "0:42",
+    "start_time_label": "42 seconds"
+   },
+   {
+    "start_ms": 50000,
+    "snippet": "उनका पुराना फोन सही नहीं चल रहा है तो उस हिसाब से क्या अभी मिल रहा है आपको तो पता ही है नाइंथ अक्टूबर से Flipkart बीबीटी सेल और 8th अक्टूबर से Amazon ग्रेट",
+    "start_time_text": "0:50",
+    "start_time_label": "50 seconds"
+   },
+   {
+    "start_ms": 58000,
+    "snippet": "इंडिया फेस्टिवल सेल और जिस हिसाब से प्राइस भाई कभी भी चेंज हो रहा है जिसको लेना है मतलब जरूरत के हिसाब से आप बिल्कुल ले लीजिए पुराना स्टॉक गायब होने",
+    "start_time_text": "0:58",
+    "start_time_label": "58 seconds"
+   },
+   {
+    "start_ms": 65000,
+    "snippet": "से पहले क्योंकि जिनके शुरू में मैंने नाम लिए अब कहां मिल रहे हैं और जो नए आ रहे हैं उनकी प्राइसिंग हाई है सबसे पहले मैं इन तीनों की बात करूंगा एक-एक करके एक है",
+    "start_time_text": "1:05",
+    "start_time_label": "1 minute, 5 seconds"
+   },
+   {
+    "start_ms": 73000,
+    "snippet": "Motorola H7 70 फ्यूजन इसको सेलेक्ट करने का रीज़न यह था कि अंडर 30,000 ऑफर वगैरह के साथ यहां हमें एक एमोलेड डिस्प्ले मिल",
+    "start_time_text": "1:13",
+    "start_time_label": "1 minute, 13 seconds"
+   },
+   {
+    "start_ms": 81000,
+    "snippet": "जाता है 1.5 के 144 हर्टz। बाकी ये कर्व डिस्प्ले है। तो कर्व या फ्लैट आप अपने पसंद के हिसाब से देखिएगा। Snapdragon 7S Z4 के साथ UFS 3.1 का कॉम्बिनेशन है।",
+    "start_time_text": "1:21",
+    "start_time_label": "1 minute, 21 seconds"
+   },
+   {
+    "start_ms": 91000,
+    "snippet": "देखिए स्पेशली परफॉर्मेंस टारगेटेड फोन तो अब इस रेट में मिल नहीं रहे। पर नॉर्मल यूजर के लिए परफरेंस सही मिल जाएगा।",
+    "start_time_text": "1:31",
+    "start_time_label": "1 minute, 31 seconds"
+   },
+   {
+    "start_ms": 96000,
+    "snippet": "इनफैक्ट जो इसका कैमरा है 50 मेगापिक्सल मेन, 13 मेगापिक्सल अल्ट्रा वाइड, 32 मेगापिक्सल सेल्फी इससे आप सही फोटो भी निकाल सकते हो। अच्छी फोटो ले लेता है ये।",
+    "start_time_text": "1:36",
+    "start_time_label": "1 minute, 36 seconds"
+   },
+   {
+    "start_ms": 104000,
+    "snippet": "वीडियो इसकी ओकेओके टाइप बोलूंगा लेकिन फोटो अच्छी आ जाती हैं और चीज़ जैसे IP68 IP69 के साथ आता है। बैटरी भी इसमें बड़ी",
+    "start_time_text": "1:44",
+    "start_time_label": "1 minute, 44 seconds"
+   },
+   {
+    "start_ms": 111000,
+    "snippet": "है। 7000 एमh की बैटरी है और Android 16 के साथ आया था ये। फ्यूचर में इसको 3 + 5 यानी कि 3 साल का Android 5 साल का सिक्योरिटी अपडेट के लिए बोला गया है।",
+    "start_time_text": "1:51",
+    "start_time_label": "1 minute, 51 seconds"
+   },
+   {
+    "start_ms": 119000,
+    "snippet": "क्योंकि Motorola का फोन है तो यह Flipkart पे मिलेगा। Flipkart पे यह 8 GB रैम 128 GB से स्टार्ट हो रहा है। कार्ड डिस्काउंट और ऑफर प्राइस के साथ ₹29,99",
+    "start_time_text": "1:59",
+    "start_time_label": "1 minute, 59 seconds"
+   },
+   {
+    "start_ms": 129000,
+    "snippet": "तक मिल जाएगा। तो जो प्राइस मैं बता रहा हूं जो Flipkart बैनर प्राइस में शो कर रहा है मैं वही बता रहा हूं। और ऑफर प्राइस के साथ आपके पास वो कार्ड भी होना चाहिए। नहीं तो मैनेज करना होगा। तब आपको",
+    "start_time_text": "2:09",
+    "start_time_label": "2 minutes, 9 seconds"
+   },
+   {
+    "start_ms": 137000,
+    "snippet": "यह ऑफर मिलेगा। याद रखिएगा प्राइस आप थोड़ा चेक करते रहिएगा। आजकल प्राइस कभी भी ऊपर नीचे ज्यादा जल्दी हो जाता है।",
+    "start_time_text": "2:17",
+    "start_time_label": "2 minutes, 17 seconds"
+   },
+   {
+    "start_ms": 142000,
+    "snippet": "पहले भी होता था अब थोड़ा और जल्दी हो जाता है। तो मार्केट के हिसाब से देखा जाए ना तो इस प्राइस में Motorola की तरफ से एक अच्छी डील है यह इस प्राइस में। उसके बाद और कोई मैं बताऊं तो दूसरा इसी प्राइस में यह है I11।",
+    "start_time_text": "2:22",
+    "start_time_label": "2 minutes, 22 seconds"
+   },
+   {
+    "start_ms": 154000,
+    "snippet": "IQ Z910 नॉर्मली 20 से ₹22,000 के आसपास की सीरीज रही थी। बट अभी प्राइस इनका भी अबव 30,000 जा चुका है। इसकी खासियत देखिए",
+    "start_time_text": "2:34",
+    "start_time_label": "2 minutes, 34 seconds"
+   },
+   {
+    "start_ms": 162000,
+    "snippet": "है यहां भी कर्व डिस्प्ले फ्लैट डिस्प्ले नहीं है। यहां क्या-क्या मिल जाता है? एक तो एमोलेड डिस्प्ले है। डायमceिटी 7500 प्रोसेसर है। यह नया प्रोसेसर आया था। यह",
+    "start_time_text": "2:42",
+    "start_time_label": "2 minutes, 42 seconds"
+   },
+   {
+    "start_ms": 170000,
+    "snippet": "काफी क्लोज रहता है डायमceिटी 7200 से और UFS 3.1 के कॉम्बिनेशन के साथ आता है।",
+    "start_time_text": "2:50",
+    "start_time_label": "2 minutes, 50 seconds"
+   },
+   {
+    "start_ms": 175000,
+    "snippet": "अराउंड 7000 एमh बैटरी है। और साथ में क्योंकि यह Vivo का ही सब ब्रांड ico है तो ico के फोन में आपको ओरिजन OS मिल जाएगा Android 16 बेस्ड। फ्यूचर में 3 साल",
+    "start_time_text": "2:55",
+    "start_time_label": "2 minutes, 55 seconds"
+   },
+   {
+    "start_ms": 183000,
+    "snippet": "का Android अपडेट, 5 साल का सिक्योरिटी अपडेट बोला गया है। और जो इसमें कैमरा सेटअप दिया हुआ है 50 मेन 8 अल्ट्रा वाइड 32 सेल्फी फोटो भी आपकी सही आ जाएंगी।",
+    "start_time_text": "3:03",
+    "start_time_label": "3 minutes, 3 seconds"
+   },
+   {
+    "start_ms": 191000,
+    "snippet": "डिसेंट फोटो भी दे सकता है यह। यह भी इसी साल का ल्च है। 6GB रैम 128 GB से स्टार्ट हो रहा है ये। और क्योंकि ICO का फोन है तो यह Amazon पे मिलेगा। ऑफर कार्ड",
+    "start_time_text": "3:11",
+    "start_time_label": "3 minutes, 11 seconds"
+   },
+   {
+    "start_ms": 199000,
+    "snippet": "डिस्काउंट के साथ ₹29,99 तक मिल सकता है। तो ICO Z1 या Motorola A70 में आप दोनों सिमिलर प्राइस में है।",
+    "start_time_text": "3:19",
+    "start_time_label": "3 minutes, 19 seconds"
+   },
+   {
+    "start_ms": 205000,
+    "snippet": "जो आपको ब्रांड UI या सर्विस सेंटर वगैरह आपके घर के पास हो वो आप देख सकते हैं। और अगर जिसको ना इसी प्राइस में एक और ऑप्शन है जिसको स्पेशली बैटरी एमए की ज्यादा",
+    "start_time_text": "3:25",
+    "start_time_label": "3 minutes, 25 seconds"
+   },
+   {
+    "start_ms": 214000,
+    "snippet": "रिक्वायरमेंट है या फिर Realme का फोन पसंद करता हो। यह है Realme P4 Power। यस।",
+    "start_time_text": "3:34",
+    "start_time_label": "3 minutes, 34 seconds"
+   },
+   {
+    "start_ms": 220000,
+    "snippet": "यह याद होगा आपको यह इंडिया का पहला फोन था ऑफिशियली जो सबसे पहले 10,000 एमh बैटरी के साथ आया था। आया इसी साल था यह।",
+    "start_time_text": "3:40",
+    "start_time_label": "3 minutes, 40 seconds"
+   },
+   {
+    "start_ms": 227000,
+    "snippet": "80 W का फास्ट चार्जर कॉम्बिनेशन के साथ बॉक्स में मिल जाएगा चार्जर। प्रोसेसर यहां पे मिलता है डायमceिटी 7400 अल्ट्रा।",
+    "start_time_text": "3:47",
+    "start_time_label": "3 minutes, 47 seconds"
+   },
+   {
+    "start_ms": 234000,
+    "snippet": "उसके साथ UFS 3.1 का कॉम्बिनेशन है। तो यह कॉम्बिनेशन नॉर्मल यूजर के लिए सही परफॉरमेंस दे देगा। हैवी परफॉर्मेंस है।",
+    "start_time_text": "3:54",
+    "start_time_label": "3 minutes, 54 seconds"
+   },
+   {
+    "start_ms": 240000,
+    "snippet": "थोड़ा गेमिंग टारगेटेड नहीं है। वैसे सही बताऊं इस रेट में जैसे मैंने कहा फिर 300 से ऊपर जाना पड़ेगा आज की मार्केट में जो ऑप्शन मिल रहे हैं उस हिसाब से। और उसी के",
+    "start_time_text": "4:00",
+    "start_time_label": "4 minutes"
+   },
+   {
+    "start_ms": 247000,
+    "snippet": "साथ Realme P4 Power में 6.8 इंच 1.5 के 144 हर्टz एमोलेड डिस्प्ले मिल जाएगा। ये भी कर्व डिस्प्ले के साथ आता है। कर्व",
+    "start_time_text": "4:07",
+    "start_time_label": "4 minutes, 7 seconds"
+   },
+   {
+    "start_ms": 255000,
+    "snippet": "डिस्प्ले के साथ ज्यादा ऑप्शन है। बीच में कर्व डिस्प्ले का ट्रेंड बहुत ज्यादा ही हुआ था। आप भी जानते हो। अभी भी मिलते हैं कर्व डिस्प्ले वाले। पर कुछ फ्लैट डिस्प्ले वाले भी आ गए हैं। जहां टपर",
+    "start_time_text": "4:15",
+    "start_time_label": "4 minutes, 15 seconds"
+   },
+   {
+    "start_ms": 263000,
+    "snippet": "ग्लास वगैरह इज़ली मिल जाता है। कर्व दिखने में अट्रैक्टिव लगता है। वो आप जानते हो ये सब। और कैमरा की बात करें 50 मेगापिक्सल में 8 अल्ट्रा वाइड और 16 मेगापिक्सल सेल्फी है। डिसेंट फोटो ये भी",
+    "start_time_text": "4:23",
+    "start_time_label": "4 minutes, 23 seconds"
+   },
+   {
+    "start_ms": 272000,
+    "snippet": "आपको निकाल के दे देगा। Android 16 के साथ आया था। फ्यूचर में 3 साल का Android अपडेट, चार साल का सिक्योरिटी अपडेट मिलने वाला है। बहुत ज्यादा यह हैवी परफॉर्मेंस टारगेटेड नहीं है। यह शुरू भी 8GB रैम,",
+    "start_time_text": "4:32",
+    "start_time_label": "4 minutes, 32 seconds"
+   },
+   {
+    "start_ms": 280000,
+    "snippet": "128 GB के साथ हो रहा है। 10000 एमh बैटरी इसका मेन हाईलाइट है। कुछ आप चाहे तो बैटरी डेंट टेस्ट वीडियोस भी देख लीजिएगा।",
+    "start_time_text": "4:40",
+    "start_time_label": "4 minutes, 40 seconds"
+   },
+   {
+    "start_ms": 286000,
+    "snippet": "यह Flipkart पे ऑफर प्राइस के साथ ₹29,99 में मिल जाएगा। अब बाकी इससे कम प्राइस में देखते हैं। नथिंग फ़ 4A तो 300 से ऊपर",
+    "start_time_text": "4:46",
+    "start_time_label": "4 minutes, 46 seconds"
+   },
+   {
+    "start_ms": 294000,
+    "snippet": "जा चुका है। तो इसकी बात मैं कर नहीं सकता। अब ऑफर में तीजा से ऊपर है यह।",
+    "start_time_text": "4:54",
+    "start_time_label": "4 minutes, 54 seconds"
+   },
+   {
+    "start_ms": 298000,
+    "snippet": "जिसको नथिंग का फोन लेना है उनके लिए नथिंग फ़ 4B है। यह फ्लैट डिस्प्ले के साथ आता है। तो कर्व फ्लैट में यहां पे फ्लैट ऑप्शन ऐड हो गया। यहां पे देखिए ऐसे",
+    "start_time_text": "4:58",
+    "start_time_label": "4 minutes, 58 seconds"
+   },
+   {
+    "start_ms": 305000,
+    "snippet": "एक्स्ट्रा ऑर्डिनरी परफॉर्मेंस वगैरह तो नहीं है। 6 जन 4 है। UFS 2.2 मिल जाएगा।",
+    "start_time_text": "5:05",
+    "start_time_label": "5 minutes, 5 seconds"
+   },
+   {
+    "start_ms": 310000,
+    "snippet": "6000 एमh की बैटरी है। 50 मेगापिक्सल मेन 8 मेगापिक्सल अल्ट्रा वाइड और 16 मेगापिक्सल का सेल्फी का कॉम्बिनेशन है।",
+    "start_time_text": "5:10",
+    "start_time_label": "5 minutes, 10 seconds"
+   },
+   {
+    "start_ms": 316000,
+    "snippet": "फोटो ओके आ जाएंगी। इससे बेटर फोटो डेफिनेटली Motorola वाला या IQ वाला फोन ले सकता है। पर इसका वही है जिसको अगर नथिंग का फोन लेना है इन केस और यह थोड़ा",
+    "start_time_text": "5:16",
+    "start_time_label": "5 minutes, 16 seconds"
+   },
+   {
+    "start_ms": 325000,
+    "snippet": "और सस्ता है। सस्ता भी ऐसे ही हुआ क्योंकि इसमें 6GB रैम ऑप्शन ऐड कर दिया गया है।",
+    "start_time_text": "5:25",
+    "start_time_label": "5 minutes, 25 seconds"
+   },
+   {
+    "start_ms": 329000,
+    "snippet": "पहले ये 8 GB के साथ ल्च हुआ था। तो ऑफर प्राइस के साथ Flipkart पे ये ₹27,99 में मिल जाएगा। वैसे कोई नथिंग फोन 4B यूज़",
+    "start_time_text": "5:29",
+    "start_time_label": "5 minutes, 29 seconds"
+   },
+   {
+    "start_ms": 336000,
+    "snippet": "कर रहा है तो कमेंट में बताइए और अगर आप बजट बैलेंस कर सकते हैं इन केस तो यह वीडियो का पार्ट नहीं बस सजेशन दे दिया जिसको नथिंग का फोन लेना है तो नथिंग फ़ 4A",
+    "start_time_text": "5:36",
+    "start_time_label": "5 minutes, 36 seconds"
+   },
+   {
+    "start_ms": 344000,
+    "snippet": "की तरफ जाइएगा 4B की जगह। तो वैसे एक और फोन मार्केट में ल्च हुआ है जो कि मेरे पास है नहीं वो है Oppo K14 P अंडर 300000",
+    "start_time_text": "5:44",
+    "start_time_label": "5 minutes, 44 seconds"
+   },
+   {
+    "start_ms": 352000,
+    "snippet": "ल्च हुआ है यह। फिर आप कहोगे बाय करके वीडियो दे दीजिए। तो मेरे पास एक्चुअली बाय करने का डेट भी अभी नहीं आया है। अगर मैनेज हो गया मेरे पास फोन ये पहले तो मैं एक वीडियो जरूर लाने की कोशिश करूंगा।",
+    "start_time_text": "5:52",
+    "start_time_label": "5 minutes, 52 seconds"
+   },
+   {
+    "start_ms": 361000,
+    "snippet": "अगला फ़ थोड़ा और कम प्राइस का मतलब अभी 25,000 से नीचे देखते हैं। तो यहां पे Poco X8 मिल सकता है। एक एमोलेड डिस्प्ले",
+    "start_time_text": "6:01",
+    "start_time_label": "6 minutes, 1 second"
+   },
+   {
+    "start_ms": 368000,
+    "snippet": "है 1.5 के 120 हर्टz। 6s Zen4 है। अच्छा यहां पे एक ट्विस्ट है। यह 6GB रैम 128 GB से स्टार्ट होता है। लेकिन यहां पे UFS",
+    "start_time_text": "6:08",
+    "start_time_label": "6 minutes, 8 seconds"
+   },
+   {
+    "start_ms": 375000,
+    "snippet": "2.2 मिलेगा और जो इसका हायर वेरिएंट है वहां फिर UFS 3.1 मिल जाएगा। लेकिन हायर वेरिएंट के साथ प्राइस भी बढ़ जाएगा। और",
+    "start_time_text": "6:15",
+    "start_time_label": "6 minutes, 15 seconds"
+   },
+   {
+    "start_ms": 383000,
+    "snippet": "Poco X8 में 9000 एमh की बैटरी है। 50 मेगापिक्सल मेन कैमरा है। अल्ट्रा वाइड कैमरा कोई नहीं है। इसमें 16 मेगापिक्सल सेल्फी है। ऑफर प्राइस के साथ यह शो कर",
+    "start_time_text": "6:23",
+    "start_time_label": "6 minutes, 23 seconds"
+   },
+   {
+    "start_ms": 390000,
+    "snippet": "रहा है। Flipkart पे बैनर प्राइिंग ₹24,99।",
+    "start_time_text": "6:30",
+    "start_time_label": "6 minutes, 30 seconds"
+   },
+   {
+    "start_ms": 394000,
+    "snippet": "यह बैनर प्राइिंग मैं फिर से हाईलाइट इसलिए कर रहा हूं। यह प्राइस तक आएगा कार्ड ऑफर अगर आप सब मैनेज कर पाते हो तो और प्राइस चेक करते रहिएगा। अक्सर प्राइस",
+    "start_time_text": "6:34",
+    "start_time_label": "6 minutes, 34 seconds"
+   },
+   {
+    "start_ms": 402000,
+    "snippet": "ऊपर नीचे होता है और इस बार मुझे पता नहीं क्यों लग रहा है यह और ज्यादा होगा। तो जो मैं ऑफर बता रहा हूं वो प्राइसिंग के ओपिनियन के हिसाब से ऐड किया गया है। कल",
+    "start_time_text": "6:42",
+    "start_time_label": "6 minutes, 42 seconds"
+   },
+   {
+    "start_ms": 409000,
+    "snippet": "को थोड़े से स्लॉट हो आउट ऑफ स्टॉक हो जाए फिर प्राइस 4000 बढ़ जाए तो फिर मेरी ये बातें लागू नहीं होंगी। फिर ऑप्शन बदल जाएंगे। अच्छा एक और फोन है। इसका नाम है",
+    "start_time_text": "6:49",
+    "start_time_label": "6 minutes, 49 seconds"
+   },
+   {
+    "start_ms": 417000,
+    "snippet": "वैसे Realme P4X इसमें सबसे पहले तो डायमceिटी 7400 अल्ट्रा प्रोसेसर है। UFS 3.1 दे रखा है। अंडर 25000 आजकल UFS 3.1",
+    "start_time_text": "6:57",
+    "start_time_label": "6 minutes, 57 seconds"
+   },
+   {
+    "start_ms": 426000,
+    "snippet": "मिल जाए। बहुत अच्छी बात कहलाती है। 7000 एमh की बड़ी बैटरी भी मिल जाएगा। डिसेंट फोटो ही आएंगी। ज्यादा बुरी भी नहीं। बहुत ज्यादा उम्मीद भी मत लगाइएगा। बेस्ट टाइप।",
+    "start_time_text": "7:06",
+    "start_time_label": "7 minutes, 6 seconds"
+   },
+   {
+    "start_ms": 434000,
+    "snippet": "बेस्ट टाइप तो मुझे खुद नहीं समझ में आ रहा है कि 25,000 से नीचे मैं कौन सा बेस्ट कैमरा के लिए रिकमेंड करूं। और यह फ्लैट डिस्प्ले के साथ आता है। पंच होल है। पर याद रखिएगा दो बातें। एक तो ये",
+    "start_time_text": "7:14",
+    "start_time_label": "7 minutes, 14 seconds"
+   },
+   {
+    "start_ms": 443000,
+    "snippet": "Android 15 के साथ आया था। फ्यूचर में इसको 2 साल का Android अपडेट मिलना है तो Android 17 तक जाएगा और इसमें 6.72 इंच फुल एचडी प्लस डिस्प्ले है। 144 हर्टz भी है। लेकिन यह एक आईपीs डिस्प्ले है।",
+    "start_time_text": "7:23",
+    "start_time_label": "7 minutes, 23 seconds"
+   },
+   {
+    "start_ms": 454000,
+    "snippet": "एमोलेड नहीं है। अब जैसे मैंने एमोलेड डिस्प्ले के साथ यह Infinix वाला फोन देखा पर Infinix वाले फोन का हार्डवेयर वीक है।",
+    "start_time_text": "7:34",
+    "start_time_label": "7 minutes, 34 seconds"
+   },
+   {
+    "start_ms": 460000,
+    "snippet": "दैट्स व्हाई मैंने P4X की बात की और 6GB रैम 128 GB के साथ ऑफर प्राइस में ₹22,99 तक मिल जाएगा। बाकी मैंने देखा ऑफर में",
+    "start_time_text": "7:40",
+    "start_time_label": "7 minutes, 40 seconds"
+   },
+   {
+    "start_ms": 468000,
+    "snippet": "मिल नहीं रहा कुछ खास। लेकिन अगर Oppo K13 पे आपको अप टू ₹22,000 ऐसा कुछ ऑफर मिल जाए तो आप K13 ऐसे तो मैंने तो 189000 का लिया था। अभी भी आप कंसीडर कर सकते हैं।",
+    "start_time_text": "7:48",
+    "start_time_label": "7 minutes, 48 seconds"
+   },
+   {
+    "start_ms": 479000,
+    "snippet": "प्रॉब्लम यह है मैं इस पे ज्यादा बात इसलिए नहीं कर रहा हूं क्योंकि मैं चेक भी कर रहा हूं तो है अंडर 25000 दिखा रहा है पर नॉट डिलीवरेबल है तो फिर उन पे क्या ही",
+    "start_time_text": "7:59",
+    "start_time_label": "7 minutes, 59 seconds"
+   },
+   {
+    "start_ms": 486000,
+    "snippet": "बात करूं मैं पर आप चेक कर लेना मैंने एक ऐड कर दिया ऑप्शन अगर मिल जाए। एक और फ़ बल्कि हां, यहां पे डेफिनेटली एक फ़ जो नया",
+    "start_time_text": "8:06",
+    "start_time_label": "8 minutes, 6 seconds"
+   },
+   {
+    "start_ms": 493000,
+    "snippet": "आया है, वह है यह लावा की तरफ से लावा विराट C कर्व 5G। यहां फ्लैट डिस्प्ले नहीं है। इसमें भी कर्व डिस्प्ले",
+    "start_time_text": "8:13",
+    "start_time_label": "8 minutes, 13 seconds"
+   },
+   {
+    "start_ms": 500000,
+    "snippet": "डायमceिटी 7100 के साथ UFS 2.2 का कॉम्बिनेशन है। याद रखिएगा लावा का फोन है तो UI में बहुत कस्टमाइजेशन नहीं मिलता।",
+    "start_time_text": "8:20",
+    "start_time_label": "8 minutes, 20 seconds"
+   },
+   {
+    "start_ms": 506000,
+    "snippet": "हां, इन्होंने UI पे कुछ एक्स्ट्रा काम जरूर किया है। वो अपडेट इन फ्यूचर इसमें आ जाएगा। लावा का ऐसा कहना है। ठीक-ठाक फोटो ले लेता है। अभी भी कई जगह इंप्रूवमेंट की",
+    "start_time_text": "8:26",
+    "start_time_label": "8 minutes, 26 seconds"
+   },
+   {
+    "start_ms": 515000,
+    "snippet": "जरूरत फील होती है। पर वही है जैसे मैंने कहा ना मार्केट में जैसे ऑप्शन वैसे ही दिख रहे हैं। क्योंकि Flipkart पे ऑफर के साथ ₹2199",
+    "start_time_text": "8:35",
+    "start_time_label": "8 minutes, 35 seconds"
+   },
+   {
+    "start_ms": 522000,
+    "snippet": "तक मिल जाएगा 6 GB रैम 128 GB के साथ। और मेन लावा एक ऐसा ब्रांड है। इंडियन ब्रांड तो और भी है। कुछ तो अभी एकदम से आ गए हैं ना। हमें उनके सर्विस वगैरह का नहीं पता।",
+    "start_time_text": "8:42",
+    "start_time_label": "8 minutes, 42 seconds"
+   },
+   {
+    "start_ms": 531000,
+    "snippet": "बिकॉज़ ये सर्विस पे काम करते हैं। ऐसे बेच के भागने वाले वाला हाल नहीं है। बहुत पुराने ब्रांड है। एंड एक अपडेट फ्रॉम फ्यूचर वीडियो जो आप वीडियो देख रहे हैं।",
+    "start_time_text": "8:51",
+    "start_time_label": "8 minutes, 51 seconds"
+   },
+   {
+    "start_ms": 537000,
+    "snippet": "ये एक और वीडियो आ रही है जिसमें ₹10,000 से लेके ₹1 लाख के बीच में और कौन से स्मार्टफोन हो सकते हैं? क्या सिचुएशन है? मेरे क्या पिक है? उसकी भी बात करेंगे।",
+    "start_time_text": "8:57",
+    "start_time_label": "8 minutes, 57 seconds"
+   },
+   {
+    "start_ms": 545000,
+    "snippet": "दैट्स इट। यह अभी के डेट में मिल रहे हैं।",
+    "start_time_text": "9:05",
+    "start_time_label": "9 minutes, 5 seconds"
+   },
+   {
+    "start_ms": 547000,
+    "snippet": "कोई स्किप हो गया हो कमेंट सेक्शन में बता दीजिएगा। मैं लाइव भी आऊंगा तो वहां पे भी हम ऐड करेंगे। सजेशन वगैरह। और अब मैं फोन चेक कर रहा था। Vivo का कोई फोन नहीं दिखा",
+    "start_time_text": "9:07",
+    "start_time_label": "9 minutes, 7 seconds"
+   },
+   {
+    "start_ms": 556000,
+    "snippet": "जो ऐड किया जा सके। Samsung की तरफ से A56 300 से ऊपर है तो वो ऐड हो नहीं सकता। A36 वगैरह जिसको लेना ही Samsung का है वो देख",
+    "start_time_text": "9:16",
+    "start_time_label": "9 minutes, 16 seconds"
+   },
+   {
+    "start_ms": 564000,
+    "snippet": "सकता है। या Galaxy M56 अगर मिल जाए तो वो पहली प्रेफरेंस हो जाएगी। अगर मिले वो Amazon पे मिलेगा। चेक करिए अभी दिखा नहीं रहा है। यह जरूर बता सकते हैं आपने कौन सा",
+    "start_time_text": "9:24",
+    "start_time_label": "9 minutes, 24 seconds"
+   },
+   {
+    "start_ms": 571000,
+    "snippet": "बाय कर लिया और अभी आप खुश हैं या कौन सा बाय करने वाले हैं। सब कुछ कमेंट सेक्शन में। वीडियो पसंद आया तो लाइक, शेयर, सब्सक्राइब करिए। मैं मिलता हूं आपसे अगले वीडियो",
+    "start_time_text": "9:31",
+    "start_time_label": "9 minutes, 31 seconds"
+   }
+  ]
+ }
+}

@@ -1,0 +1,699 @@
+{
+ "request": {
+  "engine": "youtube_video",
+  "gl": "in",
+  "hl": "en",
+  "v": "gdQJn8FE42Y"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7d0b603b136e2e22a6802",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/Rnw8MIyTHTgT8VCTLp69li3_CRoEO3F_AS7JaUx-NQ0/6ac7d0b603b136e2e22a6802.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Rnw8MIyTHTgT8VCTLp69li3_CRoEO3F_AS7JaUx-NQ0/6ac7d0b603b136e2e22a6802.md",
+   "created_at": "2026-10-08 17:19:50 UTC",
+   "processed_at": "2026-10-08 17:19:50 UTC",
+   "youtube_video_url": "https://www.youtube.com/watch?v=gdQJn8FE42Y",
+   "raw_html_file": "https://serpapi.com/searches/Rnw8MIyTHTgT8VCTLp69li3_CRoEO3F_AS7JaUx-NQ0/6ac7d0b603b136e2e22a6802.html",
+   "prettify_html_file": "https://serpapi.com/searches/Rnw8MIyTHTgT8VCTLp69li3_CRoEO3F_AS7JaUx-NQ0/6ac7d0b603b136e2e22a6802.prettify",
+   "total_time_taken": 0.91
+  },
+  "search_parameters": {
+   "engine": "youtube_video",
+   "v": "gdQJn8FE42Y",
+   "gl": "in",
+   "hl": "en"
+  },
+  "title": "Top 5 phone under 30000 in October 2026 | flipkart Bbd sale 2026",
+  "thumbnail": "https://i.ytimg.com/vi/gdQJn8FE42Y/maxresdefault.jpg",
+  "channel": {
+   "name": "Gadgets news Hindii",
+   "thumbnail": "https://yt3.ggpht.com/gvav-QrsvRi4cUaFJCR5tm_lXvWm8Jh44MBR7w_QIvPKvGrd74u6PSW0WxUWBkb-Kr88HBO-5g=s176-c-k-c0x00ffffff-no-rj",
+   "link": "https://www.youtube.com/@GadgetsnewsHindii",
+   "subscribers": "177K subscribers",
+   "extracted_subscribers": 177000,
+   "verified": true
+  },
+  "views": "12,989 views",
+  "extracted_views": 12989,
+  "likes": "45",
+  "extracted_likes": 45,
+  "published_date": "Oct 5, 2026",
+  "description": {
+   "content": "Top 5 phone under 30000 in October 2026 \n\nin this video we have talked about best phone under 30000\n\nYOU CAN FOLLOW US ON\n\nEmail-  --- ramvrikshp9@gmail.com\n\nLIKE ! SHARE \n\nMusic Used : Warship the 126ers\n\n\nYour Queries:\nbest phone under 30000 2026, phones under 30000 2026, best phones under 30000 2026, best phone under 30000 in 2026, best phone under 30000 5g 2026, under 30000 best phone 2026, \n\nbest phone under 30000 bbd sale 2026\nbest phone under 30000 bbd sale\nbest phone under 30000 bbd\nbest gaming phone under 30000 bbd\nbest samsung phone under 30000 bbd sale\nbest gaming phone under 30000 bbd sale\nbest all rounder phone under 30000 bbd sale\nbest phone under 30000 big billion day\nbest phone under 30000 big billion\nbest phone under 30000 big billion days 2025\nbest smartphone under 30000 big billion day\nbest android phone under 30000 big billion day\nbest mobile phone under 30000 big billion day\nbest phone under 30000 in big billion day sale\nbest camera phone under 30000 big billion day\n\nbest camera phone under 30000 bbd sale\n best phones under 30000 2026, best phone under 30000 in 2026, best phone under 30000 5g 2026, top smartphones under 30000, top 5 best smartphone under 30000, best smartphone under 30k in 2026, under 30000 best phone 2026, best smartphones under 30000, top 5 smartphones under 30000, flipkart,  amazon,  Gadgets News Hindii\n\n\n\n#bestphoneunder30000\n#bestcameraphoneunder30000 \n#bestgamingphoneunder30000\n#bestsmartphoneunder30000\n#bestmobileunder30000\n#5gphoneunder30000\n#gadgetsnewshindii\n\nNote \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fire use\" for purposes such as criticism, comment, news reporting, taching, scholarship, and research. Fire use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\nAbout Gadgets News Hindi  : Gadgets News Hindi is a YouTube  channel, Where You Will Find Gedget & Smartphones Releted Videos Everyday In Hindi, New Video Is Posted Everyday. ]\n\nTHANKS FOR WATCHING......",
+   "links": [
+    {
+     "start_index": 1369,
+     "length": 20,
+     "text": "#bestphoneunder30000",
+     "url": "https://www.youtube.com/hashtag/bestphoneunder30000",
+     "type": "browse"
+    },
+    {
+     "start_index": 1390,
+     "length": 26,
+     "text": "#bestcameraphoneunder30000",
+     "url": "https://www.youtube.com/hashtag/bestcameraphoneunder30000",
+     "type": "browse"
+    },
+    {
+     "start_index": 1418,
+     "length": 26,
+     "text": "#bestgamingphoneunder30000",
+     "url": "https://www.youtube.com/hashtag/bestgamingphoneunder30000",
+     "type": "browse"
+    },
+    {
+     "start_index": 1445,
+     "length": 25,
+     "text": "#bestsmartphoneunder30000",
+     "url": "https://www.youtube.com/hashtag/bestsmartphoneunder30000",
+     "type": "browse"
+    },
+    {
+     "start_index": 1471,
+     "length": 21,
+     "text": "#bestmobileunder30000",
+     "url": "https://www.youtube.com/hashtag/bestmobileunder30000",
+     "type": "browse"
+    },
+    {
+     "start_index": 1493,
+     "length": 18,
+     "text": "#5gphoneunder30000",
+     "url": "https://www.youtube.com/hashtag/5gphoneunder30000",
+     "type": "browse"
+    },
+    {
+     "start_index": 1512,
+     "length": 18,
+     "text": "#gadgetsnewshindii",
+     "url": "https://www.youtube.com/hashtag/gadgetsnewshindii",
+     "type": "browse"
+    }
+   ]
+  },
+  "related_videos": [
+   {
+    "video_id": "pL3xeFqZxvg",
+    "link": "https://www.youtube.com/watch?v=pL3xeFqZxvg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pL3xeFqZxvg",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/pL3xeFqZxvg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDc_e-DCSstm6SzlWZUze91g0jfyQ",
+     "rich": "https://i.ytimg.com/an_webp/pL3xeFqZxvg/mqdefault_6s.webp?du=3000&sqp=CPiOn9YG&rs=AOn4CLDxQHQQd7Yl-4k_kw2lEhgQDVgmoQ"
+    },
+    "title": "Best Smartphone to Buy - My Clear Suggestion (2026)",
+    "published_date": "1d ago",
+    "views": "1M",
+    "extracted_views": 1000000,
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy",
+     "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "RMl_7eArMpA",
+    "link": "https://www.youtube.com/watch?v=RMl_7eArMpA&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RMl_7eArMpA",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/RMl_7eArMpA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDupmJO6OwfHy51eo_RSt3HnLShw",
+     "rich": "https://i.ytimg.com/an_webp/RMl_7eArMpA/mqdefault_6s.webp?du=3000&sqp=CLCPn9YG&rs=AOn4CLDZn2TSI3QmSouS3Yg_rA4LE6te-w"
+    },
+    "title": "Top 10 Best Samsung Budget Phones to Buy in 2026 – Don’t Buy Until You Watch This!",
+    "published_date": "4mo ago",
+    "views": "16K",
+    "extracted_views": 16000,
+    "channel": {
+     "name": "Tech Scope",
+     "link": "https://www.youtube.com/@TechScope-8",
+     "thumbnail": "https://yt3.ggpht.com/MnLUzqW9uijy_6vhi94Bn5-HbSzAglzlh1p3hOxjcVmRnhzBpqEaR19Snu8MhxxSraeGZIpuPA=s68-c-k-c0x00ffffff-no-rj"
+    }
+   },
+   {
+    "video_id": "VX-R0Qr2tMY",
+    "link": "https://www.youtube.com/watch?v=VX-R0Qr2tMY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VX-R0Qr2tMY",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/VX-R0Qr2tMY/hqdefault_custom_2.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBR66SkIZPoaxgtSLWmLnvjJtQ8kA",
+     "rich": "https://i.ytimg.com/an_webp/VX-R0Qr2tMY/mqdefault_6s.webp?du=3000&sqp=CJLnntYG&rs=AOn4CLDsd1ZND4vUeNm7WFuCzwJIc4ByOA"
+    },
+    "title": "10 Smartphones on Crazy Discount in Flipkart Big Billion Days Sale & Amazon Sale 2026",
+    "published_date": "1d ago",
+    "views": "165K",
+    "extracted_views": 165000,
+    "channel": {
+     "name": "Techy Kiran",
+     "link": "https://www.youtube.com/@TechyKiran",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_meuJFq_j4Y1ZyUGAJ5q0OsnIzQmEVddRF8tZVARvIhGfU=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New",
+     "Auto-dubbed"
+    ]
+   },
+   {
+    "video_id": "1GofQ1ppDSk",
+    "link": "https://www.youtube.com/watch?v=1GofQ1ppDSk",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1GofQ1ppDSk",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/1GofQ1ppDSk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAI8x7OfvQOL-uq4d2ILRrBLDjUuw",
+     "rich": "https://i.ytimg.com/an_webp/1GofQ1ppDSk/mqdefault_6s.webp?du=3000&sqp=CLfuntYG&rs=AOn4CLC5xosjnqOVIv2xU7oeuF9f7LQqHw"
+    },
+    "title": "New AI+ SmartPhone in India !",
+    "published_date": "5mo ago",
+    "views": "1.3M",
+    "extracted_views": 1300000,
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy",
+     "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "JUzsrqTqmf8",
+    "link": "https://www.youtube.com/watch?v=JUzsrqTqmf8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JUzsrqTqmf8",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/JUzsrqTqmf8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDYx30b-n4_DZ3VIJ1vp6_XNMIX4A",
+     "rich": "https://i.ytimg.com/an_webp/JUzsrqTqmf8/mqdefault_6s.webp?du=3000&sqp=CPqWn9YG&rs=AOn4CLCUXRx1rjmk1zLayzJJo3YoEHYQeA"
+    },
+    "title": "Top 7 Phones From ₹20,000 to ₹30,000 Rupees !",
+    "published_date": "3d ago",
+    "views": "702K",
+    "extracted_views": 702000,
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy",
+     "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "FaqICPBBZic",
+    "link": "https://www.youtube.com/watch?v=FaqICPBBZic",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FaqICPBBZic",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/FaqICPBBZic/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr-RY8M0t4aX00UCGBtBJ3BzskpA",
+     "rich": "https://i.ytimg.com/an_webp/FaqICPBBZic/mqdefault_6s.webp?du=3000&sqp=CPmEn9YG&rs=AOn4CLDRG1jZl8uXgFI8-9VDOPF28K25rQ"
+    },
+    "title": "Best Gaming Phones From ₹30K To ₹1Lakh – 90FPS vs 120FPS , Winners & Skips!",
+    "published_date": "1y ago",
+    "views": "304K",
+    "extracted_views": 304000,
+    "channel": {
+     "name": "Gaming Pathshala and Techy Pathshala",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "mqAzKB2Ou9k",
+    "link": "https://www.youtube.com/watch?v=mqAzKB2Ou9k",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mqAzKB2Ou9k",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/mqAzKB2Ou9k/hqdefault.jpg?v=6ac7c1de&sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBREzS_FZdW_wacmu7nkQnDmotmQQ"
+    },
+    "title": "🔴SALE IS LIVE 🔥 Flipkart BBD + Amazon GIF 2026 | BEST Deals & Biggest Discounts! 🔴 LIVE",
+    "views": "445 watching",
+    "extracted_views": 445,
+    "channel": {
+     "name": "Techie Bist",
+     "link": "https://www.youtube.com/@TechieBist",
+     "thumbnail": "https://yt3.ggpht.com/-p8vl3wqPb3U6k9Ngb9xUSd6ar5jUsYU_hSICxnFucEYw3j8qLWzTua-WJmoMNGwgo1AackQzg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "-3ejMIwoYIE",
+    "link": "https://www.youtube.com/watch?v=-3ejMIwoYIE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-3ejMIwoYIE",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/-3ejMIwoYIE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCgT8bsrds64XRKTi3cFrpb__qHrQ",
+     "rich": "https://i.ytimg.com/an_webp/-3ejMIwoYIE/mqdefault_6s.webp?du=3000&sqp=CLD4ntYG&rs=AOn4CLCYB2fR5gZ59bR9eZsukRzVALwCGA"
+    },
+    "title": "Best Smartphone in Every Budget ₹10k to ₹1 Lakh Don't get Scammed 🔥",
+    "published_date": "1mo ago",
+    "views": "882K",
+    "extracted_views": 882000,
+    "channel": {
+     "name": "Next Univerz",
+     "link": "https://www.youtube.com/@NextUniverz",
+     "thumbnail": "https://yt3.ggpht.com/io5kxJ9NhC828TUZbzr3wockAh2Znxp3JJqLi3B559iX4ejfaKsyF6G36JTpH3oWNsDT5tkxYw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "Auto-dubbed"
+    ]
+   },
+   {
+    "video_id": "J9DDFMBYV00",
+    "link": "https://www.youtube.com/watch?v=J9DDFMBYV00",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=J9DDFMBYV00",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/J9DDFMBYV00/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAxid7dXi1FvhBRAHXMYcqYfrAiPg",
+     "rich": "https://i.ytimg.com/an_webp/J9DDFMBYV00/mqdefault_6s.webp?du=3000&sqp=CJWZn9YG&rs=AOn4CLD30YG_UpgXdQnt8hmX99iakSYCrA"
+    },
+    "title": "🔥 ₹50,000 के अंदर BEST CAMERA PHONE कौन सा है? 📸 TOP 5 Camera Phones 2026!",
+    "published_date": "1mo ago",
+    "views": "381",
+    "extracted_views": 381,
+    "channel": {
+     "name": "Mobile Yantr",
+     "link": "https://www.youtube.com/@MobileYantr",
+     "thumbnail": "https://yt3.ggpht.com/2JBPXgIHWfq4bt51ayH2ljrRtPx4LhbgJcnuWQbx7L4QbqR52rABhu0ndkyXOpdh4ZcMY-L5gQ=s68-c-k-c0x00ffffff-no-rj"
+    }
+   },
+   {
+    "video_id": "lUzg1YBUNDo",
+    "link": "https://www.youtube.com/watch?v=lUzg1YBUNDo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lUzg1YBUNDo",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lUzg1YBUNDo/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCbcB8MuiF1LTeisSr6Ta-q-5J2ZQ",
+     "rich": "https://i.ytimg.com/an_webp/lUzg1YBUNDo/mqdefault_6s.webp?du=3000&sqp=CL6En9YG&rs=AOn4CLBYkt_EmdZQxQBBqrympuXYLBvR-Q"
+    },
+    "title": "My Final Picks : Flipkart BBD & Amazon GIF Sale | DON'T SKIP 🚨",
+    "published_date": "1d ago",
+    "views": "259K",
+    "extracted_views": 259000,
+    "channel": {
+     "name": "Techno Ruhez",
+     "link": "https://www.youtube.com/@TechnoRuhez",
+     "thumbnail": "https://yt3.ggpht.com/QRorXoNjkwDgFhrnplEqz189m9qAgdM3aglBMM4Eat3dULvqu2fyutNchcB_U8REOd83LmYWqyY=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "taZ0KMthpZs",
+    "link": "https://www.youtube.com/watch?v=taZ0KMthpZs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=taZ0KMthpZs",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/taZ0KMthpZs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLANFRh_FQq9HHFEKc3q8vOWkGyFxg",
+     "rich": "https://i.ytimg.com/an_webp/taZ0KMthpZs/mqdefault_6s.webp?du=3000&sqp=COmIn9YG&rs=AOn4CLBp-BNdp5X0rEHUbro2y2yiBR8jLg"
+    },
+    "title": "My FAVORITE Phone DEALS in Amazon & Flipkart SALE ! *NO CONFUSION*",
+    "published_date": "1d ago",
+    "views": "434K",
+    "extracted_views": 434000,
+    "channel": {
+     "name": "TechBar",
+     "link": "https://www.youtube.com/@TechBar",
+     "thumbnail": "https://yt3.ggpht.com/TQ3e9Ye1BqlarAIyngEWlrKVyCVQpNYMiGUsE5PZSXjQ94cPXb01HfdCFpovzn_JMyUO8e4o=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "C7OD898gp_U",
+    "link": "https://www.youtube.com/watch?v=C7OD898gp_U&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=C7OD898gp_U",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/C7OD898gp_U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCsPCuCeVrQDTtLWS7_CrV_QNl6Sg",
+     "rich": "https://i.ytimg.com/an_webp/C7OD898gp_U/mqdefault_6s.webp?du=3000&sqp=CPuXn9YG&rs=AOn4CLCSLbgbRqOanphBqB4v4YnGdKVBhw"
+    },
+    "title": "Please don’t buy a new phone !!",
+    "published_date": "9d ago",
+    "views": "746K",
+    "extracted_views": 746000,
+    "channel": {
+     "name": "Tech Junkies",
+     "link": "https://www.youtube.com/@TechJunkies",
+     "thumbnail": "https://yt3.ggpht.com/qpmrPjmXvNR6h7ykR2grlW37eaGCBOD59cr2bD1hYgpoXMSrPj600__UIr_8mlc4lAixKNAm=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "VydNxY4NKW0",
+    "link": "https://www.youtube.com/watch?v=VydNxY4NKW0&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VydNxY4NKW0",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/VydNxY4NKW0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClkDecMQ8w1drgxWH7x_xUFcIANQ",
+     "rich": "https://i.ytimg.com/an_webp/VydNxY4NKW0/mqdefault_6s.webp?du=3000&sqp=CN6en9YG&rs=AOn4CLCFmBe_QjeXFzXDxtsx_6PpazMACQ"
+    },
+    "title": "The ONLY 5 Samsung Phones Actually Worth Buying in 2026",
+    "published_date": "3mo ago",
+    "views": "325K",
+    "extracted_views": 325000,
+    "channel": {
+     "name": "Seven Tech",
+     "link": "https://www.youtube.com/@SevenTech",
+     "thumbnail": "https://yt3.ggpht.com/tz2TzwrS0zcyYXsGqLhgpa0yfbiS5nlzVUDn31ckYhKDUNkCnmQWGJLRT1V0iawW8zxmcQAU6w=s68-c-k-c0x00ffffff-no-rj"
+    }
+   },
+   {
+    "video_id": "itjnwNZj7Tw",
+    "link": "https://www.youtube.com/watch?v=itjnwNZj7Tw&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=itjnwNZj7Tw",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/itjnwNZj7Tw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDmAkCv4OF695jfmVNV8S__AsMNvA",
+     "rich": "https://i.ytimg.com/an_webp/itjnwNZj7Tw/mqdefault_6s.webp?du=3000&sqp=CKj0ntYG&rs=AOn4CLB1jfX3JvCy3Saagj3l6X6keccxQw"
+    },
+    "title": "Top 10 Best Mobile Phones 40,000 – ₹1,00,000 in 2026 ⚡Flipkart & Amazon Sale 2026",
+    "published_date": "1d ago",
+    "views": "43K",
+    "extracted_views": 43000,
+    "channel": {
+     "name": "Harshit Technical",
+     "link": "https://www.youtube.com/@HarshitTechnicalYT",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mMqJvZR9c7YXcXzOrBTuPtPzFxwvlxPqMxbQIddA9yHYc=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "RG2S0FWh99g",
+    "link": "https://www.youtube.com/watch?v=RG2S0FWh99g",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RG2S0FWh99g",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/RG2S0FWh99g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCPM5tfdI1HXZmgO_Qq2cpAFcr71A",
+     "rich": "https://i.ytimg.com/an_webp/RG2S0FWh99g/mqdefault_6s.webp?du=3000&sqp=CMiUn9YG&rs=AOn4CLC5r2TRqn6UmLC6OpWPT5WIFpSJCQ"
+    },
+    "title": "SALE LIVE 🚨 Flipkart Big Billion Days 2026 Best Mobile Offer 🔥 Flipkart BBD Sale 2026 Phone Deals ",
+    "published_date": "1d ago",
+    "views": "26K",
+    "extracted_views": 26000,
+    "channel": {
+     "name": "AmiT Technology",
+     "link": "https://www.youtube.com/@AmiTTechnology",
+     "thumbnail": "https://yt3.ggpht.com/hI_Ma9cekPCuII9Mpk-eTP8voHVQak2tOSPD8l48W4P76wW6_Ci8lqPbGMonG2yNVUqzlic3HQ=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "uwF8pICEQJA",
+    "link": "https://www.youtube.com/watch?v=uwF8pICEQJA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uwF8pICEQJA",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/uwF8pICEQJA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC6dVzG8PzLMlWC_2VVFGV1M0DwkQ",
+     "rich": "https://i.ytimg.com/an_webp/uwF8pICEQJA/mqdefault_6s.webp?du=3000&sqp=COCVn9YG&rs=AOn4CLD0SmW1NHM9QO1cMFr0evCAJPkvKA"
+    },
+    "title": "Nothing Phone 4a Unboxing & Test - Telephoto camera Phone",
+    "published_date": "7mo ago",
+    "views": "1.2M",
+    "extracted_views": 1200000,
+    "channel": {
+     "name": "Technology Gyan",
+     "link": "https://www.youtube.com/@TechnologyGyan",
+     "thumbnail": "https://yt3.ggpht.com/utfTJ7b2YEJSS7Ta5t1NR2QzkMm4_ODijQZI8hKDIJA7msvsISYh1dyw2PLHjzlfr7hrW5sVrQ=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "OGH4DTTcXLA",
+    "link": "https://www.youtube.com/watch?v=OGH4DTTcXLA&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OGH4DTTcXLA",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/OGH4DTTcXLA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1RVrZxDrSL83Q9wykYQRfIfe5_Q",
+     "rich": "https://i.ytimg.com/an_webp/OGH4DTTcXLA/mqdefault_6s.webp?du=3000&sqp=CID8ntYG&rs=AOn4CLCSgOTadLiJ9MHc5d5IOfIdLipKBQ"
+    },
+    "title": "Don't Get Scammed, Don't Buy These Mobiles || Flipkart BBD sale and Amazon Great Indian Sale ||",
+    "published_date": "2d ago",
+    "views": "95K",
+    "extracted_views": 95000,
+    "channel": {
+     "name": "Telugu Tech Guru",
+     "link": "https://www.youtube.com/@TeluguTechGuru",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kfoH7Qst8a6FHQ2GGq-TEKYltxGimr_MEwxYnpbOhPaUs=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New",
+     "Auto-dubbed"
+    ]
+   },
+   {
+    "video_id": "37Mc2cXPvVE",
+    "link": "https://www.youtube.com/watch?v=37Mc2cXPvVE&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=37Mc2cXPvVE",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/37Mc2cXPvVE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCakoZN_6PWMdRBMtwTDG7AbzAklg",
+     "rich": "https://i.ytimg.com/an_webp/37Mc2cXPvVE/mqdefault_6s.webp?du=3000&sqp=CNLvntYG&rs=AOn4CLCZPsDBz15cct0TGF1jedyf2DscZQ"
+    },
+    "title": "5 Phone Brands ROBBING You Blind and 5 That Are Worth The Money",
+    "published_date": "3mo ago",
+    "views": "216K",
+    "extracted_views": 216000,
+    "channel": {
+     "name": "The Top Tech Insider",
+     "link": "https://www.youtube.com/@TheTopTechInsiderYT",
+     "thumbnail": "https://yt3.ggpht.com/eEYIDNclicWf3o3FB8_ZWZ6vFngKRdAO96fwvt1kxQLH4Et4OIkl-njVu3zOF4ky6KmyJPKv=s68-c-k-c0x00ffffff-no-rj"
+    }
+   },
+   {
+    "video_id": "5SvEbgE7mLI",
+    "link": "https://www.youtube.com/watch?v=5SvEbgE7mLI&pp=ugUEEgJlbg%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5SvEbgE7mLI",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/5SvEbgE7mLI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzXnjr0T241JBGMDejEWYUfBGeYQ",
+     "rich": "https://i.ytimg.com/an_webp/5SvEbgE7mLI/mqdefault_6s.webp?du=3000&sqp=CISSn9YG&rs=AOn4CLBOVwFA5c7zCZ6jgtvh18BKFOXHgA"
+    },
+    "title": "Samsung Galaxy A Series 2026: Only 2 of the 5 Are Worth Buying",
+    "published_date": "2d ago",
+    "views": "44K",
+    "extracted_views": 44000,
+    "channel": {
+     "name": "Oscarmini",
+     "link": "https://www.youtube.com/@oscarmini",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kMafI8fNJXikVpAEJx42-pOh4fGxgwlzRlc1WFD47GZLg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "rO6GQ8c5PqQ",
+    "link": "https://www.youtube.com/watch?v=rO6GQ8c5PqQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rO6GQ8c5PqQ",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/rO6GQ8c5PqQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAbOilyE-TjuFGlmb1XJrXMwI_ZNw",
+     "rich": "https://i.ytimg.com/an_webp/rO6GQ8c5PqQ/mqdefault_6s.webp?du=3000&sqp=CIiRn9YG&rs=AOn4CLCJQA9VmF-65zi5FnbCG-_uTA4Rtg"
+    },
+    "title": "I Bought EVERY Samsung Galaxy S Phone Ever Made!",
+    "published_date": "1y ago",
+    "views": "2M",
+    "extracted_views": 2000000,
+    "channel": {
+     "name": "TechBar",
+     "link": "https://www.youtube.com/@TechBar",
+     "thumbnail": "https://yt3.ggpht.com/TQ3e9Ye1BqlarAIyngEWlrKVyCVQpNYMiGUsE5PZSXjQ94cPXb01HfdCFpovzn_JMyUO8e4o=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   }
+  ],
+  "related_videos_next_page_token": "CBQSKRILZ2RRSm44RkU0MlnAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAq2gkyczZMNnd5Y0J3cVpCd29EOGo0QUNnN0NQZ3NJLUkzbjFJV3ZfTjZrQVFvRDhqNEFDZzNDUGdvSWtPV3NnZDc5My1SRUNnUHlQZ0FLRGNJLUNnakc2ZHJYa0xya3YxVUtBX0ktQUFvT3dqNExDS21hcE5PMTZJZTExQUVLQV9JLUFBb053ajRLQ1AtenFxZnFsYnVtSlFvRDhqNEFDZzNDUGdvSXA4eUZnby1Cb3RVVkNnUHlQZ0FLRHNJLUN3alo5N3JzZ2VXTTBKb0JDZ1B5UGdBS0RzSS1Dd2lCd2FIaGlPYm91X3NCQ2dQeVBnQUtEY0ktQ2dqTnJ1R0N6T0t3NkNjS0FfSS1BQW9Pd2o0TENMcm8wSUxZbXJpbWxRRUtBX0ktQUFvT3dqNExDSnZMaHR1TWhaM1R0UUVLQV9JLUFBb053ajRLQ1BYUGd2bTlfdURaQ3dvRDhqNEFDZzNDUGdvSTdkSzA4Tmk0MDVOWENnUHlQZ0FLRHNJLUN3aTgyby16amZpNTdJb0JDZ1B5UGdBS0RjSS1DZ2pZNzRldGhkcmt0a1FLQV9JLUFBb093ajRMQ0pDQmtZVElsTi1BdXdFS0FfSS1BQW9Od2o0S0NMQzU4YWJUZ2Y2d09Bb0Q4ajRBQ2c3Q1Bnc0kwZnEtcnB5Yng5bmZBUW9EOGo0QUNnN0NQZ3NJc3JIdWllQ044WlhsQVFvRDhqNEFDZzdDUGdzSXBQM2t1YnpJb2Zlc0FRb0Q4ajRBQ2h1YVB4Z0tGazk4TVRNek5UQXpOekV4TmpBNU5Ea3pORGN6T0RZS0c1b19HQW9XVDN3eE1qZ3pORFEwT0RJME1EWXdNVE15TXpnek13b2FtajhYQ2hWUGZEVTVOall6TlRJd05URTROVGd6TlRZME1USUtHcG9fRndvVlQzd3lPVEkzTURRMk5UZ3pNelV4TkRnMU56QTJDaHVhUHhnS0ZrOThNVEkyTnprNE5UQTBPRGd3TkRZMk16TTNOVGtLR3BvX0Z3b1ZUM3c1TURVNE9EUTBOVEkzTVRBMU9UazROamMwQ2hxYVB4Y0tGVTk4TmpZMk1qQXlOekUzT1RnM01EazBNRGN5TWdvRDhqNEFDZ1B5UGdBU0Z3QUNCQVlJQ2d3T0VCSVVGaGdhSEI0Z0lpUW1LREF4R2dRSUFCQUJHZ1FJQWhBREdnUUlCQkFGR2dRSUJoQUhHZ1FJQ0JBSkdnUUlDaEFMR2dRSURCQU5HZ1FJRGhBUEdnUUlFQkFSR2dRSUVoQVRHZ1FJRkJBVkdnUUlGaEFYR2dRSUdCQVpHZ1FJR2hBYkdnUUlIQkFkR2dRSUhoQWZHZ1FJSUJBaEdnUUlJaEFqR2dRSUpCQWxHZ1FJSmhBbkdnUUlLQkFwR2dRSUtCQXFHZ1FJS0JBckdnUUlLQkFzR2dRSUtCQXRHZ1FJS0JBdUdnUUlLQkF2R2dRSU1CQXBHZ1FJTUJBcUdnUUlNQkFyR2dRSU1CQXNHZ1FJTUJBdEdnUUlNQkF1R2dRSU1CQXZHZ1FJTVJBcEdnUUlNUkFxR2dRSU1SQXJHZ1FJTVJBc0dnUUlNUkF0R2dRSU1SQXVHZ1FJTVJBdktoY0FBZ1FHQ0FvTURoQVNGQllZR2h3ZUlDSWtKaWd3TVFqD3dhdGNoLW5leHQtZmVlZA%3D%3D",
+  "end_screen_videos": [
+   {
+    "video_id": "pL3xeFqZxvg",
+    "link": "https://www.youtube.com/watch?v=pL3xeFqZxvg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pL3xeFqZxvg",
+    "thumbnail": "https://i.ytimg.com/vi/pL3xeFqZxvg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDc_e-DCSstm6SzlWZUze91g0jfyQ",
+    "title": "Best Smartphone to Buy - My Clear Suggestion (2026)",
+    "published_date": "1 day ago",
+    "views": "1M views",
+    "extracted_views": 1000000,
+    "length": "19:36",
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy"
+    }
+   },
+   {
+    "video_id": "RMl_7eArMpA",
+    "link": "https://www.youtube.com/watch?v=RMl_7eArMpA&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RMl_7eArMpA",
+    "thumbnail": "https://i.ytimg.com/vi/RMl_7eArMpA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDupmJO6OwfHy51eo_RSt3HnLShw",
+    "title": "Top 10 Best Samsung Budget Phones to Buy in 2026 – Don’t Buy Until You Watch This!",
+    "published_date": "4 months ago",
+    "views": "16K views",
+    "extracted_views": 16000,
+    "length": "17:44",
+    "channel": {
+     "name": "Tech Scope",
+     "link": "https://www.youtube.com/@TechScope-8"
+    }
+   },
+   {
+    "video_id": "VX-R0Qr2tMY",
+    "link": "https://www.youtube.com/watch?v=VX-R0Qr2tMY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VX-R0Qr2tMY",
+    "thumbnail": "https://i.ytimg.com/vi/VX-R0Qr2tMY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAY6pk8JKjLWGOHLDb_9a4C5jvvcw",
+    "title": "10 Smartphones on Crazy Discount in Flipkart Big Billion Days Sale & Amazon Sale 2026",
+    "published_date": "1 day ago",
+    "views": "165K views",
+    "extracted_views": 165000,
+    "length": "15:12",
+    "channel": {
+     "name": "Techy Kiran",
+     "link": "https://www.youtube.com/@TechyKiran"
+    }
+   },
+   {
+    "video_id": "1GofQ1ppDSk",
+    "link": "https://www.youtube.com/watch?v=1GofQ1ppDSk&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1GofQ1ppDSk",
+    "thumbnail": "https://i.ytimg.com/vi/1GofQ1ppDSk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAI8x7OfvQOL-uq4d2ILRrBLDjUuw",
+    "title": "New AI+ SmartPhone in India !",
+    "published_date": "5 months ago",
+    "views": "1.3M views",
+    "extracted_views": 1300000,
+    "length": "15:34",
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy"
+    }
+   },
+   {
+    "video_id": "JUzsrqTqmf8",
+    "link": "https://www.youtube.com/watch?v=JUzsrqTqmf8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JUzsrqTqmf8",
+    "thumbnail": "https://i.ytimg.com/vi/JUzsrqTqmf8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDYx30b-n4_DZ3VIJ1vp6_XNMIX4A",
+    "title": "Top 7 Phones From ₹20,000 to ₹30,000 Rupees !",
+    "published_date": "3 days ago",
+    "views": "702K views",
+    "extracted_views": 702000,
+    "length": "9:39",
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy"
+    }
+   },
+   {
+    "video_id": "FaqICPBBZic",
+    "link": "https://www.youtube.com/watch?v=FaqICPBBZic",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FaqICPBBZic",
+    "thumbnail": "https://i.ytimg.com/vi/FaqICPBBZic/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr-RY8M0t4aX00UCGBtBJ3BzskpA",
+    "title": "Best Gaming Phones From ₹30K To ₹1Lakh – 90FPS vs 120FPS , Winners & Skips!",
+    "published_date": "1 year ago",
+    "views": "304K views",
+    "extracted_views": 304000,
+    "length": "18:39",
+    "channel": {
+     "name": "Gaming Pathshala and Techy Pathshala"
+    }
+   },
+   {
+    "video_id": "mqAzKB2Ou9k",
+    "link": "https://www.youtube.com/watch?v=mqAzKB2Ou9k&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mqAzKB2Ou9k",
+    "thumbnail": "https://i.ytimg.com/vi/mqAzKB2Ou9k/hqdefault.jpg?v=6ac7c1de&sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBREzS_FZdW_wacmu7nkQnDmotmQQ",
+    "title": "🔴SALE IS LIVE 🔥 Flipkart BBD + Amazon GIF 2026 | BEST Deals & Biggest Discounts! 🔴 LIVE",
+    "published_date": "1 hour ago",
+    "views": "445 watching",
+    "extracted_views": 445,
+    "live": true,
+    "channel": {
+     "name": "Techie Bist",
+     "link": "https://www.youtube.com/@TechieBist"
+    }
+   },
+   {
+    "video_id": "-3ejMIwoYIE",
+    "link": "https://www.youtube.com/watch?v=-3ejMIwoYIE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-3ejMIwoYIE",
+    "thumbnail": "https://i.ytimg.com/vi/-3ejMIwoYIE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCgT8bsrds64XRKTi3cFrpb__qHrQ",
+    "title": "Best Smartphone in Every Budget ₹10k to ₹1 Lakh Don't get Scammed 🔥",
+    "published_date": "1 month ago",
+    "views": "882K views",
+    "extracted_views": 882000,
+    "length": "17:38",
+    "channel": {
+     "name": "Next Univerz",
+     "link": "https://www.youtube.com/@NextUniverz"
+    }
+   },
+   {
+    "video_id": "J9DDFMBYV00",
+    "link": "https://www.youtube.com/watch?v=J9DDFMBYV00",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=J9DDFMBYV00",
+    "thumbnail": "https://i.ytimg.com/vi/J9DDFMBYV00/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAxid7dXi1FvhBRAHXMYcqYfrAiPg",
+    "title": "🔥 ₹50,000 के अंदर BEST CAMERA PHONE कौन सा है? 📸 TOP 5 Camera Phones 2026!",
+    "published_date": "1 month ago",
+    "views": "381 views",
+    "extracted_views": 381,
+    "length": "14:16",
+    "channel": {
+     "name": "Mobile Yantr",
+     "link": "https://www.youtube.com/@MobileYantr"
+    }
+   },
+   {
+    "video_id": "lUzg1YBUNDo",
+    "link": "https://www.youtube.com/watch?v=lUzg1YBUNDo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lUzg1YBUNDo",
+    "thumbnail": "https://i.ytimg.com/vi/lUzg1YBUNDo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB16t-Vr2TxuoazSXTCuvLF27nGnQ",
+    "title": "My Final Picks : Flipkart BBD & Amazon GIF Sale | DON'T SKIP 🚨",
+    "published_date": "1 day ago",
+    "views": "259K views",
+    "extracted_views": 259000,
+    "length": "8:01",
+    "channel": {
+     "name": "Techno Ruhez",
+     "link": "https://www.youtube.com/@TechnoRuhez"
+    }
+   },
+   {
+    "video_id": "taZ0KMthpZs",
+    "link": "https://www.youtube.com/watch?v=taZ0KMthpZs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=taZ0KMthpZs",
+    "thumbnail": "https://i.ytimg.com/vi/taZ0KMthpZs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLANFRh_FQq9HHFEKc3q8vOWkGyFxg",
+    "title": "My FAVORITE Phone DEALS in Amazon & Flipkart SALE ! *NO CONFUSION*",
+    "published_date": "1 day ago",
+    "views": "434K views",
+    "extracted_views": 434000,
+    "length": "16:07",
+    "channel": {
+     "name": "TechBar",
+     "link": "https://www.youtube.com/@TechBar"
+    }
+   },
+   {
+    "video_id": "C7OD898gp_U",
+    "link": "https://www.youtube.com/watch?v=C7OD898gp_U&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=C7OD898gp_U",
+    "thumbnail": "https://i.ytimg.com/vi/C7OD898gp_U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCsPCuCeVrQDTtLWS7_CrV_QNl6Sg",
+    "title": "Please don’t buy a new phone !!",
+    "published_date": "9 days ago",
+    "views": "746K views",
+    "extracted_views": 746000,
+    "length": "11:33",
+    "channel": {
+     "name": "Tech Junkies",
+     "link": "https://www.youtube.com/@TechJunkies"
+    }
+   }
+  ],
+  "comments_next_page_token": "Eg0SC2dkUUpuOEZFNDJZGAYyJSIRIgtnZFFKbjhGRTQyWTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+  "comments_sorting_token": [
+   {
+    "title": "Top",
+    "token": "Eg0SC2dkUUpuOEZFNDJZGAYyVSIuIgtnZFFKbjhGRTQyWTAAeAKqAhpVZ3hIMWtPMnFOQVNUa1RyWVVkNEFhQUJBZzABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+   },
+   {
+    "title": "Newest",
+    "token": "Eg0SC2dkUUpuOEZFNDJZGAYyOCIRIgtnZFFKbjhGRTQyWTABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+   }
+  ],
+  "transcript": {
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=gdQJn8FE42Y"
+  }
+ }
+}

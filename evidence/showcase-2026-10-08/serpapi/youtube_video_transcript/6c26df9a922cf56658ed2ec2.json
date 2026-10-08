@@ -1,0 +1,509 @@
+{
+ "request": {
+  "engine": "youtube_video_transcript",
+  "language_code": "en",
+  "v": "iS9y396hJFk"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7d0b86372f3f80daa76f8",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/Bgo2k51SMDEr3afPo-_5ieQSWMFjlgKgEfXoiiL4JMQ/6ac7d0b86372f3f80daa76f8.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Bgo2k51SMDEr3afPo-_5ieQSWMFjlgKgEfXoiiL4JMQ/6ac7d0b86372f3f80daa76f8.md",
+   "created_at": "2026-10-08 17:19:52 UTC",
+   "processed_at": "2026-10-08 17:19:52 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=iS9y396hJFk",
+   "raw_html_file": "https://serpapi.com/searches/Bgo2k51SMDEr3afPo-_5ieQSWMFjlgKgEfXoiiL4JMQ/6ac7d0b86372f3f80daa76f8.html",
+   "prettify_html_file": "https://serpapi.com/searches/Bgo2k51SMDEr3afPo-_5ieQSWMFjlgKgEfXoiiL4JMQ/6ac7d0b86372f3f80daa76f8.prettify",
+   "total_time_taken": 7.92
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "iS9y396hJFk",
+   "language_code": "en"
+  },
+  "transcript": [
+   {
+    "start_ms": 0,
+    "snippet": "देखो गाइस यहां पर सेल आ चुकी है। ये देखो ना गाइस सुना-सुना नहीं लग रहा है। देखो ना गाइस देखो ना गाइस यहां सेल आ चुकी है।",
+    "start_time_text": "0:00",
+    "start_time_label": "0 seconds"
+   },
+   {
+    "start_ms": 8000,
+    "snippet": "देखो ना गाइस सेल में कोई ऑफर भी नहीं है।",
+    "start_time_text": "0:08",
+    "start_time_label": "8 seconds"
+   },
+   {
+    "start_ms": 10000,
+    "snippet": "लेकिन कुछ फोनों में अच्छे डिस्काउंट मिल रहे हैं और कुछ फोन ज्यादा वैल्यू फॉर मनी है। उन फोन के बारे में बात करेंगे। अंडर 30,000 20 से 3,000 का बजट है। इस वीडियो",
+    "start_time_text": "0:10",
+    "start_time_label": "10 seconds"
+   },
+   {
+    "start_ms": 18000,
+    "snippet": "में सारे डाउट्स क्लियर होंगे। तो वीडियो को आखिर तक देखना और लोगों तक शेयर भी करो। हाइप करो क्योंकि सही फोन लेगा इंडिया तभी तो आगे बढ़ेगा इंडिया। ओए",
+    "start_time_text": "0:18",
+    "start_time_label": "18 seconds"
+   },
+   {
+    "start_ms": 27000,
+    "snippet": "जिसमें से पहला फ़ोन वो आ जाता है जिसको ओवरऑल एक प्रीमियमनेस चाहिए। कैमरास भी अच्छे मिल जाए एंड ओवरऑल एक अच्छा फ़ोन हो।",
+    "start_time_text": "0:27",
+    "start_time_label": "27 seconds"
+   },
+   {
+    "start_ms": 34000,
+    "snippet": "तो यहां पर आ जाता है Motorola का नाम Motorola H70। अगर H70 नहीं मिलता तो H70 फ्यूज़ आप ले सकते हो। दोनों अंडर 30,000 में आपको देखने को मिलेगा बेस वेरिएंट।",
+    "start_time_text": "0:34",
+    "start_time_label": "34 seconds"
+   },
+   {
+    "start_ms": 43000,
+    "snippet": "देखो, पहली चीज़ है Motorola H70 अगर लेने की कोशिश करना, अगर वह मिल जाएगा, तो वह थोड़ा बेटर ऑप्शन है क्योंकि 50 मेगापिक्सल का मेन सेंसर मिलता है। अल्ट्रा वाइड भी 50 मेगापिक्सल का है।",
+    "start_time_text": "0:43",
+    "start_time_label": "43 seconds"
+   },
+   {
+    "start_ms": 51000,
+    "snippet": "फ्रंट में भी 50 मेगापिक्सल का है। तो फोटोज अच्छी आ जाती है। इनफैक्ट वीडियो भी आप 4K में रिकॉर्ड कर सकते हो उसमें तीनों सेंसर से। बाकी प्रोसेसर आपको अच्छा मिलता",
+    "start_time_text": "0:51",
+    "start_time_label": "51 seconds"
+   },
+   {
+    "start_ms": 59000,
+    "snippet": "है। 704 का LPDDR 5x RAMS 3.1 की स्टोरेज है। तो मल्टीटास्किंग वगैरह अच्छे से हो जाएगी। गेमिंग भी आप इसमें कर सकते हो।",
+    "start_time_text": "0:59",
+    "start_time_label": "59 seconds"
+   },
+   {
+    "start_ms": 65000,
+    "snippet": "5000 एमh की बड़ी बैटरी है। 68 W की चार्जिंग चार्जर इन द बॉक्स आपको देखने को मिलेगा। एंड फोन फ्यूचर प्रूफ भी है, कनेक्टिविटी की सारी चीजें हैं। बस कॉल",
+    "start_time_text": "1:05",
+    "start_time_label": "1 minute, 5 seconds"
+   },
+   {
+    "start_ms": 73000,
+    "snippet": "रिकॉर्डिंग चुपके से नहीं होगी। बाकी एनfc का सपोर्ट है। एंड क्लोज टू स्टॉक Android वाला एक्सपीरियंस भी आपको मिल जाएगा और Android 19 तक के अपडेट प्लस 2030 तक के सिक्योरिटी पैचेस को मिलने वाले हैं।",
+    "start_time_text": "1:13",
+    "start_time_label": "1 minute, 13 seconds"
+   },
+   {
+    "start_ms": 83000,
+    "snippet": "ओवरऑल सॉफ्टवेयर का एक्सपीरियंस भी अब यहां पर बेटर हो रहा है। हेलो UI Android 17 पे बेस्ड भी आने वाली है। क्या फीचर्स हैं वो इस वीडियो पे जाके आप देख सकते हो।",
+    "start_time_text": "1:23",
+    "start_time_label": "1 minute, 23 seconds"
+   },
+   {
+    "start_ms": 91000,
+    "snippet": "बाकी फोन जो है प्रीमियम बिल्ड के साथ आता है। वीगन लेदर मिलता है। लाइट वेट भी है।",
+    "start_time_text": "1:31",
+    "start_time_label": "1 minute, 31 seconds"
+   },
+   {
+    "start_ms": 94000,
+    "snippet": "साथ में आपको तगड़ी आईपी रेटिंग भी देखने को मिल जाती है। ड्यूल स्टीरियो स्पीकर्स मिलते हैं। अच्छे हैप्टिक्स भी मिल जाते हैं। कंटेंट आप अच्छे से देख सकते हो क्योंकि 1.5 के रेजोल्यूशन वाली एमोलेड",
+    "start_time_text": "1:34",
+    "start_time_label": "1 minute, 34 seconds"
+   },
+   {
+    "start_ms": 102000,
+    "snippet": "डिस्प्ले मिलती है एंड इन डिस्प्ले फिंगरप्रिंट स्कैनर भी मिलता है। तो ये सारी चीजें ना Motorola की प्राइसिंग नहीं बढ़ी है। मैं तो कह रहा हूं इस साल। बाकी",
+    "start_time_text": "1:42",
+    "start_time_label": "1 minute, 42 seconds"
+   },
+   {
+    "start_ms": 110000,
+    "snippet": "ब्रांड्स की जितनी बढ़ चुकी है। अब जिन लोग को Motorola ब्रांड से थोड़ी दिक्कत है कि सर्विस के इशू आते हैं, अपडेट नहीं देते देन उनके लिए यह दूसरा ऑप्शन है।",
+    "start_time_text": "1:50",
+    "start_time_label": "1 minute, 50 seconds"
+   },
+   {
+    "start_ms": 118000,
+    "snippet": "यहां पर आपको एक ओवरऑल बैलेंस फोन मिलता है Realme की तरफ से Realme P4 Pro। ये भी ऑलमोस्ट 30 के या 30k के अंडर में आपको मिलने वाला है। तो यहां पर जो है ना आपको",
+    "start_time_text": "1:58",
+    "start_time_label": "1 minute, 58 seconds"
+   },
+   {
+    "start_ms": 126000,
+    "snippet": "बेस्ट चीज मिलती है कि 1.5 के रेोल्यूशन वाली एमोलेड डिस्प्ले मिल जाता है। बज़ल्स ना के बराबर है तो कंटेंट देखने का एक्सपीरियंस अच्छा होगा। 144 हर्टz का",
+    "start_time_text": "2:06",
+    "start_time_label": "2 minutes, 6 seconds"
+   },
+   {
+    "start_ms": 133000,
+    "snippet": "रिफ्रेश रेट भी मिलता है और Gilla Glass 7i की डिस्प्ले प्रोटेक्शन भी मिलती है।",
+    "start_time_text": "2:13",
+    "start_time_label": "2 minutes, 13 seconds"
+   },
+   {
+    "start_ms": 136000,
+    "snippet": "सो इसमें जो बेस्ट चीज़ मिल जाती है तगड़ा प्रोसेसर मिलता है Snapdragon 7Z4 का। RAM टाइप और स्टोरेज टाइप भी आपको अच्छी मिल जाती है। आप हायर एफपीएस में गेमिंग कर",
+    "start_time_text": "2:16",
+    "start_time_label": "2 minutes, 16 seconds"
+   },
+   {
+    "start_ms": 145000,
+    "snippet": "सकते हो। बड़ी बैटरी मिल जाती है। 80 W की चार्जिंग को सपोर्ट करता है। चार्जर इन द बॉक्स मिलता है। कनेक्टिविटी में फोन फ्यूचर प्रूफ है। कॉल रिकॉर्डिंग चुपके से",
+    "start_time_text": "2:25",
+    "start_time_label": "2 minutes, 25 seconds"
+   },
+   {
+    "start_ms": 152000,
+    "snippet": "कर सकते हो। बट एनfc नहीं है। आई ब्लास्टर मिलेगा। साथ में सॉफ्टवेयर एक्सपीरियंस भी अच्छा है। Android 18 तक के अपडेट मिलने वाले हैं। 2029 तक के सिक्योरिटी पैच",
+    "start_time_text": "2:32",
+    "start_time_label": "2 minutes, 32 seconds"
+   },
+   {
+    "start_ms": 160000,
+    "snippet": "मिलेंगे। बट प्लास्टिक बिल्ड है जिसको कवर लगाके आप थोड़ा कवर कर सकते हो। अच्छा बन गया रम। बाकी IP66 की रेटिंग भी आपको देखने को मिलती है। ड्यूल स्टीरियो",
+    "start_time_text": "2:40",
+    "start_time_label": "2 minutes, 40 seconds"
+   },
+   {
+    "start_ms": 168000,
+    "snippet": "स्पीकर्स हैं। एवरेज हैप्टिक्स देखने को मिलते हैं। साथ में यहां पर कैमरा सेटअप भी डिसेंट मिल जाता है जिसमें 4K रिकॉर्डिंग आप कर सकते हो और अल्ट्रा वाइड भी है। बाकी कैमरा के सैंपल्स ये कुछ है",
+    "start_time_text": "2:48",
+    "start_time_label": "2 minutes, 48 seconds"
+   },
+   {
+    "start_ms": 177000,
+    "snippet": "और इसकी फुल वीडियो भी हमने बनाई है। उस वीडियो को जाके आप जरूर से चेक आउट कीजिए।",
+    "start_time_text": "2:57",
+    "start_time_label": "2 minutes, 57 seconds"
+   },
+   {
+    "start_ms": 180000,
+    "snippet": "अब अगर आपका बजट 30,000 तक नहीं बढ़ रहा है। थोड़ा बजट को हम नीचे लाते उस बजट में 25-26,000 में आपको एक बहुत तगड़ा ऑप्शन मिल जाता है। रिसेंटली लॉन्च्ड है। यह है",
+    "start_time_text": "3:00",
+    "start_time_label": "3 minutes"
+   },
+   {
+    "start_ms": 189000,
+    "snippet": "Oppo का K-14+। इसमें ना आपको मिल जाती है 1.5 के रेजोल्यूशन वाली एमोलेड डिस्प्ले।",
+    "start_time_text": "3:09",
+    "start_time_label": "3 minutes, 9 seconds"
+   },
+   {
+    "start_ms": 194000,
+    "snippet": "144 हर्टz का रिफ्रेश रेट है। ड्यूल स्टीरियो स्पीकर्स हैं। डिस्प्ले में फिंगरप्रिंट स्कैनर है। साथ में प्रोसेसर भी डायceिटी 7360 मैक्स वाला मिल जाता है।",
+    "start_time_text": "3:14",
+    "start_time_label": "3 minutes, 14 seconds"
+   },
+   {
+    "start_ms": 201000,
+    "snippet": "रैम टाइप और स्टोरेज टाइप भी अच्छी मिलती है। UFS 3.1 यूज़ की गई है। बाकी 50 मेगापिक्सल का सेंसर बैक में मिलता है।",
+    "start_time_text": "3:21",
+    "start_time_label": "3 minutes, 21 seconds"
+   },
+   {
+    "start_ms": 207000,
+    "snippet": "फ्रंट में 16 मेगापिक्सल का शूटर मिल जाता है। डिसेंट टाइप की फोटोज आपकी आ जाएंगी और 8000 एमh की बड़ी बैटरी है 45 W की चार्जिंग के साथ। और चार्जर इन द बॉक्स ही",
+    "start_time_text": "3:27",
+    "start_time_label": "3 minutes, 27 seconds"
+   },
+   {
+    "start_ms": 215000,
+    "snippet": "आपको मिलेगा। तो अलग से चार्जर पे पैसे नहीं जाएंगे और ऐसी वीडियो पे भी पैसे नहीं लगेंगे। तो उसके लिए मेक श्योर करना सब्सक्राइब और लाइक। कृपा हम पर भी बनी",
+    "start_time_text": "3:35",
+    "start_time_label": "3 minutes, 35 seconds"
+   },
+   {
+    "start_ms": 223000,
+    "snippet": "रहेगी माता जी की। बाकी Wi-Fi 6, ब्लूटूथ 5.4, एनfc नहीं मिलेगा बट आईआर ब्लास्टर आपको देखने को मिल जाएगा और कॉल रिकॉर्डिंग आप इसमें भी चुपके से कर सकते",
+    "start_time_text": "3:43",
+    "start_time_label": "3 minutes, 43 seconds"
+   },
+   {
+    "start_ms": 231000,
+    "snippet": "हो। बाकी कलर ऑपरेटिंग सिस्टम 16.5 आपको देखने को मिल जाता है। दो मेजर अपडेट प्लस 3 साल के सिक्योरिटी पैच भी मिलने वाले हैं एंड प्लास्टिक बैक के साथ आता है और",
+    "start_time_text": "3:51",
+    "start_time_label": "3 minutes, 51 seconds"
+   },
+   {
+    "start_ms": 238000,
+    "snippet": "फ्रेम्स भी प्लास्टिक के हैं। बट IP69K की रेटिंग आपको देखने को मिल जाती है अच्छी।",
+    "start_time_text": "3:58",
+    "start_time_label": "3 minutes, 58 seconds"
+   },
+   {
+    "start_ms": 243000,
+    "snippet": "सो अगर आप मुझसे पूछोगे क्या Realme P4 की तरफ देखूं या Oppo K4+ की तरफ देखूं? तो मैं बोलूंगा OPPO K4+ की तरफ देख लो।",
+    "start_time_text": "4:03",
+    "start_time_label": "4 minutes, 3 seconds"
+   },
+   {
+    "start_ms": 250000,
+    "snippet": "रीसेंट लॉन्च्ड है और चीजें यहां पर भी आपको सारी सॉर्टेड मिलेंगी। नाउ कुछ लोग ना ब्रांड स्पेसिफिक होते हैं जिनको Samsung का ही फोन लेना है। तो यहां पर",
+    "start_time_text": "4:10",
+    "start_time_label": "4 minutes, 10 seconds"
+   },
+   {
+    "start_ms": 257000,
+    "snippet": "Samsung के एक फोन पे अच्छी डील चल रही है जो अंडर 30,000 मिलता है वो है Samsung F70 Pro। इसका 6 GB रैम 128 GB वाला",
+    "start_time_text": "4:17",
+    "start_time_label": "4 minutes, 17 seconds"
+   },
+   {
+    "start_ms": 265000,
+    "snippet": "वेरिएंट आपको 26,000 तक मिल जाएगा ऑफर्स के साथ। तो ओवरऑल ना एक डिसेंट फ़ बन जाता है क्योंकि यहां पर आपको फुल एचडी प्लस वाली सुपर एमोलेड डिस्प्ले मिल जाती है जिसमें गोरिल्ला ग्लास Vects प्लस की",
+    "start_time_text": "4:25",
+    "start_time_label": "4 minutes, 25 seconds"
+   },
+   {
+    "start_ms": 273000,
+    "snippet": "प्रोटेक्शन है। साथ में साइड माउंटेड फिंगरप्रिंट स्कैनर है। सिंगल स्पीकर आपको मिलता है। 1UI 8.5 का एक्सपीरियंस मिलेगा।",
+    "start_time_text": "4:33",
+    "start_time_label": "4 minutes, 33 seconds"
+   },
+   {
+    "start_ms": 279000,
+    "snippet": "Android 22 तक अपडेट मिलेंगे। 2032 तक सिक्योरिटी पैच मिलने वाले हैं। और Qualcomm का Snapdragon 63 आपको मिल जाता है। एंड अच्छी चीज यह है कि स्टोरेज टाइप",
+    "start_time_text": "4:39",
+    "start_time_label": "4 minutes, 39 seconds"
+   },
+   {
+    "start_ms": 288000,
+    "snippet": "UFS 3.1 साथ में LPDDR 5X RAM भी है। तो आपका डिसेंट टाइप की परफॉर्मेंस यह करवा देगा। इसके साथ-साथ फोन 5G को सपोर्ट करता है। हाइब्रिड एंड स्लॉट आपको मिल जाता है।",
+    "start_time_text": "4:48",
+    "start_time_label": "4 minutes, 48 seconds"
+   },
+   {
+    "start_ms": 297000,
+    "snippet": "एनfc का सपोर्ट भी मिलता है। बट ब्लूटूथ वर्जन 5.1 पुराना है। Wi-Fi पुराना है।",
+    "start_time_text": "4:57",
+    "start_time_label": "4 minutes, 57 seconds"
+   },
+   {
+    "start_ms": 302000,
+    "snippet": "IP64 की रेटिंग है। बट कॉल रिकॉर्डिंग जानना शोना की हो जाएगी चुपके से। इसके अलावा कैमरा सेटअप भी डिसेंट मिल जाता है।",
+    "start_time_text": "5:02",
+    "start_time_label": "5 minutes, 2 seconds"
+   },
+   {
+    "start_ms": 308000,
+    "snippet": "50 मेगापिक्सल का मेन सेंसर है। 5 मेगापिक्सल का अल्ट्रा वाइड, 2 मेगापिक्सल का मै फ्रंट में 12 मेगापिक्सल का शूटर मिल जाता है। बिल्ड क्वालिटी भी डिसेंट है। प्लास्टिक, बैक एंड प्लास्टिक फ्रेम",
+    "start_time_text": "5:08",
+    "start_time_label": "5 minutes, 8 seconds"
+   },
+   {
+    "start_ms": 317000,
+    "snippet": "आपको देखने को मिलेगा। बाकी 6000 एमh की बड़ी बैटरी मिलती है और 45 W की चार्जिंग को सपोर्ट करता है लेकिन चार्जर इन द बॉक्स नहीं मिलेगा वो अलग से लेना पड़ेगा।",
+    "start_time_text": "5:17",
+    "start_time_label": "5 minutes, 17 seconds"
+   },
+   {
+    "start_ms": 325000,
+    "snippet": "सो ये फोन उन्हीं के लिए है जिनके लिए ब्रांड वैल्यू मैटर करता है। अदरवाइज इससे बेटर ऑप्शन है। अब कुछ लोग बोल रहे होंगे भैया हमारा बजट तो 25,000 भी नहीं है।",
+    "start_time_text": "5:25",
+    "start_time_label": "5 minutes, 25 seconds"
+   },
+   {
+    "start_ms": 331000,
+    "snippet": "हमारा 20 से 22,000 है। खींच के 22 कर सकते हैं ज्यादा। उससे ज्यादा नहीं टाप सकते। तो इनके लिए एक ऑप्शन है अपने इंडियन ब्रांड की तरफ से ही है। वो है",
+    "start_time_text": "5:31",
+    "start_time_label": "5 minutes, 31 seconds"
+   },
+   {
+    "start_ms": 339000,
+    "snippet": "लावा का विराट 5G कर्व फ़। अब इसके बदले में भी दूसरा ऑप्शन बताया। लेकिन यहां पर मैं इसको क्यों रिकमेंड कर रहा हूं?",
+    "start_time_text": "5:39",
+    "start_time_label": "5 minutes, 39 seconds"
+   },
+   {
+    "start_ms": 345000,
+    "snippet": "क्योंकि आपको यहां पर डायमटी 7100 का चिप मिल जाता है। LPDDR 5 RAM है। UFS 2.2 की स्टोरेज मिलती है। बाय द वे द वे बेस वेरिएंट इसका 6 GB रैम है। 128 GB स्टोरेज",
+    "start_time_text": "5:45",
+    "start_time_label": "5 minutes, 45 seconds"
+   },
+   {
+    "start_ms": 354000,
+    "snippet": "के साथ आपको देखने को मिलेगा। एंड 6000 एमh की बैटरी भी मिलती है। 45 W की चार्जिंग भी सपोर्ट करता है और चार्जर बट यहां पर आपको 33 W का मिलेगा बॉक्स में।",
+    "start_time_text": "5:54",
+    "start_time_label": "5 minutes, 54 seconds"
+   },
+   {
+    "start_ms": 362000,
+    "snippet": "साथ में कनेक्टिविटी की सारी चीजें सही मिल जाती है। कॉल रिकॉर्डिंग चुपके से कर सकते हो। बट एनएफसी नहीं है। आईआर ब्लास्टर इसमें भी मिल जाएगा। एंड सॉफ्टवेयर एक्सपीरियंस यहां पर आपको क्लीन",
+    "start_time_text": "6:02",
+    "start_time_label": "6 minutes, 2 seconds"
+   },
+   {
+    "start_ms": 370000,
+    "snippet": "देखने को मिलेगा। Android 18 तक के अपडेट प्लस 2029 तक के सिक्योरिटी अपडेट मिलेंगे। थोड़े बहुत सॉफ्टवेयर में बग मिल सकते हैं या इतना पॉलिश आपको UI देखने को",
+    "start_time_text": "6:10",
+    "start_time_label": "6 minutes, 10 seconds"
+   },
+   {
+    "start_ms": 377000,
+    "snippet": "नहीं मिलेगा। बाकी UI के कंपैरिजन में ये बट फिर बात वही है कि बाकी ब्रांड्स ना एलसीडी डिस्प्ले दे रहे हैं। यहां पर एटलीस्ट आपको एमोलेड डिस्प्ले तो देखने को मिल रहा है। 120 हर्टz के रिफ्रेश रेट के",
+    "start_time_text": "6:17",
+    "start_time_label": "6 minutes, 17 seconds"
+   },
+   {
+    "start_ms": 386000,
+    "snippet": "साथ IP64 की रेटिंग भी मिल जाती है कि बैक में ऐसी छोटी सी स्क्रीन भी आपको देखने को मिल जाती है जिसमें कुछ ऐसे अल्फाबेट्स या आप कुछ ऐसे कार्टूनस वगैरह चला सकते हो।",
+    "start_time_text": "6:26",
+    "start_time_label": "6 minutes, 26 seconds"
+   },
+   {
+    "start_ms": 394000,
+    "snippet": "बाकी स्टीरियो स्पीकर्स मिलते हैं।",
+    "start_time_text": "6:34",
+    "start_time_label": "6 minutes, 34 seconds"
+   },
+   {
+    "start_ms": 396000,
+    "snippet": "हैप्टिक्स एवरेज मिल जाते हैं। साथ में यहां पर जो है ना कैमरास भी आपको डिसेंट मिल जाते हैं। Sony का सेंसर है। फ्रंट में 13 मेगापिक्सल का सेल्फी शूटर आपको",
+    "start_time_text": "6:36",
+    "start_time_label": "6 minutes, 36 seconds"
+   },
+   {
+    "start_ms": 403000,
+    "snippet": "देखने को मिलता है। सो बहुत सारे लोग इस फोन के साथ जा सकते हैं। एंड सभी फोनों को मैं यहां कहीं टैग कर दूंगा जो इस टाइम पे बेस्ट प्राइिंग चल रही है। वहां पर जाके",
+    "start_time_text": "6:43",
+    "start_time_label": "6 minutes, 43 seconds"
+   },
+   {
+    "start_ms": 411000,
+    "snippet": "आप चेक आउट कर सकते हो। अब कुछ लोग ना लावा को नहीं लेंगे बिकॉज़ ऑफ़ द सॉफ्टवेयर।",
+    "start_time_text": "6:51",
+    "start_time_label": "6 minutes, 51 seconds"
+   },
+   {
+    "start_ms": 415000,
+    "snippet": "या कुछ लोग ब्रांड वैल्यू की वजह से भी नहीं लेंगे। देन उनके लिए एक दूसरा ऑप्शन है Realme का P4X। यह बहुत एक अच्छा ऑप्शन है। दिखने में भी अच्छा लगता है फोन।",
+    "start_time_text": "6:55",
+    "start_time_label": "6 minutes, 55 seconds"
+   },
+   {
+    "start_ms": 422000,
+    "snippet": "हालांकि दिखने में है प्लास्टिक जैसा बाकी यहां पर जो है ना इसकी भी प्राइिंग आपको 21-22 तक देखने को मिलेगी। अगर कोशिश करना सब डिस्काउंट वगैरह लगा के 20,000 तक मिल",
+    "start_time_text": "7:02",
+    "start_time_label": "7 minutes, 2 seconds"
+   },
+   {
+    "start_ms": 431000,
+    "snippet": "जाता है तो बहुत बढ़िया डील हो जाएगी। वो जमाना कहां गया जब हम एमोलेड डिस्प्ले देते थे 10-12,000 के [संगीत] फोन में भी। अब यहां पर 20,000 में एलसीडी से दर्द है।",
+    "start_time_text": "7:11",
+    "start_time_label": "7 minutes, 11 seconds"
+   },
+   {
+    "start_ms": 440000,
+    "snippet": "हां, थोड़ा [गाना गाने की आवाज़] दर्द हुआ पर चलता है।",
+    "start_time_text": "7:20",
+    "start_time_label": "7 minutes, 20 seconds"
+   },
+   {
+    "start_ms": 445000,
+    "snippet": "और इसको रिकमेंड करने का कारण है ना कि चिप तगड़ी मिलती है। डायमceity 7400 की।",
+    "start_time_text": "7:25",
+    "start_time_label": "7 minutes, 25 seconds"
+   },
+   {
+    "start_ms": 449000,
+    "snippet": "UFS 3.1 की स्टोरेज भी मिल जाती है। तो इसमें गेमिंग भी आप ठीक-ठाक कर सकते हो।",
+    "start_time_text": "7:29",
+    "start_time_label": "7 minutes, 29 seconds"
+   },
+   {
+    "start_ms": 453000,
+    "snippet": "7000 एमh की बड़ी बैटरी है। 45 W की चार्जिंग को सपोर्ट करता है। चार्जर इन द बॉक्स है। कनेक्टिविटी में सारी चीजें हैं। कॉल रिकॉर्डिंग यहां पर आप चुपके से",
+    "start_time_text": "7:33",
+    "start_time_label": "7 minutes, 33 seconds"
+   },
+   {
+    "start_ms": 460000,
+    "snippet": "कर सकते हो। एनfc नहीं मिलेगा ना ही आईआर ब्लास्टर यहां पर देखने को मिलता है। बाकी सॉफ्टवेयर एक्सपीरियंस अच्छा मिल जाता है।",
+    "start_time_text": "7:40",
+    "start_time_label": "7 minutes, 40 seconds"
+   },
+   {
+    "start_ms": 465000,
+    "snippet": "इसको भी 2028 तक सिक्योरिटी अपडेट मिलेंगे और Android 17 तक के अपडेट मिलने वाले हैं। बाकी यहां पर IP64 की रेटिंग है।",
+    "start_time_text": "7:45",
+    "start_time_label": "7 minutes, 45 seconds"
+   },
+   {
+    "start_ms": 471000,
+    "snippet": "स्टीरियो स्पीकर्स हैं। हैप्टिक्स एवरेज है। साइड माउंटेड फिंगरप्रिंट स्कैनर है।",
+    "start_time_text": "7:51",
+    "start_time_label": "7 minutes, 51 seconds"
+   },
+   {
+    "start_ms": 475000,
+    "snippet": "फुल एचडी प्लस वाली एलसीडी डिस्प्ले मिलती है। देखो एलसीडी डिस्प्ले है लेकिन कलर्स वगैरह बिल्कुल यहां पर दिक्कत नहीं देंगे।",
+    "start_time_text": "7:55",
+    "start_time_label": "7 minutes, 55 seconds"
+   },
+   {
+    "start_ms": 480000,
+    "snippet": "अच्छे कलर्स आ जाते हैं। कंटेंट देखने में कोई दिक्कत नहीं आएगी और 144 हर्टz के रिफ्रेश रेट के साथ आती है। साथ में यहां पर कैमरा भी आपको डिसेंट देखने को मिल",
+    "start_time_text": "8:00",
+    "start_time_label": "8 minutes"
+   },
+   {
+    "start_ms": 487000,
+    "snippet": "जाता है। फ़ कहीं से भी किसी भी एंगल से S26 अल्ट्रा से कम नहीं लगता है। तो फुल हवाबाजी भी हो सकती है फ़ को यूं लगा के। कहां लगाया फ़ोन?",
+    "start_time_text": "8:07",
+    "start_time_label": "8 minutes, 7 seconds"
+   },
+   {
+    "start_ms": 496000,
+    "snippet": "सो गाइज़, ये कुछ ऑप्शन थे जो इस टाइम पे मेरे हिसाब से बेस्ट चल रहे हैं। अब कुछ और भी ऑप्शन ऐड होंगे क्योंकि बहुत सारे तो अभी आउट ऑफ स्टॉक है। अगर वो ऐड होंगे",
+    "start_time_text": "8:16",
+    "start_time_label": "8 minutes, 16 seconds"
+   },
+   {
+    "start_ms": 504000,
+    "snippet": "तो मैं यहां कहीं प्रोडक्ट ट्रे में ऐड कर दूंगा। तो उसको जाके जरूर से चेक आउट करना। वहां पर आपको सारी चीजें देखने को मिलंगी। बाकी होपफुली वीडियो पसंद आई होगी। वीडियो पसंद आई तो लाइक कीजिए एंड",
+    "start_time_text": "8:24",
+    "start_time_label": "8 minutes, 24 seconds"
+   },
+   {
+    "start_ms": 512000,
+    "snippet": "हम मिलेंगे बहुत ही जल्दी ऐसी किसी न्यू इंटरेस्टिंग धावा वीडियो के साथ। जुड़े रहना ताकि ऐसी वीडियो आगे चलके भी मिलता रहे। टिल देन, जय हिंद, टेक केयर एंड स्टेट।",
+    "start_time_text": "8:32",
+    "start_time_label": "8 minutes, 32 seconds"
+   }
+  ],
+  "chapters": [
+   {
+    "chapter": "Chapter 1: Intro",
+    "start_ms": 0,
+    "start_time_text": "0:00"
+   },
+   {
+    "chapter": "Chapter 2: Best Camera Phone Under ₹30K",
+    "start_ms": 27000,
+    "start_time_text": "0:27"
+   },
+   {
+    "chapter": "Chapter 3: Best Value Phone Under ₹30K",
+    "start_ms": 111000,
+    "start_time_text": "1:51"
+   },
+   {
+    "chapter": "Chapter 4: Best Value Phone Under ₹25K",
+    "start_ms": 180000,
+    "start_time_text": "3:00"
+   },
+   {
+    "chapter": "Chapter 5: Best Samsung Phone Under ₹30K",
+    "start_ms": 253000,
+    "start_time_text": "4:13"
+   },
+   {
+    "chapter": "Chapter 6: Best Display Phone Under ₹23K",
+    "start_ms": 328000,
+    "start_time_text": "5:28"
+   },
+   {
+    "chapter": "Chapter 7: Best Value Phone Under ₹23K",
+    "start_ms": 410000,
+    "start_time_text": "6:50"
+   }
+  ]
+ }
+}

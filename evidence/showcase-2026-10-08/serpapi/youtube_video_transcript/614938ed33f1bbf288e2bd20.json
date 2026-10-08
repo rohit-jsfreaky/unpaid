@@ -1,0 +1,562 @@
+{
+ "request": {
+  "engine": "youtube_video_transcript",
+  "language_code": "en",
+  "v": "EqkttDCDhaA"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7d0944752660b2c4f364a",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/f4SKpegQaogAK2avLclWfgtpH4kRAffuVtWC7d1UCCk/6ac7d0944752660b2c4f364a.json",
+   "markdown_endpoint": "https://serpapi.com/searches/f4SKpegQaogAK2avLclWfgtpH4kRAffuVtWC7d1UCCk/6ac7d0944752660b2c4f364a.md",
+   "created_at": "2026-10-08 17:19:16 UTC",
+   "processed_at": "2026-10-08 17:19:16 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=EqkttDCDhaA",
+   "raw_html_file": "https://serpapi.com/searches/f4SKpegQaogAK2avLclWfgtpH4kRAffuVtWC7d1UCCk/6ac7d0944752660b2c4f364a.html",
+   "prettify_html_file": "https://serpapi.com/searches/f4SKpegQaogAK2avLclWfgtpH4kRAffuVtWC7d1UCCk/6ac7d0944752660b2c4f364a.prettify",
+   "total_time_taken": 7.61
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "EqkttDCDhaA",
+   "language_code": "en"
+  },
+  "transcript": [
+   {
+    "start_ms": 0,
+    "snippet": "Hey 2026, please be a little tiny teeny bit kind. We all know what's going on with smartphone prices. It's like really",
+    "start_time_text": "0:00",
+    "start_time_label": "0 seconds"
+   },
+   {
+    "start_ms": 8000,
+    "snippet": "hard to believe that this nothing phone 4A this launched for 31 9 and it is currently selling for 45,000. A 13,000",
+    "start_time_text": "0:08",
+    "start_time_label": "8 seconds"
+   },
+   {
+    "start_ms": 17000,
+    "snippet": "price hike in just 6 months. Let that sink in. And like this there are other smartphones just going price hike after price hike. And the entire market is",
+    "start_time_text": "0:17",
+    "start_time_label": "17 seconds"
+   },
+   {
+    "start_ms": 26000,
+    "snippet": "suffering from this. However, so in the middle of all of this, we have managed to track some really good smartphone deal that gives insane opa in this",
+    "start_time_text": "0:26",
+    "start_time_label": "26 seconds"
+   },
+   {
+    "start_ms": 34000,
+    "snippet": "economy, but really good value for the price. All of them under 30,000 rupees for our #teamteiser. In fact, some of them are even lower. Just a small tip.",
+    "start_time_text": "0:34",
+    "start_time_label": "34 seconds"
+   },
+   {
+    "start_ms": 43000,
+    "snippet": "If you want an under 30,000 smartphone, get it right now because this hike thing just keeps on going and there's no clarity that these phones might even not",
+    "start_time_text": "0:43",
+    "start_time_label": "43 seconds"
+   },
+   {
+    "start_ms": 50000,
+    "snippet": "be in stock. Pratik, deal wiser, letting go. Now before we get to the first smartphone which is a really good allrounder phone that you should buy.",
+    "start_time_text": "0:50",
+    "start_time_label": "50 seconds"
+   },
+   {
+    "start_ms": 58000,
+    "snippet": "This video is made possible because of wiser AI and Wiser AI is something that we've been working on for the past 1 one and a half years. And in that process we",
+    "start_time_text": "0:58",
+    "start_time_label": "58 seconds"
+   },
+   {
+    "start_ms": 67000,
+    "snippet": "asked ourselves what if we could build something that can recommend smartphones just like us. And this is a big problem.",
+    "start_time_text": "1:07",
+    "start_time_label": "1 minute, 7 seconds"
+   },
+   {
+    "start_ms": 73000,
+    "snippet": "See if you go to Amazon and you just type 5G smartphone under 10,000. See first phone is not even a 5G phone. It's a 4G phone. Then you have sponsored links.",
+    "start_time_text": "1:13",
+    "start_time_label": "1 minute, 13 seconds"
+   },
+   {
+    "start_ms": 81000,
+    "snippet": "[music]",
+    "start_time_text": "1:21",
+    "start_time_label": "1 minute, 21 seconds"
+   },
+   {
+    "start_ms": 81000,
+    "snippet": "Then again, wrong price. Again, recommendation, recommendation, not a 5G phone. And if I do the same search on Gemini, again, it recommends a 4G phone.",
+    "start_time_text": "1:21",
+    "start_time_label": "1 minute, 21 seconds"
+   },
+   {
+    "start_ms": 91000,
+    "snippet": "And these are not even the best options as well. Now, if you run the same query with Wiser AI, see, we get much better options. You just tap on this and it",
+    "start_time_text": "1:31",
+    "start_time_label": "1 minute, 31 seconds"
+   },
+   {
+    "start_ms": 99000,
+    "snippet": "will also show you the pros and cons of the smartphone. It also shows me the realtime price on Flipkart as well as Amazon. And if you want, you can just ask follow-up questions like increase",
+    "start_time_text": "1:39",
+    "start_time_label": "1 minute, 39 seconds"
+   },
+   {
+    "start_ms": 108000,
+    "snippet": "the budget to 15,000 rupees and get me a 6,000 mAh battery. See, really good recommendation. So, Wiser AI is trained on our YouTube videos and our own",
+    "start_time_text": "1:48",
+    "start_time_label": "1 minute, 48 seconds"
+   },
+   {
+    "start_ms": 116000,
+    "snippet": "database. So, it gives better recommendation than obviously Amazon as well as Gemini. Now, last time thousands of you gave us lot of feedback and we",
+    "start_time_text": "1:56",
+    "start_time_label": "1 minute, 56 seconds"
+   },
+   {
+    "start_ms": 125000,
+    "snippet": "took all the popular features, popular feedback and integrated all of this into Wiser AAI and finally it's live. You can just go to a techweiser.com use wiserai.",
+    "start_time_text": "2:05",
+    "start_time_label": "2 minutes, 5 seconds"
+   },
+   {
+    "start_ms": 134000,
+    "snippet": "As of now, when you log in, you only get 10 searches per day and we are logged in on Visorai for a long time. We are here to make it better. Back to the video",
+    "start_time_text": "2:14",
+    "start_time_label": "2 minutes, 14 seconds"
+   },
+   {
+    "start_ms": 141000,
+    "snippet": "now. To keep it very simple, we'll tell you the pros and cons of all the phones so you can make a better decision with that. The first phone in the list is the",
+    "start_time_text": "2:21",
+    "start_time_label": "2 minutes, 21 seconds"
+   },
+   {
+    "start_ms": 148000,
+    "snippet": "popular Realme P4. Currently, it is selling for around 24,000. Now, the number one pro here has to be the display and speakers. The P4 comes with",
+    "start_time_text": "2:28",
+    "start_time_label": "2 minutes, 28 seconds"
+   },
+   {
+    "start_ms": 156000,
+    "snippet": "a flat AMOLED display. So, outdoors while booking rides or doing any map navigation, the display gets really bright. Now, what's interesting here is the P4 is one of the rare phones to have",
+    "start_time_text": "2:36",
+    "start_time_label": "2 minutes, 36 seconds"
+   },
+   {
+    "start_ms": 165000,
+    "snippet": "HDR support on Netflix at this price range. So, the content not only looks bright, but the colors also look pretty good if you're using OTT or anything else. Along with the display, the",
+    "start_time_text": "2:45",
+    "start_time_label": "2 minutes, 45 seconds"
+   },
+   {
+    "start_ms": 173000,
+    "snippet": "speakers here are really good. It gets dual stereo speakers. Now, the second reason to recommend the Realme P4 is performance. The P4 comes with Diamond",
+    "start_time_text": "2:53",
+    "start_time_label": "2 minutes, 53 seconds"
+   },
+   {
+    "start_ms": 180000,
+    "snippet": "City 7400 Ultra 5G chipset along with UFS 3.1 storage. So, in daily use for multitasking or switching between multiple apps, the phone feels smooth.",
+    "start_time_text": "3:00",
+    "start_time_label": "3 minutes"
+   },
+   {
+    "start_ms": 188000,
+    "snippet": "like it's not mindblowingly fast, but it really does the job. And in case you're interested in casual gaming, BJMI runs at 90 FPS on the phone, so you can do",
+    "start_time_text": "3:08",
+    "start_time_label": "3 minutes, 8 seconds"
+   },
+   {
+    "start_ms": 196000,
+    "snippet": "little bit of casual gaming without any issues. Now, the third pro here has to be the battery. It has a 7,000 mAh battery and it easily lasts one full day",
+    "start_time_text": "3:16",
+    "start_time_label": "3 minutes, 16 seconds"
+   },
+   {
+    "start_ms": 204000,
+    "snippet": "with even heavy usage. What's good here is along with a bigger battery, you also get faster charging. You get 80 watt fast charging and the charger comes inside the box. Now, the fourth pro here",
+    "start_time_text": "3:24",
+    "start_time_label": "3 minutes, 24 seconds"
+   },
+   {
+    "start_ms": 213000,
+    "snippet": "are the cameras. It comes with a dual camera setup. So, daylight photos, it comes out well. I'll tell you the reason why. And in terms of selfies, there's a",
+    "start_time_text": "3:33",
+    "start_time_label": "3 minutes, 33 seconds"
+   },
+   {
+    "start_ms": 220000,
+    "snippet": "16 megap selfie camera and the selfies come out okay. Now, in terms of videos, you can shoot 4K 30 fps from the rear camera and 1080p 30 fps from the front",
+    "start_time_text": "3:40",
+    "start_time_label": "3 minutes, 40 seconds"
+   },
+   {
+    "start_ms": 228000,
+    "snippet": "camera. Now, while all of this is good, there are some cons that you should be aware of. Number one, no OIS. The P4 gets a dual camera setup. The main camera is good, but it doesn't have OIS.",
+    "start_time_text": "3:48",
+    "start_time_label": "3 minutes, 48 seconds"
+   },
+   {
+    "start_ms": 238000,
+    "snippet": "So, videos or low light photos come out shaky. [music] And number two, the P4 has 3 plus 4 years of software updates, out of which it has already received one",
+    "start_time_text": "3:58",
+    "start_time_label": "3 minutes, 58 seconds"
+   },
+   {
+    "start_ms": 246000,
+    "snippet": "update. So you will only get 2 plus 3 years of software updates more. Along with this, the P4 doesn't have NFC. So if you're someone who depends on Tap to",
+    "start_time_text": "4:06",
+    "start_time_label": "4 minutes, 6 seconds"
+   },
+   {
+    "start_ms": 253000,
+    "snippet": "pay, of course, not happening. But I think this is a very minor con. Overall, if you're looking for an allrounder phone at around 25,000, the Realme P4 is",
+    "start_time_text": "4:13",
+    "start_time_label": "4 minutes, 13 seconds"
+   },
+   {
+    "start_ms": 262000,
+    "snippet": "a hidden gem. It's a good buy. While we were about to publish this video, I'm adding this a little bit. See, if you can stretch your budget a little bit, a",
+    "start_time_text": "4:22",
+    "start_time_label": "4 minutes, 22 seconds"
+   },
+   {
+    "start_ms": 270000,
+    "snippet": "better option than Realme P4 is Realme's own GT70. Like the price is down from 40,000 rupees to around 329.",
+    "start_time_text": "4:30",
+    "start_time_label": "4 minutes, 30 seconds"
+   },
+   {
+    "start_ms": 277000,
+    "snippet": "It is slightly higher than 30,000 but this phone is worth recommending because a [music] it has one of the best performance in this price bracket. You",
+    "start_time_text": "4:37",
+    "start_time_label": "4 minutes, 37 seconds"
+   },
+   {
+    "start_ms": 285000,
+    "snippet": "get dimensity 8400 along with UFS 4.0 storage. Easily one of the best performing phone in this price and on top of it at 120 fps runs very smoothly.",
+    "start_time_text": "4:45",
+    "start_time_label": "4 minutes, 45 seconds"
+   },
+   {
+    "start_ms": 294000,
+    "snippet": "Apart from that you get a 7,000 mAh battery. The display and the camera specs are also good. So if you can stretch your budget up until 33,000,",
+    "start_time_text": "4:54",
+    "start_time_label": "4 minutes, 54 seconds"
+   },
+   {
+    "start_ms": 302000,
+    "snippet": "it's a good recommend. Now the next one in our list is the Galaxy M56 5G. It is currently selling for around 27,000 rupees. And the number one pro in this [music] price has to be the display.",
+    "start_time_text": "5:02",
+    "start_time_label": "5 minutes, 2 seconds"
+   },
+   {
+    "start_ms": 312000,
+    "snippet": "Like it comes with a 120 Hz super amoled plus display with very thin bezels like very rare to say for a Samsung M series 4. So not just outdoors, even indoors,",
+    "start_time_text": "5:12",
+    "start_time_label": "5 minutes, 12 seconds"
+   },
+   {
+    "start_ms": 320000,
+    "snippet": "the display gets pretty bright. Plus the content looks great as well. Also, it supports HDR on Netflix. Now the second pro of the M565G has to be the design.",
+    "start_time_text": "5:20",
+    "start_time_label": "5 minutes, 20 seconds"
+   },
+   {
+    "start_ms": 328000,
+    "snippet": "It has a clean design with a raised camera island and surprisingly it also gets a glass back. Now again for an M series phone not only it looks but it also feels very premium. Along with the looks protection is also important.",
+    "start_time_text": "5:28",
+    "start_time_label": "5 minutes, 28 seconds"
+   },
+   {
+    "start_ms": 338000,
+    "snippet": "[music] Coming back to Galaxy M56 5G both the front and back has a Corning glass victus plus protection. Now the third pro of the M56 has to be the",
+    "start_time_text": "5:38",
+    "start_time_label": "5 minutes, 38 seconds"
+   },
+   {
+    "start_ms": 347000,
+    "snippet": "cameras. It comes with a dual camera setup. Let's ignore the third one. It's a 2 meap macro camera. Now the photos on the M56 [music] looks natural with good",
+    "start_time_text": "5:47",
+    "start_time_label": "5 minutes, 47 seconds"
+   },
+   {
+    "start_ms": 355000,
+    "snippet": "colors and good exposure control. Even the portraits look nice and the selfies come out sharp. Plus the M56 can record 4K videos not only from the rear but",
+    "start_time_text": "5:55",
+    "start_time_label": "5 minutes, 55 seconds"
+   },
+   {
+    "start_ms": 362000,
+    "snippet": "also from the front camera. Now the fourth pro of the M56 or any Samsung phone has to be the software. Like 1 UI is so featurerich. Plus the M56 also",
+    "start_time_text": "6:02",
+    "start_time_label": "6 minutes, 2 seconds"
+   },
+   {
+    "start_ms": 371000,
+    "snippet": "supports good lock modules. So you can [music] just go crazy with customizations. It also gets Samsung wallet support. You get NFC so you can do payments and store documents. Now,",
+    "start_time_text": "6:11",
+    "start_time_label": "6 minutes, 11 seconds"
+   },
+   {
+    "start_ms": 380000,
+    "snippet": "the only thing that you should be aware of while buying the M565G is there's no charger inside the box. Also, by 2026",
+    "start_time_text": "6:20",
+    "start_time_label": "6 minutes, 20 seconds"
+   },
+   {
+    "start_ms": 387000,
+    "snippet": "standard, the battery is less. It comes with a 5,000 mAh battery, so it will last one full day on a normal or average usage, but don't expect too much. Also,",
+    "start_time_text": "6:27",
+    "start_time_label": "6 minutes, 27 seconds"
+   },
+   {
+    "start_ms": 395000,
+    "snippet": "the second thing, the M56 comes with Exynos 1480. So, the performance for day-to-day task is fine, but if you push it into gaming or you want to play long",
+    "start_time_text": "6:35",
+    "start_time_label": "6 minutes, 35 seconds"
+   },
+   {
+    "start_ms": 403000,
+    "snippet": "sessions, the M56 will stutter. Overall see if you want the best Samsung phone under 30,000 rupees go for the M56 5G",
+    "start_time_text": "6:43",
+    "start_time_label": "6 minutes, 43 seconds"
+   },
+   {
+    "start_ms": 410000,
+    "snippet": "considering that the M47 and all of that are now price hiked. Now the next phone in our list is the Oppo K13 Turbo and it",
+    "start_time_text": "6:50",
+    "start_time_label": "6 minutes, 50 seconds"
+   },
+   {
+    "start_ms": 418000,
+    "snippet": "is one of the most underrated deal right now. It is currently selling for around 26,000. Now the number one pro of the OPPO K13 Turbo has to be the",
+    "start_time_text": "6:58",
+    "start_time_label": "6 minutes, 58 seconds"
+   },
+   {
+    "start_ms": 426000,
+    "snippet": "performance. It comes with MediaTek Dimensity 8450 processor. Very rare to find a phone of this performance at this price point. You also get UFS 3.1",
+    "start_time_text": "7:06",
+    "start_time_label": "7 minutes, 6 seconds"
+   },
+   {
+    "start_ms": 434000,
+    "snippet": "storage. Now, what's really interesting here is the K13 Turbo is the only fan, not in this price range, but entirely, to have an active cooling fan. Plus, you get a pretty big vapor cooling chamber.",
+    "start_time_text": "7:14",
+    "start_time_label": "7 minutes, 14 seconds"
+   },
+   {
+    "start_ms": 444000,
+    "snippet": "And this comes in handy during longer gaming sessions. And now that I phones are not available, it is actually one of the few phones that are targeted towards gamer. Like, it can run BGMI at 120 FPS.",
+    "start_time_text": "7:24",
+    "start_time_label": "7 minutes, 24 seconds"
+   },
+   {
+    "start_ms": 454000,
+    "snippet": "And even [music] with heavy usage, the 7,000 mAh battery lasts one full day.",
+    "start_time_text": "7:34",
+    "start_time_label": "7 minutes, 34 seconds"
+   },
+   {
+    "start_ms": 458000,
+    "snippet": "So, it's a gamer's phone. Now, the second pro here has to be the display.",
+    "start_time_text": "7:38",
+    "start_time_label": "7 minutes, 38 seconds"
+   },
+   {
+    "start_ms": 462000,
+    "snippet": "It comes with a 120 Hz AMOLED display and the colors look good on it. Plus, it gets really bright for outdoor usage as well. Now, number three, and this is a",
+    "start_time_text": "7:42",
+    "start_time_label": "7 minutes, 42 seconds"
+   },
+   {
+    "start_ms": 470000,
+    "snippet": "bit subjective, but the design of the phone is pretty unique. Like, it has that gamey neon color vibe to it, and I really like the purple color. Along with",
+    "start_time_text": "7:50",
+    "start_time_label": "7 minutes, 50 seconds"
+   },
+   {
+    "start_ms": 477000,
+    "snippet": "that, it has a 50 map main camera, which takes good pictures. Even the selfies look sharp. Now, all of this is good.",
+    "start_time_text": "7:57",
+    "start_time_label": "7 minutes, 57 seconds"
+   },
+   {
+    "start_ms": 483000,
+    "snippet": "Again, there are a few cons that you should keep in mind. Just like the Realme P4, even the K3 Turbo doesn't get OIS, so the videos come out shaky.",
+    "start_time_text": "8:03",
+    "start_time_label": "8 minutes, 3 seconds"
+   },
+   {
+    "start_ms": 491000,
+    "snippet": "Number two, and I feel this is the biggest one, there's only one major Android update left with Oppo K13 Turbo, and you will get 2 years of security",
+    "start_time_text": "8:11",
+    "start_time_label": "8 minutes, 11 seconds"
+   },
+   {
+    "start_ms": 499000,
+    "snippet": "update. Other than that, if you want a gaming phone, I think the Oppo K1 13 Turbo is a pretty solid option under 30,000. Now, the final phone in this",
+    "start_time_text": "8:19",
+    "start_time_label": "8 minutes, 19 seconds"
+   },
+   {
+    "start_ms": 507000,
+    "snippet": "list is the Motorola H60 Pro. Currently, it is selling for around 30,000. And this is one of the most value for money phone in this entire list. Like, the",
+    "start_time_text": "8:27",
+    "start_time_label": "8 minutes, 27 seconds"
+   },
+   {
+    "start_ms": 516000,
+    "snippet": "first pro has to be the cameras. It comes with a 50 megap triple camera setup. In fact, it is the only phone currently with a 3x telephoto camera",
+    "start_time_text": "8:36",
+    "start_time_label": "8 minutes, 36 seconds"
+   },
+   {
+    "start_ms": 524000,
+    "snippet": "around 30,000. So, in daylight condition, the photos come out pretty sharp and vibrant. The colors and skin tone look quite natural with a good amount of detail. And if you have a look",
+    "start_time_text": "8:44",
+    "start_time_label": "8 minutes, 44 seconds"
+   },
+   {
+    "start_ms": 532000,
+    "snippet": "at portrait shots from 3x camera, they come out so good. In videos, it supports 4K recording from all the cameras including the front camera. So, even if",
+    "start_time_text": "8:52",
+    "start_time_label": "8 minutes, 52 seconds"
+   },
+   {
+    "start_ms": 540000,
+    "snippet": "you want to shoot shots or reels, it will do that pretty easily. Along with the camera, the second pro here is the performance. The H60 Pro comes in MediaTek dimensity 8350 extreme",
+    "start_time_text": "9:00",
+    "start_time_label": "9 minutes"
+   },
+   {
+    "start_ms": 549000,
+    "snippet": "processor and you get LPDDR5X RAM and UFS 4.0 storage. So in normal usage it can handle [music] things pretty smoothly. We even played heavier games",
+    "start_time_text": "9:09",
+    "start_time_label": "9 minutes, 9 seconds"
+   },
+   {
+    "start_ms": 557000,
+    "snippet": "like boothering waves on the highest setting and you get like a decent 45 fps which is not bad for 8350 processor.",
+    "start_time_text": "9:17",
+    "start_time_label": "9 minutes, 17 seconds"
+   },
+   {
+    "start_ms": 564000,
+    "snippet": "Along with performance, the display, battery, charging, everything is pretty top of the line that you get around 30,000 in 2026. Now there are a few things that you need to keep in mind.",
+    "start_time_text": "9:24",
+    "start_time_label": "9 minutes, 24 seconds"
+   },
+   {
+    "start_ms": 574000,
+    "snippet": "First of all, the H60 Pro comes with Hello UI, which is somewhat improving with the update situation, but optimization is what I feel can be much",
+    "start_time_text": "9:34",
+    "start_time_label": "9 minutes, 34 seconds"
+   },
+   {
+    "start_ms": 581000,
+    "snippet": "better in Motorola's Hello UI. Like whenever we do a video on the H60 Pro, [music] people do mention the optimization issue in comments. So overall, the optimization and the update",
+    "start_time_text": "9:41",
+    "start_time_label": "9 minutes, 41 seconds"
+   },
+   {
+    "start_ms": 589000,
+    "snippet": "situation is not really [music] good with the H60 Pro. Another issue that I feel with the H60 Pro is the vegan leather back. I used it mostly without a case, so it has all the sort of marks",
+    "start_time_text": "9:49",
+    "start_time_label": "9 minutes, 49 seconds"
+   },
+   {
+    "start_ms": 598000,
+    "snippet": "and stain left behind on this. So just to ensure that your phone remains stainfree, please use a case. It comes inside the box. Don't be like me. Other",
+    "start_time_text": "9:58",
+    "start_time_label": "9 minutes, 58 seconds"
+   },
+   {
+    "start_ms": 606000,
+    "snippet": "than that, the kind of specs and features that the H60 Pro offers, currently no phone is even close to it",
+    "start_time_text": "10:06",
+    "start_time_label": "10 minutes, 6 seconds"
+   },
+   {
+    "start_ms": 613000,
+    "snippet": "and it's been one full year. So it's a very solid phone if you have a budget of under 30,000. Now with that, our list comes to an end. Now the phones that we",
+    "start_time_text": "10:13",
+    "start_time_label": "10 minutes, 13 seconds"
+   },
+   {
+    "start_ms": 621000,
+    "snippet": "have mentioned, if you're using them for some time, I would really love if the hashtag teamwiser [music] can drop their reviews in the comment below. We'll pin it so it will help the community more",
+    "start_time_text": "10:21",
+    "start_time_label": "10 minutes, 21 seconds"
+   },
+   {
+    "start_ms": 629000,
+    "snippet": "and [music] plus you can also share your service center or repair experience if any. On that note, this is signing off.",
+    "start_time_text": "10:29",
+    "start_time_label": "10 minutes, 29 seconds"
+   },
+   {
+    "start_ms": 634000,
+    "snippet": "See you in the next video. [music]",
+    "start_time_text": "10:34",
+    "start_time_label": "10 minutes, 34 seconds"
+   },
+   {
+    "start_ms": 641000,
+    "snippet": "[music]",
+    "start_time_text": "10:41",
+    "start_time_label": "10 minutes, 41 seconds"
+   }
+  ],
+  "chapters": [
+   {
+    "chapter": "Chapter 1: Introduction & Smartphone Price Hikes",
+    "start_ms": 0,
+    "start_time_text": "0:00"
+   },
+   {
+    "chapter": "Chapter 2: TechWiser Launch",
+    "start_ms": 54000,
+    "start_time_text": "0:54"
+   },
+   {
+    "chapter": "Chapter 3: Realme P4 (Best All-Rounder Under ₹25k)",
+    "start_ms": 141000,
+    "start_time_text": "2:21"
+   },
+   {
+    "chapter": "Chapter 4: Bonus Option: Realme GT 70",
+    "start_ms": 263000,
+    "start_time_text": "4:23"
+   },
+   {
+    "chapter": "Chapter 5: Samsung Galaxy M56 5G",
+    "start_ms": 303000,
+    "start_time_text": "5:03"
+   },
+   {
+    "chapter": "Chapter 6: OPPO K13 Turbo (Best Gaming Option)",
+    "start_ms": 414000,
+    "start_time_text": "6:54"
+   },
+   {
+    "chapter": "Chapter 7: Motorola Edge 60 Pro (Best Value & Cameras)",
+    "start_ms": 506000,
+    "start_time_text": "8:26"
+   },
+   {
+    "chapter": "Chapter 8: Conclusion & Final Verdict",
+    "start_ms": 618000,
+    "start_time_text": "10:18"
+   }
+  ]
+ }
+}

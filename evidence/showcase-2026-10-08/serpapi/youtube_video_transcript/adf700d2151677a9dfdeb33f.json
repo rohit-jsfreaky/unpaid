@@ -1,0 +1,567 @@
+{
+ "request": {
+  "engine": "youtube_video_transcript",
+  "language_code": "en",
+  "v": "WWpRe3fA9YE"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7d0940257bb155bc935dd",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/kCrj1F4WHpfn02S17NhwXtdIOyCOMJfck2xBdjWe9Hk/6ac7d0940257bb155bc935dd.json",
+   "markdown_endpoint": "https://serpapi.com/searches/kCrj1F4WHpfn02S17NhwXtdIOyCOMJfck2xBdjWe9Hk/6ac7d0940257bb155bc935dd.md",
+   "created_at": "2026-10-08 17:19:16 UTC",
+   "processed_at": "2026-10-08 17:19:16 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=WWpRe3fA9YE",
+   "raw_html_file": "https://serpapi.com/searches/kCrj1F4WHpfn02S17NhwXtdIOyCOMJfck2xBdjWe9Hk/6ac7d0940257bb155bc935dd.html",
+   "prettify_html_file": "https://serpapi.com/searches/kCrj1F4WHpfn02S17NhwXtdIOyCOMJfck2xBdjWe9Hk/6ac7d0940257bb155bc935dd.prettify",
+   "total_time_taken": 7.54
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "WWpRe3fA9YE",
+   "language_code": "en"
+  },
+  "transcript": [
+   {
+    "start_ms": 0,
+    "snippet": "देखो स्टॉक के प्राइसेस से ज्यादा आजकल स्मार्टफोन के प्राइसेस बढ़ते जा रहे हैं।",
+    "start_time_text": "0:00",
+    "start_time_label": "0 seconds"
+   },
+   {
+    "start_ms": 3000,
+    "snippet": "यह है मेरे पास Poco X8 Pro इसको मैंने ₹30,000 के प्राइिंग में परचेस किया था।",
+    "start_time_text": "0:03",
+    "start_time_label": "3 seconds"
+   },
+   {
+    "start_ms": 8000,
+    "snippet": "अभी यह ₹40,000 का मिल रहा है। मैं आपको डरा नहीं रहा हूं। बस आगाह कर रहा हूं कि अगर आपको स्मार्टफोन ₹30,000 के अंदर",
+    "start_time_text": "0:08",
+    "start_time_label": "8 seconds"
+   },
+   {
+    "start_ms": 16000,
+    "snippet": "खरीदना है। अभी शायद आपके लिए एकदम बेस्ट टाइम है। आप जाके ₹30,000 के अंदर स्मार्टफोन परचेस कर सकते हो। क्या पता",
+    "start_time_text": "0:16",
+    "start_time_label": "16 seconds"
+   },
+   {
+    "start_ms": 24000,
+    "snippet": "भाई आने वाले दिनों के अंदर ना ₹30,000 में आपको आईपीएस एलसीडी डिस्प्ले देखने को मिल जाए। अरे नहीं नहीं गलत बोल रहे हो मिलने लगेगी नहीं मिल रही है ये देखो",
+    "start_time_text": "0:24",
+    "start_time_label": "24 seconds"
+   },
+   {
+    "start_ms": 33000,
+    "snippet": "Realme P4X में आपको आईपीs एलसीडी डिस्प्ले मिल जाती है। क्या बात कर रहे हो भाई? Realme P4X OnePlus न C6 Lite आईपीs",
+    "start_time_text": "0:33",
+    "start_time_label": "33 seconds"
+   },
+   {
+    "start_ms": 40000,
+    "snippet": "एलसीडी पैनल वाली जो डिस्प्ले आपको मिलती है वो अब ₹00 वाले स्मार्टफोन में आ रही है। बट आपको उससे अच्छे स्मार्टफोन आज की वीडियो के अंदर रेकमेंड करने वाला हूं।",
+    "start_time_text": "0:40",
+    "start_time_label": "40 seconds"
+   },
+   {
+    "start_ms": 50000,
+    "snippet": "टॉप फाइव जो कि अभी जाके फटाफट आप खरीद सकते हो। स्टॉक में मिल रहे हैं। अब देखो सबसे पहले आपको एक स्मार्टफोन बताता हूं जो कि अभी के टाइम पे ना कास्टेंटली स्टॉक",
+    "start_time_text": "0:50",
+    "start_time_label": "50 seconds"
+   },
+   {
+    "start_ms": 58000,
+    "snippet": "में आपको मिल रहा है। मैं बात कर रहा हूं Realme P4 Pro की। बैक से यार फील करने में भी अच्छा है। थोड़ा सा कर्व डिज़ाइन के साथ है तो इन हैंड फील भी आपको अच्छी मिल",
+    "start_time_text": "0:58",
+    "start_time_label": "58 seconds"
+   },
+   {
+    "start_ms": 67000,
+    "snippet": "जाएगी। फ्रंट में जैसे मैंने बताया कर्व डिस्प्ले मिलती है। एमोलेड वाली है। पतले बज़ल्स वाली है। डिस्प्ले की क्वालिटी बेहतरीन आपको मिलेगी। आउटडोर विजिबिलिटी",
+    "start_time_text": "1:07",
+    "start_time_label": "1 minute, 7 seconds"
+   },
+   {
+    "start_ms": 75000,
+    "snippet": "में भी कोई समस्या नहीं आती है। वैसे बैक में कैमरा तो iPhone वाला है। बट अगर आप स्पेसिफिकेशन वाइज देखोगे 50 + 8 मेगापिक्सल का आता है। इसके कुछ इमेज",
+    "start_time_text": "1:15",
+    "start_time_label": "1 minute, 15 seconds"
+   },
+   {
+    "start_ms": 83000,
+    "snippet": "वगैरह आपको दिखा देता हूं जो कि मैं कहूंगा एवरेज से अबव वाले आपको मिलते हैं। बेकार नहीं है या एकदम अच्छे भी नहीं है।",
+    "start_time_text": "1:23",
+    "start_time_label": "1 minute, 23 seconds"
+   },
+   {
+    "start_ms": 89000,
+    "snippet": "बीच में आपको चलते हुए मिलेंगे। आपके एक्सपेक्टेशन से अच्छे ही रिजल्ट निकाल के ये देगा। सेल्फी कैमरा भी इसके अच्छे निकल के आते हैं। उसी के साथ-साथ परफॉर्मेंस",
+    "start_time_text": "1:29",
+    "start_time_label": "1 minute, 29 seconds"
+   },
+   {
+    "start_ms": 98000,
+    "snippet": "में आपको निराशा नहीं होगी। एक तो इसका एन2 स्कोर देखो कितना बढ़िया आता है। अब इसकी वजह यह है क्योंकि इसके अंदर आता है Snapdragon का 74 वाला चिपसेट। वो भी UFS",
+    "start_time_text": "1:38",
+    "start_time_label": "1 minute, 38 seconds"
+   },
+   {
+    "start_ms": 106000,
+    "snippet": "3.1 की स्टोरेज के साथ। तो आपको नॉर्मल यूजर्स के अंदर परफॉर्मेंस स्मूथ मिलती है। हां एनिमेशन में थोड़ा सा लेट डाउन मिला है बट आपको डे टू डे यूज़ में दिक्कत",
+    "start_time_text": "1:46",
+    "start_time_label": "1 minute, 46 seconds"
+   },
+   {
+    "start_ms": 114000,
+    "snippet": "नहीं आएगी। इवन गेमिंग भी ये काफी अच्छी वाली आपको करा के देगा। 90fps में आप स्टेबल गेमिंग bजीmआई वाली इसके अंदर कर सकते हो। उसी के साथ-साथ Realme UI आपको",
+    "start_time_text": "1:54",
+    "start_time_label": "1 minute, 54 seconds"
+   },
+   {
+    "start_ms": 123000,
+    "snippet": "मिलती है जिसमें यार ये 3 OS का आपको सॉफ्टवेयर प्रॉमिस देते हैं। अब क्योंकि Android 15 पे आया था 16 की अपडेट मिल चुकी है। 17 और 18 की आपको और अपडेट इसके",
+    "start_time_text": "2:03",
+    "start_time_label": "2 minutes, 3 seconds"
+   },
+   {
+    "start_ms": 131000,
+    "snippet": "अंदर मिल जाएगी। तो एक प्लस पॉइंट में यह भी आपको साथ में चलता हुआ मिलेगा। बट उससे बड़ी चीज आपको साथ में चलती हुई मिलेगी कि इसके अंदर जो बड़ी वाली आपको बैटरी आती है",
+    "start_time_text": "2:11",
+    "start_time_label": "2 minutes, 11 seconds"
+   },
+   {
+    "start_ms": 139000,
+    "snippet": "फास्ट चार्जिंग के साथ है। डेढ़ से दो दिन वाला बैटरी बैकअप बहुत आराम से इसके अंदर निकल जाता है। ड्यूल स्टूडियो स्पीकर्स के साथ एक वेल बैलेंस चॉइस यह रहती है जो कि",
+    "start_time_text": "2:19",
+    "start_time_label": "2 minutes, 19 seconds"
+   },
+   {
+    "start_ms": 148000,
+    "snippet": "हर टाइम अभी स्टॉक में मिल रहा है ₹30,000 के अंदर आपके लिए इधर नीचे मैं टैग कर दूंगा। बेस्ट स्मार्टफोन जो कि आप परचेस कर सकते हो। जाके डायरेक्टली आप यहां से",
+    "start_time_text": "2:28",
+    "start_time_label": "2 minutes, 28 seconds"
+   },
+   {
+    "start_ms": 157000,
+    "snippet": "चेक आउट आप कर लेना क्योंकि लिस्ट में जो दूसरा स्मार्टफोन है देखो है तो वन ऑफ द बेस्ट बट यह स्टॉक में आता है चला जाता है",
+    "start_time_text": "2:37",
+    "start_time_label": "2 minutes, 37 seconds"
+   },
+   {
+    "start_ms": 164000,
+    "snippet": "आता है चला जाता है तो इस पे आपको अपनी निगाहें गड़ा के रखनी पड़ेगी मैं बात कर रहा हूं Motorola H60 Pro की वन ऑफ द",
+    "start_time_text": "2:44",
+    "start_time_label": "2 minutes, 44 seconds"
+   },
+   {
+    "start_ms": 171000,
+    "snippet": "बेस्ट स्मार्टफोन ₹30,000 के अंदर नो डाउट मैं इसको कह सकता हूं बैक से दिखने में वीगन लेदर वाला पूरा मजा आपको मिल जाएगा इन हैंड फील भाई प्रीमियम ये स्मार्टफोन",
+    "start_time_text": "2:51",
+    "start_time_label": "2 minutes, 51 seconds"
+   },
+   {
+    "start_ms": 180000,
+    "snippet": "लगता है अब प्रीमियम इसके अंदर बिल्ड भी आपको मिलती है साथ में फ्रंट में पी ओलेड डिस्प्ले कर्व कर्व्ड वाली मिलेगी। पतले बज़ल्स के साथ मिलती है। डिस्प्ले की",
+    "start_time_text": "3:00",
+    "start_time_label": "3 minutes"
+   },
+   {
+    "start_ms": 188000,
+    "snippet": "क्वालिटी बेहतरीन आपको मिल जाएगी। इन डिस्प्ले फिंगरप्रिंट स्कैनर है। ड्यूल स्टूडियो स्पीकर्स हैं। Dolby के साथ बेहतरीन साउंड करते हैं। IP68 69 की वाटर",
+    "start_time_text": "3:08",
+    "start_time_label": "3 minutes, 8 seconds"
+   },
+   {
+    "start_ms": 198000,
+    "snippet": "स्टैंड रेटिंग भी मिल जाती है। गोरिल्ला ग्लास 7i की डिस्प्ले प्रोटेक्शन भी आपको मिल जाएगी। पूरी तरीके से प्रोटेक्टेड यह रहेगा। साथ में परफॉर्मेंस में इसमें कोई",
+    "start_time_text": "3:18",
+    "start_time_label": "3 minutes, 18 seconds"
+   },
+   {
+    "start_ms": 206000,
+    "snippet": "कमी नहीं आती है क्योंकि इसके अंदर MediaTek डायमceिटी 8350 एक्सट्रीम वाला चिपसेट आता है। वो भी UFS 4.0 की स्टोरेज के साथ है। 256 GB बेस इसका मिलता है।",
+    "start_time_text": "3:26",
+    "start_time_label": "3 minutes, 26 seconds"
+   },
+   {
+    "start_ms": 216000,
+    "snippet": "नॉर्मल यूज़ में स्मूथ एनिमेशन यहां पे Moto ने करके रखे हैं। डे टू डे यूज़ के अंदर लैग्स वगैरह आपको नहीं देखने को मिलेंगे। कैमरा UI के अंदर भी लैग्स यहां",
+    "start_time_text": "3:36",
+    "start_time_label": "3 minutes, 36 seconds"
+   },
+   {
+    "start_ms": 224000,
+    "snippet": "पे नहीं आते हैं। अब गेमिंग भी आप इसके अंदर कर सकते हो। स्टेबल गेमिंग करा देता है। अच्छी बिना किसी हीटिंग के आपको इसके अंदर जो गेमिंग है वो आप कर लोगे। बात में UI की जहां पे आई हेलो UI मिलती है।",
+    "start_time_text": "3:44",
+    "start_time_label": "3 minutes, 44 seconds"
+   },
+   {
+    "start_ms": 235000,
+    "snippet": "Android 15 के साथ आया था। 3 OS का सॉफ्टवेयर अपडेट प्रॉमिस भी इसमें मिलेगा।",
+    "start_time_text": "3:55",
+    "start_time_label": "3 minutes, 55 seconds"
+   },
+   {
+    "start_ms": 239000,
+    "snippet": "तो हां तो 16 का अपडेट आ चुका है। 17 का आ जाएगा। 18 का भी आ जाएगा। वैसे अगर आपने नहीं देखी है Moto UI में Android 17 के अपडेट में क्या-क्या नए चेंजेस आने वाले",
+    "start_time_text": "3:59",
+    "start_time_label": "3 minutes, 59 seconds"
+   },
+   {
+    "start_ms": 247000,
+    "snippet": "हैं। वीडियो बनाई है। लिंक दे दूंगा डिस्क्रिप्शन में। पूरा देख लेना। ए टू जेड सारी चीजें आपको उसके बारे में मैंने बता दी है। तो चेक आउट जरूर से कर लेना।",
+    "start_time_text": "4:07",
+    "start_time_label": "4 minutes, 7 seconds"
+   },
+   {
+    "start_ms": 255000,
+    "snippet": "आप वैसे चेक आउट इसके कैमरा को भी कर लो क्योंकि इसके मेन सेंसर टेलीोटो के शॉट्स क्या बेहतरीन निकल के आते हैं। ओवरऑल कॉम्बिनेशन में बहुत सही शॉट्स यहां पे ये",
+    "start_time_text": "4:15",
+    "start_time_label": "4 minutes, 15 seconds"
+   },
+   {
+    "start_ms": 263000,
+    "snippet": "क्लिक कर लेता है। साथ में यार इसमें 6000 एमh की बैटरी आती है। एक दिन वाला बैटरी बैकअप आपके लिए आराम से निकाल देगी।",
+    "start_time_text": "4:23",
+    "start_time_label": "4 minutes, 23 seconds"
+   },
+   {
+    "start_ms": 268000,
+    "snippet": "वायरलेस चार्जिंग का भी सपोर्ट इसके अंदर मिल जाता है। ओवरऑल चीजों में अगर आप देखोगे एक बहुत अच्छी बैलेंस चॉइस ₹30,000 के बजट के अंदर मिलती है। मिल रहा है।",
+    "start_time_text": "4:28",
+    "start_time_label": "4 minutes, 28 seconds"
+   },
+   {
+    "start_ms": 277000,
+    "snippet": "जाके गैब कर लेना। कुछ टाइम पहले यार यहां पे Realme GT 7T भी मिल रहा था। अगर वो भी 30 में आ गया ना अगर आप जब ये वीडियो देख",
+    "start_time_text": "4:37",
+    "start_time_label": "4 minutes, 37 seconds"
+   },
+   {
+    "start_ms": 285000,
+    "snippet": "रहे हो तो उसको चेक आउट करते रहना। टैग आपके लिए सभी स्मार्टफोन को कर दूंगा जो कि इस प्राइस रेंज के अंदर अच्छे हैं जो कि कभी 30 में आ रहे हैं। कभी 30 से थोड़ा",
+    "start_time_text": "4:45",
+    "start_time_label": "4 minutes, 45 seconds"
+   },
+   {
+    "start_ms": 292000,
+    "snippet": "सा ऊपर भी चले जा रहे हैं। लुक आउट आप जरूर से करते रहिएगा क्योंकि यहां पे Samsung का S70 Pro वाला भी आया था। अब वो 25-26 में आया था बट वो अभी इसकी प्राइस",
+    "start_time_text": "4:52",
+    "start_time_label": "4 minutes, 52 seconds"
+   },
+   {
+    "start_ms": 300000,
+    "snippet": "30 में पहुंच गई है। तो ऐसी-ऐसी चीजें होती रहती है। इसलिए मैंने और भी अच्छे-अच्छे स्मार्टफोन को टैग कर दिया है। तो चेक आउट आप जरूर से कर लेना।",
+    "start_time_text": "5:00",
+    "start_time_label": "5 minutes"
+   },
+   {
+    "start_ms": 307000,
+    "snippet": "क्योंकि जो अगला स्मार्टफोन है Realme P3 अल्ट्रा मिल रहा है। यह भी स्टॉक में आ रहा है जा रहा है बट बहुत अच्छा स्मार्टफोन है। खास करके गेमर्स के लिए इसको बहुत अच्छे से ऑप्टिमाइज किया है।",
+    "start_time_text": "5:07",
+    "start_time_label": "5 minutes, 7 seconds"
+   },
+   {
+    "start_ms": 317000,
+    "snippet": "बैक से देखोगे क्लीन आपको डिज़ इसका देखने को मिलेगा। वीगन लेदर के साथ आपको आता है।",
+    "start_time_text": "5:17",
+    "start_time_label": "5 minutes, 17 seconds"
+   },
+   {
+    "start_ms": 322000,
+    "snippet": "फ्रंट में एमोलेड डिस्प्ले है। क्वाड कर्व्ड वाला इसके अंदर पैनल मिलता है। तो डिस्प्ले क्वालिटी अच्छी आपको मिल जाएगी।",
+    "start_time_text": "5:22",
+    "start_time_label": "5 minutes, 22 seconds"
+   },
+   {
+    "start_ms": 327000,
+    "snippet": "विज़िबिलिटी वाइज कोई आपको दिक्कत नहीं आएगी। गोरिल्ला ग्लास 7i की डिस्प्ले प्रोटेक्शन भी आपको इसके अंदर मिलती है।",
+    "start_time_text": "5:27",
+    "start_time_label": "5 minutes, 27 seconds"
+   },
+   {
+    "start_ms": 332000,
+    "snippet": "अब इसके अंदर भी मिलती है आपको यार MediaTek डायमceिटी 8350 अल्टra वाली चिपसेट्स जो कि अच्छा परफॉर्मस करती है डे टू डे यूज़ में मक्खन वाले एनिमेशन के साथ",
+    "start_time_text": "5:32",
+    "start_time_label": "5 minutes, 32 seconds"
+   },
+   {
+    "start_ms": 341000,
+    "snippet": "आपको मिलेगी। इवन Bजीएमआई की गेमिंग भी इसके अंदर बहुत बेहतरीन हो जाती है। वन ऑफ दी स्टेबल चिपसेट आपको इसके अंदर मिलेगा।",
+    "start_time_text": "5:41",
+    "start_time_label": "5 minutes, 41 seconds"
+   },
+   {
+    "start_ms": 347000,
+    "snippet": "Realme UI का सपोर्ट है। 3OS का यहां पे अपडेट प्रॉमिस था। Android 15 के साथ ही आया था। 16 का अपडेट मिल चुका है। 17-18 का भी अपडेट आपको इसके अंदर मिल जाएगा और",
+    "start_time_text": "5:47",
+    "start_time_label": "5 minutes, 47 seconds"
+   },
+   {
+    "start_ms": 356000,
+    "snippet": "लंबा आपके लिए यह फोन चलेगा भी क्योंकि यार इसके अंदर जो परफॉर्मेंस तो स्मूथ मिलती है। साथ ही साथ इसमें जो बैटरी है 6000 एमh की मिल जाएगी। फास्ट 80 वाट की",
+    "start_time_text": "5:56",
+    "start_time_label": "5 minutes, 56 seconds"
+   },
+   {
+    "start_ms": 364000,
+    "snippet": "वाइड चार्जिंग के साथ सपोर्ट में बहुत अच्छा कॉम्बिनेशन बना के यह दे रहा है।",
+    "start_time_text": "6:04",
+    "start_time_label": "6 minutes, 4 seconds"
+   },
+   {
+    "start_ms": 368000,
+    "snippet": "बाकी कैमरा 50 + 8 मेगापिक्सल के सेटअप के साथ है जो कि ठीक-ठाक सी फोटो वगैरह भी क्लिक कर लेते हैं। देखो प्राइिंग के अनुसार ₹30,000 में एक बहुत ही सही सी",
+    "start_time_text": "6:08",
+    "start_time_label": "6 minutes, 8 seconds"
+   },
+   {
+    "start_ms": 376000,
+    "snippet": "मतलब अच्छी वाली चॉइस जो है आपको यहां पे देखने के लिए मिलेगी। वैसे ही ₹30,000 के अंदर आपको Infinix GT30 Pro भी मिल जाएगा।",
+    "start_time_text": "6:16",
+    "start_time_label": "6 minutes, 16 seconds"
+   },
+   {
+    "start_ms": 384000,
+    "snippet": "अभी के टाइम पे लगातार स्टॉक में यह चल रहा है। टिल द स्टॉक्स खत्म हो जाए तब तक रहेगा भाई। आप इसको चेक आउट कर सकते हो।",
+    "start_time_text": "6:24",
+    "start_time_label": "6 minutes, 24 seconds"
+   },
+   {
+    "start_ms": 391000,
+    "snippet": "यह स्मार्टफोन मैंने खुद खरीदा है। अब मैंने तो यार थोड़ा सा अलग ही फंडा लगा के खरीदा था। अगर आप उस तरीके से खरीदना चाहते हो। लिंक मैं डिस्क्रिप्शन में दे दूंगा। देख लेना क्योंकि मैंने तो 15-16",
+    "start_time_text": "6:31",
+    "start_time_label": "6 minutes, 31 seconds"
+   },
+   {
+    "start_ms": 400000,
+    "snippet": "के अराउंड इसको खरीदा था। बैक से डिज़ाइन देखोगे पूरी Infinix की वो गेमिंग वाली वाइब आपको देखने के लिए इसके अंदर मिल जाएगी। बेहतरीन लगता है। आरजीबी लाइटिंग",
+    "start_time_text": "6:40",
+    "start_time_label": "6 minutes, 40 seconds"
+   },
+   {
+    "start_ms": 408000,
+    "snippet": "वगैरह आपको उसके अंदर मिलती है। साथ ही में वो गेमिंग वाले ट्रिगर्स भी मिलते हैं जिसमें गेम प्ले करने में तो और मजा आ जाता है। अब मजा इसलिए भी आता है इसके अंदर भी MediaTek 8350 वाला चिपसेट मिलता",
+    "start_time_text": "6:48",
+    "start_time_label": "6 minutes, 48 seconds"
+   },
+   {
+    "start_ms": 417000,
+    "snippet": "है जो कि अल्टीमेट परफॉर्मेंस निकाल के देता है। मतलब गेमिंग के लिए 90fps में तो यह काफी ज्यादा ऑप्टिमाइज मुझे लगा है।",
+    "start_time_text": "6:57",
+    "start_time_label": "6 minutes, 57 seconds"
+   },
+   {
+    "start_ms": 423000,
+    "snippet": "एकदम स्टेबल गेमिंग यहां पे ओवरऑल हो जाती है इसके अंदर। इवन डे टू डे यूज़ में भी अच्छा परफॉर्म करता हुआ आपको मिल जाएगा।",
+    "start_time_text": "7:03",
+    "start_time_label": "7 minutes, 3 seconds"
+   },
+   {
+    "start_ms": 429000,
+    "snippet": "अब इसके अंदर एक थोड़ी सी कमी मुझे लगी है कि यार इनकी जो Infinix UI वो कमी नहीं है। वो तो बहुत अच्छा है। बहुत अच्छे अपडेट के साथ आई है। एकदम पूरा चेंज कर",
+    "start_time_text": "7:09",
+    "start_time_label": "7 minutes, 9 seconds"
+   },
+   {
+    "start_ms": 437000,
+    "snippet": "दिया गया है। उसके अंदर जो डेप्थ इफेक्ट है काफी बेहतरीन आ गए हैं। कस्टमाइजेशन के ऑप्शन काफी ज्यादा मिल गए हैं। एi फीचर्स बहुत तगड़े तरीके से आपको उसके अंदर मिल",
+    "start_time_text": "7:17",
+    "start_time_label": "7 minutes, 17 seconds"
+   },
+   {
+    "start_ms": 446000,
+    "snippet": "जाएंगे। कमी उसकी यही है कि Android 15 के साथ आया था। 16 का अपडेट उसके अंदर मिल चुका है और बस एक ओएस अपडेट उसके अंदर बाकी है। यानी 17 का मिलेगा। उसके बाद",
+    "start_time_text": "7:26",
+    "start_time_label": "7 minutes, 26 seconds"
+   },
+   {
+    "start_ms": 454000,
+    "snippet": "आपको 18-19 का अपडेट नहीं मिलेगा। बाकी कैमरास अगर आप देखोगे फोटो इसके अंदर डिसेंट सी निकल के आती है। डे लाइट के अंदर तो ठीक-ठाक सी है। लो लाइट में थोड़ा सा ये स्ट्रगल करता हुआ जरूर से मुझे लगा",
+    "start_time_text": "7:34",
+    "start_time_label": "7 minutes, 34 seconds"
+   },
+   {
+    "start_ms": 463000,
+    "snippet": "है। बाकी 5000 एमh की बैटरी आपको मिल जाएगी। वायरलेस चार्जिंग का भी इसके अंदर सपोर्ट मिलता है। तो वो भी एक प्लस पॉइंट में आपके लिए जरूर से का यहां पे शामिल हो",
+    "start_time_text": "7:43",
+    "start_time_label": "7 minutes, 43 seconds"
+   },
+   {
+    "start_ms": 470000,
+    "snippet": "जाएगा। बट शामिल इसकी जो एमोलेड डिस्प्ले पतले बैजल्स फ्लैट वाली क्या बेहतरीन डिस्प्ले लगती है। अच्छी क्वालिटी है।",
+    "start_time_text": "7:50",
+    "start_time_label": "7 minutes, 50 seconds"
+   },
+   {
+    "start_ms": 477000,
+    "snippet": "गेमिंग में बेहतरीन मजा आता है। होल्ड करने में इसको मजा आता है। तो इजीली आप गेमिंग इसके अंदर लॉन्ग टर्म के लिए जो है बहुत आराम से यहां पे कर सकते हो। बाकी एक",
+    "start_time_text": "7:57",
+    "start_time_label": "7 minutes, 57 seconds"
+   },
+   {
+    "start_ms": 485000,
+    "snippet": "आपको सेफर चॉइस भी बता देता हूं जो कि 30,000 में मिलना ही मिलना है। मैं बात कर रहा हूं Moto S70 फ्यूजन की। अब इसका बेस वेरिएंट 128 GB से स्टार्ट हो रहा है। बट",
+    "start_time_text": "8:05",
+    "start_time_label": "8 minutes, 5 seconds"
+   },
+   {
+    "start_ms": 493000,
+    "snippet": "एक स्टेबल स्मार्टफोन जो है आपको यह देखने के लिए मिलेगा। बैक से वीगन लेदर के साथ है। डिसेंट सा यहां पे मैं कहूंगा डिज़ है।",
+    "start_time_text": "8:13",
+    "start_time_label": "8 minutes, 13 seconds"
+   },
+   {
+    "start_ms": 500000,
+    "snippet": "सिमिलर एज अ Moto सारे स्मार्टफोन आ रहे हैं। फ्रंट में आपको पी ओलेट डिस्प्ले कर्व्ड वाली मिलती है। पतले बज़ल्स हैं।",
+    "start_time_text": "8:20",
+    "start_time_label": "8 minutes, 20 seconds"
+   },
+   {
+    "start_ms": 506000,
+    "snippet": "आउटडोर विज़िबिलिटी आपको इसकी अच्छी देखने के लिए मिल जाएगी। बैटरी 7000 एमh की काफी बड़ी है जो कि डेढ़ से 2 दिन वाला बैटरी बैकअप निकाल देती है। परफॉर्मेंस के लिए",
+    "start_time_text": "8:26",
+    "start_time_label": "8 minutes, 26 seconds"
+   },
+   {
+    "start_ms": 514000,
+    "snippet": "Snapdragon 7s जेन 4 वाला चिपसेट है। UFS 3.1 की स्टोरेज के साथ है। देखो डे टू डे यूज़ में कोई दिक्कत नहीं है। नॉर्मल परफॉर्मेंस भी आपको इसके अंदर अच्छी मिल",
+    "start_time_text": "8:34",
+    "start_time_label": "8 minutes, 34 seconds"
+   },
+   {
+    "start_ms": 521000,
+    "snippet": "जाती है। गेमिंग के लिए मैं कहूंगा 90fps में भी यहां पे थोड़ा सा स्ट्रगल करता हुआ आपको मिलेगा। उतनी ज्यादा स्टेबिलिटी के साथ इसके अंदर गेमिंग नहीं होती है। बाकी",
+    "start_time_text": "8:41",
+    "start_time_label": "8 minutes, 41 seconds"
+   },
+   {
+    "start_ms": 529000,
+    "snippet": "फोटो वगैरह देखोगे वहां पर मुझे इसने काफी ज्यादा सरप्राइज किया है। सरप्राइजिंगली बहुत अच्छी एंड स्टेबल फोटो इसके अंदर निकल के आ रही है। मतलब ओवरऑल चीजों में",
+    "start_time_text": "8:49",
+    "start_time_label": "8 minutes, 49 seconds"
+   },
+   {
+    "start_ms": 537000,
+    "snippet": "देखा जाए एक काफी स्टेबल एंड वेल बैलेंस्ड स्मार्टफोन आपको मिलेगा। अब इधर इधर ही ना कभी-कभी Moto S70 भी देखने के लिए मिल जाता है। जो कि मुझे डिसेंट सा थोड़ा सा",
+    "start_time_text": "8:57",
+    "start_time_label": "8 minutes, 57 seconds"
+   },
+   {
+    "start_ms": 546000,
+    "snippet": "मालूम देता है। उसके साथ अगर आपको कंपैरिजन देखना है Moto S70 फ्यूजन का तो जरूर से कमेंट सेक्शन में बता देना। आपके लिए लाने की फुल टू कोशिश करी जाएगी। बाकी",
+    "start_time_text": "9:06",
+    "start_time_label": "9 minutes, 6 seconds"
+   },
+   {
+    "start_ms": 554000,
+    "snippet": "हां इन द एंड आप Samsung के M56 या F56 को भी देख लेना। इसकी एक सबसे बड़ी चीज है कि यार लंबा सॉफ्टवेयर सपोर्ट जो है आपको",
+    "start_time_text": "9:14",
+    "start_time_label": "9 minutes, 14 seconds"
+   },
+   {
+    "start_ms": 561000,
+    "snippet": "इसके अंदर देखने के लिए मिलेगा। फ्रंट में एमलेड डिस्प्ले पतले बैज़र्स के साथ मिल जाएगी। अच्छी क्वालिटी की आपको यहां पर डिस्प्ले भी मिलेगी। बाकी गोरिल्ला ग्लास",
+    "start_time_text": "9:21",
+    "start_time_label": "9 minutes, 21 seconds"
+   },
+   {
+    "start_ms": 568000,
+    "snippet": "VTS प्लस की डिस्प्ले प्रोटेक्शन के साथ टफ प्रोटेक्टेड आपको यह जरूर से मिलेगा।",
+    "start_time_text": "9:28",
+    "start_time_label": "9 minutes, 28 seconds"
+   },
+   {
+    "start_ms": 572000,
+    "snippet": "बट परफॉर्मेंस के लिए इसके अंदर एक्सिनोस का 1480 वाला चिपसेट आता है। UFS 3.1 की स्टोरेज के साथ है। नॉर्मल यूज़ में ठीक है। आपको स्मूथ परफॉर्मेंस भी देखने को",
+    "start_time_text": "9:32",
+    "start_time_label": "9 minutes, 32 seconds"
+   },
+   {
+    "start_ms": 581000,
+    "snippet": "मिलेगी। बहुत हैवी गेमिंग वगैरह आप इसके अंदर नहीं कर सकते। रीसेंट सी चॉइस मैं कहूंगा बस उन लोगों के लिए है जिनको लॉन्ग टर्म के लिए फोन चलाना है तो आप उसको जरूर",
+    "start_time_text": "9:41",
+    "start_time_label": "9 minutes, 41 seconds"
+   },
+   {
+    "start_ms": 588000,
+    "snippet": "से कंसीडर कर सकते हो क्योंकि जो कैमरास भी है वो ठीक-ठाक सी फोटो वगैरह ले लेते हैं। अब हां अल्ट्रा वाइड सिर्फ 8 मेगापिक्सल का है तो वो डिसेंट सा थोड़ा सा लगता है। बट ओवरऑल आपको कैमरा वगैरह में बहुत ज्यादा निराशा हाथ नहीं लगेगी।",
+    "start_time_text": "9:48",
+    "start_time_label": "9 minutes, 48 seconds"
+   },
+   {
+    "start_ms": 599000,
+    "snippet": "बाकी बैटरी जो है 5000 एमh की मिलती है जो कि थोड़े से कम साइड में मुझे लगी है। बट हां बैक से दिखने में डिज़ाइन वगैरह थोड़ी प्रीमियम फील जरूर से निकाल के देता है।",
+    "start_time_text": "9:59",
+    "start_time_label": "9 minutes, 59 seconds"
+   },
+   {
+    "start_ms": 606000,
+    "snippet": "यह एक और प्लस पॉइंट में जरूर से जो है शामिल हो जाता है। फिलहाल के टाइम पे देखोगे ₹30,000 के अंदर भी जो बेस्ट स्मार्टफोन थे काफी कम बचे हुए हैं। आईपीs",
+    "start_time_text": "10:06",
+    "start_time_label": "10 minutes, 6 seconds"
+   },
+   {
+    "start_ms": 615000,
+    "snippet": "एलसीडी डिस्प्ले वाले स्मार्टफोन आ चुके हैं। तो अगर आपको स्मार्टफोन लेना है। अभी सबसे है बेस्ट टाइम। ग्रैग कर दूंगा। जाके आप गैब कर सकते हो अगर आपका लेने का मन है",
+    "start_time_text": "10:15",
+    "start_time_label": "10 minutes, 15 seconds"
+   },
+   {
+    "start_ms": 624000,
+    "snippet": "तो। बाकी मिलूंगा नई वीडियो में। टिल देन टेक केयर। बाय बाय।",
+    "start_time_text": "10:24",
+    "start_time_label": "10 minutes, 24 seconds"
+   }
+  ],
+  "chapters": [
+   {
+    "chapter": "Chapter 1: Intro Smartphone Price Hike & Sale Updates",
+    "start_ms": 0,
+    "start_time_text": "0:00"
+   },
+   {
+    "chapter": "Chapter 2: 1 Best All-Rounder (AMOLED & 5 Years OS Updates)",
+    "start_ms": 46000,
+    "start_time_text": "0:46"
+   },
+   {
+    "chapter": "Chapter 3: 2 Best Camera & Performance Heavyweight",
+    "start_ms": 144000,
+    "start_time_text": "2:24"
+   },
+   {
+    "chapter": "Chapter 4: 3 Best Value Flagship Killer (7000mAh Battery)",
+    "start_ms": 245000,
+    "start_time_text": "4:05"
+   },
+   {
+    "chapter": "Chapter 5: Stock Out Updates: What Happened to Older Popular Deals?",
+    "start_ms": 344000,
+    "start_time_text": "5:44"
+   },
+   {
+    "chapter": "Chapter 6: 4 Best Gaming Phone Choices (Snapdragon & Cooling Fan)",
+    "start_ms": 361000,
+    "start_time_text": "6:01"
+   },
+   {
+    "chapter": "Chapter 7: 5 Best New Camera Centric Phone (Premium Design)",
+    "start_ms": 447000,
+    "start_time_text": "7:27"
+   },
+   {
+    "chapter": "Chapter 8: Special Mentions & Worthy Alternatives",
+    "start_ms": 535000,
+    "start_time_text": "8:55"
+   },
+   {
+    "chapter": "Chapter 9: Final Verdict & Offline Buying Tips",
+    "start_ms": 563000,
+    "start_time_text": "9:23"
+   }
+  ]
+ }
+}

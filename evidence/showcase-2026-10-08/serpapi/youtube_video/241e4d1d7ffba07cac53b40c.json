@@ -1,0 +1,696 @@
+{
+ "request": {
+  "engine": "youtube_video",
+  "gl": "in",
+  "hl": "en",
+  "v": "d0k2lEcbw14"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7d09deb6ec53e0e1e43c9",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/PP1GRQzsWg_8UXOTDIyE4wplhMBJPnjVNKEqYiJf0rQ/6ac7d09deb6ec53e0e1e43c9.json",
+   "markdown_endpoint": "https://serpapi.com/searches/PP1GRQzsWg_8UXOTDIyE4wplhMBJPnjVNKEqYiJf0rQ/6ac7d09deb6ec53e0e1e43c9.md",
+   "created_at": "2026-10-08 17:19:25 UTC",
+   "processed_at": "2026-10-08 17:19:25 UTC",
+   "youtube_video_url": "https://www.youtube.com/watch?v=d0k2lEcbw14",
+   "raw_html_file": "https://serpapi.com/searches/PP1GRQzsWg_8UXOTDIyE4wplhMBJPnjVNKEqYiJf0rQ/6ac7d09deb6ec53e0e1e43c9.html",
+   "prettify_html_file": "https://serpapi.com/searches/PP1GRQzsWg_8UXOTDIyE4wplhMBJPnjVNKEqYiJf0rQ/6ac7d09deb6ec53e0e1e43c9.prettify",
+   "total_time_taken": 1.64
+  },
+  "search_parameters": {
+   "engine": "youtube_video",
+   "v": "d0k2lEcbw14",
+   "gl": "in",
+   "hl": "en"
+  },
+  "title": "Best Mobiles Under 30,000/- | Flipkat Big Billion Days sale | in Telugu",
+  "thumbnail": "https://i.ytimg.com/vi/d0k2lEcbw14/maxresdefault.jpg",
+  "channel": {
+   "name": "Tharun Telugu Tech",
+   "thumbnail": "https://yt3.ggpht.com/QAkBhbov76cxEwhwDxby_SoXcaVU8RWy4Y8IoatrFv2R-NbpJUx91hDcNkHdZrM-yMh9nIm7=s176-c-k-c0x00ffffff-no-rj",
+   "link": "https://www.youtube.com/@TharunTeluguTech",
+   "subscribers": "281K subscribers",
+   "extracted_subscribers": 281000,
+   "verified": true
+  },
+  "views": "67,442 views",
+  "extracted_views": 67442,
+  "likes": "1K",
+  "extracted_likes": 1000,
+  "published_date": "Oct 3, 2026",
+  "description": {
+   "content": "#Flipkartmobiles #bestsmartphones2026\n#smartphones2026\n#Flipkart\n#BigBillionDays \n\nTARGET: 300K Subscribers. Naa Content Nacchina Vaaru ....Content worth undhi anipinchina varu matramey subscribe avvandi...❤️❤️❤️ \n\n\nFor Healthy Sponsorships Contact me at \nMail: kannamma786@gmail.com\n\nShop at Amazon: https://amzn.to/4aYKvAv\n\nMail: kannamma786@gamil.com\n\nThank you \nTelugu Tech Creator ✊\nTharun",
+   "links": [
+    {
+     "start_index": 0,
+     "length": 16,
+     "text": "#Flipkartmobiles",
+     "url": "https://www.youtube.com/hashtag/flipkartmobiles",
+     "type": "browse"
+    },
+    {
+     "start_index": 17,
+     "length": 20,
+     "text": "#bestsmartphones2026",
+     "url": "https://www.youtube.com/hashtag/bestsmartphones2026",
+     "type": "browse"
+    },
+    {
+     "start_index": 38,
+     "length": 16,
+     "text": "#smartphones2026",
+     "url": "https://www.youtube.com/hashtag/smartphones2026",
+     "type": "browse"
+    },
+    {
+     "start_index": 55,
+     "length": 9,
+     "text": "#Flipkart",
+     "url": "https://www.youtube.com/hashtag/flipkart",
+     "type": "browse"
+    },
+    {
+     "start_index": 65,
+     "length": 15,
+     "text": "#BigBillionDays",
+     "url": "https://www.youtube.com/hashtag/bigbilliondays",
+     "type": "browse"
+    },
+    {
+     "start_index": 301,
+     "length": 23,
+     "text": "https://amzn.to/4aYKvAv",
+     "url": "https://amzn.to/4aYKvAv"
+    }
+   ]
+  },
+  "related_videos": [
+   {
+    "video_id": "l4V8oMbtsC8",
+    "link": "https://www.youtube.com/watch?v=l4V8oMbtsC8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l4V8oMbtsC8",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/l4V8oMbtsC8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDY0k7tOrjA2eoa506DmFUfaciGjA"
+    },
+    "title": "Best Mobiles From 10K to 1 Lakh Telugu | Flipkart Big Billion Days & Amazon Great Indian Festival",
+    "published_date": "4h ago",
+    "views": "23K",
+    "extracted_views": 23000,
+    "channel": {
+     "name": "Tharun Telugu Tech",
+     "link": "https://www.youtube.com/@TharunTeluguTech",
+     "thumbnail": "https://yt3.ggpht.com/QAkBhbov76cxEwhwDxby_SoXcaVU8RWy4Y8IoatrFv2R-NbpJUx91hDcNkHdZrM-yMh9nIm7=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "8kifkj_nzLE",
+    "link": "https://www.youtube.com/watch?v=8kifkj_nzLE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8kifkj_nzLE",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/8kifkj_nzLE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCOg3zrbNf8DVgqVe_SRlGC5yt05w"
+    },
+    "title": "Inside the Flydubai Cockpit: Captain Smit Reveals What Really Happened",
+    "published_date": "10h ago",
+    "views": "57K",
+    "extracted_views": 57000,
+    "channel": {
+     "name": "Ramesh Kandula",
+     "link": "https://www.youtube.com/@RameshKandula",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lY1GZ7AoJ9h6zKHSXgR1FyjRFnt5SpkKa0eiM-YxgGHvg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "B8fnUOSJOjc",
+    "link": "https://www.youtube.com/watch?v=B8fnUOSJOjc",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=B8fnUOSJOjc",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/B8fnUOSJOjc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCKVfffPlyhGg95uFKNsQqukbuQUA"
+    },
+    "title": "దసరా, దీపావళి Festive Offer.. Tata Carsపై ₹2.25 లక్షల వరకు భారీ Discount! | TV2 Telugu",
+    "published_date": "2d ago",
+    "views": "356",
+    "extracted_views": 356,
+    "channel": {
+     "name": "TV2 TELUGU",
+     "link": "https://www.youtube.com/@TV2NEWS.TELUGU",
+     "thumbnail": "https://yt3.ggpht.com/38XhQDLX8Vp3CEepKgATDtXNrev2dtoFBQ_Jsk1XTIEbv81wKJTpSy0Br8CJsRFS4SQxjok1=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "j8650PjylRw",
+    "link": "https://www.youtube.com/watch?v=j8650PjylRw&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=j8650PjylRw",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/j8650PjylRw/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB98tJbBO6jE0JfCERIqEFwV179Hg"
+    },
+    "title": "Wait Friends, Don't Buy These Mobiles During the Sale || BBD Sale & Great Indian Festival Sale 2026",
+    "published_date": "1d ago",
+    "views": "54K",
+    "extracted_views": 54000,
+    "channel": {
+     "name": "Telugu TechTuts",
+     "link": "https://www.youtube.com/@telugutechhafiz",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n3fXhcSBoQu_sCLXkkrQLKaUCJiCU5dqFxOwNthIAAr54=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New",
+     "Auto-dubbed"
+    ]
+   },
+   {
+    "video_id": "lUzg1YBUNDo",
+    "link": "https://www.youtube.com/watch?v=lUzg1YBUNDo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lUzg1YBUNDo",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lUzg1YBUNDo/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmh1pMu2mJ6ifGW4WMwt4Mcyxveg"
+    },
+    "title": "My Final Picks : Flipkart BBD & Amazon GIF Sale | DON'T SKIP 🚨",
+    "published_date": "1d ago",
+    "views": "259K",
+    "extracted_views": 259000,
+    "channel": {
+     "name": "Techno Ruhez",
+     "link": "https://www.youtube.com/@TechnoRuhez",
+     "thumbnail": "https://yt3.ggpht.com/QRorXoNjkwDgFhrnplEqz189m9qAgdM3aglBMM4Eat3dULvqu2fyutNchcB_U8REOd83LmYWqyY=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "lV8_e8ZXPa8",
+    "link": "https://www.youtube.com/watch?v=lV8_e8ZXPa8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lV8_e8ZXPa8",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lV8_e8ZXPa8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6g6ONryNnKc7TTdE_TuoppCaOJQ"
+    },
+    "title": "Top 5 Best Smartphones Under ₹25,000 🔥 Amazon & Flipkart Sale 2026 | Don't Buy Before Watching!",
+    "published_date": "6d ago",
+    "views": "1.3K",
+    "extracted_views": 1300,
+    "channel": {
+     "name": "Select",
+     "link": "https://www.youtube.com/@selectxofficial",
+     "thumbnail": "https://yt3.ggpht.com/6ul3fEA_LoqqltO_q7CqrzG-CeCYhGkKOynsXPTI_WhVk05ZjzDgYv-J6KZyJTyzuHX9-vrhPg=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "o-mqBI2SMqA",
+    "link": "https://www.youtube.com/watch?v=o-mqBI2SMqA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=o-mqBI2SMqA",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/o-mqBI2SMqA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIjur1nhqbIccIzM4IsdA2H16tsw"
+    },
+    "title": "BYD దెబ్బకు Electric Cars కథ ముగిసిందా? | 2100 KM Range అసలు రహస్యం!",
+    "published_date": "1d ago",
+    "views": "96K",
+    "extracted_views": 96000,
+    "channel": {
+     "name": "Fact Point telugu",
+     "link": "https://www.youtube.com/@FactPointtelugu-b9y",
+     "thumbnail": "https://yt3.ggpht.com/K7QEZ58e3MHfIfxBqZKwpYLqGJDVLcidCubB_a8tGdR7dfYDFh7UTbebRMUbMWdFlaQexnbS=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "GNtX3t3pBOY",
+    "link": "https://www.youtube.com/watch?v=GNtX3t3pBOY&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GNtX3t3pBOY",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/GNtX3t3pBOY/hqdefault.jpg?v=6ac7c610&sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAeujzKg5fsX6_KD41a-QUdg0KGEw"
+    },
+    "title": "BBD Sale Live🔥 Best Camera Phones ₹30,000-₹60,000 | Best smartphone in BBD sale",
+    "views": "60 watching",
+    "extracted_views": 60,
+    "channel": {
+     "name": "Real Softech ",
+     "link": "https://www.youtube.com/@Real-Softech",
+     "thumbnail": "https://yt3.ggpht.com/fZFKAlE9hFzbZUV4M781mIAzztbdRMWei3J-f3NcJ0tI2aXysNwIDg7oWkht_JY0Lg3s5eATPQ=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "H7cHDP1223c",
+    "link": "https://www.youtube.com/watch?v=H7cHDP1223c",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=H7cHDP1223c",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/H7cHDP1223c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDx1V1MEqBeRD6yjFTfIY8kkn_1ZA"
+    },
+    "title": "Mivi One 5G Honest Review in Telugu | 12 వేలకు కొనొచ్చా? | Best Phone Under 12K? | in Telugu",
+    "published_date": "1d ago",
+    "views": "22K",
+    "extracted_views": 22000,
+    "channel": {
+     "name": "Tharun Telugu Tech",
+     "link": "https://www.youtube.com/@TharunTeluguTech",
+     "thumbnail": "https://yt3.ggpht.com/QAkBhbov76cxEwhwDxby_SoXcaVU8RWy4Y8IoatrFv2R-NbpJUx91hDcNkHdZrM-yMh9nIm7=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "tKOC-Jlrc90",
+    "link": "https://www.youtube.com/watch?v=tKOC-Jlrc90",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tKOC-Jlrc90",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/tKOC-Jlrc90/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDF2w8IAjEAcLoC28qnxtDGhbDyRw"
+    },
+    "title": "Flipkart & Amazon Sales లో ఏమీ కొనకండి! ఎందుకంటే?😱 | How to Find Real Offers | అంత Discount ఉంటుందా?",
+    "published_date": "10h ago",
+    "views": "401K",
+    "extracted_views": 401000,
+    "channel": {
+     "name": "Kowshik Maridi",
+     "link": "https://www.youtube.com/@KowshikMaridi",
+     "thumbnail": "https://yt3.ggpht.com/VBUygVTJ0Q6dFbbwONx-B8x4EBegap2tPpHmr1kA1kD0kOMgOAnxnYzr2HAOHfER_Ac8CPE8VI8=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "_3y13mXqW5A",
+    "link": "https://www.youtube.com/watch?v=_3y13mXqW5A",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_3y13mXqW5A",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/_3y13mXqW5A/hqdefault_custom_1.jpg?sqp=CJSfn9YG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLANNFhPXhQssqpR7TDJJ_hlZHhmWQ"
+    },
+    "title": "Best Mobiles From 10K to 1 Lakh || Flipkart Big Billion Days & Amazon Great Indian Festival | Telugu",
+    "published_date": "1d ago",
+    "views": "177K",
+    "extracted_views": 177000,
+    "channel": {
+     "name": "Telugu Techno Spring",
+     "link": "https://www.youtube.com/@TeluguTechnospring",
+     "thumbnail": "https://yt3.ggpht.com/t8NkPz1naMPMUHdArn6wK3VjRudBdyvOpjebEZTd5DFck_1Ie5fj__8yPUSGtpFUVzHVkFP4qg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "EGSgCcJKD5A",
+    "link": "https://www.youtube.com/watch?v=EGSgCcJKD5A",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EGSgCcJKD5A",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/EGSgCcJKD5A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB--f7sM-4iGxSzh2LisoNs4oZW1A"
+    },
+    "title": "Best Mobiles to Consider Buying Under 30K In BBD Sales 🤔",
+    "published_date": "13d ago",
+    "views": "672K",
+    "extracted_views": 672000,
+    "channel": {
+     "name": "Prasadtechintelugu",
+     "link": "https://www.youtube.com/@Prasadtechintelugu",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lruRqXcu0HALPqtLYA2bOuxiPWRgD6Gn389lG5BgVN2fw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "eYJ42wbFXP0",
+    "link": "https://www.youtube.com/watch?v=eYJ42wbFXP0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eYJ42wbFXP0",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/eYJ42wbFXP0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLANk4b9vrOAiZZigVoUyVJDplRhgg"
+    },
+    "title": "Best Mobile From 15K to 1 Lakh In This Flipkart BBD & Amazon Great Indian Sale 2026 | TELUGU",
+    "published_date": "6h ago",
+    "views": "23K",
+    "extracted_views": 23000,
+    "channel": {
+     "name": "Tech With Yesh Telugu",
+     "link": "https://www.youtube.com/@TechWithYesh",
+     "thumbnail": "https://yt3.ggpht.com/DrHBiy27P_qq7aPNzQaxkrFZ2Hf3GgvrunerQ6tiQEn4GGEiv2hAy4y7-abOGIs5s2BHxfW3=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "CjwXkMBX0ao",
+    "link": "https://www.youtube.com/watch?v=CjwXkMBX0ao",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CjwXkMBX0ao",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/CjwXkMBX0ao/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpB0OArDGn1khczTpqtQsEsQ5_dg"
+    },
+    "title": "Best Camera Phones To Buy In Big Billion Days & Great Indian Festival Sales In Telugu",
+    "published_date": "5h ago",
+    "views": "14K",
+    "extracted_views": 14000,
+    "channel": {
+     "name": "Akhil Ds Tech",
+     "link": "https://www.youtube.com/@Akhildstech",
+     "thumbnail": "https://yt3.ggpht.com/Anu5jCwBtEaPF8KUdYOpEWXsOY2Svrywotpv_92QyxbH6zbyti-dxu9MjjxrhMF0vvh9DVs2fQ=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "ExSvEOAP5EY",
+    "link": "https://www.youtube.com/watch?v=ExSvEOAP5EY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ExSvEOAP5EY",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ExSvEOAP5EY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCqhwkAmmcDKa1gm4KywpizQWKa3g"
+    },
+    "title": "🔥 DON’T MISS OUT! 👀 Top 50+ BEST DEALS 🤯  Amazon Great Indian Festival & Flipkart Big Billion Days 🥳",
+    "published_date": "4h ago",
+    "views": "137K",
+    "extracted_views": 137000,
+    "channel": {
+     "name": "Prasadtechintelugu",
+     "link": "https://www.youtube.com/@Prasadtechintelugu",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lruRqXcu0HALPqtLYA2bOuxiPWRgD6Gn389lG5BgVN2fw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "zAomxt876Ek",
+    "link": "https://www.youtube.com/watch?v=zAomxt876Ek",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zAomxt876Ek",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/zAomxt876Ek/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxKot4PeH0_GHqVxH6GyyzXmJp0w"
+    },
+    "title": "Mivi One 5G Unboxing: Mivi’s First Smartphone with Snapdragon! | Flipkart BBD 🔥",
+    "published_date": "7d ago",
+    "views": "1M",
+    "extracted_views": 1000000,
+    "channel": {
+     "name": "Prasadtechintelugu",
+     "link": "https://www.youtube.com/@Prasadtechintelugu",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lruRqXcu0HALPqtLYA2bOuxiPWRgD6Gn389lG5BgVN2fw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    }
+   },
+   {
+    "video_id": "5A_VmM5fzag",
+    "link": "https://www.youtube.com/watch?v=5A_VmM5fzag",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5A_VmM5fzag",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/5A_VmM5fzag/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAweattUViDl8yUtbhI_7TxuP0i3Q"
+    },
+    "title": "Top 10 Mobiles Deals In Amazon Great Indian Festival Sale || In Telugu",
+    "published_date": "5h ago",
+    "views": "16K",
+    "extracted_views": 16000,
+    "channel": {
+     "name": "Telugu Techno Spring",
+     "link": "https://www.youtube.com/@TeluguTechnospring",
+     "thumbnail": "https://yt3.ggpht.com/t8NkPz1naMPMUHdArn6wK3VjRudBdyvOpjebEZTd5DFck_1Ie5fj__8yPUSGtpFUVzHVkFP4qg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "co8vktXfxys",
+    "link": "https://www.youtube.com/watch?v=co8vktXfxys&pp=ugUHEgVlbi1VUw%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=co8vktXfxys",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/co8vktXfxys/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBg6WFWXAVoS9JVODbDZOhIRcXvxg"
+    },
+    "title": "Buying a Smartphone in 2026? Avoid These 10 Mistakes or Waste Your Money! 😱",
+    "published_date": "5d ago",
+    "views": "34K",
+    "extracted_views": 34000,
+    "channel": {
+     "name": "Telugu Tech Guru",
+     "link": "https://www.youtube.com/@TeluguTechGuru",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kfoH7Qst8a6FHQ2GGq-TEKYltxGimr_MEwxYnpbOhPaUs=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New",
+     "Auto-dubbed"
+    ]
+   },
+   {
+    "video_id": "pL3xeFqZxvg",
+    "link": "https://www.youtube.com/watch?v=pL3xeFqZxvg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pL3xeFqZxvg",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/pL3xeFqZxvg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDXZeoYotiVbrlriDYLyJFkAHU4Ag"
+    },
+    "title": "Best Smartphone to Buy - My Clear Suggestion (2026)",
+    "published_date": "1d ago",
+    "views": "1M",
+    "extracted_views": 1000000,
+    "channel": {
+     "name": "Gyan Therapy",
+     "link": "https://www.youtube.com/@GyanTherapy",
+     "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   },
+   {
+    "video_id": "Sx_y_1O6U8U",
+    "link": "https://www.youtube.com/watch?v=Sx_y_1O6U8U",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Sx_y_1O6U8U",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/Sx_y_1O6U8U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAs31lfkAjy_8G_rPsuTZDQ_-QLHw"
+    },
+    "title": "Best Mobiles to Consider Buying Under 40K In BBD & GIF Sales 🤔",
+    "published_date": "6d ago",
+    "views": "483K",
+    "extracted_views": 483000,
+    "channel": {
+     "name": "Prasadtechintelugu",
+     "link": "https://www.youtube.com/@Prasadtechintelugu",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lruRqXcu0HALPqtLYA2bOuxiPWRgD6Gn389lG5BgVN2fw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "extensions": [
+     "New"
+    ]
+   }
+  ],
+  "related_videos_next_page_token": "CBQSKRILZDBrMmxFY2J3MTTAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAq3ggyczZMNnd5X0JncThCZ29EOGo0QUNnN0NQZ3NJci1DMnQ0eVUzOEtYQVFvRDhqNEFDZzdDUGdzSXNabWZfNlB5cDZUeUFRb0Q4ajRBQ2czQ1Bnb0l0X1NrcEk3cS1lTUhDZ1B5UGdBS0RzSS1Dd2ljcXNySGo3cXU1NDhCQ2dQeVBnQUtEc0ktQ3dpNjZOQ0MySnE0cHBVQkNnUHlQZ0FLRHNJLUN3aXYtOXl5dk9fUHI1VUJDZ1B5UGdBS0RzSS1Dd2lnNWNqc3lNRHE5S01CQ2dQeVBnQUtEY0ktQ2dqbWlhVHY3ZnZWN1JnS0FfSS1BQW9Od2o0S0NQZTIyLXZQNGNIYkh3b0Q4ajRBQ2c3Q1Bnc0kzZWV0eTRuZjRORzBBUW9EOGo0QUNnN0NQZ3NJa0xlcHItYTdyYjdfQVFvRDhqNEFDZzNDUGdvSWtKLW9rcHlCcUxJUUNnUHlQZ0FLRGNJLUNnajl1Wlcyc0p1ZXdYa0tBX0ktQUFvTndqNEtDS3FqMzRLTThvV2VDZ29EOGo0QUNnM0NQZ29JeHNpX2dJN2lxNG9UQ2dQeVBnQUtEc0ktQ3dqSjBPXzU3ZGlKaGN3QkNnUHlQZ0FLRHNJLUN3aW9tX195akxQMWgtUUJDZ1B5UGdBS0RjSS1DZ2lyanYtdXJmTEx4M0lLQV9JLUFBb093ajRMQ1BpTjU5U0ZyX3plcEFFS0FfSS1BQW9Od2o0S0NNV242WjMxM195UFN3b0Q4ajRBQ2hxYVB4Y0tGVTk4TWpReE9Ua3hOelkzTURnd01EUTVNamMyTndvYm1qOFlDaFpQZkRFMU5EUTNPREF3TmpFek1qUXhPVFV3TmpjMENodWFQeGdLRms5OE1UTXpOVEF6TnpFeE5qQTVORGt6TkRjek9EWUtHcG9fRndvVlQzdzNOVEV6TXpnNU5ESTFNelF4TkRReU16QTNDaHFhUHhjS0ZVOThPVEl5TXpJd09ERTBORFUzTXpVek5qRTRNZ29EOGo0QUNnUHlQZ0FTRndBQ0JBWUlDZ3dPRUJJVUZoZ2FIQjRnSWlRbUtDNHZHZ1FJQUJBQkdnUUlBaEFER2dRSUJCQUZHZ1FJQmhBSEdnUUlDQkFKR2dRSUNoQUxHZ1FJREJBTkdnUUlEaEFQR2dRSUVCQVJHZ1FJRWhBVEdnUUlGQkFWR2dRSUZoQVhHZ1FJR0JBWkdnUUlHaEFiR2dRSUhCQWRHZ1FJSGhBZkdnUUlJQkFoR2dRSUloQWpHZ1FJSkJBbEdnUUlKaEFuR2dRSUtCQXBHZ1FJS0JBcUdnUUlLQkFyR2dRSUtCQXNHZ1FJS0JBdEdnUUlMaEFwR2dRSUxoQXFHZ1FJTGhBckdnUUlMaEFzR2dRSUxoQXRHZ1FJTHhBcEdnUUlMeEFxR2dRSUx4QXJHZ1FJTHhBc0dnUUlMeEF0S2hjQUFnUUdDQW9NRGhBU0ZCWVlHaHdlSUNJa0ppZ3VMd2oPd2F0Y2gtbmV4dC1mZWVk",
+  "end_screen_videos": [
+   {
+    "video_id": "l4V8oMbtsC8",
+    "link": "https://www.youtube.com/watch?v=l4V8oMbtsC8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l4V8oMbtsC8",
+    "thumbnail": "https://i.ytimg.com/vi/l4V8oMbtsC8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDY0k7tOrjA2eoa506DmFUfaciGjA",
+    "title": "Best Mobiles From 10K to 1 Lakh Telugu | Flipkart Big Billion Days & Amazon Great Indian Festival",
+    "published_date": "4 hours ago",
+    "views": "23K views",
+    "extracted_views": 23000,
+    "length": "22:02",
+    "channel": {
+     "name": "Tharun Telugu Tech",
+     "link": "https://www.youtube.com/@TharunTeluguTech"
+    }
+   },
+   {
+    "video_id": "8kifkj_nzLE",
+    "link": "https://www.youtube.com/watch?v=8kifkj_nzLE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8kifkj_nzLE",
+    "thumbnail": "https://i.ytimg.com/vi/8kifkj_nzLE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCOg3zrbNf8DVgqVe_SRlGC5yt05w",
+    "title": "Inside the Flydubai Cockpit: Captain Smit Reveals What Really Happened",
+    "published_date": "10 hours ago",
+    "views": "57K views",
+    "extracted_views": 57000,
+    "length": "14:29",
+    "channel": {
+     "name": "Ramesh Kandula",
+     "link": "https://www.youtube.com/@RameshKandula"
+    }
+   },
+   {
+    "video_id": "B8fnUOSJOjc",
+    "link": "https://www.youtube.com/watch?v=B8fnUOSJOjc",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=B8fnUOSJOjc",
+    "thumbnail": "https://i.ytimg.com/vi/B8fnUOSJOjc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCKVfffPlyhGg95uFKNsQqukbuQUA",
+    "title": "దసరా, దీపావళి Festive Offer.. Tata Carsపై ₹2.25 లక్షల వరకు భారీ Discount! | TV2 Telugu",
+    "published_date": "2 days ago",
+    "views": "356 views",
+    "extracted_views": 356,
+    "length": "3:01",
+    "channel": {
+     "name": "TV2 TELUGU",
+     "link": "https://www.youtube.com/@TV2NEWS.TELUGU"
+    }
+   },
+   {
+    "video_id": "j8650PjylRw",
+    "link": "https://www.youtube.com/watch?v=j8650PjylRw&pp=ugUHEgVlbi1VU9IHCQk1DAGHKiGM7w%3D%3D",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=j8650PjylRw",
+    "thumbnail": "https://i.ytimg.com/vi/j8650PjylRw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBfQ88chMAESa2LKdwwo8krA9F1OA",
+    "title": "Wait Friends, Don't Buy These Mobiles During the Sale || BBD Sale & Great Indian Festival Sale 2026",
+    "published_date": "1 day ago",
+    "views": "54K views",
+    "extracted_views": 54000,
+    "length": "4:48",
+    "channel": {
+     "name": "Telugu TechTuts",
+     "link": "https://www.youtube.com/@telugutechhafiz"
+    }
+   },
+   {
+    "video_id": "lUzg1YBUNDo",
+    "link": "https://www.youtube.com/watch?v=lUzg1YBUNDo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lUzg1YBUNDo",
+    "thumbnail": "https://i.ytimg.com/vi/lUzg1YBUNDo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAB8Av08mapATIuOAYOc1J8gyUBIw",
+    "title": "My Final Picks : Flipkart BBD & Amazon GIF Sale | DON'T SKIP 🚨",
+    "published_date": "1 day ago",
+    "views": "259K views",
+    "extracted_views": 259000,
+    "length": "8:01",
+    "channel": {
+     "name": "Techno Ruhez",
+     "link": "https://www.youtube.com/@TechnoRuhez"
+    }
+   },
+   {
+    "video_id": "lV8_e8ZXPa8",
+    "link": "https://www.youtube.com/watch?v=lV8_e8ZXPa8&pp=0gcJCTUMAYcqIYzv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lV8_e8ZXPa8",
+    "thumbnail": "https://i.ytimg.com/vi/lV8_e8ZXPa8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6g6ONryNnKc7TTdE_TuoppCaOJQ",
+    "title": "Top 5 Best Smartphones Under ₹25,000 🔥 Amazon & Flipkart Sale 2026 | Don't Buy Before Watching!",
+    "published_date": "6 days ago",
+    "views": "1.3K views",
+    "extracted_views": 1300,
+    "length": "8:21",
+    "channel": {
+     "name": "Select",
+     "link": "https://www.youtube.com/@selectxofficial"
+    }
+   },
+   {
+    "video_id": "o-mqBI2SMqA",
+    "link": "https://www.youtube.com/watch?v=o-mqBI2SMqA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=o-mqBI2SMqA",
+    "thumbnail": "https://i.ytimg.com/vi/o-mqBI2SMqA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIjur1nhqbIccIzM4IsdA2H16tsw",
+    "title": "BYD దెబ్బకు Electric Cars కథ ముగిసిందా? | 2100 KM Range అసలు రహస్యం!",
+    "published_date": "1 day ago",
+    "views": "96K views",
+    "extracted_views": 96000,
+    "length": "10:48",
+    "channel": {
+     "name": "Fact Point telugu",
+     "link": "https://www.youtube.com/@FactPointtelugu-b9y"
+    }
+   },
+   {
+    "video_id": "GNtX3t3pBOY",
+    "link": "https://www.youtube.com/watch?v=GNtX3t3pBOY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GNtX3t3pBOY",
+    "thumbnail": "https://i.ytimg.com/vi/GNtX3t3pBOY/hqdefault.jpg?v=6ac7c610&sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAeujzKg5fsX6_KD41a-QUdg0KGEw",
+    "title": "BBD Sale Live🔥 Best Camera Phones ₹30,000-₹60,000 | Best smartphone in BBD sale",
+    "published_date": "20 hours ago",
+    "views": "60 watching",
+    "extracted_views": 60,
+    "live": true,
+    "channel": {
+     "name": "Real Softech ",
+     "link": "https://www.youtube.com/@Real-Softech"
+    }
+   },
+   {
+    "video_id": "H7cHDP1223c",
+    "link": "https://www.youtube.com/watch?v=H7cHDP1223c",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=H7cHDP1223c",
+    "thumbnail": "https://i.ytimg.com/vi/H7cHDP1223c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDx1V1MEqBeRD6yjFTfIY8kkn_1ZA",
+    "title": "Mivi One 5G Honest Review in Telugu | 12 వేలకు కొనొచ్చా? | Best Phone Under 12K? | in Telugu",
+    "published_date": "1 day ago",
+    "views": "22K views",
+    "extracted_views": 22000,
+    "length": "9:11",
+    "channel": {
+     "name": "Tharun Telugu Tech",
+     "link": "https://www.youtube.com/@TharunTeluguTech"
+    }
+   },
+   {
+    "video_id": "tKOC-Jlrc90",
+    "link": "https://www.youtube.com/watch?v=tKOC-Jlrc90",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tKOC-Jlrc90",
+    "thumbnail": "https://i.ytimg.com/vi/tKOC-Jlrc90/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDF2w8IAjEAcLoC28qnxtDGhbDyRw",
+    "title": "Flipkart & Amazon Sales లో ఏమీ కొనకండి! ఎందుకంటే?😱 | How to Find Real Offers | అంత Discount ఉంటుందా?",
+    "published_date": "10 hours ago",
+    "views": "401K views",
+    "extracted_views": 401000,
+    "length": "15:46",
+    "channel": {
+     "name": "Kowshik Maridi",
+     "link": "https://www.youtube.com/@KowshikMaridi"
+    }
+   },
+   {
+    "video_id": "_3y13mXqW5A",
+    "link": "https://www.youtube.com/watch?v=_3y13mXqW5A",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_3y13mXqW5A",
+    "thumbnail": "https://i.ytimg.com/vi/_3y13mXqW5A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAd3-fLHHaRTA26vFrAjIkBTs3crg",
+    "title": "Best Mobiles From 10K to 1 Lakh || Flipkart Big Billion Days & Amazon Great Indian Festival | Telugu",
+    "published_date": "1 day ago",
+    "views": "177K views",
+    "extracted_views": 177000,
+    "length": "24:51",
+    "channel": {
+     "name": "Telugu Techno Spring",
+     "link": "https://www.youtube.com/@TeluguTechnospring"
+    }
+   },
+   {
+    "video_id": "EGSgCcJKD5A",
+    "link": "https://www.youtube.com/watch?v=EGSgCcJKD5A",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EGSgCcJKD5A",
+    "thumbnail": "https://i.ytimg.com/vi/EGSgCcJKD5A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB--f7sM-4iGxSzh2LisoNs4oZW1A",
+    "title": "Best Mobiles to Consider Buying Under 30K In BBD Sales 🤔",
+    "published_date": "13 days ago",
+    "views": "672K views",
+    "extracted_views": 672000,
+    "length": "9:04",
+    "channel": {
+     "name": "Prasadtechintelugu",
+     "link": "https://www.youtube.com/@Prasadtechintelugu"
+    }
+   }
+  ],
+  "comments_next_page_token": "Eg0SC2QwazJsRWNidzE0GAYyJSIRIgtkMGsybEVjYncxNDAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+  "comments_sorting_token": [
+   {
+    "title": "Top",
+    "token": "Eg0SC2QwazJsRWNidzE0GAYyVSIuIgtkMGsybEVjYncxNDAAeAKqAhpVZ3phZmw3d3lBYmJFaUh3ZHpWNEFhQUJBZzABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+   },
+   {
+    "title": "Newest",
+    "token": "Eg0SC2QwazJsRWNidzE0GAYyOCIRIgtkMGsybEVjYncxNDABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+   }
+  ],
+  "transcript": {
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=d0k2lEcbw14"
+  }
+ }
+}
