@@ -64,7 +64,8 @@ def stream(body: AskBody) -> Iterator[str]:
             ws = Workspace.open(replay=body.replay, root=WORK_DIR)
             events.put({"type": "start", "mode": "replay" if body.replay else "live"})
             show = ask(body.question, ws, on_event=events.put)
-            events.put({"type": "result", "showcase": show.model_dump(mode="json")})
+            save_report(show)
+            events.put({"type": "result", "id": show.id, "showcase": show.model_dump(mode="json")})
         except Exception as e:  # every failure becomes one clear event
             status, detail = problem(e)
             events.put({"type": "error", "status": status, "detail": detail})
@@ -89,17 +90,66 @@ def ask_route(body: AskBody) -> StreamingResponse:
     return StreamingResponse(stream(body), media_type="application/x-ndjson")
 
 
-@app.get("/showcase")
-def showcase() -> dict[str, Any]:
-    """The recorded demo run, plus the numbers `uv run verify` computed from it."""
-    board = SHOWCASE_DIR / "board.json"
-    if not board.exists():
-        raise HTTPException(404, "run: uv run unpaid board")
+def load_reports() -> dict[str, tuple[Showcase, bool]]:
+    """Every report by id: the recorded sample (published evidence) and any saved from live runs."""
+    out: dict[str, tuple[Showcase, bool]] = {}
+    for path in sorted((WORK_DIR / "reports").glob("*.json")):
+        s = Showcase.model_validate_json(path.read_text(encoding="utf-8"))
+        out[s.id] = (s, False)
+    sample = SHOWCASE_DIR / "board.json"
+    if sample.exists():
+        s = Showcase.model_validate_json(sample.read_text(encoding="utf-8"))
+        out[s.id] = (s, True)
+    return out
+
+
+def save_report(show: Showcase) -> None:
+    folder = WORK_DIR / "reports"
+    folder.mkdir(parents=True, exist_ok=True)
+    (folder / f"{show.id}.json").write_text(show.model_dump_json(indent=1), encoding="utf-8")
+
+
+@app.get("/reports")
+def reports() -> list[dict[str, Any]]:
+    """Report cards, newest first."""
+    rows = []
+    for s, sample in load_reports().values():
+        labelled = [v for v in s.videos if v.labels]
+        top = s.board.top_all[0] if s.board.top_all else None
+        low = next((p.lowest for p in s.prices if p.phone == top), None)
+        rows.append(
+            {
+                "id": s.id,
+                "question": s.question,
+                "checked_at": s.checked_at.isoformat(),
+                "sample": sample,
+                "reviews": len(s.videos),
+                "with_money_ties": len(labelled),
+                "top_pick": top,
+                "top_pick_price": low.price if low else None,
+            }
+        )
+    return sorted(rows, key=lambda r: r["checked_at"], reverse=True)
+
+
+@app.get("/reports/{report_id}")
+def report(report_id: str) -> dict[str, Any]:
+    found = load_reports().get(report_id)
+    if found is None:
+        raise HTTPException(404, "No report with this id.")
+    s, sample = found
+    return {"sample": sample, "report": s.model_dump(mode="json")}
+
+
+@app.get("/accuracy")
+def accuracy() -> dict[str, Any]:
+    """How the labels compared with a review checked by reading every line (computed by `uv run verify`)."""
     numbers = EVIDENCE_DIR / "numbers.json"
-    return {
-        "showcase": Showcase.model_validate_json(board.read_text(encoding="utf-8")).model_dump(mode="json"),
-        "numbers": json.loads(numbers.read_text(encoding="utf-8")) if numbers.exists() else None,
-    }
+    if not numbers.exists():
+        raise HTTPException(404, "run: uv run verify")
+    data = json.loads(numbers.read_text(encoding="utf-8"))
+    labels = data.get("labels") or {}
+    return {"videos": labels.get("videos"), "scores": labels.get("answer_key"), "per_label": labels.get("per_label")}
 
 
 @app.get("/account")

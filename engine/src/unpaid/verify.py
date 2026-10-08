@@ -258,6 +258,15 @@ def checks() -> tuple[list[tuple[str, Callable[[], str]]], dict[str, object]]:
         queries = ", ".join(f"{q.text!r} ({q.hl})" for q in run.plan.queries)
         return f"{run.plan.question!r} → {queries}"
 
+    @claim("The website's numbers and quotes match the evidence (web/content/landing.json)")
+    def _() -> str:
+        from unpaid.site import LANDING_FILE, render
+
+        fresh = render(show, LinkBook(links_file, live=False), [s.model_dump() for s in scores])
+        assert LANDING_FILE.exists(), "run: uv run unpaid site"
+        assert LANDING_FILE.read_text(encoding="utf-8") == fresh, "stale: run uv run unpaid site"
+        return "identical to a fresh export"
+
     @claim("Budget guard refuses a run that would cross the limit in unpaid.toml")
     def _() -> str:
         keep = load_settings().keep_at_least

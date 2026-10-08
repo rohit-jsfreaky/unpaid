@@ -84,4 +84,11 @@ def test_api_replays_the_demo_question_with_no_keys(tmp_path: Path, monkeypatch:
 
     other = lines(http.post("/ask", json={"question": "best laptop under 60k", "replay": True}).text)
     assert other[-1]["type"] == "error" and other[-1]["status"] == 404
-    assert http.get("/showcase").json()["showcase"]["question"] == DEMO
+    listed = http.get("/reports").json()
+    sample = next(r for r in listed if r["sample"])
+    assert (sample["id"], sample["reviews"], sample["with_money_ties"]) == ("best-phone-under-30000-2026-10-08", 21, 9)
+    assert sample["top_pick"] == "Motorola Edge 70 Fusion" and sample["top_pick_price"] == 25799
+    got = http.get(f"/reports/{sample['id']}").json()
+    assert got["sample"] and got["report"]["question"] == DEMO and len(got["report"]["reviews"]) == 21
+    assert http.get("/reports/nope").status_code == 404
+    assert http.get("/accuracy").json()["videos"] == 21

@@ -15,7 +15,7 @@ from typing import Any
 from pydantic import BaseModel
 
 from unpaid.aggregate import tally
-from unpaid.board import Showcase
+from unpaid.board import Showcase, assemble, top_phones
 from unpaid.collect import Plan, Query, collect
 from unpaid.config import CACHE_DIR, EVIDENCE_DIR, SHOWCASE_DIR, Settings, load_settings
 from unpaid.label import label_all
@@ -119,14 +119,13 @@ def ask(question: str, ws: Workspace, on_event: OnEvent | None = None) -> Showca
     run = collect(ws.client, plan, s.gl, on_event=emit)
     emit({"type": "tool", "tool": "links", "step": "follow description links", "status": "start"})
     labelled = label_all(run, ws.llm, ws.links, on_event=emit)
-    board = tally(labelled.videos)
-    phones = list(dict.fromkeys(board.top_all + board.top_no_disclosure))
+    phones = top_phones(tally(labelled.videos))
     for p in phones:
         emit({"type": "tool", "tool": "google_shopping", "q": p, "status": "start"})
     found = prices(ws.client, phones)
     for pp in found:
         emit({"type": "tool", "tool": "google_shopping", "q": pp.phone, "status": "done", "offers": len(pp.offers)})
-    show = Showcase(question=question, videos=labelled.videos, board=board, prices=found)
+    show = assemble(question, run, labelled, found)
     emit(
         {
             "type": "cost",

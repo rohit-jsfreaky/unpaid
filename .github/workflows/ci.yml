@@ -17,3 +17,20 @@ jobs:
       - run: uv run pytest -q
       # No SerpApi key in CI: verify runs in replay mode on the recorded evidence.
       - run: uv run verify
+
+  web:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci
+      - run: npx tsc --noEmit
+      - run: npx eslint app components lib content
+      - run: npm run build

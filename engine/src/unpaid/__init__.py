@@ -99,6 +99,7 @@ def main() -> None:
     q.add_argument("question")
     q.add_argument("--replay", action="store_true", help="answer only from recorded runs (no keys, no spend)")
     q.add_argument("--record-showcase", action="store_true", help="save new LLM answers into the showcase evidence")
+    sub.add_parser("site", help="export the landing page's real examples (web/content/landing.json)")
     sv = sub.add_parser("serve", help="run the API on localhost")
     sv.add_argument("--port", type=int, default=8000)
     sv.add_argument("--reload", action="store_true", help="restart when engine code changes (development)")
@@ -117,10 +118,27 @@ def main() -> None:
         _board(args)
     elif args.cmd == "ask":
         _ask(args)
+    elif args.cmd == "site":
+        _site()
     elif args.cmd == "serve":
         import uvicorn
 
         uvicorn.run("unpaid.api:app", host="127.0.0.1", port=args.port, reload=args.reload)
+
+
+def _site() -> None:
+    from unpaid.board import Showcase
+    from unpaid.config import EVIDENCE_DIR, SHOWCASE_DIR
+    from unpaid.label import showcase_paths
+    from unpaid.links import LinkBook
+    from unpaid.site import LANDING_FILE, render
+
+    show = Showcase.model_validate_json((SHOWCASE_DIR / "board.json").read_text(encoding="utf-8"))
+    numbers = json.loads((EVIDENCE_DIR / "numbers.json").read_text(encoding="utf-8"))
+    book = LinkBook(showcase_paths(SHOWCASE_DIR)[1], live=False)
+    LANDING_FILE.parent.mkdir(parents=True, exist_ok=True)
+    LANDING_FILE.write_text(render(show, book, numbers["labels"]["answer_key"]), encoding="utf-8")
+    print(f"wrote {LANDING_FILE}")
 
 
 def _ask(args: argparse.Namespace) -> None:
