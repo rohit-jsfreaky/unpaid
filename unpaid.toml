@@ -13,3 +13,10 @@ languages = ["en", "hi"]
 window_days = 21
 # Most videos opened per question (each costs 2 searches: video + transcript).
 max_videos = 30
+
+[llm]
+# One cheap model, temperature 0. Every answer is saved, so a replay needs no key and costs nothing.
+provider = "openrouter"
+model = "google/gemini-3.8-flash"
+# No new paid call once the saved calls add up to this much.
+spend_limit_usd = 2.0

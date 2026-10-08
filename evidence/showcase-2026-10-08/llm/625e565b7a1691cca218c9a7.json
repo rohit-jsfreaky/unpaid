@@ -1,0 +1,177 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube video's description and transcript. The videos are Indian phone reviews and buying\nlists, in English, Hindi, Hinglish, Telugu, Malayalam or a mix.\n\nFind two things.\n\nA) Every place the creator states a money tie, as one of these kinds:\n- paid_sponsorship: the video is sponsored by, a paid partnership with, or made in collaboration with a company\n  (including a \"#Collab\" tag next to a company's tag). `party` = that company.\n- free_unit: a company sent, provided or gave the creator the device or review unit. `party` = that company, or\n  \"respective brands\" when the creator says it that way.\n- affiliate_statement: the creator says the links are affiliate links, or that they earn a commission, or that they\n  are an Amazon Associate.\n- denial: the creator says the video is NOT sponsored, or that no brand paid them.\nThese are NOT money ties. Skip them: \"for sponsorship / business / collab inquiries contact ...\", \"all content\nprovided by this channel is for educational purposes\", copyright or fair-use notes, talk about other people's sponsored\nads, bank card offers and sale discounts, product tagging (\"I've tagged the phones\"), and the channel promoting its own\napp, channel, merch or giveaway.\n\nB) Every phone the creator recommends for the buyer, with its rank if they number their list (1 = their top pick).\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text below: same script, same spelling, same punctuation, same capitals.\n  Never translate, transliterate, fix or shorten words inside the quote.\n- Use the shortest exact span that shows the point, at most 200 characters.\n- A transcript quote must come from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote (a translation if it isn't English).\n- `phone`: the standard English \"Brand Model\" name, e.g. \"Motorola Edge 60 Pro\", \"iQOO Neo 10\", \"Samsung Galaxy\n  M36\". Don't include RAM/storage or colour.\nIf there is nothing for a list, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: Top 5 Best Camera Phones Under ₹30,000 in Flipkart Big Billion Days Sale 2026 |Best Phones Under 30K\nCHANNEL: FREE HELP MOBILE\n\nDESCRIPTION:\nIn this video, I have shared the Top 5 Best Camera Smartphones Under ₹30,000 you can buy in Flipkart Big Billion Days Sale 2026. 📱📸\n\nLooking for the best flagship-level camera phones under ₹30,000 in 2026? 📱📸\nWe’ve picked the Top 5 smartphones that offer excellent photography, pro-grade video recording, portrait shots, low-light performance, powerful performance and premium features — all without crossing the ₹30K mark!\n\n🔥 Flipkart Big Billion Days Sale 2026\n📸 Top 5 Best Camera Phones Under ₹30K\n📱 Best Camera Smartphones 2026\n🎥 Best Video Camera Phones\n🌙 Best Low-Light Camera Phones\n⚡ Best Performance & Camera Phones\n💰 Best Camera Phone Deals in BBD 2026\n\nYour queries:-\n\nbest camera phone under 30000\nbest camera smartphone under 30000\ntop 5 best camera phone under 30000\nbest smartphone under 30000\ntop 5 best smartphone under 30000\nbest gaming phone under 30000\nbest flagship phone under 30k\nbest phone under 30000 in 2026\nbest all-rounder phone under 30000\nbest phone under 30000\nbest smartphone under 30000\nbest mobile under 30000\nbest phone under 30k\nbest gaming phone under 30000\nbest camera phone under 30000\nsmartphone under 30000\nmobile under 30000\nphone under 30000\nbest 5g camera phone under 30000\nbest camera phone under 30000 in India\nbest camera phone under 30000 in 2026\nbest flagship camera phone under 30000\nbest premium camera phone under 30000\nbest camera and gaming phone under 30000\nbest all rounder phone under 30000\ntop 5 camera phones under 30000\nbest camera smartphones 2026\nbest camera phone in India 2026\n\n🔥 Flipkart Big Billion Days 2026 Queries:\n\nbest camera phone under 30000 in Flipkart Big Billion Days Sale 2026\nbest camera smartphone under 30000 Flipkart BBD 2026\ntop 5 camera phones under 30000 BBD 2026\nbest smartphone under 30000 Flipkart BBD 2026\nbest phone under 30000 in Flipkart Big Billion Days 2026\nbest 5g camera phone under 30000 Flipkart BBD\nbest camera phone deals BBD 2026\nbest camera phones Flipkart BBD 2026\nbest smartphone deals Flipkart BBD 2026\nFlipkart Big Billion Days Sale 2026\nFlipkart BBD 2026 camera phones\nFlipkart BBD 2026 smartphone deals\nBig Billion Days 2026 best camera phones\nBBD 2026 best camera phone under 30000\nBBD Sale 2026 best camera phones\nbest phones in Flipkart Big Billion Days Sale 2026\nFlipkart camera phone deals 2026\nFlipkart smartphone deals 2026\n\n#best_phone_under_30000\n#best_smartphone_under_30000\n#best_mobile_under_30000\n#best_phone_under_30k\n#best_phone_under_30000_in_2026\n#smartphone_under_30000\n#best_camera_phone_under_30000\n#best_camera_smartphone\n#best_gaming_phone_under_30000\n#Top5CameraPhones\n#BestCameraPhones\n#Best5GPhones\n#BestPhones2026\n#BigBillionDays2026\n#FlipkartBBD2026\n#FlipkartSale2026\n#FlipkartDeals\n#BBD2026\n#SmartphoneDeals\n#TechFocusHindi\n\nfollow me on:   / mr_jain_786_  \n\nfor business or copyright queries:\nfreehelpmobile@gmail.com\n\n• Copyright Disclaimer\n\nThis video is for educational purposes only. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research.\n\nFair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favor of fair use.\n\nThe Footage Used by us is the product's own video footage which belongs to their owners. If you find any copyrighted video footage or music on this channel, please get in touch with me on my email before taking any action.\n\nyour queries:\nbest camera phone under 30000 in 2026\nbest camera phone under 30000 in October 2026\nbest camera phone under 30000 in Flipkart Big Billion Days Sale 2026\nbest phone under 30000 in 2026\nbest all rounder phone under 30000 in 2026\nbest 5g phone under 30000 in 2026\ntop 5 best phone under 30000 in 2026\ntop 5 camera phone under 30000 in October 2026\nbest phone under 30000 in India 2026\nbest phone under 30000 in September 2026\nbest camera phone under 30000\ntop 5 best camera phone under 30000\n\nthanks for watching...\n\nTRANSCRIPT: none available"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "Extraction",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "kind": {
+          "enum": [
+           "paid_sponsorship",
+           "free_unit",
+           "affiliate_statement",
+           "denial"
+          ],
+          "type": "string"
+         },
+         "party": {
+          "anyOf": [
+           {
+            "type": "string"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "kind",
+         "party",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      },
+      "picks": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "rank": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "rank",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims",
+      "picks"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [],
+  "picks": []
+ },
+ "usage": {
+  "prompt_tokens": 1971,
+  "completion_tokens": 85,
+  "total_tokens": 2056,
+  "cost": 0.001797,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.001797,
+   "upstream_inference_prompt_cost": 0.00147825,
+   "upstream_inference_completions_cost": 0.00031875
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 70,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791482636-yG6Kc2cBLbzCfSDkQkxZ"
+ }
+}

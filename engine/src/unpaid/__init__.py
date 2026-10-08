@@ -36,6 +36,32 @@ def _collect(args: argparse.Namespace) -> None:
             print(f"wrote {rec}")
 
 
+def _label(args: argparse.Namespace) -> None:
+    from unpaid.collect import Collection
+    from unpaid.config import SHOWCASE_DIR
+    from unpaid.label import label_all, showcase_paths
+    from unpaid.links import LinkBook
+    from unpaid.llm import LLM
+
+    run = Collection.model_validate_json((SHOWCASE_DIR / "collection.json").read_text(encoding="utf-8"))
+    llm_dir, links_file, out = showcase_paths(SHOWCASE_DIR)
+    llm = LLM.from_env(write_dir=llm_dir, read_dirs=(llm_dir,), mode="replay" if args.replay else None)
+    book = LinkBook(links_file, live=not args.replay)
+    result = label_all(run, llm, book)
+    for v in result.videos:
+        names = ", ".join(v.label_names)
+        counts = f"picks={len(v.picks)} dropped={len(v.dropped)} denials={len(v.denials)}"
+        print(f"{v.channel[:22]:<22} {names:<45} {counts}")
+        for e in v.labels:
+            print(f"    {e.label}: [{e.source} {e.time_text or ''}] {e.quote[:90]!r} ({e.party})")
+        for d in v.dropped:
+            print(f"    x {d.kind}: {d.reason}: {d.quote[:80]!r}")
+    print()
+    print(f"{result.model}: {result.llm_calls} calls, {result.llm_cached} from disk, ${result.llm_cost_usd:.4f}")
+    out.write_text(result.model_dump_json(indent=1), encoding="utf-8")
+    print(f"wrote {out}")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(prog="unpaid")
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -45,6 +71,8 @@ def main() -> None:
     c.add_argument(
         "--searches-only", action="store_true", help="run the YouTube searches and show the pick, open nothing"
     )
+    lb = sub.add_parser("label", help="label the recorded showcase videos (LLM finds, code proves)")
+    lb.add_argument("--replay", action="store_true", help="use saved LLM answers and link checks only")
     args = parser.parse_args()
 
     if args.cmd == "account":
@@ -54,3 +82,5 @@ def main() -> None:
         print(json.dumps({k: info.get(k) for k in ("plan_name", "total_searches_left", "this_month_usage")}))
     elif args.cmd == "collect":
         _collect(args)
+    elif args.cmd == "label":
+        _label(args)

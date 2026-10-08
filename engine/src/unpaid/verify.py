@@ -14,11 +14,17 @@ from collections.abc import Callable
 from pathlib import Path
 
 from unpaid.collect import Collection, Recording, collect, showcase_plan
-from unpaid.config import EVIDENCE_DIR, PROBE_DIR, ROOT, SHOWCASE_DIR, api_key, load_settings
+from unpaid.config import EVIDENCE_DIR, PROBE_DIR, ROOT, SHOWCASE_DIR, api_key, llm_key, load_settings
+from unpaid.label import Labelled, label_all, showcase_paths
+from unpaid.links import LinkBook
+from unpaid.llm import LLM
+from unpaid.proof import BRAND_SPONSORED, COMMISSION, LABELS, NO_DISCLOSURE, locate
+from unpaid.score import load_key, score
 from unpaid.serpapi import BudgetExceeded, Cache, Client, receipt
 
 SKIP_DIRS = {".git", ".venv", "node_modules", ".next", "__pycache__", ".pytest_cache", ".ruff_cache"}
 KEY_IN_URL = re.compile(r"api_key=[0-9a-f]{64}")
+OPENROUTER_KEY = re.compile(r"sk-or-v1-[0-9a-f]{32,}")
 
 
 def _repo_files() -> list[Path]:
@@ -111,6 +117,84 @@ def checks() -> tuple[list[tuple[str, Callable[[], str]]], dict[str, object]]:
         assert set(scripts) <= {"latin", "devanagari", "telugu", "malayalam"}, scripts
         return ", ".join(f"{k} {n}" for k, n in scripts.most_common())
 
+    llm_dir, links_file, labels_file = showcase_paths(SHOWCASE_DIR)
+    frozen_labels = Labelled.model_validate_json(labels_file.read_text(encoding="utf-8"))
+    by_id = {v.hit.video_id: v for v in run.videos}
+    proven = frozen_labels.videos
+    per_label = {x: sum(x in v.label_names for v in proven) for x in (*LABELS, NO_DISCLOSURE)}
+    scores = score(proven, load_key(EVIDENCE_DIR / "answer-key.csv"))
+    numbers["labels"] = {
+        "videos": len(proven),
+        "per_label": per_label,
+        "model": frozen_labels.model,
+        "llm_cost_usd": round(frozen_labels.llm_cost_usd, 4),
+        "affiliate_links": sum(1 for c in LinkBook(links_file, live=False).checks.values() if c.is_affiliate),
+        "answer_key": [s.model_dump() for s in scores],
+    }
+
+    @claim("Labels replay with no API key: saved LLM answers and link checks, 0 calls, identical to labels.json")
+    def _() -> str:
+        llm = LLM(mode="replay", model=frozen_labels.model, write_dir=llm_dir, read_dirs=(llm_dir,))
+        again = label_all(run, llm, LinkBook(links_file, live=False))
+        assert llm.calls == 0 and llm.cached == len(again.videos)
+        assert [v.model_dump() for v in again.videos] == [v.model_dump() for v in proven], "stale labels.json"
+        return f"{len(again.videos)} videos from {llm.cached} saved answers ({frozen_labels.model})"
+
+    @claim("Every label has its receipt: a quote found word for word, a tagged link, or YouTube's own label")
+    def _() -> str:
+        book = LinkBook(links_file, live=False)
+        n = 0
+        for p in proven:
+            v = by_id[p.video_id]
+            assert v.page
+            for e in p.labels:
+                n += 1
+                if e.source in ("description", "transcript"):
+                    place = locate(e.quote, v.page, v.transcript, e.segment)
+                    assert place and place.source == e.source and place.segment == e.segment, (p.channel, e.quote)
+                elif e.source == "description_link":
+                    assert e.quote in v.page.description, (p.channel, e.quote)
+                    assert any((c := book.get(x.url)) and c.is_affiliate for x in v.page.links), p.channel
+                else:
+                    assert e.quote in v.hit.extensions, (p.channel, e.quote)
+        return f"{n} labels on {sum(bool(p.labels) for p in proven)} videos; {per_label[NO_DISCLOSURE]} show " + (
+            f"'{NO_DISCLOSURE}'"
+        )
+
+    @claim("We read what they say out loud: a label proven by a spoken transcript line, with its timestamp")
+    def _() -> str:
+        spoken = [(p, e) for p in proven for e in p.labels if e.source == "transcript"]
+        assert spoken and all(e.time_text and "&t=" in e.url for _, e in spoken)
+        p, e = spoken[0]
+        return f"{p.channel} at {e.time_text}: {e.quote!r} ({e.meaning_en})"
+
+    @claim("Traps stay unlabelled: 'not sponsored', inquiry lines and channel disclaimers")
+    def _() -> str:
+        named = {p.channel: p for p in proven}
+        assert named["Tech Buffet"].label_names == [NO_DISCLOSURE] and named["Tech Buffet"].denials
+        assert named["Techy Pathshala"].label_names == [NO_DISCLOSURE] and named["Techy Pathshala"].denials
+        assert named["Madan Gaikwad"].label_names == [NO_DISCLOSURE]  # "ALL CONTENT PROVIDED BY THIS CHANNEL"
+        assert named["Harsh Gamer"].label_names == [NO_DISCLOSURE]  # same disclaimer
+        assert BRAND_SPONSORED not in named["Harshit Technical"].label_names  # "For Sponsorship ... inquiries"
+        assert named["Harshit Technical"].label_names == [COMMISSION]
+        return "Tech Buffet + Techy Pathshala denials shown as notes, not labels"
+
+    @claim("Answer key (21 videos, every line read): precision and recall per label")
+    def _() -> str:
+        rows = [s for s in scores if s.key or s.found]
+        assert all(s.key + s.found > 0 for s in rows)
+
+        def pct(x: float | None) -> str:
+            return "-" if x is None else f"{x:.0%}"
+
+        lines = [
+            f"{s.label}: precision {pct(s.precision)} ({s.right}/{s.found}), recall {pct(s.recall)} ({s.right}/{s.key})"
+            + (f"; missed {', '.join(s.missed)}" if s.missed else "")
+            + (f"; wrong {', '.join(s.wrong)}" if s.wrong else "")
+            for s in rows
+        ]
+        return "\n      ".join(lines)
+
     @claim("Budget guard refuses a run that would cross the limit in unpaid.toml")
     def _() -> str:
         keep = load_settings().keep_at_least
@@ -126,13 +210,15 @@ def checks() -> tuple[list[tuple[str, Callable[[], str]]], dict[str, object]]:
 
     @claim("No API key in any repo file")
     def _() -> str:
-        key = api_key()
+        keys = [k for k in (api_key(), llm_key("OPENROUTER_API_KEY")) if k]
         files = _repo_files()
         for path in files:
             text = path.read_bytes().decode("utf-8", errors="ignore")
-            assert not KEY_IN_URL.search(text), path
-            assert not key or key not in text, path
-        return f"{len(files)} files scanned" + ("" if key else " (no local key: pattern scan only)")
+            assert not KEY_IN_URL.search(text) and not OPENROUTER_KEY.search(text), path
+            assert not any(k in text for k in keys), path
+        return f"{len(files)} files scanned for SerpApi + OpenRouter keys" + (
+            "" if keys else " (no local keys: pattern scan only)"
+        )
 
     return out, numbers
 

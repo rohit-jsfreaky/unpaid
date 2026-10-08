@@ -1,0 +1,177 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube video's description and transcript. The videos are Indian phone reviews and buying\nlists, in English, Hindi, Hinglish, Telugu, Malayalam or a mix.\n\nFind two things.\n\nA) Every place the creator states a money tie, as one of these kinds:\n- paid_sponsorship: the video is sponsored by, a paid partnership with, or made in collaboration with a company\n  (including a \"#Collab\" tag next to a company's tag). `party` = that company.\n- free_unit: a company sent, provided or gave the creator the device or review unit. `party` = that company, or\n  \"respective brands\" when the creator says it that way.\n- affiliate_statement: the creator says the links are affiliate links, or that they earn a commission, or that they\n  are an Amazon Associate.\n- denial: the creator says the video is NOT sponsored, or that no brand paid them.\nThese are NOT money ties. Skip them: \"for sponsorship / business / collab inquiries contact ...\", \"all content\nprovided by this channel is for educational purposes\", copyright or fair-use notes, talk about other people's sponsored\nads, bank card offers and sale discounts, product tagging (\"I've tagged the phones\"), and the channel promoting its own\napp, channel, merch or giveaway.\n\nB) Every phone the creator recommends for the buyer, with its rank if they number their list (1 = their top pick).\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text below: same script, same spelling, same punctuation, same capitals.\n  Never translate, transliterate, fix or shorten words inside the quote.\n- Use the shortest exact span that shows the point, at most 200 characters.\n- A transcript quote must come from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote (a translation if it isn't English).\n- `phone`: the standard English \"Brand Model\" name, e.g. \"Motorola Edge 60 Pro\", \"iQOO Neo 10\", \"Samsung Galaxy\n  M36\". Don't include RAM/storage or colour.\nIf there is nothing for a list, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: The Only Smartphone Deals Under 30,000! Ft. Amazon and Flipkart\nCHANNEL: TechWiser\n\nDESCRIPTION:\nBrands quietly launched lower-RAM variants just in time for the sale, and most buyers won't even notice. Before you hit \"Buy Now\", watch this: the best phones under ₹30K that don't fall for the BS 🚨\n\n#MotorolaIndia #ItsTheTimeToMoto #BigBillionMotoDeals #BiggestDealsEver\n\n\n🚀 We Are Hiring! APPLY HERE: https://techwiser.com/we-are-hiring\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE For More Videos Like This! 🌟\n\n------------------------------------------------------------------------------\n \n🌟  Follow Us Other Social Media Platforms 🌟 \n\n🐦 Twitter:   / techwiser  \n👩‍👧‍👦 Facebook:   / techwiser  \n📷 Instagram:   / techwiser  \n🌍 Website: http://techwiser.com\n------------------------------------------------------------------------------\n \n🌟 Team TechWiser 🌟 \n\n🙋🏻‍♂️ Video Producer:   / praaatiiik  \n📹 Channel Manager:   / mr_dinesh_ji  \n👨🏻‍💻 Script:   / shoubhik_sadhu   \n👨🏻‍💻 Video Editor:   / y_singhal  \n👨🏻‍💻 Video Editor:   / development_enthusiast  \n👨🏻‍💻 Video Editor:   / sathvikpanchumarthy  \n👨🏻‍💻 Video Editor:   / yuv.3gp  \n\n#Tech #Smartphones #TeamTechWiser\n\nTRANSCRIPT: none available"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "Extraction",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "kind": {
+          "enum": [
+           "paid_sponsorship",
+           "free_unit",
+           "affiliate_statement",
+           "denial"
+          ],
+          "type": "string"
+         },
+         "party": {
+          "anyOf": [
+           {
+            "type": "string"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "kind",
+         "party",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      },
+      "picks": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "rank": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "rank",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims",
+      "picks"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [],
+  "picks": []
+ },
+ "usage": {
+  "prompt_tokens": 982,
+  "completion_tokens": 447,
+  "total_tokens": 1429,
+  "cost": 0.00241275,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00241275,
+   "upstream_inference_prompt_cost": 0.0007365,
+   "upstream_inference_completions_cost": 0.00167625
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 432,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791482591-SpLT6wSKpXwWVRNsJ2Kf"
+ }
+}

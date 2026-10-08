@@ -1,0 +1,682 @@
+{
+ "http://amzn.to/2BFGKDR": {
+  "url": "http://amzn.to/2BFGKDR",
+  "hops": [
+   "https://www.amazon.in/ref=as_li_ss_tl?ie=UTF8&linkCode=sl2&tag=harshitbhat01-21&linkId=ab4acbbb637741372e090e9cc1701cb8"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=harshitbhat01-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:15.259710Z"
+ },
+ "http://fkrt.it/fTL65nuuuN": {
+  "url": "http://fkrt.it/fTL65nuuuN",
+  "hops": [
+   "http://flipkart.com"
+  ],
+  "store": "flipkart.com",
+  "affiliate_param": null,
+  "error": null,
+  "checked_at": "2026-10-08T17:40:14.966260Z"
+ },
+ "http://share.mscbd.fm/httpswwwinstagramcomanshnakwale1": {
+  "url": "http://share.mscbd.fm/httpswwwinstagramcomanshnakwale1",
+  "hops": [
+   "https://www.musicbed.com/subscription/business/httpswwwinstagramcomanshnakwale1",
+   "https://www.musicbed.com/pricing"
+  ],
+  "store": null,
+  "affiliate_param": null,
+  "error": null,
+  "checked_at": "2026-10-08T17:40:16.817060Z"
+ },
+ "http://techwiser.com/": {
+  "url": "http://techwiser.com/",
+  "hops": [
+   "https://techwiser.com/"
+  ],
+  "store": null,
+  "affiliate_param": null,
+  "error": null,
+  "checked_at": "2026-10-08T17:40:16.078497Z"
+ },
+ "http://trak.in/": {
+  "url": "http://trak.in/",
+  "hops": [
+   "https://trak.in/",
+   "https://trak.in/stories",
+   "https://trak.in/stories/"
+  ],
+  "store": null,
+  "affiliate_param": null,
+  "error": null,
+  "checked_at": "2026-10-08T17:40:17.000770Z"
+ },
+ "https://ai.techwiser.com/": {
+  "url": "https://ai.techwiser.com/",
+  "hops": [],
+  "store": null,
+  "affiliate_param": null,
+  "error": null,
+  "checked_at": "2026-10-08T17:40:16.849235Z"
+ },
+ "https://amzn.to/2yzKoyx": {
+  "url": "https://amzn.to/2yzKoyx",
+  "hops": [
+   "https://www.amazon.in/Canon-EOS-200D-II-55-250mm/dp/B07S26X16N/ref=as_li_ss_tl?dchild=1&keywords=canon+dslr&qid=1590515253&sr=8-2&linkCode=sl1&tag=anshnakwal-21&linkId=57ad02924a36e5affffabf0e09b4aae8&language=en_IN"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anshnakwal-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:16.795038Z"
+ },
+ "https://amzn.to/36u2WNl": {
+  "url": "https://amzn.to/36u2WNl",
+  "hops": [
+   "https://www.amazon.in/Sigma-24-35mm-Canon-Cameras-Black/dp/B011QXQ5OY/ref=as_li_ss_tl?crid=34CP5ZPLPZ92H&dchild=1&keywords=sigma+1835+f+1.8&qid=1590515280&sprefix=sigma+183,aps,308&sr=8-1&linkCode=sl1&tag=anshnakwal-21&linkId=4fb13f4debcf156b3fcb87f124442dc0&language=en_IN"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anshnakwal-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:17.392456Z"
+ },
+ "https://amzn.to/36ulj4I": {
+  "url": "https://amzn.to/36ulj4I",
+  "hops": [
+   "https://www.amazon.in/Godox-SL60-5600K-Studio-Version/dp/B072VJZCP6/ref=as_li_ss_tl?dchild=1&keywords=godox+sl60&qid=1590515370&sr=8-1&linkCode=sl1&tag=anshnakwal-21&linkId=d44ee68f0f43bd6e0a840228873a18e8&language=en_IN"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anshnakwal-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:17.409769Z"
+ },
+ "https://amzn.to/3O1K7X8": {
+  "url": "https://amzn.to/3O1K7X8",
+  "hops": [
+   "https://www.amazon.in/?&linkCode=sl2&tag=vjmehta8237-21&linkId=d751c12596771790e54c7dcfbef8b8c4&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=vjmehta8237-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:17.433753Z"
+ },
+ "https://amzn.to/3bydbCC": {
+  "url": "https://amzn.to/3bydbCC",
+  "hops": [
+   "https://www.amazon.in/ref=as_li_ss_tl?ie=UTF8&linkCode=sl2&tag=rakesh05923-21&linkId=eeeddc57b669ad5fadf44d4ebf3b8185&language=en_IN"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=rakesh05923-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:17.600539Z"
+ },
+ "https://amzn.to/3ej8HQy": {
+  "url": "https://amzn.to/3ej8HQy",
+  "hops": [
+   "https://www.amazon.in/Universal-Cardiod-Shotgun-Microphone-Camcorder/dp/B06XWH97X8/ref=as_li_ss_tl?dchild=1&keywords=boya+microphone&qid=1590515342&sr=8-3&linkCode=sl1&tag=anshnakwal-21&linkId=2b431994a05e1014c2eb9f232abd86f5&language=en_IN"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anshnakwal-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:17.967799Z"
+ },
+ "https://amzn.to/3goWmw3": {
+  "url": "https://amzn.to/3goWmw3",
+  "hops": [
+   "https://www.amazon.in/Sony-ILCE-6400L-Mirrorless-Digital-16-50mm/dp/B07NF6J8N5/ref=as_li_ss_tl?dchild=1&keywords=sony+a6400&qid=1590515218&sr=8-1&linkCode=sl1&tag=anshnakwal-21&linkId=f57e00dd00a680e118d2121d54345603&language=en_IN"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anshnakwal-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:17.967799Z"
+ },
+ "https://amzn.to/4aYKvAv": {
+  "url": "https://amzn.to/4aYKvAv",
+  "hops": [
+   "https://www.amazon.in/?&linkCode=sl2&tag=kannatech-21&linkId=989876520ea9a233da85634160a96b51&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=kannatech-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:18.011788Z"
+ },
+ "https://amzn.to/4hFJ12A": {
+  "url": "https://amzn.to/4hFJ12A",
+  "hops": [
+   "https://www.amazon.in/Professional-Backdrop-background-Photography-Background/dp/B09GLVQM4G?crid=2R5LOL6EWA6WR&dib=eyJ2IjoiMSJ9._umreZlOuj8GYWHl7dTut9ftc8wnZeeV7vpl249M6V81sG-y8lsFujJhpTbMGrI3PgG5uZF0UCiyFV_aArFJr3XlTSV0NCmGhQSJ83oLknpM-oykSEy13GUYSvrFVsHQu3a1YjeZ47cNVeBNGm48Mmwhe9PUws_-Nqo4XhfcgPLcetD5f8x-RSMvblA6xI3lXRkrJkO6n3UK6cb9PfaskjBfvmUaK2BrVXwoA-jhPFc.gueg3uimM43HT5UQa1-34tidWDEd5bMYpVF6TFYojr8&dib_tag=se&keywords=Background%2Bgrey%2Bcloth&qid=1761666663&sprefix=background%2Bgrey%2Bcloth,aps,303&sr=8-3&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=0548dde63aeb29220e32e8663ac38629&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:18.189283Z"
+ },
+ "https://bit.ly/2EPRVe0": {
+  "url": "https://bit.ly/2EPRVe0",
+  "hops": [
+   "https://www.youtube.com/channel/UCCkXU_pKTN98ktKl0TnHjBg?view_as=subscriber"
+  ],
+  "store": null,
+  "affiliate_param": null,
+  "error": null,
+  "checked_at": "2026-10-08T17:40:18.848295Z"
+ },
+ "https://bit.ly/385bfOx": {
+  "url": "https://bit.ly/385bfOx",
+  "hops": [
+   "https://twitter.com/perfect_gadget?s=09",
+   "https://x.com/perfect_gadget?s=09"
+  ],
+  "store": null,
+  "affiliate_param": null,
+  "error": null,
+  "checked_at": "2026-10-08T17:40:19.854901Z"
+ },
+ "https://bit.ly/4l62tWZ": {
+  "url": "https://bit.ly/4l62tWZ",
+  "hops": [
+   "https://www.flipkart.com/motorola-edge-60-pro-pantone-sparkling-grape-256-gb/p/itm72c35d843cd5f?affid=arunpdgmai"
+  ],
+  "store": "flipkart.com",
+  "affiliate_param": "affid=arunpdgmai",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:18.564110Z"
+ },
+ "https://link.amazon/B01860apS": {
+  "url": "https://link.amazon/B01860apS",
+  "hops": [
+   "https://amzlinks.in/B01860apS",
+   "https://www.amazon.in/dp/B0GWLHVJRH/ref=cm_sw_r_as_gl_apa_gl_i_NSJHD8D5NDE9R2C8MPGW?linkCode=ml1&tag=anil085a-21&linkId=ca596d05ce996e5500e4f528e9019721&ascsubtag=srctok-44970005c7a22c5e&btn_type=ss&btn_ref=srctok-44970005c7a22c5e"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:19.005396Z"
+ },
+ "https://link.amazon/B04YFtMV5": {
+  "url": "https://link.amazon/B04YFtMV5",
+  "hops": [
+   "https://amzlinks.in/B04YFtMV5",
+   "https://www.amazon.in/OnePlus-Snapdragon%C2%AE-7400mAh-Personalised-Game-Changing/dp/B0FZT1LXPZ?crid=NNSYB4JTY7WV&dib=eyJ2IjoiMSJ9.33cRbC2LXxArAxM3W9GwNFe7EQ_Rngrv7BTgz_S7NSRt2nW0NdTJpRNID50OzvgD0wDK07H9_tKpOlJsgc3QJamW0P-2Ag_7AwxmAEUPR-FEa7Bjv6Mfk3ARBjtwuYPevb5IE5hvhpIGUidgxkpAxKpyXk9mjuo19wAZdO03ghmh5qilOOY0UcAqJcjgnZ98mEgdmsMxA0soIubSOBth-Ah0GfaGRq1PtML-78Ggm9E.PTdkjvCqtwjesXkoFDzOvx4XMP3Yyf6qRlWcfIDNgHY&dib_tag=se&keywords=iQoo%2B15r&qid=1791297386&sprefix=iqoo%2B15%2Caps%2C312&sr=8-2-spons&aref=CaLKpJoaym&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=sl2&tag=nehemiahtec0a-21&linkId=7a27ce0966fed0d3ca07e66d386dc594&ref_=as_li_ss_tl&ascsubtag=srctok-367b59376cde2415&btn_type=ss&btn_ref=srctok-367b59376cde2415"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:19.293617Z"
+ },
+ "https://link.amazon/B05NrJSK0": {
+  "url": "https://link.amazon/B05NrJSK0",
+  "hops": [
+   "https://amzlinks.in/B05NrJSK0",
+   "https://www.amazon.in/dp/B0GZGSZ3S9/ref=cm_sw_r_as_gl_apa_gl_i_QQDHR02NF7KERYMGT4B6?linkCode=ml1&tag=anil085a-21&linkId=92de3373a55c201704e0c53179572750&ascsubtag=srctok-055087b18c89e306&btn_type=ss&btn_ref=srctok-055087b18c89e306"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:19.594098Z"
+ },
+ "https://link.amazon/B06Tkf5iH": {
+  "url": "https://link.amazon/B06Tkf5iH",
+  "hops": [
+   "https://amzlinks.in/B06Tkf5iH",
+   "https://www.amazon.in/Samsung-Smartphone-Silverblue-Snapdragon-ProVisual/dp/B0DSKNKCYX?crid=36N7ONI7HEQKO&dib=eyJ2IjoiMSJ9.VQt1TvbYMygRxkBWvNL-7gSgXWHjw35LJJ4m6-KK85JUAdWVNMTYBg1XV2fAaKky1sFlaGDQ0zbp1aooZ0npabmeaeQ6ZR8-oK9FY6elm03VKpXKWs8a389r2WnehXsRWQkA_mSg7ymSLZd6hk8b8ni_9NlNoE8MyfTfirLM-gcFbwWS59GFgYE76O5v26T8qstBu9RAyTcBZiSAJOqQSRYj-zR0PEzOZGbAd9kgsxE.drnOJF9PhT-IR3T0xJsGzK4Ac93XdFKyR_NLACW6F0Y&dib_tag=se&keywords=s25%2Bultra&qid=1791297429&sprefix=s25%2Bultra%2Caps%2C374&sr=8-1-spons&aref=njAVNlLzIx&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=sl2&tag=nehemiahtec0a-21&linkId=b1bf2d9cfabf0bcf1ebdd9903f8a6269&ref_=as_li_ss_tl&ascsubtag=srctok-069a66a1b68c4c59&btn_type=ss&btn_ref=srctok-069a66a1b68c4c59"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:19.885108Z"
+ },
+ "https://link.amazon/B06rBjIuA": {
+  "url": "https://link.amazon/B06rBjIuA",
+  "hops": [
+   "https://amzlinks.in/B06rBjIuA",
+   "https://www.amazon.in/dp/B0GRMNRMF7/ref=cm_sw_r_as_gl_apa_gl_i_9WEPKF5A7VDYRJE3807D?linkCode=ml1&tag=anil085a-21&linkId=6e0e682472e42db70d24f67e58cae5a0&ascsubtag=srctok-46beaaab933080d4&btn_type=ss&btn_ref=srctok-46beaaab933080d4"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:20.011341Z"
+ },
+ "https://link.amazon/B070i7CTf": {
+  "url": "https://link.amazon/B070i7CTf",
+  "hops": [
+   "https://amzlinks.in/B070i7CTf",
+   "https://www.amazon.in/dp/B0DGJHBX5Y/ref=cm_sw_r_as_gl_apa_gl_i_3P207XAP8K24K3AW82H7?linkCode=ml1&tag=anil085a-21&linkId=b1c44b6d327d25af7b142f655f8d549c&ascsubtag=srctok-7284683e6379c96b&btn_type=ss&btn_ref=srctok-7284683e6379c96b"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:20.292540Z"
+ },
+ "https://link.amazon/B08tuI6ii": {
+  "url": "https://link.amazon/B08tuI6ii",
+  "hops": [
+   "https://amzlinks.in/B08tuI6ii",
+   "https://www.amazon.in/dp/B0DQQPMNC2/ref=cm_sw_r_as_gl_apa_gl_i_9ZXG2TD090QT38QCS1JD?linkCode=ml1&tag=anil085a-21&linkId=03bccd4688b9b3d5240c70ef999b6d8f&ascsubtag=srctok-779ef6ee6ca650c1&btn_type=ss&btn_ref=srctok-779ef6ee6ca650c1"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:20.578641Z"
+ },
+ "https://link.amazon/B09KJDQ3i": {
+  "url": "https://link.amazon/B09KJDQ3i",
+  "hops": [
+   "https://amzlinks.in/B09KJDQ3i",
+   "https://www.amazon.in/dp/B0H3FLD9NM/ref=cm_sw_r_as_gl_apa_gl_i_FPRJXTBQZAN79DYHFZ2Z?linkCode=ml1&tag=anil085a-21&linkId=941a8d3c26b3219ce5acb9a3953c922a&ascsubtag=srctok-7dfc09dcc492bf28&btn_type=ss&btn_ref=srctok-7dfc09dcc492bf28"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:20.578641Z"
+ },
+ "https://link.amazon/B0auiLCVP": {
+  "url": "https://link.amazon/B0auiLCVP",
+  "hops": [
+   "https://amzlinks.in/B0auiLCVP",
+   "https://www.amazon.in/dp/B0H4L5T84X/ref=cm_sw_r_as_gl_apa_gl_i_PXRYMJA8G1SPP7XKGHXT?linkCode=ml1&tag=anil085a-21&linkId=51ebeb2b9f57ebb1e26146b644bed778&ascsubtag=srctok-6254b60ca8b021b6&btn_type=ss&btn_ref=srctok-6254b60ca8b021b6"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:20.716052Z"
+ },
+ "https://link.amazon/B0bUCQNF4": {
+  "url": "https://link.amazon/B0bUCQNF4",
+  "hops": [
+   "https://amzlinks.in/B0bUCQNF4",
+   "https://www.amazon.in/dp/B0HDD8H49F/ref=cm_sw_r_as_gl_apa_gl_i_dl_SF4TMSD2N0C0VZZHEY9Y?linkCode=ml1&tag=anil085a-21&linkId=5a463a00da7070e58b8f290562a3aa49&ascsubtag=srctok-26b721167cd521e7&btn_type=ss&btn_ref=srctok-26b721167cd521e7"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:20.998553Z"
+ },
+ "https://link.amazon/B0cfNpz34": {
+  "url": "https://link.amazon/B0cfNpz34",
+  "hops": [
+   "https://amzlinks.in/B0cfNpz34",
+   "https://www.amazon.in/iQOO-Snapdragon%C2%AE-Processor-Slimmest-Smartphone/dp/B0HCB97YK5?crid=NNSYB4JTY7WV&dib=eyJ2IjoiMSJ9.33cRbC2LXxArAxM3W9GwNFe7EQ_Rngrv7BTgz_S7NSRt2nW0NdTJpRNID50OzvgD0wDK07H9_tKpOlJsgc3QJamW0P-2Ag_7AwxmAEUPR-FEa7Bjv6Mfk3ARBjtwuYPevb5IE5hvhpIGUidgxkpAxKpyXk9mjuo19wAZdO03ghmh5qilOOY0UcAqJcjgnZ98mEgdmsMxA0soIubSOBth-Ah0GfaGRq1PtML-78Ggm9E.PTdkjvCqtwjesXkoFDzOvx4XMP3Yyf6qRlWcfIDNgHY&dib_tag=se&keywords=iQoo%2B15r&qid=1791297386&sprefix=iqoo%2B15%2Caps%2C312&sr=8-3&th=1&linkCode=sl2&tag=nehemiahtec0a-21&linkId=d793dd7f2b43f21bd6554d6c584c40fc&ref_=as_li_ss_tl&ascsubtag=srctok-693bb466435046ca&btn_type=ss&btn_ref=srctok-693bb466435046ca"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:21.265044Z"
+ },
+ "https://link.amazon/B0csJBg9e": {
+  "url": "https://link.amazon/B0csJBg9e",
+  "hops": [
+   "https://amzlinks.in/B0csJBg9e",
+   "https://www.amazon.in/OnePlus-Snapdragon-Segments-Complete-Personalized/dp/B0GRBBPBGQ?crid=1MH43UBQ50JIR&dib=eyJ2IjoiMSJ9.CffOw7Z3PvdTVMxG6hfKdsq3c9Efz6dMjMnOqOr-CfVTwpJq_dBOkO9FtL0IO2DJykvL1YEk2YNpzgZXsDxr71cn5qzcAp78_M2nQxAMhdyYrPSnCMqnoo9lSD88wjpNCoXwNaX2IScAaKgizAee3kA4TaofQkNgxPvxDSGxEKHsbhAlCITBiagk5QQq5AYA3wHRXpNqAZhM9BSpFTPBZAJOqaFPh2CI-YH-eexLjmU.rGp2WG5lbGY577XbWr-ngV2sKSRjADxGnrYWB49cx3U&dib_tag=se&keywords=nord%2B6&qid=1791297464&sprefix=Nord%2B6%2Caps%2C441&sr=8-3&th=1&linkCode=sl2&tag=nehemiahtec0a-21&linkId=2dff69d824a6705c2ca8520ddbaab1f0&ref_=as_li_ss_tl&ascsubtag=srctok-420260b33862c64f&btn_type=ss&btn_ref=srctok-420260b33862c64f"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:21.265044Z"
+ },
+ "https://link.amazon/B0e3HnboO": {
+  "url": "https://link.amazon/B0e3HnboO",
+  "hops": [
+   "https://amzlinks.in/B0e3HnboO",
+   "https://www.amazon.in/dp/B0DSKL9MQ8/ref=cm_sw_r_as_gl_apa_gl_i_M7V0CCFB65P9F0XC0W5R?linkCode=ml1&tag=anil085a-21&linkId=3cc026677f0466d04050dfcee078df2a&ascsubtag=srctok-19d7aa787bf21bf0&btn_type=ss&btn_ref=srctok-19d7aa787bf21bf0"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:21.407653Z"
+ },
+ "https://link.amazon/B0e6KhlRA": {
+  "url": "https://link.amazon/B0e6KhlRA",
+  "hops": [
+   "https://amzlinks.in/B0e6KhlRA",
+   "https://www.amazon.in/dp/B0H293SFTR/ref=cm_sw_r_as_gl_apa_gl_i_Q24G1ZBDH8P7EZJD740C?linkCode=ml1&tag=anil085a-21&linkId=132d37e26253d60199ad6038d3354d9c&ascsubtag=srctok-578878fd7f3561d9&btn_type=ss&btn_ref=srctok-578878fd7f3561d9"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:21.744251Z"
+ },
+ "https://link.amazon/B0eRtSUZ8": {
+  "url": "https://link.amazon/B0eRtSUZ8",
+  "hops": [
+   "https://amzlinks.in/B0eRtSUZ8",
+   "https://www.amazon.in/dp/B0F7LMJSK7/ref=cm_sw_r_as_gl_apa_gl_i_N8P89P0PS86DKRWZ83Z1?linkCode=ml1&tag=anil085a-21&linkId=5cd494682710907d056203de79b9a864&ascsubtag=srctok-0a055edbdf90e755&btn_type=ss&btn_ref=srctok-0a055edbdf90e755"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:21.961187Z"
+ },
+ "https://link.amazon/B0fyQ0UbD": {
+  "url": "https://link.amazon/B0fyQ0UbD",
+  "hops": [
+   "https://amzlinks.in/B0fyQ0UbD",
+   "https://www.amazon.in/dp/B0FNMQW9HW/ref=cm_sw_r_as_gl_apa_gl_i_441GJ8A667YSEGF1AZXG?linkCode=ml1&tag=anil085a-21&linkId=34580fa7a62ba6c520dbbec047f1c15a&ascsubtag=srctok-547230b91fd74170&btn_type=ss&btn_ref=srctok-547230b91fd74170"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:21.972235Z"
+ },
+ "https://link.amazon/B0gS9oOr1": {
+  "url": "https://link.amazon/B0gS9oOr1",
+  "hops": [
+   "https://amzlinks.in/B0gS9oOr1",
+   "https://www.amazon.in/OnePlus-Snapdragon%C2%AE-Battery-Lifetime-Warranty/dp/B0F5WTG8RG?crid=2RRQWXRRQ3S16&dib=eyJ2IjoiMSJ9.UJrU0XRxefv3qqDJcDnGfyLUVre5VU7wyduqmFqvBi9-g56H_MEn8_jEaDK2-wyA60292NlKXaCY1gE3S7qcBIX2XBtCtDGIPysbazDG-ixH-PrpLjz_7DeLXDGjD5Y7RmgMb0t3tvZq9gAfmw-Ol5U_oIV_A4Be_snwfk8eJkOYarAFVwbFtZ44pnIEkHX04lQfw6JtCpahBIwfPFuWzBE9sKHwriJwXhrT69eUHew.bGDyaew_AtfaV-iIm6Cc0e1fIBdcOnQHokdNn42NbX0&dib_tag=se&keywords=Oneplus%2B13s&qid=1791297448&sprefix=oneplus%2B13%2Caps%2C368&sr=8-1-spons&aref=hEnuyXTysh&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=sl2&tag=nehemiahtec0a-21&linkId=16c9e23fabef4119e78cb0a7d3c0be83&ref_=as_li_ss_tl&ascsubtag=srctok-3a3fec9280e5d622&btn_type=ss&btn_ref=srctok-3a3fec9280e5d622"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:22.097880Z"
+ },
+ "https://link.amazon/B0h0ZmeGE": {
+  "url": "https://link.amazon/B0h0ZmeGE",
+  "hops": [
+   "https://amzlinks.in/B0h0ZmeGE",
+   "https://www.amazon.in/dp/B0GXZ1VC4J/ref=cm_sw_r_as_gl_apa_gl_i_H22RNN502YJQBSD84SQE?linkCode=ml1&tag=anil085a-21&linkId=f8fff7824cc72ead6b8017c644a2828b&ascsubtag=srctok-4e4cfd94b50e4f8b&btn_type=ss&btn_ref=srctok-4e4cfd94b50e4f8b"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:22.431415Z"
+ },
+ "https://link.amazon/B0iZdT2Xo": {
+  "url": "https://link.amazon/B0iZdT2Xo",
+  "hops": [
+   "https://amzlinks.in/B0iZdT2Xo",
+   "https://www.amazon.in/dp/B0GRB3FBBB/ref=cm_sw_r_as_gl_apa_gl_i_V1FDPQZZ7Q31TECX9YBX?linkCode=ml1&tag=anil085a-21&linkId=faa96ac0cb89bfc12a37d4d2242b5296&ascsubtag=srctok-2051a66193751e19&btn_type=ss&btn_ref=srctok-2051a66193751e19"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:22.672439Z"
+ },
+ "https://link.amazon/B0ifpuM0W": {
+  "url": "https://link.amazon/B0ifpuM0W",
+  "hops": [
+   "https://amzlinks.in/B0ifpuM0W",
+   "https://www.amazon.in/dp/B0FDB9H277/ref=cm_sw_r_as_gl_apa_gl_i_CVYZBWQANX0HQMFZQS9P?linkCode=ml1&tag=anil085a-21&linkId=3db26fdbbc656793d7c9376f652d6f4e&ascsubtag=srctok-14dd69f2ebb8e10d&btn_type=ss&btn_ref=srctok-14dd69f2ebb8e10d"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=anil085a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:22.664903Z"
+ },
+ "https://links.trak.in/r/motoe70bg": {
+  "url": "https://links.trak.in/r/motoe70bg",
+  "hops": [],
+  "store": null,
+  "affiliate_param": null,
+  "error": null,
+  "checked_at": "2026-10-08T17:40:22.463504Z"
+ },
+ "https://t.co/ljQ5CHgXvj": {
+  "url": "https://t.co/ljQ5CHgXvj",
+  "hops": [
+   "https://t.me/gyantherapyofficial"
+  ],
+  "store": null,
+  "affiliate_param": null,
+  "error": "ConnectError",
+  "checked_at": "2026-10-08T17:40:23.392951Z"
+ },
+ "https://techwiser.com/we-are-hiring": {
+  "url": "https://techwiser.com/we-are-hiring",
+  "hops": [
+   "https://techwiser.com/we-are-hiring/"
+  ],
+  "store": null,
+  "affiliate_param": null,
+  "error": null,
+  "checked_at": "2026-10-08T17:40:23.663117Z"
+ },
+ "https://urlgeni.us/amzn/0Hlpis": {
+  "url": "https://urlgeni.us/amzn/0Hlpis",
+  "hops": [
+   "https://amzn.to/47K2UBY",
+   "https://www.amazon.in/Apple-2024-Desktop-Computer-10%E2%80%91core/dp/B0DLCNVB5J?crid=13TAYXY6U1E08&dib=eyJ2IjoiMSJ9.qy57AGeIXgokG7cmnLzTx5A2fTc7sfQyxBh5405dHiD-jSpxH5Ll1MKq2Bb1yIunJ0KIhmDOJTtIEin8a9RBrxxc3Yp-LigheXlH-MQXJccevisBgV-xYCk6i94lznksW7Zzf92ZZUCwFTr3AHaoDBYMvSO-WOexhiE1RkjfgAFqu1RU71xNVOWK9OpMRuvmiS2PZJj8Q_TMOayth1Gf89gvBJqTk_twxpClgDPoZDk.cOtD2p2hV3LdmbYAXGPD6e68hNdSMDmFBH3Z3x9fP5Q&dib_tag=se&keywords=Macmini+M4&qid=1761665998&sprefix=macmini+m4,aps,265&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=2d0326414f1d8b2724136abcf6797b21&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:23.566122Z"
+ },
+ "https://urlgeni.us/amzn/0osLkD": {
+  "url": "https://urlgeni.us/amzn/0osLkD",
+  "hops": [
+   "https://amzn.to/4hsi4z2",
+   "https://www.amazon.in/Logitech-MX-Master-3S-Performance/dp/B0B115YKL5?crid=2L64M8WEAVALJ&dib=eyJ2IjoiMSJ9.-gpkxJ6Ru5SjwutlKCtM2mv6xxUFMP1uxt_O2tDeBhawhsbqPN6xqVArE9LdMX5L1uaN6HP7vCJVZ-YmA8oDExVLJEMgE4Hx-WReOehypa9ciQ96ixgZVb06pU14dTF4JBhOwfrfIJ8MNthardSaYgho0yKGsxL6SCFYeYcvLqKmLS0Ev2Q1434MGXVuf2W42qBZ2NfIGw5QpQ45KNaCFTg0Ip1lDRSU4J4EyNvF25k.BnBLg5lKdklZ5AjjFja1nQics101DMxxgrxIBRPwNx8&dib_tag=se&keywords=Logitech+Mx+master+3s&nsdOptOutParam=true&qid=1761666206&sprefix=logitech+mx+master+3s,aps,258&sr=8-2&linkCode=sl1&tag=nehemiahtec0a-21&linkId=fd0a0e63122ea5d5a709afd821e5b199&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:23.573169Z"
+ },
+ "https://urlgeni.us/amzn/2qJ5gM": {
+  "url": "https://urlgeni.us/amzn/2qJ5gM",
+  "hops": [
+   "https://amzn.to/3WpgTXJ",
+   "https://www.amazon.in/Sennheiser-Super-Cardioid-Shotgun-Microphone-Filming/dp/B00B0YPAYQ?crid=364QE3U1126VV&dib=eyJ2IjoiMSJ9.SVtwuFtQqYcTwb5GyROiXlQyBqm-8SYRnuAYP3DzVwmsh3n0GxydaRcueg6gjGrqnmUkFt4K-Cen_lo5KLdpKIdWwxLICR2fviQST8ztf9AOeKVENTNgBbr-9rRRyqs9OztkLVGMrJ7jWG31yVDJV0c2yB4wUMQggM-_c51xIUVHdbKqTTIKMUsyLu8rqCqGfkJS7AcP2mDf7HqV7oc0MMrR-NPfP_hY9wROPYizKn8.nNzE7r3Wx1ViCVLc2RcLjGdDH8ui_PGZrAVV0bI218w&dib_tag=se&keywords=sennheiser+mke+600&nsdOptOutParam=true&qid=1761665846&sprefix=senheiser+mke+60,aps,282&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=ec92ff5bd38e36432bef56e506d29b1d&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:24.298613Z"
+ },
+ "https://urlgeni.us/amzn/34ifAT": {
+  "url": "https://urlgeni.us/amzn/34ifAT",
+  "hops": [
+   "https://amzn.to/47pA5Lj",
+   "https://www.amazon.in/Lexar-Professional-Dual-Slot-Supports-LRW470U-RNHNU/dp/B09R6JZXRL?crid=3I41TDEVOW7PC&dib=eyJ2IjoiMSJ9.T-x-0WlsAXxdRKM7GQLYtJr1Xrya80u88aDpLWWkyQ_tRxVk1_AyQotQgzLBoCFgqVxCf1HxFKOrfEUEfOIO-i5Sb4oTUTvTyFQBSRgIfXnbBfwvZHxTZ81j6iw-CAMt0ST3ZaynEfvORcFzeoLVYgGxSk1lKBKPloefyfLL0qIA5wkmqNFSfkoUfFb3iPi441BjZzb8NzMBnYHpiZ0TD2BVEpxnym-sJ6jv_m86BMg.6flQ1Lr4LJhPtiTVTD54hDrNaOEGhehDlI8S5JhVwwo&dib_tag=se&keywords=lexar%2Bcard%2Breader&qid=1761761085&sprefix=Lexar%2BCard,aps,251&sr=8-3&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=87e81c18240b340da95c25d732fe977f&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:24.366869Z"
+ },
+ "https://urlgeni.us/amzn/4YRnKV": {
+  "url": "https://urlgeni.us/amzn/4YRnKV",
+  "hops": [
+   "https://amzn.to/47H3q3L",
+   "https://www.amazon.in/Microphone-Compact-Base-Adjustable-Iron-Made/dp/B0CBXBJNRZ?crid=7Y99SVBG8W0S&dib=eyJ2IjoiMSJ9.d0z5pzOebhVQjnDUUKnwknULg_lXlH0fd-mOdT0NmF-U5O_vQrCbsCikFnTXmYi804d6QWCcr3dzwZVyfD21sFwWcc_m1fZDsyg7Hz022mEtOTTi8AuAB_ZL5ixMXW49ZXeQIMM73wzYC94qBbamfrSZGD-OoF6oKChVAu-0_AI0AIURKCbFGUXXm2uMzwKKltkOuMjrPAxTJL7-6JMWoJhORKZqVGDJT49SNaKdUrZkLAEKX2fHHzfF-XnV1xs0kNeyZgdHdkoW0NLZJXKuUdlisT1_BElPxuT3C_RChCs.EQ2-8TcIREQZWVmH3oKx6GcYNJpAiiDAROTQYU28wHM&dib_tag=se&keywords=my+stands+mic+stand&nsdOptOutParam=true&qid=1761665893&sprefix=my+stands+,aps,327&sr=8-35&linkCode=sl1&tag=nehemiahtec0a-21&linkId=83161d71b83510e1e49bb3c349436647&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:24.412794Z"
+ },
+ "https://urlgeni.us/amzn/9_GFg_": {
+  "url": "https://urlgeni.us/amzn/9_GFg_",
+  "hops": [
+   "https://amzn.to/3JsDGib",
+   "https://www.amazon.in/Sony-SEL50F18-Mount-Cameras-Black/dp/B00EPWC30O?crid=2GGXBUB9I34HN&dib=eyJ2IjoiMSJ9.QcApBCMZjVKoZAn-f3r8W7bMHcTqjY6UQsEVu0sQBk3vaImkXt5CuUI6foTQsFRMLq5wbHjk3sT6j6rimQt4tExw_haVeiTnDj9ICdMX3-VmkCE-O5pagZ-tJ3z7pF1CaqrQk4RiJnJtbL9fzBU9CWG9ZmGtTtWfkxHXVnQicfMGOAONLLEZNDRfAbHqmG2E78NiQHDwyMEVUUYmcjLUGEbHmWB-SCplIPHF3XzVqKs.dRCLK-AJdceCC4Iym6i4oAbE2XCg8IdOGei5JhcBfcs&dib_tag=se&keywords=sony+50mm+f1.8&qid=1761663466&sprefix=sony+50mm,aps,243&sr=8-2&linkCode=sl1&tag=nehemiahtec0a-21&linkId=16a3d100598bb49ce7397a78794e793d&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:24.433616Z"
+ },
+ "https://urlgeni.us/amzn/BtBKy": {
+  "url": "https://urlgeni.us/amzn/BtBKy",
+  "hops": [
+   "https://amzn.to/4hAnqII",
+   "https://www.amazon.in/Godox-SL60W-White-Video-Temperature/dp/B0753TYGMF?crid=2UK35RBDJRTFP&dib=eyJ2IjoiMSJ9.K7TZtphoYAzxQHhM1dLs9kdw19U4fmmrybqhsIEPK4zid9RwHuNBytsLdZ1U-37YmUxG0k6wn-rYXPVfUE1ag4_7e_uZ_LsE7r_VPjwVIioorNN9JTcC-4T1sj7SlhSc6c-ieoc5j_z_BlwfCdh0RToC42aJqyOumHt99zufv5PEQuRLynDxsxn2X9qwBl6QBCjTSImcvZYeAmg5PyxXI8Vxfl3TKFKyetI01z9HA5I.TwSExxWL7y_Pqn-que01D4RkYSkhS9dDsP0EOmUfKD8&dib_tag=se&keywords=godox%2Bsl%2B60w&qid=1761666437&sprefix=Godox%2BSl%2B60,aps,272&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=4fdfd1934033aca5437b93cf3ea0290b&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:25.242704Z"
+ },
+ "https://urlgeni.us/amzn/CBggAk": {
+  "url": "https://urlgeni.us/amzn/CBggAk",
+  "hops": [
+   "https://amzn.to/49ro74V",
+   "https://www.amazon.in/DeeprBling-Dimmable-Control-Bluetooth-Million/dp/B0BWD1QKXM?crid=347O4LBRKKC26&dib=eyJ2IjoiMSJ9.OpGthaCgYzBYGDUu_dsBY4VT883CgMfX3gGUpyAHlvINIYDQIs3HXc-qZeubQOIOjdYMKumiW3q9_Czdi6uo53DLo2vpIp69RQX0V_yvrcDtG-5TrLQnoLNJfs6ehF7dewWsvxFGB83ijBdQjKUL0hLpVBCAS92GnBQ6yeqZ1YAVydCHAI3y6c1P9xpjdWR2iWF857DxW0u-caqL3Ze4coE4wgIjGQELXnj0RnHv3DBF0TfTj-37vSn_dt9NYVAr-EfG3G1PbBnZdgJDpSB_owVO7J_hbhVBdvWLemUgTzE.TlA9vKZ9zqmUNUMupBNxKu7jkVt6bVtvoSyyYihCV7k&dib_tag=se&keywords=Corner+RGB+Light&qid=1761666877&sprefix=corner+rgb+ligh,aps,264&sr=8-6&linkCode=sl1&tag=nehemiahtec0a-21&linkId=2a5c98bcc8d206cdf9325d94e990edbd&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:25.182585Z"
+ },
+ "https://urlgeni.us/amzn/FFEdef": {
+  "url": "https://urlgeni.us/amzn/FFEdef",
+  "hops": [
+   "https://amzn.to/4qxCTNO",
+   "https://www.amazon.in/Logitech-Multi-Device-Wireless-Keyboard-Chrome/dp/B07Y13T33K?crid=3GDT4HE5PFGRB&dib=eyJ2IjoiMSJ9.rCRTOUkKczPyj2JF6c5Afi4SCysNixp-cRJjqjFFtxBke0s49ZrfJ1e6p7h1g_04OmIeKk5Uq34pMDOJDFcUZeSz_Mz9rpWiNawjQ3Sfo5igiD8cuR_lGlJtvyLbKJIJ73QedF8E6sk4stkPScvvmPpjMK9905bFA8EUPZe_eY44paANbyl5WlsFupaGSQxZmy24AXiY67JXxLsLICZ54LijNB8KPnFrwSUJ5EbTfDc.M6NQOCAVi2Wh7Mug4WoK2Ujz7PYod0O5g-ewfw5IM2o&dib_tag=se&keywords=Logitech%2Bk480&nsdOptOutParam=true&qid=1761666116&sprefix=logitech%2Bk480,aps,305&sr=8-5&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=96ff613d558ef86a43e2a95f0726c6b4&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:25.305594Z"
+ },
+ "https://urlgeni.us/amzn/F_Xbk": {
+  "url": "https://urlgeni.us/amzn/F_Xbk",
+  "hops": [
+   "https://amzn.to/3JvgDDw",
+   "https://www.amazon.in/DIGITEK%C2%AE-Portable-Handheld-RGB-DSL-25W/dp/B0BCFR26VH?crid=RJQT5S5OVTYL&dib=eyJ2IjoiMSJ9.0K4W0VX_a_9KVMiTG5aAZz8y1hFJcXl-IMGZy-tSdkUt5AIs5_fT_VkhmiJ5wnheh7ASmOyt1K3sEamO4uNDY4_XZ6tPZPxP2l_YYgTaSBfbBwJ6TtpqU6woU5zoauOCAO-ORQPpZShKAXrQwBZu_bf1wCdWbxyE227No-k-9Mqa6yVvXYUdhWol2485SC9x7ij8eIh-qX_J0pcRgH3fvCpl5yKi_nJpk99-bmOVtBs.7aY-pKGWPi6I2mDC5zYXLnXbR3BkH_GAU65Edc3yu6g&dib_tag=se&keywords=digitek%2Brgb%2Bstick%2Blight&qid=1761666256&sprefix=Digitek%2BRGB%2BStick%2B,aps,271&sr=8-3&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=cf39295c1096d7915e7db446dcd6ce62&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:25.220305Z"
+ },
+ "https://urlgeni.us/amzn/KfuHf3": {
+  "url": "https://urlgeni.us/amzn/KfuHf3",
+  "hops": [
+   "https://amzn.to/47Mw4R2",
+   "https://www.amazon.in/Godox-Portable-Honeycomb-Umbrella-Speedlite/dp/B019DFIGGM?crid=2UK35RBDJRTFP&dib=eyJ2IjoiMSJ9.K7TZtphoYAzxQHhM1dLs9kdw19U4fmmrybqhsIEPK4zid9RwHuNBytsLdZ1U-37YmUxG0k6wn-rYXPVfUE1ag4_7e_uZ_LsE7r_VPjwVIioorNN9JTcC-4T1sj7SlhSc6c-ieoc5j_z_BlwfCdh0RToC42aJqyOumHt99zufv5PEQuRLynDxsxn2X9qwBl6QBCjTSImcvZYeAmg5PyxXI8Vxfl3TKFKyetI01z9HA5I.TwSExxWL7y_Pqn-que01D4RkYSkhS9dDsP0EOmUfKD8&dib_tag=se&keywords=godox%2Bsl%2B60w&qid=1761666437&sprefix=Godox%2BSl%2B60,aps,272&sr=8-6&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=d6db96cdfc0a46ea5c91353ed559d773&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:25.949327Z"
+ },
+ "https://urlgeni.us/amzn/Lpba2W": {
+  "url": "https://urlgeni.us/amzn/Lpba2W",
+  "hops": [
+   "https://amzn.to/4oK1Sf3",
+   "https://www.amazon.in/Lightweight-Portable-Aluminum-Photography-DLS-9FEET/dp/B088GXTJM3?crid=34LC55GFFVDEY&dib=eyJ2IjoiMSJ9.cjBJJFRh0Bj3l2RMe881TmrBzMorsC2HRojxdf_jR497AuSgFZvwa2aasOKXrpqs7oJaawi8Kx1EzwPJaoZbssSihdqX4XxqxtRAdf7Hn3Uhz4fdsuIbnHvqbIRUFOu4eA16QfYRjKYtqe3M9hQN3B9evCNna_cE8rYdjfVnfqiWSReXwGpsXLnrjlm1EQoQrCeMsAJg2k9rhfRfJ1PU_Nv8euO11Wy49Qo92eqVnME.lFIsOWW84ppMtXWmCsBa1NZCUHpvv8H1h2yti6RT-fY&dib_tag=se&keywords=godox%2Bsl%2B60w%2Bstand&qid=1761666529&sprefix=godox%2Bsl%2B60w%2Bstand,aps,262&sr=8-7&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=fbadc0139dc2b1f3771105a4f2cb1152&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:26.032646Z"
+ },
+ "https://urlgeni.us/amzn/Q2r8DJ": {
+  "url": "https://urlgeni.us/amzn/Q2r8DJ",
+  "hops": [
+   "https://amzn.to/4oBUEJT",
+   "https://www.amazon.in/Prolite-Background-Backdrop-Photography-Videography/dp/B085F3R5YN?pd_rd_w=1kTIA&content-id=amzn1.sym.d1afc5d3-2e83-45f5-8382-2dc0d946ef8f&pf_rd_p=d1afc5d3-2e83-45f5-8382-2dc0d946ef8f&pf_rd_r=X7XDP44JST7B0229NESX&pd_rd_wg=lJLuh&pd_rd_r=c08f240c-b08e-4d4d-8e60-6eaff75ac6b9&pd_rd_i=B085F3R5YN&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=5a9f981b34a588ff47d0efe9527b0944&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:26.033654Z"
+ },
+ "https://urlgeni.us/amzn/QhFTzk": {
+  "url": "https://urlgeni.us/amzn/QhFTzk",
+  "hops": [
+   "https://amzn.to/43JBeuB",
+   "https://www.amazon.in/Sleep-Company-Stylux-Chair-Technology/dp/B0BSH1W86F?crid=1BQMRVAD8PCXN&dib=eyJ2IjoiMSJ9.UKb4axF_I733rTRVRdgS2r1fBsRVySg09rZ4cP7ofSHZ5K5hPqRpPbrLlsWyxKnNO2XO3usxj3xwSYCTqA9sUChpY2uGjAtdUGRC4Szz0NT9IBP5VvZfR5tOsCQUyHbqDiCF6jxxTWeKx7ZIv5rdpJSGPmdOmIzPx7qwGiuBUhQoHLlN9v3SPLRvT8sj2lhuFB8nmtMUyZ9YaQ9f4830JxNC7ZJ3paPlsbZQypCShFXfSUD5e6HOjLCRI_exsevZsZEWHNgy5UbG8sIY-JGL5PLVuDviWM8yF0joDuZkIbE.04HBDmln6lDDsxj0FlsnT593pa2A4DWa1245yQrxFtk&dib_tag=se&keywords=sleep%2Bcompany%2Bstylux%2Bchair&nsdOptOutParam=true&qid=1761760220&sprefix=Sleep%2BCompany%2Bsty,aps,239&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=fa289f2f753bc1a2dca210eb21f6392d&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:26.102065Z"
+ },
+ "https://urlgeni.us/amzn/SJ1P8j": {
+  "url": "https://urlgeni.us/amzn/SJ1P8j",
+  "hops": [
+   "https://amzn.to/4oeVDjD",
+   "https://www.amazon.in/DJI-Microphone-Intelligent-Cancelling-Recording/dp/B0CFZX734J?crid=LL26628ETPRI&dib=eyJ2IjoiMSJ9.xHJeWLev7Gtg6uMcRcXHaJ-tOT49UGfraqsTXYcvWaBwfeXZEvZ1YCZLQZNDs3znitrTk6WZ8KSz9RfFn73NhZpDJjnbMVWxDnRFWzhgGsFAg5CQKCp3lTt6T6FbI4RFx46CEsW3DMT3bw1k0SmQNo_7A1k9-QKVdKj3EJlHI1jR0Ob_2lwSoznk-28MBa8xWmGykbbwTZe67ElGayr8BAtOyg3ncpAAsehmHnSL3M_O6b08CrOAj8qrHi6Jxw6fnaWMiIfMiVU02wvF6v83wCjx1dSxq30VoQWI8f9X7L4.5qJyNi7S2DJkSWTzqKHpV_19ybTCka4WxhDmpXkhcVA&dib_tag=se&keywords=Dji+mic&nsdOptOutParam=true&qid=1761665955&sprefix=dji+mi,aps,264&sr=8-6&linkCode=sl1&tag=nehemiahtec0a-21&linkId=a327819664fc6bb3c9d9c69836496564&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:26.709949Z"
+ },
+ "https://urlgeni.us/amzn/Y8o1mi": {
+  "url": "https://urlgeni.us/amzn/Y8o1mi",
+  "hops": [
+   "https://amzn.to/47gj46c",
+   "https://www.amazon.in/Sony-ILCE-6700-Interchangeable-Lens-Mirrorless-Intelligence/dp/B0CNRZ8JX7?crid=3NPG9KY5THDEL&dib=eyJ2IjoiMSJ9.xM5UnT5J5Mp8rl4hnjK59KfLRLjEeeB9_csUaR4IKWtZhJ6QJ9LSXp1-jLJiiKBGI4SsVkPMla7jZYCooG4SCJf-PNqskLxhCrhLj3EOINMiwwVu9HOPNfqM_lVGFSmNw_KZdJ3shxUwkkJuQ7zzXGjp5qDmV3xtgkAFG8JLnenTf7oRumkmB6sp-uA_Burc-BJQ9Z9rELHKfBO1IjikonrV7dW1XOej948CGX5W_oU.jVQgJyOZFDIkIJIXViXpunq42qtgDv3VeIAExnsTmlA&dib_tag=se&keywords=sony%2Ba6700%2Bcamera&qid=1761663400&sprefix=Sony%2BA6700,aps,238&sr=8-3&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=6ac885c3c39126873ed4286d046129d9&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:26.810479Z"
+ },
+ "https://urlgeni.us/amzn/Yeg0Ud": {
+  "url": "https://urlgeni.us/amzn/Yeg0Ud",
+  "hops": [
+   "https://amzn.to/4qxGkUD",
+   "https://www.amazon.in/Digitek-Tripod-DTR-520-BH/dp/B075JCR1PJ?crid=1C96NMIWG1X0R&dib=eyJ2IjoiMSJ9.7LoBgFwfzwqsxsw-64X9WTYxn48H9sdfYm6DOOqUpjjG6pWZz_tRXsbyz7OTkhBXxsgrUzt8Z8Gwh3yuYK9_t-6aOeiCoaiQbB44rLP43iG7rlkDBsWxiUp6D33R4J_-YX0uGKK7v9v4LHXkCNR9sF6AT9wPTC9JFHiOxxwMmlEZCergNV1TUg_T8CsUuveNOgbAEPkheKFkFeMy5vaglnnLeTiZ6PkbLj3E2a30Tew.QrcIGcRqcMCQuT9Rs1I2Ako1aNc_WzUU3GiK6CJfEVs&dib_tag=se&keywords=digitek%2Bdtr520bh&qid=1761760299&sprefix=digitek%2Bdtr520,aps,238&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=2fbcb1d13189113fbcb2221cbf17f0bb&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:26.814087Z"
+ },
+ "https://urlgeni.us/amzn/dVy5jl": {
+  "url": "https://urlgeni.us/amzn/dVy5jl",
+  "hops": [
+   "https://amzn.to/47v4hU3",
+   "https://www.amazon.in/SL60IID-5600%C2%B1200K-2-4GWireless-Brightness-Recording/dp/B0BWDQR3HZ?crid=2UK35RBDJRTFP&dib=eyJ2IjoiMSJ9.K7TZtphoYAzxQHhM1dLs9kdw19U4fmmrybqhsIEPK4zid9RwHuNBytsLdZ1U-37YmUxG0k6wn-rYXPVfUE1ag4_7e_uZ_LsE7r_VPjwVIioorNN9JTcC-4T1sj7SlhSc6c-ieoc5j_z_BlwfCdh0RToC42aJqyOumHt99zufv5PEQuRLynDxsxn2X9qwBl6QBCjTSImcvZYeAmg5PyxXI8Vxfl3TKFKyetI01z9HA5I.TwSExxWL7y_Pqn-que01D4RkYSkhS9dDsP0EOmUfKD8&dib_tag=se&keywords=godox%2Bsl%2B60w&qid=1761666437&sprefix=Godox%2BSl%2B60,aps,272&sr=8-4&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=45ba48666d69425b3c77cd25952647de&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:26.984470Z"
+ },
+ "https://urlgeni.us/amzn/qN1WLw": {
+  "url": "https://urlgeni.us/amzn/qN1WLw",
+  "hops": [
+   "https://amzn.to/3JqxeZc",
+   "https://www.amazon.in/Crosscut-Tower-Floor-Shelf-Yellow/dp/B09T9N51G6?crid=3GKZG8GCQNU6E&dib=eyJ2IjoiMSJ9.jtS37oORdw--M2vxtQ-Yraew1fI6wAo4I0IyfSqJIUzprih19kQSICEnA6h5Ixhrg8fxhGK--I73904m_6ftjEqeDnF52CAi6m6DfYCpne2bDkwuNUh2oJgvHhFBujpD-b0x6A1kbZbEJTXPHISRlY-MmDTpEOHNDzg1SNudQbHsFK4zpdIhRMTu9rkSQ0dwdjO_YcMF3UXGgNjdC4qIaVpyHNApyb4VPFbb6kFKgesCNxgwkRP-rFTQHWZmHUX00gNaJSLsNeyLG_KQFPiovMTo_AMZclqyIwuwN-yVeD4.L7ExulpNYCjcK-ba0weeyvgSnzrhYnJQB2MmGaSRSkM&dib_tag=se&keywords=Home%2Bdecor%2Blamp&qid=1761667050&sprefix=home%2Bdecor%2Blamp,aps,272&sr=8-12&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=0a8cba546ee376dfbdf62fded67815b8&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:27.471944Z"
+ },
+ "https://urlgeni.us/amzn/xE2g98": {
+  "url": "https://urlgeni.us/amzn/xE2g98",
+  "hops": [
+   "https://amzn.to/4nxQWQJ",
+   "https://www.amazon.in/SHOPEE-Photography-Background-Backgrounds-Woodworking/dp/B0818TR3GT?pd_rd_w=xQ5fz&content-id=amzn1.sym.6b3aa144-fd3f-4cac-9ae1-ac2407bcccc2&pf_rd_p=6b3aa144-fd3f-4cac-9ae1-ac2407bcccc2&pf_rd_r=P1Q2SKNV14D8N0AR7C5R&pd_rd_wg=WCcSR&pd_rd_r=512729f9-0b5f-462d-aec9-d18892a0f542&pd_rd_i=B0818TR3GT&psc=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=e18ec6720736b7982b00d27fd26f5ec4&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:27.613918Z"
+ },
+ "https://urlgeni.us/amzn/yWd6j": {
+  "url": "https://urlgeni.us/amzn/yWd6j",
+  "hops": [
+   "https://amzn.to/4ht8ThM",
+   "https://www.amazon.in/DIGITEK%C2%AE-DRL-14-RGB-Multi-Color-Smartphone/dp/B07MD4YBR4?crid=2UJWPHQ4ZGX42&dib=eyJ2IjoiMSJ9.uKmywHZYOS4YlSem6Sa2lBjwAoIcltPtFKTpHpfWJs0t5AIs5_fT_VkhmiJ5wnheg_BKOKdSu1jJBcT1PyYi47pf3bZt98NzgiaYFw1l2h5V4EvQAbppTHMr59sbwosAGGhNhptfA3CLvcgZE4UQMVPZnq2zo94phwgUORiqhUJVEGJOe8ZcLB0kGPx1Qa_NlCOhtO1zwtSYmhAjhi3jTBfe5V4eJVxsmXIJI_w8QNs.VleCO90nwdioGyuM2gGbHKjYNHqQGDELzBVaX9m4Ckc&dib_tag=se&keywords=digitek%2Brgb%2Bring%2Blight&qid=1761666373&sprefix=digitek%2Brgb%2Bring%2Blight,aps,348&sr=8-4&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=4939f7820175f2ab6588f84dca315437&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:27.604210Z"
+ },
+ "https://urlgeni.us/amzn/zcKVkr": {
+  "url": "https://urlgeni.us/amzn/zcKVkr",
+  "hops": [
+   "https://amzn.to/3JzqqIG",
+   "https://www.amazon.in/Dell-SE2425HM-Ultra-Thin-Response-Contrast/dp/B0F2MZC5SN?crid=27RNPYCZ8YN57&dib=eyJ2IjoiMSJ9.-s5PKcBSVzxD0omMuhHeHG-G6fDKDsYGmyUnLQdo8xANvgTUYGkC-RAsfcuL56se9mAlRUa0pzCJJWe2Xh5b1WB45-OSGX0kB5uqx-uRyWaKmE7y6UhQKoVMY2TmcP0gMnVsCEgrYEKQgjQvhV6xYjmXGqAeXg10KBiR2JLr7juiY7_UKZq_Dc6yNquhcJDopeWAwRgpVRA28bu2wUNcppEJRL2_IbPw-CHyWfZXb-4.UhYe4wFMZlKeQknosp0SXyoVhC6MiiyCtYQiB619fj0&dib_tag=se&keywords=24%2Binch%2Bmonitor&qid=1761666071&sprefix=acer%2B24%2Binch%2Bmonitor,aps,297&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=sl1&tag=nehemiahtec0a-21&linkId=b9605e83ffdec93c8bf3ee970b8808d1&language=en_IN&ref_=as_li_ss_tl"
+  ],
+  "store": "amazon.in",
+  "affiliate_param": "tag=nehemiahtec0a-21",
+  "error": null,
+  "checked_at": "2026-10-08T17:40:27.752708Z"
+ },
+ "https://www.flipkart.com/motorola-edge-70-fusion-snapdragon-pantone-blue-surf-128-gb/p/itmde3fff77e262b?pid=MOBHN973UHXUTABD": {
+  "url": "https://www.flipkart.com/motorola-edge-70-fusion-snapdragon-pantone-blue-surf-128-gb/p/itmde3fff77e262b?pid=MOBHN973UHXUTABD",
+  "hops": [],
+  "store": "flipkart.com",
+  "affiliate_param": null,
+  "error": null,
+  "checked_at": "2026-10-08T17:40:27.493297Z"
+ }
+}

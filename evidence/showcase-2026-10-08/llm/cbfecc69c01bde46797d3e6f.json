@@ -1,0 +1,234 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube video's description and transcript. The videos are Indian phone reviews and buying\nlists, in English, Hindi, Hinglish, Telugu, Malayalam or a mix.\n\nFind two things.\n\nA) Every place the creator states a money tie, as one of these kinds:\n- paid_sponsorship: the video is sponsored by, a paid partnership with, or made in collaboration with a company\n  (including a \"#Collab\" tag next to a company's tag). `party` = that company.\n- free_unit: a company sent, provided or gave the creator the device or review unit. `party` = that company, or\n  \"respective brands\" when the creator says it that way.\n- affiliate_statement: the creator says the links are affiliate links, or that they earn a commission, or that they\n  are an Amazon Associate.\n- denial: the creator says the video is NOT sponsored, or that no brand paid them.\nThese are NOT money ties. Skip them: \"for sponsorship / business / collab inquiries contact ...\", \"all content\nprovided by this channel is for educational purposes\", copyright or fair-use notes, talk about other people's sponsored\nads, bank card offers and sale discounts, product tagging (\"I've tagged the phones\"), and the channel promoting its own\napp, channel, merch or giveaway.\n\nB) Every phone the creator recommends for the buyer, with its rank if they number their list (1 = their top pick).\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text below: same script, same spelling, same punctuation, same capitals.\n  Never translate, transliterate, fix or shorten words inside the quote.\n- Use the shortest exact span that shows the point, at most 200 characters.\n- A transcript quote must come from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote (a translation if it isn't English).\n- `phone`: the standard English \"Brand Model\" name, e.g. \"Motorola Edge 60 Pro\", \"iQOO Neo 10\", \"Samsung Galaxy\n  M36\". Don't include RAM/storage or colour.\nIf there is nothing for a list, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: Top 7 Phones From ₹20,000 to ₹30,000 Rupees !\nCHANNEL: Gyan Therapy\n\nDESCRIPTION:\nIn this video i talked about Best Phones Under 30K in this Flipkart & Amazon sale, where I'm talking about good options between 20K - 30K price range. There are some Good Options from motorola, realme & iQOO.\nBest Smartphone under 20000\nBest smartphone under 30000 \n\n\nThanks for watching\n\n#gyantherapy\n#flipkartsale \n#amazonsale \n\nBusiness Email: business@gyantherapy.in\n*This email is only for business inquiries. For tech-related questions or suggestions, please use the comment section.\n\nFollow me on\nInstagram-   / gyantherapy  \nTwitter-   / gyantherapy  \nTelegram- https://t.co/ljQ5CHgXvj\nFacebook-   / gyantherapy  \n\nIf you want Buy anything from Amazon check here\nAmazon Link - https://amzn.to/3bydbCC\n\nTRANSCRIPT (one segment per line, [index] m:ss text):\n[0] 0:00 जय हिंद दोस्तों क्या हाल है? ओके आज की वीडियो यह सजेशन है अंडर ₹0000 ₹000 से ₹00 में जो फोन अभी मिल रहे हैं कुछ फोन\n[1] 0:09 आपको याद होंगे Vivo T4 Pro I का कभी Neo 10R जैसे फोन Samsung Galaxy S24 FE OnePlus Note 5 Poco X7 Pro IQ Z10\n[2] 0:18 इनफैक्ट Oppo K3 Turbo ऐसेसे फोन नहीं मिल रहे हैं। पर यह वीडियो जाने के बाद या जब\n[3] 0:25 आप चेक करें अगर K-3 Turbo दिख जाए आपको अंडर 30,000 तो डेफिनेटली जिसको परफॉर्मेंस अच्छा चाहिए कैमरा इसका ज्यादा टारगेटेड नहीं है बट गेमिंग परफॉर्मेंस यह\n[4] 0:34 अच्छा निकाल के दे देगा। एंड याद होगा मैंने तो काफी पहले आपको इस वीडियो में बताया था कि एग्जैक्टली पहले जैसी प्राइसिंग उम्मीद मत लगाइएगा Amazon, Flipkart सेल में। अगर आपका अच्छा फोन चल\n[5] 0:42 रहा है चलाते रहिए। लेकिन हमें भी पता है बहुत सारे लोग नया फोन लेंगे। जिनको जरूरत है किसी को गिफ्ट देना है या पहली बार लेना है अपग्रेड करना है लॉन्ग टाइम बाद\n[6] 0:50 उनका पुराना फोन सही नहीं चल रहा है तो उस हिसाब से क्या अभी मिल रहा है आपको तो पता ही है नाइंथ अक्टूबर से Flipkart बीबीटी सेल और 8th अक्टूबर से Amazon ग्रेट\n[7] 0:58 इंडिया फेस्टिवल सेल और जिस हिसाब से प्राइस भाई कभी भी चेंज हो रहा है जिसको लेना है मतलब जरूरत के हिसाब से आप बिल्कुल ले लीजिए पुराना स्टॉक गायब होने\n[8] 1:05 से पहले क्योंकि जिनके शुरू में मैंने नाम लिए अब कहां मिल रहे हैं और जो नए आ रहे हैं उनकी प्राइसिंग हाई है सबसे पहले मैं इन तीनों की बात करूंगा एक-एक करके एक है\n[9] 1:13 Motorola H7 70 फ्यूजन इसको सेलेक्ट करने का रीज़न यह था कि अंडर 30,000 ऑफर वगैरह के साथ यहां हमें एक एमोलेड डिस्प्ले मिल\n[10] 1:21 जाता है 1.5 के 144 हर्टz। बाकी ये कर्व डिस्प्ले है। तो कर्व या फ्लैट आप अपने पसंद के हिसाब से देखिएगा। Snapdragon 7S Z4 के साथ UFS 3.1 का कॉम्बिनेशन है।\n[11] 1:31 देखिए स्पेशली परफॉर्मेंस टारगेटेड फोन तो अब इस रेट में मिल नहीं रहे। पर नॉर्मल यूजर के लिए परफरेंस सही मिल जाएगा।\n[12] 1:36 इनफैक्ट जो इसका कैमरा है 50 मेगापिक्सल मेन, 13 मेगापिक्सल अल्ट्रा वाइड, 32 मेगापिक्सल सेल्फी इससे आप सही फोटो भी निकाल सकते हो। अच्छी फोटो ले लेता है ये।\n[13] 1:44 वीडियो इसकी ओकेओके टाइप बोलूंगा लेकिन फोटो अच्छी आ जाती हैं और चीज़ जैसे IP68 IP69 के साथ आता है। बैटरी भी इसमें बड़ी\n[14] 1:51 है। 7000 एमh की बैटरी है और Android 16 के साथ आया था ये। फ्यूचर में इसको 3 + 5 यानी कि 3 साल का Android 5 साल का सिक्योरिटी अपडेट के लिए बोला गया है।\n[15] 1:59 क्योंकि Motorola का फोन है तो यह Flipkart पे मिलेगा। Flipkart पे यह 8 GB रैम 128 GB से स्टार्ट हो रहा है। कार्ड डिस्काउंट और ऑफर प्राइस के साथ ₹29,99\n[16] 2:09 तक मिल जाएगा। तो जो प्राइस मैं बता रहा हूं जो Flipkart बैनर प्राइस में शो कर रहा है मैं वही बता रहा हूं। और ऑफर प्राइस के साथ आपके पास वो कार्ड भी होना चाहिए। नहीं तो मैनेज करना होगा। तब आपको\n[17] 2:17 यह ऑफर मिलेगा। याद रखिएगा प्राइस आप थोड़ा चेक करते रहिएगा। आजकल प्राइस कभी भी ऊपर नीचे ज्यादा जल्दी हो जाता है।\n[18] 2:22 पहले भी होता था अब थोड़ा और जल्दी हो जाता है। तो मार्केट के हिसाब से देखा जाए ना तो इस प्राइस में Motorola की तरफ से एक अच्छी डील है यह इस प्राइस में। उसके बाद और कोई मैं बताऊं तो दूसरा इसी प्राइस में यह है I11।\n[19] 2:34 IQ Z910 नॉर्मली 20 से ₹22,000 के आसपास की सीरीज रही थी। बट अभी प्राइस इनका भी अबव 30,000 जा चुका है। इसकी खासियत देखिए\n[20] 2:42 है यहां भी कर्व डिस्प्ले फ्लैट डिस्प्ले नहीं है। यहां क्या-क्या मिल जाता है? एक तो एमोलेड डिस्प्ले है। डायमceिटी 7500 प्रोसेसर है। यह नया प्रोसेसर आया था। यह\n[21] 2:50 काफी क्लोज रहता है डायमceिटी 7200 से और UFS 3.1 के कॉम्बिनेशन के साथ आता है।\n[22] 2:55 अराउंड 7000 एमh बैटरी है। और साथ में क्योंकि यह Vivo का ही सब ब्रांड ico है तो ico के फोन में आपको ओरिजन OS मिल जाएगा Android 16 बेस्ड। फ्यूचर में 3 साल\n[23] 3:03 का Android अपडेट, 5 साल का सिक्योरिटी अपडेट बोला गया है। और जो इसमें कैमरा सेटअप दिया हुआ है 50 मेन 8 अल्ट्रा वाइड 32 सेल्फी फोटो भी आपकी सही आ जाएंगी।\n[24] 3:11 डिसेंट फोटो भी दे सकता है यह। यह भी इसी साल का ल्च है। 6GB रैम 128 GB से स्टार्ट हो रहा है ये। और क्योंकि ICO का फोन है तो यह Amazon पे मिलेगा। ऑफर कार्ड\n[25] 3:19 डिस्काउंट के साथ ₹29,99 तक मिल सकता है। तो ICO Z1 या Motorola A70 में आप दोनों सिमिलर प्राइस में है।\n[26] 3:25 जो आपको ब्रांड UI या सर्विस सेंटर वगैरह आपके घर के पास हो वो आप देख सकते हैं। और अगर जिसको ना इसी प्राइस में एक और ऑप्शन है जिसको स्पेशली बैटरी एमए की ज्यादा\n[27] 3:34 रिक्वायरमेंट है या फिर Realme का फोन पसंद करता हो। यह है Realme P4 Power। यस।\n[28] 3:40 यह याद होगा आपको यह इंडिया का पहला फोन था ऑफिशियली जो सबसे पहले 10,000 एमh बैटरी के साथ आया था। आया इसी साल था यह।\n[29] 3:47 80 W का फास्ट चार्जर कॉम्बिनेशन के साथ बॉक्स में मिल जाएगा चार्जर। प्रोसेसर यहां पे मिलता है डायमceिटी 7400 अल्ट्रा।\n[30] 3:54 उसके साथ UFS 3.1 का कॉम्बिनेशन है। तो यह कॉम्बिनेशन नॉर्मल यूजर के लिए सही परफॉरमेंस दे देगा। हैवी परफॉर्मेंस है।\n[31] 4:00 थोड़ा गेमिंग टारगेटेड नहीं है। वैसे सही बताऊं इस रेट में जैसे मैंने कहा फिर 300 से ऊपर जाना पड़ेगा आज की मार्केट में जो ऑप्शन मिल रहे हैं उस हिसाब से। और उसी के\n[32] 4:07 साथ Realme P4 Power में 6.8 इंच 1.5 के 144 हर्टz एमोलेड डिस्प्ले मिल जाएगा। ये भी कर्व डिस्प्ले के साथ आता है। कर्व\n[33] 4:15 डिस्प्ले के साथ ज्यादा ऑप्शन है। बीच में कर्व डिस्प्ले का ट्रेंड बहुत ज्यादा ही हुआ था। आप भी जानते हो। अभी भी मिलते हैं कर्व डिस्प्ले वाले। पर कुछ फ्लैट डिस्प्ले वाले भी आ गए हैं। जहां टपर\n[34] 4:23 ग्लास वगैरह इज़ली मिल जाता है। कर्व दिखने में अट्रैक्टिव लगता है। वो आप जानते हो ये सब। और कैमरा की बात करें 50 मेगापिक्सल में 8 अल्ट्रा वाइड और 16 मेगापिक्सल सेल्फी है। डिसेंट फोटो ये भी\n[35] 4:32 आपको निकाल के दे देगा। Android 16 के साथ आया था। फ्यूचर में 3 साल का Android अपडेट, चार साल का सिक्योरिटी अपडेट मिलने वाला है। बहुत ज्यादा यह हैवी परफॉर्मेंस टारगेटेड नहीं है। यह शुरू भी 8GB रैम,\n[36] 4:40 128 GB के साथ हो रहा है। 10000 एमh बैटरी इसका मेन हाईलाइट है। कुछ आप चाहे तो बैटरी डेंट टेस्ट वीडियोस भी देख लीजिएगा।\n[37] 4:46 यह Flipkart पे ऑफर प्राइस के साथ ₹29,99 में मिल जाएगा। अब बाकी इससे कम प्राइस में देखते हैं। नथिंग फ़ 4A तो 300 से ऊपर\n[38] 4:54 जा चुका है। तो इसकी बात मैं कर नहीं सकता। अब ऑफर में तीजा से ऊपर है यह।\n[39] 4:58 जिसको नथिंग का फोन लेना है उनके लिए नथिंग फ़ 4B है। यह फ्लैट डिस्प्ले के साथ आता है। तो कर्व फ्लैट में यहां पे फ्लैट ऑप्शन ऐड हो गया। यहां पे देखिए ऐसे\n[40] 5:05 एक्स्ट्रा ऑर्डिनरी परफॉर्मेंस वगैरह तो नहीं है। 6 जन 4 है। UFS 2.2 मिल जाएगा।\n[41] 5:10 6000 एमh की बैटरी है। 50 मेगापिक्सल मेन 8 मेगापिक्सल अल्ट्रा वाइड और 16 मेगापिक्सल का सेल्फी का कॉम्बिनेशन है।\n[42] 5:16 फोटो ओके आ जाएंगी। इससे बेटर फोटो डेफिनेटली Motorola वाला या IQ वाला फोन ले सकता है। पर इसका वही है जिसको अगर नथिंग का फोन लेना है इन केस और यह थोड़ा\n[43] 5:25 और सस्ता है। सस्ता भी ऐसे ही हुआ क्योंकि इसमें 6GB रैम ऑप्शन ऐड कर दिया गया है।\n[44] 5:29 पहले ये 8 GB के साथ ल्च हुआ था। तो ऑफर प्राइस के साथ Flipkart पे ये ₹27,99 में मिल जाएगा। वैसे कोई नथिंग फोन 4B यूज़\n[45] 5:36 कर रहा है तो कमेंट में बताइए और अगर आप बजट बैलेंस कर सकते हैं इन केस तो यह वीडियो का पार्ट नहीं बस सजेशन दे दिया जिसको नथिंग का फोन लेना है तो नथिंग फ़ 4A\n[46] 5:44 की तरफ जाइएगा 4B की जगह। तो वैसे एक और फोन मार्केट में ल्च हुआ है जो कि मेरे पास है नहीं वो है Oppo K14 P अंडर 300000\n[47] 5:52 ल्च हुआ है यह। फिर आप कहोगे बाय करके वीडियो दे दीजिए। तो मेरे पास एक्चुअली बाय करने का डेट भी अभी नहीं आया है। अगर मैनेज हो गया मेरे पास फोन ये पहले तो मैं एक वीडियो जरूर लाने की कोशिश करूंगा।\n[48] 6:01 अगला फ़ थोड़ा और कम प्राइस का मतलब अभी 25,000 से नीचे देखते हैं। तो यहां पे Poco X8 मिल सकता है। एक एमोलेड डिस्प्ले\n[49] 6:08 है 1.5 के 120 हर्टz। 6s Zen4 है। अच्छा यहां पे एक ट्विस्ट है। यह 6GB रैम 128 GB से स्टार्ट होता है। लेकिन यहां पे UFS\n[50] 6:15 2.2 मिलेगा और जो इसका हायर वेरिएंट है वहां फिर UFS 3.1 मिल जाएगा। लेकिन हायर वेरिएंट के साथ प्राइस भी बढ़ जाएगा। और\n[51] 6:23 Poco X8 में 9000 एमh की बैटरी है। 50 मेगापिक्सल मेन कैमरा है। अल्ट्रा वाइड कैमरा कोई नहीं है। इसमें 16 मेगापिक्सल सेल्फी है। ऑफर प्राइस के साथ यह शो कर\n[52] 6:30 रहा है। Flipkart पे बैनर प्राइिंग ₹24,99।\n[53] 6:34 यह बैनर प्राइिंग मैं फिर से हाईलाइट इसलिए कर रहा हूं। यह प्राइस तक आएगा कार्ड ऑफर अगर आप सब मैनेज कर पाते हो तो और प्राइस चेक करते रहिएगा। अक्सर प्राइस\n[54] 6:42 ऊपर नीचे होता है और इस बार मुझे पता नहीं क्यों लग रहा है यह और ज्यादा होगा। तो जो मैं ऑफर बता रहा हूं वो प्राइसिंग के ओपिनियन के हिसाब से ऐड किया गया है। कल\n[55] 6:49 को थोड़े से स्लॉट हो आउट ऑफ स्टॉक हो जाए फिर प्राइस 4000 बढ़ जाए तो फिर मेरी ये बातें लागू नहीं होंगी। फिर ऑप्शन बदल जाएंगे। अच्छा एक और फोन है। इसका नाम है\n[56] 6:57 वैसे Realme P4X इसमें सबसे पहले तो डायमceिटी 7400 अल्ट्रा प्रोसेसर है। UFS 3.1 दे रखा है। अंडर 25000 आजकल UFS 3.1\n[57] 7:06 मिल जाए। बहुत अच्छी बात कहलाती है। 7000 एमh की बड़ी बैटरी भी मिल जाएगा। डिसेंट फोटो ही आएंगी। ज्यादा बुरी भी नहीं। बहुत ज्यादा उम्मीद भी मत लगाइएगा। बेस्ट टाइप।\n[58] 7:14 बेस्ट टाइप तो मुझे खुद नहीं समझ में आ रहा है कि 25,000 से नीचे मैं कौन सा बेस्ट कैमरा के लिए रिकमेंड करूं। और यह फ्लैट डिस्प्ले के साथ आता है। पंच होल है। पर याद रखिएगा दो बातें। एक तो ये\n[59] 7:23 Android 15 के साथ आया था। फ्यूचर में इसको 2 साल का Android अपडेट मिलना है तो Android 17 तक जाएगा और इसमें 6.72 इंच फुल एचडी प्लस डिस्प्ले है। 144 हर्टz भी है। लेकिन यह एक आईपीs डिस्प्ले है।\n[60] 7:34 एमोलेड नहीं है। अब जैसे मैंने एमोलेड डिस्प्ले के साथ यह Infinix वाला फोन देखा पर Infinix वाले फोन का हार्डवेयर वीक है।\n[61] 7:40 दैट्स व्हाई मैंने P4X की बात की और 6GB रैम 128 GB के साथ ऑफर प्राइस में ₹22,99 तक मिल जाएगा। बाकी मैंने देखा ऑफर में\n[62] 7:48 मिल नहीं रहा कुछ खास। लेकिन अगर Oppo K13 पे आपको अप टू ₹22,000 ऐसा कुछ ऑफर मिल जाए तो आप K13 ऐसे तो मैंने तो 189000 का लिया था। अभी भी आप कंसीडर कर सकते हैं।\n[63] 7:59 प्रॉब्लम यह है मैं इस पे ज्यादा बात इसलिए नहीं कर रहा हूं क्योंकि मैं चेक भी कर रहा हूं तो है अंडर 25000 दिखा रहा है पर नॉट डिलीवरेबल है तो फिर उन पे क्या ही\n[64] 8:06 बात करूं मैं पर आप चेक कर लेना मैंने एक ऐड कर दिया ऑप्शन अगर मिल जाए। एक और फ़ बल्कि हां, यहां पे डेफिनेटली एक फ़ जो नया\n[65] 8:13 आया है, वह है यह लावा की तरफ से लावा विराट C कर्व 5G। यहां फ्लैट डिस्प्ले नहीं है। इसमें भी कर्व डिस्प्ले\n[66] 8:20 डायमceिटी 7100 के साथ UFS 2.2 का कॉम्बिनेशन है। याद रखिएगा लावा का फोन है तो UI में बहुत कस्टमाइजेशन नहीं मिलता।\n[67] 8:26 हां, इन्होंने UI पे कुछ एक्स्ट्रा काम जरूर किया है। वो अपडेट इन फ्यूचर इसमें आ जाएगा। लावा का ऐसा कहना है। ठीक-ठाक फोटो ले लेता है। अभी भी कई जगह इंप्रूवमेंट की\n[68] 8:35 जरूरत फील होती है। पर वही है जैसे मैंने कहा ना मार्केट में जैसे ऑप्शन वैसे ही दिख रहे हैं। क्योंकि Flipkart पे ऑफर के साथ ₹2199\n[69] 8:42 तक मिल जाएगा 6 GB रैम 128 GB के साथ। और मेन लावा एक ऐसा ब्रांड है। इंडियन ब्रांड तो और भी है। कुछ तो अभी एकदम से आ गए हैं ना। हमें उनके सर्विस वगैरह का नहीं पता।\n[70] 8:51 बिकॉज़ ये सर्विस पे काम करते हैं। ऐसे बेच के भागने वाले वाला हाल नहीं है। बहुत पुराने ब्रांड है। एंड एक अपडेट फ्रॉम फ्यूचर वीडियो जो आप वीडियो देख रहे हैं।\n[71] 8:57 ये एक और वीडियो आ रही है जिसमें ₹10,000 से लेके ₹1 लाख के बीच में और कौन से स्मार्टफोन हो सकते हैं? क्या सिचुएशन है? मेरे क्या पिक है? उसकी भी बात करेंगे।\n[72] 9:05 दैट्स इट। यह अभी के डेट में मिल रहे हैं।\n[73] 9:07 कोई स्किप हो गया हो कमेंट सेक्शन में बता दीजिएगा। मैं लाइव भी आऊंगा तो वहां पे भी हम ऐड करेंगे। सजेशन वगैरह। और अब मैं फोन चेक कर रहा था। Vivo का कोई फोन नहीं दिखा\n[74] 9:16 जो ऐड किया जा सके। Samsung की तरफ से A56 300 से ऊपर है तो वो ऐड हो नहीं सकता। A36 वगैरह जिसको लेना ही Samsung का है वो देख\n[75] 9:24 सकता है। या Galaxy M56 अगर मिल जाए तो वो पहली प्रेफरेंस हो जाएगी। अगर मिले वो Amazon पे मिलेगा। चेक करिए अभी दिखा नहीं रहा है। यह जरूर बता सकते हैं आपने कौन सा\n[76] 9:31 बाय कर लिया और अभी आप खुश हैं या कौन सा बाय करने वाले हैं। सब कुछ कमेंट सेक्शन में। वीडियो पसंद आया तो लाइक, शेयर, सब्सक्राइब करिए। मैं मिलता हूं आपसे अगले वीडियो"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "Extraction",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "kind": {
+          "enum": [
+           "paid_sponsorship",
+           "free_unit",
+           "affiliate_statement",
+           "denial"
+          ],
+          "type": "string"
+         },
+         "party": {
+          "anyOf": [
+           {
+            "type": "string"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "kind",
+         "party",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      },
+      "picks": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "rank": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "rank",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims",
+      "picks"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [],
+  "picks": [
+   {
+    "phone": "Motorola Edge 70 Fusion",
+    "rank": null,
+    "source": "transcript",
+    "segment": 18,
+    "quote": "तो मार्केट के हिसाब से देखा जाए ना तो इस प्राइस में Motorola की तरफ से एक अच्छी डील है यह इस प्राइस में।",
+    "meaning_en": "Considering the current market, this is a good deal from Motorola at this price point."
+   },
+   {
+    "phone": "iQOO Z10",
+    "rank": null,
+    "source": "transcript",
+    "segment": 25,
+    "quote": "तो ICO Z1 या Motorola A70 में आप दोनों सिमिलर प्राइस में है। जो आपको ब्रांड UI या सर्विस सेंटर वगैरह आपके घर के पास हो वो आप देख सकते हैं।",
+    "meaning_en": "Both the iQOO Z10 and Motorola Edge 70 are at a similar price, so you can choose based on your brand UI preference or nearby service centers."
+   },
+   {
+    "phone": "Realme P4 Power",
+    "rank": null,
+    "source": "transcript",
+    "segment": 26,
+    "quote": "और अगर जिसको ना इसी प्राइस में एक और ऑप्शन है जिसको स्पेशली बैटरी एमए की ज्यादा रिक्वायरमेंट है या फिर Realme का फोन पसंद करता हो। यह है Realme P4 Power।",
+    "meaning_en": "There is another option at this price for someone who specifically needs more battery capacity or prefers Realme phones: the Realme P4 Power."
+   },
+   {
+    "phone": "Nothing Phone 4b",
+    "rank": null,
+    "source": "transcript",
+    "segment": 39,
+    "quote": "जिसको नथिंग का फोन लेना है उनके लिए नथिंग फ़ 4B है। यह फ्लैट डिस्प्ले के साथ आता है।",
+    "meaning_en": "For those who specifically want a Nothing phone, there is the Nothing Phone 4B, which comes with a flat display."
+   },
+   {
+    "phone": "POCO X8",
+    "rank": null,
+    "source": "transcript",
+    "segment": 48,
+    "quote": "अगला फ़ थोड़ा और कम प्राइस का मतलब अभी 25,000 से नीचे देखते हैं। तो यहां पे Poco X8 मिल सकता है।",
+    "meaning_en": "Looking at a lower price point under 25,000, you can get the Poco X8 here."
+   },
+   {
+    "phone": "Realme P4x",
+    "rank": null,
+    "source": "transcript",
+    "segment": 61,
+    "quote": "दैट्स व्हाई मैंने P4X की बात की और 6GB रैम 128 GB के साथ ऑफर प्राइस में ₹22,99 तक मिल जाएगा।",
+    "meaning_en": "That is why I recommended the P4X, which will be available with 6GB RAM and 128GB storage at an offer price of 22,999."
+   },
+   {
+    "phone": "Lava Virat C Curve 5G",
+    "rank": null,
+    "source": "transcript",
+    "segment": 64,
+    "quote": "यहां पे डेफिनेटली एक फ़ जो नया आया है, वह है यह लावा की तरफ से लावा विराट C कर्व 5G।",
+    "meaning_en": "There is definitely a newly launched phone here from Lava, the Lava Virat C Curve 5G."
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 4650,
+  "completion_tokens": 5611,
+  "total_tokens": 10261,
+  "cost": 0.02452875,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.02452875,
+   "upstream_inference_prompt_cost": 0.0034875,
+   "upstream_inference_completions_cost": 0.02104125
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 4781,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791482481-In4D5aOjJpUfVX1jq54f"
+ }
+}

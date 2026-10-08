@@ -1,0 +1,242 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube video's description and transcript. The videos are Indian phone reviews and buying\nlists, in English, Hindi, Hinglish, Telugu, Malayalam or a mix.\n\nFind two things.\n\nA) Every place the creator states a money tie, as one of these kinds:\n- paid_sponsorship: the video is sponsored by, a paid partnership with, or made in collaboration with a company\n  (including a \"#Collab\" tag next to a company's tag). `party` = that company.\n- free_unit: a company sent, provided or gave the creator the device or review unit. `party` = that company, or\n  \"respective brands\" when the creator says it that way.\n- affiliate_statement: the creator says the links are affiliate links, or that they earn a commission, or that they\n  are an Amazon Associate.\n- denial: the creator says the video is NOT sponsored, or that no brand paid them.\nThese are NOT money ties. Skip them: \"for sponsorship / business / collab inquiries contact ...\", \"all content\nprovided by this channel is for educational purposes\", copyright or fair-use notes, talk about other people's sponsored\nads, bank card offers and sale discounts, product tagging (\"I've tagged the phones\"), and the channel promoting its own\napp, channel, merch or giveaway.\n\nB) Every phone the creator recommends for the buyer, with its rank if they number their list (1 = their top pick).\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text below: same script, same spelling, same punctuation, same capitals.\n  Never translate, transliterate, fix or shorten words inside the quote.\n- Use the shortest exact span that shows the point, at most 200 characters.\n- A transcript quote must come from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote (a translation if it isn't English).\n- `phone`: the standard English \"Brand Model\" name, e.g. \"Motorola Edge 60 Pro\", \"iQOO Neo 10\", \"Samsung Galaxy\n  M36\". Don't include RAM/storage or colour.\nIf there is nothing for a list, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: TOP 5 Best Phone Under 25000 to 30000 in Flipkart Big Billion Sale & Amazon Great Indian Sale 🟠​\nCHANNEL: Fastoye\n\nDESCRIPTION:\n#flipkartbigbillionsale #bigbilliondays #best5gphoneunder30000 #amazongreatindianfestival #flipkartbbdsale #under25000 \n\nLooking for the best smartphone between ₹25,000 and ₹30,000? In this video, I’m sharing the best phones under ₹25,000 to ₹30,000 available during the Flipkart Big Billion Days Sale 2026 and Amazon Great Indian Festival Sale 2026.\n\nWe’ll compare the latest smartphones based on performance, camera, display, battery, processor, 5G connectivity, design, features and overall value for money to help you choose the perfect phone for your budget.\n\nWhether you are looking for the best 5G phone under ₹30,000, a powerful gaming phone, the best camera phone, or an all-rounder smartphone, this video will help you find the right option during the sale.\n\n\n🛒 Flipkart Big Billion Days Sale 2026\n🛒 Amazon Great Indian Festival Sale 2026\n📱 Best 5G Phones Under ₹25,000–₹30,000\n----------------------------------------------------------------------------------------------------------\nFor Business Related Question- fastoyeindia@gmail.com\n---------------------------------------------------------------------------------------------------------\nSocial Media Links-\n🌐Facebook -  / fastoye  \n 🌐Twitter-   / fastoye  \n🌐 Instagram -   / fastoye  \n--------------------------------------------------------------------------------------------------------\nflipkart big billion sale , flipkart big billion sale 2026 , bbd sale 2026 , best phone under 25000 to 30000 flipkart big billion sale 2026 , flipkart bbd sale best phone under 30000 , under 30000 5g phone , best phone under 25000 to 30000 , flipkart sale , sale 2026\n\nTRANSCRIPT (one segment per line, [index] m:ss text):\n[0] 0:00 मैक्सिमा फोनों का प्राइस यार रिवील हो चुका है जो बिकने वाले हैं Flipkart की बिग बिलियन डे सेल Amazon की ग्रेट इंडियन फेस्टिवल सेल में लेकिन इस बार हर एक साल\n[1] 0:09 जो है ऐसा आपको डिस्काउंट नहीं मिलेगा पक्की वाली बात है क्योंकि फोन का जो प्राइस है वो भी बहुत ज्यादा महंगा है\n[2] 0:16 लेकिन जिनका बजट है 25 से लेकर ₹00 के बीच अच्छा कमाल का 5G वाला फोन लेना चाहते हैं वो भी नया वाला मैं टोटल आपको पांच ऐसे\n[3] 0:24 धुरंधर फोन बताऊंगा जो सेल के दौरान सही प्राइस में आने वाले हैं। हां जो बाय लिंक है वो भी आपको मेरे ही वीडियो में मिल जाएगा। Vivoक में आपको क्लिक करना है।\n[4] 0:34 बहुत सारे फोन खुल के सामने आ जाएंगे। जो फोन आपको अच्छा लग रहा हो उसपे टैप करिए।\n[5] 0:38 वो सीधे यार आपको रीडायरेक्ट कर देगा वेबसाइट में। दिमाग में कोई क्वेश्चन है वो भी कमेंट करके पूछिएगा। हां वीडियो को\n[6] 0:45 लाइक और शेयर पक्का करिएगा। सबसे पहला जो फोन है वो तो नया वाला है Oppo का K14 P+।\n[7] 0:52 Oppo ने यार यहां पर आपको बहुत कुछ अच्छा दिया है। एक तो यार फोन ल्च हुआ है।\n[8] 0:56 Android 17 के साथ 2 प्लस 3 ईयर का अपडेट मिल जाएगा। आई आर रिमोट मिल रहा है। जो थोड़े से ब्लोट वेयर है उसको आप हटा\n[9] 1:03 लीजिएगा। तरह-तरह के आई वाले फीचर्स आपको मिलते हैं। Oppo का जो कलर ओएस है ना वो मेरे हिसाब से बहुत ज्यादा स्मूथ ऑलवेज\n[10] 1:10 काम करता है। सॉफ्टवेयर में कोई दिक्कत नहीं है। बिंदास आप कॉल को भी रिकॉर्ड कर सकते हैं। बैक डिज़ देखने में अच्छा दिख रहा है। हाथ की उंगलियां भी नहीं छप रही\n[11] 1:19 है। फ़ का जो वजन है बैटरी के हिसाब से ज्यादा मैं नहीं कहूंगा। वैसे बैटरी है 8000 एमh की। पूरा का पूरा दिन बिंदास चल\n[12] 1:27 जाएगी। 8 घंटे प्लस का स्क्रीन ऑन टाइम आपको मिलेगा। 45 W का चार्जर इन द बॉक्स है। आगे की तरफ 1.5 के का 144 हर्टz वाला एमलेड डिस्प्ले का इस्तेमाल किया गया है।\n[13] 1:38 इसकी जो पीक ब्राइटनेस है वो है 3600 निट्स की। डिस्प्ले में कोई भी बजल्स नहीं है। डिस्प्ले भी यार सही कलर निकाल रहा\n[14] 1:46 है। 50 मेगापिक्सल का कैमरा है। कोई भी अल्ट्रा वाइड वाला सेंसर आपको नहीं मिलता है। फोटो भी यार अच्छी आती है। 4K वाले\n[15] 1:53 वीडियो आप रिकॉर्ड कर सकते हैं। यहां पर जो प्रोसेसर है वो है MediaTek DM 3D 7360 Max वाला। भाई प्रोसेसर तो काफी दमदार\n[16] 2:02 दिया गया है। LPDDR 4X की RAM है। UFS 3.1 का स्टोरेज टाइप मिल जाता है। कुल मिला के मैं आपको यही कह सकता हूं इस बार जो Oppo\n[17] 2:10 का K14 Plus आया है ना ये बहुत सारी चीजों में धुरंधर है। अगला जो डिवाइस है वो है\n[18] 2:17 Samsung Galaxy M47 5G। वैसे सेम चीजें F70 Pro में भी मिलती है। वो फ़ यार Flipkart में है और जो M47 है ये आपको\n[19] 2:26 मिलता है Amazon में। दोनों ही फोनों में 6000 एमh की बैटरी दी जा रही है। अलग से आपको चार्जर खरीदना पड़ेगा। बैटरी बैकअप\n[20] 2:33 तो यार ठीक है। 45 W की चार्जिंग का आपको मैक्सिमम सपोर्ट मिल रहा है। सिंगल स्पीकर का प्रयोग किया गया है। प्रोसेसर है\n[21] 2:41 Snapdragon का 63 LPDDR 5X की RAM में UFS 3.1 का स्टोरेज टाइप दिया जा रहा है। परफॉर्मेंस में भी कोई दिक्कत नहीं है।\n[22] 2:50 Samsung का सॉफ्टवेयर ऑलवेज बेस्ट ही होता है। वैसे फोन आया था Android 16 के साथ। छ साल का आपको अपडेट मिल जाएगा। वो भी 6 साल\n[23] 2:58 सिक्योरिटी के साथ। काफी सारे एi वाले फीचर्स हैं। सॉफ्टवेयर के मामले में हर एक Samsung का फोन अच्छा ही होता है। आगे की\n[24] 3:07 तरफ 120 हर्टz का एमलेड वाली डिस्प्ले का इस्तेमाल किया गया है। 1400 इट्स की पीक ब्राइटनेस है। पंच छोल दिया जा रहा है।\n[25] 3:14 अच्छा हुआ यार। यू शेप वाली नच का इस्तेमाल नहीं किया गया है। बैक वाला जो डिज़ाइन है वो भी काफी सुंदर है। और जो\n[26] 3:21 मेरे पास रंग आया है M47 का ये तो यार मुझे देखने में काफी झकास दिख रहा है। यहां पर 50 मेगापिक्सल का कैमरा है।\n[27] 3:30 अल्ट्रा वाइड वाला सेंसर नहीं हटाया गया है। फोटो भी शार्प आती है। 4K वाले वीडियो आप रिकॉर्ड कर सकते हैं। ओवरऑल मैं यही\n[28] 3:38 कहना चाहूंगा जिन लोगों को नॉन चाइनीस फोन लेना है तो मेरे हिसाब से Samsung का M47 ₹26,000 के आसपास आपको यार ऑफर के बाद मिलेगा। इस प्राइस में कमाल का फोन है।\n[29] 3:50 अगला जो डिवाइस है वो है Motorola का S70 फ्यूजन और यहां पर Android 16 का प्रयोग किया गया है। 3+ 4 ईयर का अपडेट मिल\n[30] 3:59 जाएगा। अच्छे वाले AI के फीचर्स मिलते हैं। इधर-उधर वाली एप्लीकेशन भी आपको नहीं दी जा रही। IP 6869 की रेटिंग भले ही आपको\n[31] 4:08 मिल रही है। प्लीज अपने फोन को कभी भी मत नहलाइएगा। DOB एटमॉस वाला फीचर है। डबल स्पीकर का भी प्रयोग किया गया है।\n[32] 4:14 Snapdragon का 7HZ4 वाला जो प्रोसेसर है ये काफी दमदार है। बेंचम स्कोर आपके सामने फ़ कहीं भी लैग नहीं होता है। वैसे पीछे की\n[33] 4:24 तरफ वीगन लेदर आपको मिल रहा है। स्लिपरी जरा सा नहीं है। वजन भी बहुत ज्यादा नहीं है। वन हैंड वाला फ़ोन आपको लेना है ना तो Motorola का S70 फ्यूज़ आपको यार जचेगा।\n[34] 4:34 आगे की तरफ 1.5 के का 144 हर्टz वाला एमोलेड डिस्प्ले का इस्तेमाल किया गया है।\n[35] 4:39 इसकी जो पीक ब्राइटनेस है वो है 5200 निट्स की गोल्ला ग्लास 7i की प्रोटेक्शन भी मिल रही है। डिस्प्ले यार बहुत ही मस्त\n[36] 4:48 वाले कलर निकालता है। बैटरी है 7000 एमh की बिंदास यार 7 1/2 घंटे प्लस का आपको\n[37] 4:55 स्क्रीन ऑन टाइम मिल जाएगा। 68 W का चार्जर साथ में आपको दिया जा रहा है। मेरे हिसाब से Motorola का S70 फ्यूजन में आपको\n[38] 5:03 बहुत कुछ बिंदास ही मिल रहा है। अगला जो डिवाइस है वो है Vivo T5X। सेम चीज है IQ के Z1X में भी आपको मिल रही है। वो फ़\n[39] 5:12 Amazon में है और जो Vivo वाला डिवाइस है ये आपको मिल जाता है Flipkart में। जो फ़ यार आपको सस्ता मिले उसकी तरफ आप जा सकते\n[40] 5:19 हैं। प्रोसेसर है MediaTek का DMD 7400 टर्बो वाला। LPDDR 4X की RAM है। यह 3.1\n[41] 5:26 का स्टोरेज टाइप दिया जाता है। फ़ लैग तो नहीं करेगा। 7200 एमh की बैटरी पूरा का पूरा दिन चलेगी। 44 W का चार्जर इन द\n[42] 5:35 बॉक्स है। IP68 69 की रेटिंग Vivo ने आपको दिया है। लेकिन आपको बिल्कुल भी नहीं नहलाना है। बैक में पॉलीकारेट है। कृपया\n[43] 5:44 करके बैक कवर लगा के अपने फोन का इस्तेमाल करिएगा। 50 मेगापिक्सल का कैमरा है। फोटो या डिसेंट टाइप की आती है। 4K वाले वीडियो\n[44] 5:51 आप रिकॉर्ड कर सकते हैं। लेकिन कोई भी अल्ट्रा वाइड वाला सेंसर नहीं मिल रहा।\n[45] 5:56 लेटेस्ट Android 16 में बेस्ड है। 2 + 4 ईयर का अपडेट मिल जाएगा। थोड़े से आपको ब्लूटूथ दिए जा रहा है। जिनको आपको डिलीट\n[46] 6:04 ही करना पड़ेगा। इनका जो सॉफ्टवेयर है ना वो पहले से तो यार अच्छा हो चुका है लेकिन यहां पर आगे की तरफ एमोलेड वाला डिस्प्ले\n[47] 6:11 नहीं है। 120 हर्टz का फुल एचडी प्लस वाले डिस्प्ले से आपको काम चलाना पड़ेगा। पंच होल का इस्तेमाल किया गया है। वैसे स्पीकर\n[48] 6:19 आपको दो दिए जा रहे हैं। जिन लोगों को Vivo या तो IQ का डिवाइस लेना है तो आपके पास है Vivo T5X या ico Z1X वैसे आपको कौन सा डिवाइस अच्छा लगा है कमेंट करके बताइए।\n[49] 6:30 मैंने सभी फोन को ना अपने ही वीडियो में टैग कर रखा है। डायरेक्ट यार वीडियो से ही खरीदिएगा। अब जो आखिरी नंबर में फोन है वो\n[50] 6:37 है Poco का X8। सेम चीजें Redmi Note 17 Pro में दी जा रही है। वो फोन Amazon में\n[51] 6:44 बिकता है और जो Poco का X8 है ये आपको मिल जाएगा Flipkart में। देखिए दोनों ही फोनों में आपको यार बड़ी वाली बैटरी दी जा रही है\n[52] 6:52 9000 एमh की। पूरा का पूरा दिन यार काफी प्यार से फोन चल जाएगा। 67 W का चार्जर बॉक्स के अंदर मिल रहा है। IP 69K तक की\n[53] 7:01 रेटिंग दी जा रही है। यह तो कमाल की बात है। डिज़ यार Redmi का भी अच्छा है और Poco का भी यार आपको सुंदर लगने वाला है। बैक\n[54] 7:09 में 50 मेगापिक्सल का कैमरा मिल रहा है जो आपको थोड़ा सा गोरा बनाता है। आप यार 1080p तक के वीडियो रिकॉर्ड कर सकते हैं।\n[55] 7:17 कोई भी अल्ट्रा वाइड वाला सेंसर नहीं दिया जा रहा। यहां पर जो प्रोसेसर है वो है Snapdragon का 6HZ4\n[56] 7:24 जिसको यार मैं एवरेज कह सकता हूं Bengy स्कोर आपके सामने लेकिन डिस्प्ले में यार Redmi और Poco वालों ने कोई भी कमी नहीं\n[57] 7:31 छोड़ी है। 1.5K का 120 हz एमलेड वाले डिस्प्ले का इस्तेमाल किया गया है। 32 यूनिट्स की पीक ब्राइटनेस है। डॉलB विज़न\n[58] 7:39 का भी सपोर्ट मिल रहा है। गोरिल्ला ग्लास VTS 2 वाली प्रोटेक्शन है। डिस्प्ले मस्त ही कहलाएगा। चाहे वो Poco का X8 का हो या\n[59] 7:47 तो Redmi Note 17 Pro का। यहां पर Android 16 का प्रयोग किया गया है। लंबा सॉफ्टवेयर का अपडेट मिल जाएगा 4 प्लस 6 ईयर का।\n[60] 7:56 थोड़े से आपको ब्लोट पेयर दिए जा रहे हैं।\n[61] 7:57 कृपया करके डिलीट कर लीजिएगा। आईआर रिमोट है। UI को चलाते समय आपको प्रॉब्लम तो नहीं होने वाली है। और दोनों फोन ना कुछ दिन पहले ही इंडिया में लॉन्च हुए हैं।\n[62] 8:07 यही कुछ ऐसे डिवाइस थे जो आप 25 से लेकर ₹00 के बीच Flipkart की बिग बिलियन डे सेल Amazon की ग्रेट इंडियन फेस्टिवल सेल में\n[63] 8:15 खरीद सकते हैं। दिमाग में कोई भी क्वेश्चन खड़खड़ा रहा हो कमेंट करके पूछिएगा। बस यार यही कहूंगा हंसते रहिए, मुस्कुराते रहिए, चमचमाते रहिए और इस वीडियो को पक्का सब तक\n[64] 8:24 शेयर कर दीजिएगा। चलिए मिलते हैं नेक्स्ट वीडियो में। थैंक यू। जय हिंद।"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "Extraction",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "kind": {
+          "enum": [
+           "paid_sponsorship",
+           "free_unit",
+           "affiliate_statement",
+           "denial"
+          ],
+          "type": "string"
+         },
+         "party": {
+          "anyOf": [
+           {
+            "type": "string"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "kind",
+         "party",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      },
+      "picks": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "rank": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "rank",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims",
+      "picks"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [],
+  "picks": [
+   {
+    "phone": "OPPO K14 Plus",
+    "rank": null,
+    "source": "transcript",
+    "segment": 16,
+    "quote": "कुल मिला के मैं आपको यही कह सकता हूं इस बार जो Oppo का K14 Plus आया है ना ये बहुत सारी चीजों में धुरंधर है।",
+    "meaning_en": "Overall, I can tell you that this time the Oppo K14 Plus that has launched is an all-rounder in many things."
+   },
+   {
+    "phone": "Samsung Galaxy M47 5G",
+    "rank": null,
+    "source": "transcript",
+    "segment": 28,
+    "quote": "मेरे हिसाब से Samsung का M47 ₹26,000 के आसपास आपको यार ऑफर के बाद मिलेगा। इस प्राइस में कमाल का फोन है।",
+    "meaning_en": "In my opinion, you will get the Samsung M47 around ₹26,000 after offers; it is an amazing phone at this price."
+   },
+   {
+    "phone": "Samsung Galaxy F70 Pro",
+    "rank": null,
+    "source": "transcript",
+    "segment": 18,
+    "quote": "वैसे सेम चीजें F70 Pro में भी मिलती है। वो फ़ यार Flipkart में है और जो M47 है ये आपको मिलता है Amazon में।",
+    "meaning_en": "By the way, the same features are available in the F70 Pro too; that phone is on Flipkart and the M47 is on Amazon."
+   },
+   {
+    "phone": "Motorola Edge 70 Fusion",
+    "rank": null,
+    "source": "transcript",
+    "segment": 37,
+    "quote": "मेरे हिसाब से Motorola का S70 फ्यूजन में आपको बहुत कुछ बिंदास ही मिल रहा है।",
+    "meaning_en": "In my opinion, you get a lot of great features in the Motorola S70 Fusion."
+   },
+   {
+    "phone": "Vivo T5x",
+    "rank": null,
+    "source": "transcript",
+    "segment": 48,
+    "quote": "जिन लोगों को Vivo या तो IQ का डिवाइस लेना है तो आपके पास है Vivo T5X या ico Z1X",
+    "meaning_en": "For those who want to buy a Vivo or iQOO device, you have the Vivo T5X or iQOO Z1X."
+   },
+   {
+    "phone": "iQOO Z1x",
+    "rank": null,
+    "source": "transcript",
+    "segment": 39,
+    "quote": "जो फ़ यार आपको सस्ता मिले उसकी तरफ आप जा सकते हैं।",
+    "meaning_en": "Whichever phone you get cheaper, you can go for that one."
+   },
+   {
+    "phone": "POCO X8",
+    "rank": null,
+    "source": "transcript",
+    "segment": 49,
+    "quote": "अब जो आखिरी नंबर में फोन है वो है Poco का X8।",
+    "meaning_en": "Now the phone at the final spot is the Poco X8."
+   },
+   {
+    "phone": "Redmi Note 17 Pro",
+    "rank": null,
+    "source": "transcript",
+    "segment": 50,
+    "quote": "सेम चीजें Redmi Note 17 Pro में दी जा रही है। वो फोन Amazon में बिकता है और जो Poco का X8 है ये आपको मिल जाएगा Flipkart में।",
+    "meaning_en": "The same features are offered in the Redmi Note 17 Pro; that phone sells on Amazon and the Poco X8 is available on Flipkart."
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 3859,
+  "completion_tokens": 7933,
+  "total_tokens": 11792,
+  "cost": 0.032643,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.032643,
+   "upstream_inference_prompt_cost": 0.00289425,
+   "upstream_inference_completions_cost": 0.02974875
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 7054,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791482596-XkAz27S5VGhqa4ZzfASy"
+ }
+}

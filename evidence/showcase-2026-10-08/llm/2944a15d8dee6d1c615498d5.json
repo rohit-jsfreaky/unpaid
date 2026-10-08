@@ -1,0 +1,234 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube video's description and transcript. The videos are Indian phone reviews and buying\nlists, in English, Hindi, Hinglish, Telugu, Malayalam or a mix.\n\nFind two things.\n\nA) Every place the creator states a money tie, as one of these kinds:\n- paid_sponsorship: the video is sponsored by, a paid partnership with, or made in collaboration with a company\n  (including a \"#Collab\" tag next to a company's tag). `party` = that company.\n- free_unit: a company sent, provided or gave the creator the device or review unit. `party` = that company, or\n  \"respective brands\" when the creator says it that way.\n- affiliate_statement: the creator says the links are affiliate links, or that they earn a commission, or that they\n  are an Amazon Associate.\n- denial: the creator says the video is NOT sponsored, or that no brand paid them.\nThese are NOT money ties. Skip them: \"for sponsorship / business / collab inquiries contact ...\", \"all content\nprovided by this channel is for educational purposes\", copyright or fair-use notes, talk about other people's sponsored\nads, bank card offers and sale discounts, product tagging (\"I've tagged the phones\"), and the channel promoting its own\napp, channel, merch or giveaway.\n\nB) Every phone the creator recommends for the buyer, with its rank if they number their list (1 = their top pick).\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text below: same script, same spelling, same punctuation, same capitals.\n  Never translate, transliterate, fix or shorten words inside the quote.\n- Use the shortest exact span that shows the point, at most 200 characters.\n- A transcript quote must come from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote (a translation if it isn't English).\n- `phone`: the standard English \"Brand Model\" name, e.g. \"Motorola Edge 60 Pro\", \"iQOO Neo 10\", \"Samsung Galaxy\n  M36\". Don't include RAM/storage or colour.\nIf there is nothing for a list, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: Top 5 Best Smartphones Under ₹30000 ⚡September 2026\nCHANNEL: Trakin Tech\n\nDESCRIPTION:\nFriends, Welcome To Another Helpful Video- Here are our top picks for the best smartphones for a budget of around 30,000 rupees- If you are in the market to buy a smartphone with a price range of Rs. 30,000 you must watch this video. Do let us know if you agree with our list and if you do, make sure you like and subscribe to our channel because we keep bringing you such awesome quality videos on a regular basis. \n\n#BestUnder30000 #BestSmartphones #BestUnder30K #TrakinTech\n\n*Please check all offers for the best deal as the prices & offers keep changing. \n\nmoto Edge 70 : https://links.trak.in/r/motoe70bg\nmoto edge 60 Pro : https://bit.ly/4l62tWZ\n\nOfficial TrakinTech Telegram Channel - https://t.me/officialtrakintech\nFor enquires or product promotions get in touch with us on Youtube@trak.in\n\nआपको अगर कोई सवाल है तोह जरूर कमैंट्स में हमें बताईये - अगर वीडियो अच्छा लगा तोह लिखे और सब्सक्राइब जरूर कीजियेगा \n***************************************************************\n\nVideo Highlights\n***************************************************************\n00:00 Introduction\n00:32 6th Best Smartphone Under ₹30,000\n01:20 5th Best Smartphone Under ₹30,000\n01:49 4th Best Smartphone Under ₹30,000\n02:26 3rd Best Smartphone Under ₹30,000\n03:02 2nd Best Smartphone Under ₹30,000\n03:43 1st Best Smartphone Under ₹30,000\n\nSocial Media Handles\n*****************************************************************\nFollow us on:\nWeb: http://trak.in\nTelegram : https://t.me/officialtrakintech\nInstagram:   / trakintech  \nTwitter:   / trakintech  \nTwitter personal:   / 8ap  \nFacebook:   / trakintech  \nEnglish Trakin Tech Youtube Channel -    / trakintechenglish  \n******************************************************************\n\nTRANSCRIPT (one segment per line, [index] m:ss text):\n[0] 0:00 Friends, if your budget is between Rs 25-30K, then which is the best smartphone? I'll tell you in this video.\n[1] 0:06 But I'll tell you what, it's very difficult to make this list in 2026. That's why we've made this list with different use cases.\n[2] 0:14 A lot of phones are literally 6-8 months or 1 year old. If you compare the phones launched today, these phones are value for money!\n[3] 0:23 Let's start, but before that, if you're new to our channel, then don't forget to SUBSCRIBE! Just a reminder, that's all we ask!\n[4] 0:30 Edge 70 is a balanced phone. It's 6-8 months old, but it comes with Qualcomm Snapdragon 7th Gen 4 processor.\n[5] 0:38 It has a 1.5GHz AMOLED display with 8GB RAM & 256GB variant.\n[6] 0:45 And it has Helio UI which is based on Android 16 with 3 major updates & 4 security updates.\n[7] 0:51 It has IP69 certification & it's priced between Rs 28-30K. It's a lightweight & balanced phone.\n[8] 0:57 Let me tell you about Edge 70, it gets stock out a lot. So you can see the Edge 70 Fusion, which is not a bad phone.\n[9] 1:06 If you want a Samsung phone, then it's a good thing that you get 6 years of updates.\n[10] 1:17 Yes, you can use it for 4-5 years. I'm talking about Samsung Galaxy M56, it has a 6.7'' Super AMOLED display.\n[11] 1:25 It has Exynos 1480 with a decent performance. It has 8GB 128GB variant with a 5000mAh battery. It has Gorilla Glass Victus Plus protection. So it's durable & OS.\n[12] 1:34 So it's important for durability & OS updates. And if you want a Samsung phone, then you can look at it. I'll say, instead of 128GB, you can add 2-3K and get a 256GB variant. That's excellent!\n[13] 1:44 Now, the battery is the most important thing. You need at least 2-3 days of battery. So the Poco X8 that's launched is good. It comes on 6th Gen 4 & has a decent performance.\n[14] 1:54 But you get a 9000mAh battery with 67W charging & you can use it like a power bank.\n[15] 2:01 It has 22.5W reverse wireless charging & you get 4 years of major updates. So you get Android 16 & 4 years of major updates.\n[16] 2:07 I think the effective price is Rs 29,999 & effectively Rs 26,599.\n[17] 2:14 And remember, it's good in terms of durability. It has Gorilla Glass Victus 2 protection & a great display!\n[18] 2:20 So if multimedia, battery & durability are important for you, then you can definitely look at it.\n[19] 2:27 I think the underrated & all rounder phone is the Realme P3 Ultra. It comes with Dimensity 8350 Ultra Processor. So the performance is one of the best.\n[20] 2:35 It has a 1.5K resolution quad curved AMOLED display. It has a 6000mAh battery with 80W charging.\n[21] 2:41 It's an 8GB 128GB variant & you get it in VA28999. It's also durable as it has an IP68-69 certification. It has Gorilla Glass 7 which is decent according to me.\n[22] 2:51 The camera is also decent. I haven't talked about the camera yet but you get Sony's IMX896 primary sensor. So that's also quite good.\n[23] 2:58 Now if performance is important for you & you play games, then I think the Oppo K13 Turbo is excellent!\n[24] 3:07 It has a big battery, 1.5K resolution AMOLED display & MediaTek Dimensity 8450 Ultra Processor. This is the best performing smartphone on the list!\n[25] 3:16 It has an OS update of 2 years, 80W Superbook charging, IP66-68-69 certification & bypass charging support. And it's available in Rs 26,999 which is an effective price.\n[26] 3:26 But it's always sold out, so keep that in mind. I won't suggest it for the camera. For the camera, I'd say the Edge 70 is quite good. It's a balanced phone.\n[27] 3:37 In Rs 30K, you get either a telephoto or an ultrawide camera. So I'm not talking much about the camera. And finally, the GT30 Pro should be in the mix as it has Dimensity 8350Ultimate.\n[28] 3:48 It's an old phone but you get the 8256 variant in Rs 29,999. If Oppo is sold out & you want a gaming & performance phone, then you can look at the GT30 Pro.\n[29] 3:58 It has a 5500mAh battery, 45W charging & 30W wireless charging. So you get wireless charging on the Edge 70 & on the Oppo K13 Turbo.\n[30] 4:07 You get 15W wireless charging & 30W wireless charging on the Oppo K13 Turbo. So that's good. I'd say the software is good & you get 2 years of major updates.\n[31] 4:13 But there are GT Triggers for gaming, Mecha Lights, IP64, VC Cooling Chamber, Wireless Charging under Rs 30K.\n[32] 4:20 So for gaming, you can look at the Oppo K13 Turbo or the GT30 Pro. All the phones I've mentioned are tagged.\n[33] 4:28 Generally, I'd prefer the 256GB variant for Rs 1-2K. So if you want a premium lightweight phone, then you can look at the Edge 70.\n[34] 4:35 If you want a Samsung phone with an important OS, then you can look at the M56. For the battery, I'd say the X8. For the performance, I'd say the Realme P3 Ultra.\n[35] 4:44 For gaming, you can look at the Oppo K13 Turbo or the GT30 Pro. So that's what it is! Do you agree with this list? Do let us know in the COMMENTS!\n[36] 4:53 We've done a lot of research & the pricing is increasing every 2-3 weeks. So we've made this video after looking at it. I hope you like it!\n[37] 5:01 If you do, then do hit LIKE! That's all for this video, until the next one, Keep Trakin & Stay Safe!"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "Extraction",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "kind": {
+          "enum": [
+           "paid_sponsorship",
+           "free_unit",
+           "affiliate_statement",
+           "denial"
+          ],
+          "type": "string"
+         },
+         "party": {
+          "anyOf": [
+           {
+            "type": "string"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "kind",
+         "party",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      },
+      "picks": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "rank": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "rank",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims",
+      "picks"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [],
+  "picks": [
+   {
+    "phone": "Infinix GT 30 Pro",
+    "rank": 1,
+    "source": "transcript",
+    "segment": 27,
+    "quote": "And finally, the GT30 Pro should be in the mix as it has Dimensity 8350Ultimate.",
+    "meaning_en": "Finally, the GT30 Pro should be considered as it features the Dimensity 8350 Ultimate processor."
+   },
+   {
+    "phone": "OPPO K13 Turbo",
+    "rank": 2,
+    "source": "transcript",
+    "segment": 23,
+    "quote": "Now if performance is important for you & you play games, then I think the Oppo K13 Turbo is excellent!",
+    "meaning_en": "If performance is important for you and you play games, then I think the Oppo K13 Turbo is an excellent choice."
+   },
+   {
+    "phone": "Realme P3 Ultra",
+    "rank": 3,
+    "source": "transcript",
+    "segment": 19,
+    "quote": "I think the underrated & all rounder phone is the Realme P3 Ultra. It comes with Dimensity 8350 Ultra Processor.",
+    "meaning_en": "I think the underrated all-rounder phone is the Realme P3 Ultra, which comes with the Dimensity 8350 Ultra processor."
+   },
+   {
+    "phone": "POCO X8",
+    "rank": 4,
+    "source": "transcript",
+    "segment": 13,
+    "quote": "Now, the battery is the most important thing. You need at least 2-3 days of battery. So the Poco X8 that's launched is good.",
+    "meaning_en": "If battery life is the priority and you need 2-3 days of battery, the newly launched Poco X8 is a good option."
+   },
+   {
+    "phone": "Samsung Galaxy M56",
+    "rank": 5,
+    "source": "transcript",
+    "segment": 10,
+    "quote": "I'm talking about Samsung Galaxy M56, it has a 6.7'' Super AMOLED display.",
+    "meaning_en": "I am referring to the Samsung Galaxy M56, which features a 6.7-inch Super AMOLED display."
+   },
+   {
+    "phone": "Motorola Edge 70",
+    "rank": 6,
+    "source": "transcript",
+    "segment": 4,
+    "quote": "Edge 70 is a balanced phone. It's 6-8 months old, but it comes with Qualcomm Snapdragon 7th Gen 4 processor.",
+    "meaning_en": "The Edge 70 is a well-balanced phone that comes with the Qualcomm Snapdragon 7 Gen 4 processor."
+   },
+   {
+    "phone": "Motorola Edge 70 Fusion",
+    "rank": null,
+    "source": "transcript",
+    "segment": 8,
+    "quote": "So you can see the Edge 70 Fusion, which is not a bad phone.",
+    "meaning_en": "You can also consider the Edge 70 Fusion, which is not a bad phone."
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 2916,
+  "completion_tokens": 4126,
+  "total_tokens": 7042,
+  "cost": 0.0176595,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0176595,
+   "upstream_inference_prompt_cost": 0.002187,
+   "upstream_inference_completions_cost": 0.0154725
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 3348,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791482481-9MoO9fT0HyTkyvTsecaq"
+ }
+}

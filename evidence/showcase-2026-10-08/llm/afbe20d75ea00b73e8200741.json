@@ -1,0 +1,177 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube video's description and transcript. The videos are Indian phone reviews and buying\nlists, in English, Hindi, Hinglish, Telugu, Malayalam or a mix.\n\nFind two things.\n\nA) Every place the creator states a money tie, as one of these kinds:\n- paid_sponsorship: the video is sponsored by, a paid partnership with, or made in collaboration with a company\n  (including a \"#Collab\" tag next to a company's tag). `party` = that company.\n- free_unit: a company sent, provided or gave the creator the device or review unit. `party` = that company, or\n  \"respective brands\" when the creator says it that way.\n- affiliate_statement: the creator says the links are affiliate links, or that they earn a commission, or that they\n  are an Amazon Associate.\n- denial: the creator says the video is NOT sponsored, or that no brand paid them.\nThese are NOT money ties. Skip them: \"for sponsorship / business / collab inquiries contact ...\", \"all content\nprovided by this channel is for educational purposes\", copyright or fair-use notes, talk about other people's sponsored\nads, bank card offers and sale discounts, product tagging (\"I've tagged the phones\"), and the channel promoting its own\napp, channel, merch or giveaway.\n\nB) Every phone the creator recommends for the buyer, with its rank if they number their list (1 = their top pick).\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text below: same script, same spelling, same punctuation, same capitals.\n  Never translate, transliterate, fix or shorten words inside the quote.\n- Use the shortest exact span that shows the point, at most 200 characters.\n- A transcript quote must come from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote (a translation if it isn't English).\n- `phone`: the standard English \"Brand Model\" name, e.g. \"Motorola Edge 60 Pro\", \"iQOO Neo 10\", \"Samsung Galaxy\n  M36\". Don't include RAM/storage or colour.\nIf there is nothing for a list, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: TOP 5 Best Phone Under 30000 in Flipkart Big Billion Days Sale 2026 & Amazon Sale !\nCHANNEL: Madan Gaikwad\n\nDESCRIPTION:\nLooking for the best phone under 30000 in Flipkart BBD Sale 2026 and Amazon Great Indian Festival Sale 2026? In this video, we reveal the TOP 5 Best Smartphones Under ₹30,000 you should buy during the Flipkart Big Billion Days Sale and Amazon Sale. We compare camera quality, battery backup, performance, gaming stability, and massive bank card discount offers!\n\nWhether you are waiting for realme, iQOO, Motorola, or OPPO, we break down real-world performance, display tech, and actual deal prices after bank offers.\n\nVideo Highlights & Topics detailed Covered:\n1) Best phone under 30000 in flipkart bbd sale 2026\n2) Best phone under 30000 in bbd sale 2026\n3) Flipkart bbd sale\n4) Big billion days 2026\n5) Amazon sale\n6) Amazon great indian festival sale 2026\n7) Best phone under 30000 in bbd sale\n8) Best phone under 30000 in big billion day 2026\n9) Best smartphone under 30000 in big billion day 2026\n10) Best phone under 30000 in amazon sale\n11) Oppo k14 plus review\n12) Moto edge 70 fusion review\n13) Realme p4 pro review\n14) Iqoo z11 review\n15) Realme p3 ultra review\n16) Realme p4s review\n17) Madan gaikwad\n18) Mdntv1\n19) Best 5g phone under 30000 in bbd sale\n20) Flipkart big billion days mobile offers 2026\n21) Amazon great indian festival mobile offers 2026\n22) Best gaming phone under 30000 in bbd\n23) Best camera phone under 30000 in bbd sale\n24) Top 5 smartphones under 30k 2026\n25) Flipkart bbd sale 2026 phone offers under 30000\n26) Phone under 30000 flipkart sale\n27) Best mobile under 30000 in festival sale\n28) Bbd sale 2026 smartphone deals\n\n#BestPhoneUnder30000 #BestSmartphoneunder30000 #BestGamingPhoneUnder30000 #FlipkartBBDSale #bigbilliondays2026 #AmazonGreatIndianFestival  #MadanGaikwad\n\n━━━━━━━━━━━━━━━━━━━━━\n\n*\nbusiness Email id- madanofficial1@gmail.com\n\nInsta:\n  / mdn_gaikwad  \n\n*\nDISCLAIMER :THIS CHANNEL DOES NOT⁹ PROMOTE ANY TYPE OF ILLEGAL, OFFENSIVE, AND VIOLENT CONTENT \n\nALL CONTENT PROVIDED BY THIS CHANNEL IS MEANT FOR EDUCATIONAL AND ENTERTAINMENT PURPOSES ONLY..\n\nTRANSCRIPT: none available"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "Extraction",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "kind": {
+          "enum": [
+           "paid_sponsorship",
+           "free_unit",
+           "affiliate_statement",
+           "denial"
+          ],
+          "type": "string"
+         },
+         "party": {
+          "anyOf": [
+           {
+            "type": "string"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "kind",
+         "party",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      },
+      "picks": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "rank": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "rank",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims",
+      "picks"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [],
+  "picks": []
+ },
+ "usage": {
+  "prompt_tokens": 1267,
+  "completion_tokens": 373,
+  "total_tokens": 1640,
+  "cost": 0.002349,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.002349,
+   "upstream_inference_prompt_cost": 0.00095025,
+   "upstream_inference_completions_cost": 0.00139875
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 358,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791482591-lvgo92w35vwaz9sUFLyN"
+ }
+}

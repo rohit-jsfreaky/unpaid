@@ -1,0 +1,250 @@
+{
+ "request": {
+  "model": "google/gemini-3.8-flash",
+  "temperature": 0,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You read one YouTube video's description and transcript. The videos are Indian phone reviews and buying\nlists, in English, Hindi, Hinglish, Telugu, Malayalam or a mix.\n\nFind two things.\n\nA) Every place the creator states a money tie, as one of these kinds:\n- paid_sponsorship: the video is sponsored by, a paid partnership with, or made in collaboration with a company\n  (including a \"#Collab\" tag next to a company's tag). `party` = that company.\n- free_unit: a company sent, provided or gave the creator the device or review unit. `party` = that company, or\n  \"respective brands\" when the creator says it that way.\n- affiliate_statement: the creator says the links are affiliate links, or that they earn a commission, or that they\n  are an Amazon Associate.\n- denial: the creator says the video is NOT sponsored, or that no brand paid them.\nThese are NOT money ties. Skip them: \"for sponsorship / business / collab inquiries contact ...\", \"all content\nprovided by this channel is for educational purposes\", copyright or fair-use notes, talk about other people's sponsored\nads, bank card offers and sale discounts, product tagging (\"I've tagged the phones\"), and the channel promoting its own\napp, channel, merch or giveaway.\n\nB) Every phone the creator recommends for the buyer, with its rank if they number their list (1 = their top pick).\n\nQuoting rules (strict; your quotes are checked by a program and dropped if they don't match):\n- Copy each quote EXACTLY from the text below: same script, same spelling, same punctuation, same capitals.\n  Never translate, transliterate, fix or shorten words inside the quote.\n- Use the shortest exact span that shows the point, at most 200 characters.\n- A transcript quote must come from one segment [i] (it may run on into [i+1]); give that i as `segment`.\n  A description quote has `segment` null.\n- `meaning_en`: a plain English meaning of the quote (a translation if it isn't English).\n- `phone`: the standard English \"Brand Model\" name, e.g. \"Motorola Edge 60 Pro\", \"iQOO Neo 10\", \"Samsung Galaxy\n  M36\". Don't include RAM/storage or colour.\nIf there is nothing for a list, return an empty list. Never invent anything."
+   },
+   {
+    "role": "user",
+    "content": "TITLE: Best Smartphone Under ₹30,000 🔥 Flipkart BBD + Amazon GIF Sale 2026 | DON’T MISS!\nCHANNEL: Techie Bist\n\nDESCRIPTION:\nLooking for the Best Phones Under ₹30,000 in Flipkart Big Billion Days (BBD) & Amazon Great Indian Festival (GIF) Sale 2026? 🔥 In this video, we bring you the TOP 5 BEST smartphone deals under ₹30K with the biggest price drops and offers.\nFrom gaming & performance to camera, AMOLED display, 120Hz refresh rate, 5G, battery and fast charging, we compare the best smartphones available during the sale to find the BEST VALUE-FOR-MONEY phone under ₹30,000.\n\n📱 In This Video:\n✅ Best Phones Under ₹30K in Flipkart BBD\n✅ Best Phones Under ₹30K in Amazon GIF\n✅ Biggest Price Drops & Best Offers\n✅ BBD vs Amazon GIF Deals\n✅ Which Phone Should You BUY?\n\n🔥 Planning to buy a phone under ₹30,000 during BBD or Amazon GIF? DON’T BUY before watching this video!\n\n#BestPhonesUnder30000 #BestPhoneUnder30K #FlipkartBBD #AmazonGIF #BBDSale2026 #AmazonGIF2026 #BestPhoneDeals #TechieBist\n\n\nFOLLOW US ON THE WhatsApp Channel for the Best Deals and BTS !! :  https://whatsapp.com/channel/0029Va9f...\nInstagram:   / techiebist  \n\n\nYour queries: \n best phones under 30000\nbest mobile under 30000\nflipkart big billion days\nflipkart bbd sale 2026\namazon gif sale 2026\nbest phones under 30000 2026\nbest phone under 30000 2026\nbest camera phone under 30000\n\n\nBusiness contact: connect.techiebist@gmail.com\n\nTRANSCRIPT (one segment per line, [index] m:ss text):\n[0] 0:00 भाई फाइनली वो सेल आ गई है जिसका हम सभी को इंतजार था Flipkart पे बिग बिलियन और Amazon पे Gआईएफ सेल जहां पर अभी\n[1] 0:07 स्मार्टफोनस पे बहुत ही अच्छे डिस्काउंट है और 300 का जो बजट रेंज है ना इस बार सबसे बेस्ट बजट रेंज है किसी भी टाइप के स्मार्टफोन को परचेस करने के लिए तो अगर\n[2] 0:16 आप भी स्टिल कंफ्यूज है बहुत सारे ऑप्शंस देख के 300 में कि कौन से स्मार्टफोन कौन से ब्रांड के साथ जाना चाहिए तो भाई आज की इस वीडियो में मैं आपको बेस्ट डील्स बताने\n[3] 0:25 वाला हूं कौन से स्मार्टफोन को कंसीडर करना चाहिए यह बताने वाला हूं और चैनल पे एक छोटा थोड़ा सा गिववे भी चल रहा है। तो भाई वीडियो को बिना किसी देरी के स्टार्ट कर लेते हैं और सबसे पहले बात कर लेते हैं\n[4] 0:33 Realme डील्स की। यहां पर देखो तीन स्मार्टफोन है Realme के। पहला हो गया Realme का P4 Pro, दूसरा है P4 Power और तीसरा है Realme P4। देखो इन तीनों\n[5] 0:42 स्मार्टफोन में जो सबसे बेस्ट डील है वो है Realme का P4 Pro जहां पर 74 प्रोसेसर क्वाड कफ डिस्प्ले अच्छा कैमरा बड़ी बैटरी\n[6] 0:49 देखने को मिल जाती है और मैं कहूंगा अगर आप एक ऑल राउंडर स्मार्टफोन ढूंढ रहे हैं ना तो P4 Pro इज द बेस्ट ऑप्शन जिसको आपको कंसीडर करना चाहिए क्योंकि कैमरा भी अच्छा\n[7] 0:57 अल्ट्रावाइड एंगल कैमरा मिल जाता है फ्रंट एंड बैक से 4K वीडियो आप रिकॉर्ड कर पाएंगे अगर आप P4 पावर को कंसीडर करने की सोच रहे हैं तो वो भी अच्छी चॉइस है क्योंकि 10,000 एमh बैटरी के साथ आता है\n[8] 1:05 7400 प्रोसेसर मिल जाएगा वर्ड कप डिस्प्ले मिल जाती है तो थोड़ा सा हैवी थोड़ा सा भारी स्मार्टफोन है वो और वो जो है सेल\n[9] 1:12 में हमें 299 में मिलेगा विदाउट बैंक ऑफर या नॉर्मली वो 3299 के आसपास मिलता है और जो तीसरी डील है ना Realme P4 पर्सनली भाई\n[10] 1:20 मैं कहूंगा उसे अभी अवॉयड करो क्योंकि ऑलरेडी उसकी प्राइस आई हुई है इतना कुछ अच्छा डिस्काउंट आया भी नहीं है उससे बेटर ये दोनों डील रहने वाली है और अगर आप बजट\n[11] 1:27 बढ़ा सकते हो तो 35000 के बजट है मेरे ख्याल से Realme GT70 स्टील सेंस बनाता है जब से सेल डील्स आने लगी है तब से जो Realme GT70 है उसकी प्राइस भाई बढ़ गई है\n[12] 1:36 तो अभी वह तो 38400 के आसपास है अगर वो 35 33,000 के आसपास फिर से मिलता है तो वो बेस्ट ऑप्शन रहेगा। बाकी भाई जितने भी स्मार्टफोनस इस वीडियो में इंक्लूड कर रहा\n[13] 1:44 हूं ना उनके बेस्ट बाइंग लिंक को मैंने यहां पर टैग कर दिया है। उसके बाद बात कर लेते हैं भाई Vivo और I डील्स का। Vivo और ico यहां पर तीन स्मार्टफोन है। पहला तो\n[14] 1:51 हो गया Vivo T5। दूसरा है ico Z1 दोनों ही बिल्कुल सेम स्मार्टफोन है। एक Flipkart एक Amazon पे अवेलेबल है। और तीसरा है Vivo का T5 Pro। T5 Pro है ना पहले 300 के\n[15] 2:00 आसपास ही ल्च हुआ था। पर बीच में इसकी प्राइस बढ़ी। और क्या खतरनाक वाली बड़ी 38400 के आसपास हो गया। अभी कोई पूछता भी नहीं उसे। पर भाई अगर यह हमें इंक्लूडिंग\n[16] 2:08 बैंक ऑफर 30 31,000 में मिल रहा है इन्हें ड्यूरिंग सेल तो बेस्ट ऑप्शन है। बिल्कुल मिस नहीं करना चाहिए। 7H4 प्रोसेसर बड़ी बैटरी के साथ आता है। अल्ट्रावाइड एंगल\n[17] 2:16 कैमरा नहीं मिलता है। पर कैमरे की क्वालिटी यहां पर अच्छी मिल जाएगी। फ्रंट से 4K वीडियो आप रिकॉर्ड कर पाएंगे।\n[18] 2:20 डिस्प्ले की क्वालिटी यहां पर अच्छी मिल जाती है। 1.5 के रेसोल्यूशन के साथ आता है। और प्राइसिंग की बात करूं तो भाई यह हमें 309 इंक्लूडिंग बैंक ऑफर मिलेगा। बात\n[19] 2:28 करूं अगर T5 और Z1 की तो यह दोनों भी अच्छे स्मार्टफोन है। कंसीडर आप कर सकते हैं 6.8 इंचेस की 1.5 के क्वड कप डिस्प्ले\n[20] 2:35 मिल जाती है। 750 एमh की बैटरी के साथ आने वाले हैं। 7500 डायमceिटी का प्रोसेसर यहां पर मिल जाएगा। आईपी रेटिंग भी मिलती है। ड्यूल स्पीकर भी है। कैमरा भी अच्छा\n[21] 2:43 है। अल्ट्रावाइड एंगल कैमरा भी है। फ्रंट एंड बैक से 4K वीडियो भी आप रिकॉर्ड कर पाएंगे। ओवरऑल 30,000 के अंडर ये एक बेस्ट ऑप्शन है जिसके साथ आप जा सकते हैं। और ये\n[22] 2:50 भी हमें अराउंड अराउंड 30-31,000 के आसपास मिलने वाले हैं। अभी बात कर लेते हैं भाई Samsung डील्स की। तो यहां पर कुछ Samsung स्मार्टफोनोंस अवेलेबल है। जैसे कि\n[23] 2:58 Samsung M47, F70 Pro A36 ये अंडर 30,000 में है और एक है A56 जो कि जो कि 32 33,000 में मिल जाएगा। मैं कहूंगा भाई\n[24] 3:06 A36, M47 इनको अवॉइड करो। अगर आपका बजट 25-26,000 के आसपास है तो ही आप उनके साथ जाना। उस बजट में वो अच्छे हैं। और अगर\n[25] 3:13 आपको 3,000 में Samsung ही चाहिए तो A56 इज द बेस्ट ऑप्शन जिसके साथ आप जा सकते हैं। वहां पर 1580 वाला प्रोसेसर मिल जाएगा। कैमरा बहुत ही अच्छा है। एस एमलेड\n[26] 3:21 डिस्प्ले के साथ आता है। Samsung की नियर टू फ्लैशिप A सीरीज का वो सबसे हायर वर्जन है। प्राइसिंग की बात करूं तो वो भाई हमें इंक्लूडिंग बैंक ऑफर 319 में मिलने वाला\n[27] 3:29 है। Amazon में मिलेगा वो। उसके बाद भाई 300 के अंडर हमें ही देखने को मिल जाएगा। मैं कहूंगा भाई अगर आपको नथिंग जैसे ब्रांड के साथ जाना\n[28] 3:37 है। तो यह एक बहुत ही अच्छा ऑप्शन है। ₹00 के बजट में। पिछले साल से कंपेयर करेंगे तो नो डाउट इतनी अच्छी चॉइस नहीं है। पर भाई अभी के हिसाब से तो बेस्ट है। ल्च हुआ\n[29] 3:46 था 35,000 में। बीच में यह ₹00 के आसपास भी आया था। पर ड्यूरिंग सेल हमें यह मिलने वाला है 2799 में। बेस्ट प्राइसिंग है।\n[30] 3:52 कैमरा अच्छा मिल जाता है। अल्ट्रावाइड एंगल शूटर भी है। परफॉर्मेंस के लिए यहां पर 604 वाला प्रोसेसर मिलेगा। UI एज ऑलवेज अच्छा मिलने वाला है। नथिंग का एकदम क्लीन\n[31] 4:01 3 साल के यहां पर अपडेट मिल जाएंगे। 6.7 इंचेस की एफएसडी एमलेड पैनल के साथ आता है और भाई थोड़ा यूनिक लुक डिजाइन चाहिए तो मैं कहूंगा बिल्कुल आप जा सकते हैं।\n[32] 4:09 प्राइसिंग 279 मिलेगी। बाकी अगर आपको Poco जैसे ब्रांड के साथ जाना है ₹00 के बजरे में तो भाई अभी Poco XZ Power जो कि ल्च\n[33] 4:16 हुआ था 35,000 में ड्यूरिंग सेल हमें 299 में मिलने वाला है और बहुत ही बड़ी बैटरी के साथ आता है। परफॉर्मेंस के लिए यहां पर 65 वाला प्रोसेसर मिल जाएगा। स्पेसिफिकेशन\n[34] 4:24 वाइज़ कोई भी कॉम्प्रोमाइजज़ नहीं है। बस Poco के जो कैमरा है ना ऑप्टिमाइज थोड़े से कम होते हैं। तो वो एक चीज है। पर अगर आपको परफॉर्मेंस बड़ी बैटरी चाहिए तो दिस\n[35] 4:32 इज द बेस्ट ऑप्शन जिसके साथ आप जा सकते हैं। अभी भाई फाइनली Moto डील की बात कर लेते हैं। यहां पर देखो जो सबसे बेस्ट ऑप्शन है वो है Moto S70 फ्यूज एंड सेल\n[36] 4:39 में अवेलेबल भी है। वैसे अगर आपको S70 मिलता है 30,000 में तो भाई वो भी एक जबरदस्त ऑप्शन रहेगा और उसे भी बिल्कुल मिस मत करना। एक कौन है भाई Motorola\n[37] 4:47 स्मार्टफोन में वो यह है कि इनका जो कस्टमर सपोर्ट है आफ्टर सेल सर्विस वो इतनी अच्छी नहीं है। बाकी उसके अलावा तो भाई स्पेक्स वाइज तो यह सबसे बेस्ट ऑप्शन\n[38] 4:54 है अंडर 30000 में जहां पर 6.8 इंचेस की 1.5 के क्वाड कप डिस्प्ले देखने को मिल जाती है। डिज़ अच्छा है। स्लिम है। इन हैंड कंफर्टेबल फील होता है। परफॉर्मेंस के लिए यहां पर 7S4 वाला प्रोसेसर मिल जाएगा।\n[39] 5:05 Android 16 के साथ आता है। जहां पर 3 साल के अपडेट भी मिलेंगे। कैमरे में भी कोई कॉम्प्रोमाइजिस नहीं है। 50 + 13 मिल जाएगा। जो अल्ट्रा वाइड एंगल कैमरा है उसे आप एज अ मै और डेप शूटर भी यूज़ कर पाएंगे।\n[40] 5:14 बैटरी बड़ी मिल जाती है। आईपी रेटिंग डू स्पीकर मतलब ओवरऑल सारी ही चीजें यहां पर मिलती है। और प्राइसिंग की बात करूं तो यहां पर एसए इतना बड़ा कोई डिस्काउंट नहीं\n[41] 5:22 आया। बट स्टिल दिस इज द बेस्ट ऑप्शन जो कि हमें 299 इंक्लूडिंग बैंक ऑफर ड्यूरिंग सेल मिलने वाला है। भाई दोस्तों ये तो थे कुछ बेस्ट डील्स जो कि आपको 300 में देखने\n[42] 5:30 को मिल जाएंगी। और एक चैनल पे छोटा सा गिव अवे भी चल रहा है। उसके लिए भाई पहले तो वीडियो को लाइक कर देना। पूरी वीडियो देख लेना, शेयर कर देना और एक प्यारा सा नीचे कमेंट कर देना। मल्टीपल कमेंट मत करना।\n[43] 5:38 बाकी भाई आज के इस वीडियो के लिए बस इतना ही। मिलूंगा मैं आपसे अगले वीडियो में। तब तक के लिए जय हिंद।"
+   }
+  ],
+  "response_format": {
+   "type": "json_schema",
+   "json_schema": {
+    "name": "Extraction",
+    "strict": true,
+    "schema": {
+     "properties": {
+      "claims": {
+       "items": {
+        "properties": {
+         "kind": {
+          "enum": [
+           "paid_sponsorship",
+           "free_unit",
+           "affiliate_statement",
+           "denial"
+          ],
+          "type": "string"
+         },
+         "party": {
+          "anyOf": [
+           {
+            "type": "string"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "kind",
+         "party",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      },
+      "picks": {
+       "items": {
+        "properties": {
+         "phone": {
+          "type": "string"
+         },
+         "rank": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "source": {
+          "enum": [
+           "description",
+           "transcript"
+          ],
+          "type": "string"
+         },
+         "segment": {
+          "anyOf": [
+           {
+            "type": "integer"
+           },
+           {
+            "type": "null"
+           }
+          ]
+         },
+         "quote": {
+          "type": "string"
+         },
+         "meaning_en": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "phone",
+         "rank",
+         "source",
+         "segment",
+         "quote",
+         "meaning_en"
+        ],
+        "type": "object",
+        "additionalProperties": false
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "claims",
+      "picks"
+     ],
+     "type": "object",
+     "additionalProperties": false
+    }
+   }
+  }
+ },
+ "output": {
+  "claims": [],
+  "picks": [
+   {
+    "phone": "Realme P4 Pro",
+    "rank": null,
+    "source": "transcript",
+    "segment": 6,
+    "quote": "अगर आप एक ऑल राउंडर स्मार्टफोन ढूंढ रहे हैं ना तो P4 Pro इज द बेस्ट ऑप्शन जिसको आपको कंसीडर करना चाहिए",
+    "meaning_en": "If you are looking for an all-rounder smartphone, P4 Pro is the best option you should consider."
+   },
+   {
+    "phone": "Realme P4 Power",
+    "rank": null,
+    "source": "transcript",
+    "segment": 7,
+    "quote": "अगर आप P4 पावर को कंसीडर करने की सोच रहे हैं तो वो भी अच्छी चॉइस है",
+    "meaning_en": "If you are thinking of considering the P4 Power, that too is a good choice."
+   },
+   {
+    "phone": "Vivo T5 Pro",
+    "rank": null,
+    "source": "transcript",
+    "segment": 16,
+    "quote": "बैंक ऑफर 30 31,000 में मिल रहा है इन्हें ड्यूरिंग सेल तो बेस्ट ऑप्शन है। बिल्कुल मिस नहीं करना चाहिए।",
+    "meaning_en": "If you are getting it for 30-31,000 including bank offers during the sale, it is the best option and should not be missed."
+   },
+   {
+    "phone": "Vivo T5",
+    "rank": null,
+    "source": "transcript",
+    "segment": 19,
+    "quote": "बात करूं अगर T5 और Z1 की तो यह दोनों भी अच्छे स्मार्टफोन है। कंसीडर आप कर सकते हैं",
+    "meaning_en": "Talking about the T5 and Z1, both are good smartphones and you can consider them."
+   },
+   {
+    "phone": "iQOO Z1",
+    "rank": null,
+    "source": "transcript",
+    "segment": 19,
+    "quote": "बात करूं अगर T5 और Z1 की तो यह दोनों भी अच्छे स्मार्टफोन है। कंसीडर आप कर सकते हैं",
+    "meaning_en": "Talking about the T5 and Z1, both are good smartphones and you can consider them."
+   },
+   {
+    "phone": "Samsung Galaxy A56",
+    "rank": null,
+    "source": "transcript",
+    "segment": 25,
+    "quote": "आपको 3,000 में Samsung ही चाहिए तो A56 इज द बेस्ट ऑप्शन जिसके साथ आप जा सकते हैं।",
+    "meaning_en": "If you specifically want a Samsung around 30,000, A56 is the best option you can go with."
+   },
+   {
+    "phone": "POCO XZ Power",
+    "rank": null,
+    "source": "transcript",
+    "segment": 34,
+    "quote": "पर अगर आपको परफॉर्मेंस बड़ी बैटरी चाहिए तो This इज द बेस्ट ऑप्शन जिसके साथ आप जा सकते हैं।",
+    "meaning_en": "If you want performance and a large battery, this is the best option you can go with."
+   },
+   {
+    "phone": "Motorola Edge 70 Fusion",
+    "rank": null,
+    "source": "transcript",
+    "segment": 35,
+    "quote": "यहां पर देखो जो सबसे बेस्ट ऑप्शन है वो है Moto S70 फ्यूज एंड सेल में अवेलेबल भी है।",
+    "meaning_en": "Here, the best option is Moto Edge 70 Fusion, and it is available in the sale."
+   },
+   {
+    "phone": "Motorola Edge 70",
+    "rank": null,
+    "source": "transcript",
+    "segment": 36,
+    "quote": "वैसे अगर आपको S70 मिलता है 30,000 में तो भाई वो भी एक जबरदस्त ऑप्शन रहेगा और उसे भी बिल्कुल मिस मत करना।",
+    "meaning_en": "If you get the Edge 70 for 30,000, that will also be a great option and definitely do not miss it."
+   }
+  ]
+ },
+ "usage": {
+  "prompt_tokens": 3356,
+  "completion_tokens": 4626,
+  "total_tokens": 7982,
+  "cost": 0.0198645,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0198645,
+   "upstream_inference_prompt_cost": 0.002517,
+   "upstream_inference_completions_cost": 0.0173475
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 3655,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "served_by": {
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "id": "gen-1791482598-nvjT1865mgTqhGe0Q0l8"
+ }
+}
