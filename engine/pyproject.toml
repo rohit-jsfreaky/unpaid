@@ -1,0 +1,47 @@
+[project]
+name = "unpaid"
+version = "0.1.0"
+description = "Which YouTube reviewers disclosed being paid, given the product, or earning commission"
+readme = "README.md"
+authors = [
+    { name = "rohit-jsfreaky", email = "rohitkashyapmrt@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.143.0",
+    "httpx>=0.28.1",
+    "pydantic>=2.14.0",
+    "python-dotenv>=1.2.4",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[project.scripts]
+unpaid = "unpaid:main"
+verify = "unpaid.verify:main"
+
+[build-system]
+requires = ["uv_build>=0.10.0,<0.11.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pyright>=1.1.414",
+    "pytest>=9.1.1",
+    "ruff>=0.16.10",
+]
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM", "RUF"]
+
+[tool.pyright]
+include = ["src", "tests"]
+pythonVersion = "3.12"
+typeCheckingMode = "standard"
+reportMissingTypeStubs = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

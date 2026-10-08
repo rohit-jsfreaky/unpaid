@@ -1,0 +1,286 @@
+{
+  "search_metadata": {
+    "id": "6ac6b40ba9fcce55411f9a58",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CBM8rf2MT55YTZ2DvUBLk0jI2MEpLw0_ClzZIKsLn-0/6ac6b40ba9fcce55411f9a58.json",
+    "markdown_endpoint": "https://serpapi.com/searches/CBM8rf2MT55YTZ2DvUBLk0jI2MEpLw0_ClzZIKsLn-0/6ac6b40ba9fcce55411f9a58.md",
+    "created_at": "2026-10-07 21:05:15 UTC",
+    "processed_at": "2026-10-07 21:05:15 UTC",
+    "youtube_video_transcript_url": "https://www.youtube.com/watch?v=ZRVRBnrSNnc",
+    "raw_html_file": "https://serpapi.com/searches/CBM8rf2MT55YTZ2DvUBLk0jI2MEpLw0_ClzZIKsLn-0/6ac6b40ba9fcce55411f9a58.html",
+    "prettify_html_file": "https://serpapi.com/searches/CBM8rf2MT55YTZ2DvUBLk0jI2MEpLw0_ClzZIKsLn-0/6ac6b40ba9fcce55411f9a58.prettify",
+    "total_time_taken": 8.09
+  },
+  "search_parameters": {
+    "engine": "youtube_video_transcript",
+    "v": "ZRVRBnrSNnc",
+    "language_code": "en"
+  },
+  "transcript": [
+    {
+      "start_ms": 0,
+      "snippet": "Friends, if your budget is between Rs 25-30K, then which is the best smartphone? I'll tell you in this video.",
+      "start_time_text": "0:00",
+      "start_time_label": "0 seconds"
+    },
+    {
+      "start_ms": 6000,
+      "snippet": "But I'll tell you what, it's very difficult to make this list in 2026. That's why we've made this list with different use cases.",
+      "start_time_text": "0:06",
+      "start_time_label": "6 seconds"
+    },
+    {
+      "start_ms": 14000,
+      "snippet": "A lot of phones are literally 6-8 months or 1 year old. If you compare the phones launched today, these phones are value for money!",
+      "start_time_text": "0:14",
+      "start_time_label": "14 seconds"
+    },
+    {
+      "start_ms": 23000,
+      "snippet": "Let's start, but before that, if you're new to our channel, then don't forget to SUBSCRIBE! Just a reminder, that's all we ask!",
+      "start_time_text": "0:23",
+      "start_time_label": "23 seconds"
+    },
+    {
+      "start_ms": 30000,
+      "snippet": "Edge 70 is a balanced phone. It's 6-8 months old, but it comes with Qualcomm Snapdragon 7th Gen 4 processor.",
+      "start_time_text": "0:30",
+      "start_time_label": "30 seconds"
+    },
+    {
+      "start_ms": 38000,
+      "snippet": "It has a 1.5GHz AMOLED display with 8GB RAM & 256GB variant.",
+      "start_time_text": "0:38",
+      "start_time_label": "38 seconds"
+    },
+    {
+      "start_ms": 45000,
+      "snippet": "And it has Helio UI which is based on Android 16 with 3 major updates & 4 security updates.",
+      "start_time_text": "0:45",
+      "start_time_label": "45 seconds"
+    },
+    {
+      "start_ms": 51000,
+      "snippet": "It has IP69 certification & it's priced between Rs 28-30K. It's a lightweight & balanced phone.",
+      "start_time_text": "0:51",
+      "start_time_label": "51 seconds"
+    },
+    {
+      "start_ms": 57000,
+      "snippet": "Let me tell you about Edge 70, it gets stock out a lot. So you can see the Edge 70 Fusion, which is not a bad phone.",
+      "start_time_text": "0:57",
+      "start_time_label": "57 seconds"
+    },
+    {
+      "start_ms": 66000,
+      "snippet": "If you want a Samsung phone, then it's a good thing that you get 6 years of updates.",
+      "start_time_text": "1:06",
+      "start_time_label": "1 minute, 6 seconds"
+    },
+    {
+      "start_ms": 77000,
+      "snippet": "Yes, you can use it for 4-5 years. I'm talking about Samsung Galaxy M56, it has a 6.7'' Super AMOLED display.",
+      "start_time_text": "1:17",
+      "start_time_label": "1 minute, 17 seconds"
+    },
+    {
+      "start_ms": 85000,
+      "snippet": "It has Exynos 1480 with a decent performance. It has 8GB 128GB variant with a 5000mAh battery. It has Gorilla Glass Victus Plus protection. So it's durable & OS.",
+      "start_time_text": "1:25",
+      "start_time_label": "1 minute, 25 seconds"
+    },
+    {
+      "start_ms": 94000,
+      "snippet": "So it's important for durability & OS updates. And if you want a Samsung phone, then you can look at it. I'll say, instead of 128GB, you can add 2-3K and get a 256GB variant. That's excellent!",
+      "start_time_text": "1:34",
+      "start_time_label": "1 minute, 34 seconds"
+    },
+    {
+      "start_ms": 104000,
+      "snippet": "Now, the battery is the most important thing. You need at least 2-3 days of battery. So the Poco X8 that's launched is good. It comes on 6th Gen 4 & has a decent performance.",
+      "start_time_text": "1:44",
+      "start_time_label": "1 minute, 44 seconds"
+    },
+    {
+      "start_ms": 114000,
+      "snippet": "But you get a 9000mAh battery with 67W charging & you can use it like a power bank.",
+      "start_time_text": "1:54",
+      "start_time_label": "1 minute, 54 seconds"
+    },
+    {
+      "start_ms": 121000,
+      "snippet": "It has 22.5W reverse wireless charging & you get 4 years of major updates. So you get Android 16 & 4 years of major updates.",
+      "start_time_text": "2:01",
+      "start_time_label": "2 minutes, 1 second"
+    },
+    {
+      "start_ms": 127000,
+      "snippet": "I think the effective price is Rs 29,999 & effectively Rs 26,599.",
+      "start_time_text": "2:07",
+      "start_time_label": "2 minutes, 7 seconds"
+    },
+    {
+      "start_ms": 134000,
+      "snippet": "And remember, it's good in terms of durability. It has Gorilla Glass Victus 2 protection & a great display!",
+      "start_time_text": "2:14",
+      "start_time_label": "2 minutes, 14 seconds"
+    },
+    {
+      "start_ms": 140000,
+      "snippet": "So if multimedia, battery & durability are important for you, then you can definitely look at it.",
+      "start_time_text": "2:20",
+      "start_time_label": "2 minutes, 20 seconds"
+    },
+    {
+      "start_ms": 147000,
+      "snippet": "I think the underrated & all rounder phone is the Realme P3 Ultra. It comes with Dimensity 8350 Ultra Processor. So the performance is one of the best.",
+      "start_time_text": "2:27",
+      "start_time_label": "2 minutes, 27 seconds"
+    },
+    {
+      "start_ms": 155000,
+      "snippet": "It has a 1.5K resolution quad curved AMOLED display. It has a 6000mAh battery with 80W charging.",
+      "start_time_text": "2:35",
+      "start_time_label": "2 minutes, 35 seconds"
+    },
+    {
+      "start_ms": 161000,
+      "snippet": "It's an 8GB 128GB variant & you get it in VA28999. It's also durable as it has an IP68-69 certification. It has Gorilla Glass 7 which is decent according to me.",
+      "start_time_text": "2:41",
+      "start_time_label": "2 minutes, 41 seconds"
+    },
+    {
+      "start_ms": 171000,
+      "snippet": "The camera is also decent. I haven't talked about the camera yet but you get Sony's IMX896 primary sensor. So that's also quite good.",
+      "start_time_text": "2:51",
+      "start_time_label": "2 minutes, 51 seconds"
+    },
+    {
+      "start_ms": 178000,
+      "snippet": "Now if performance is important for you & you play games, then I think the Oppo K13 Turbo is excellent!",
+      "start_time_text": "2:58",
+      "start_time_label": "2 minutes, 58 seconds"
+    },
+    {
+      "start_ms": 187000,
+      "snippet": "It has a big battery, 1.5K resolution AMOLED display & MediaTek Dimensity 8450 Ultra Processor. This is the best performing smartphone on the list!",
+      "start_time_text": "3:07",
+      "start_time_label": "3 minutes, 7 seconds"
+    },
+    {
+      "start_ms": 196000,
+      "snippet": "It has an OS update of 2 years, 80W Superbook charging, IP66-68-69 certification & bypass charging support. And it's available in Rs 26,999 which is an effective price.",
+      "start_time_text": "3:16",
+      "start_time_label": "3 minutes, 16 seconds"
+    },
+    {
+      "start_ms": 206000,
+      "snippet": "But it's always sold out, so keep that in mind. I won't suggest it for the camera. For the camera, I'd say the Edge 70 is quite good. It's a balanced phone.",
+      "start_time_text": "3:26",
+      "start_time_label": "3 minutes, 26 seconds"
+    },
+    {
+      "start_ms": 217000,
+      "snippet": "In Rs 30K, you get either a telephoto or an ultrawide camera. So I'm not talking much about the camera. And finally, the GT30 Pro should be in the mix as it has Dimensity 8350Ultimate.",
+      "start_time_text": "3:37",
+      "start_time_label": "3 minutes, 37 seconds"
+    },
+    {
+      "start_ms": 228000,
+      "snippet": "It's an old phone but you get the 8256 variant in Rs 29,999. If Oppo is sold out & you want a gaming & performance phone, then you can look at the GT30 Pro.",
+      "start_time_text": "3:48",
+      "start_time_label": "3 minutes, 48 seconds"
+    },
+    {
+      "start_ms": 238000,
+      "snippet": "It has a 5500mAh battery, 45W charging & 30W wireless charging. So you get wireless charging on the Edge 70 & on the Oppo K13 Turbo.",
+      "start_time_text": "3:58",
+      "start_time_label": "3 minutes, 58 seconds"
+    },
+    {
+      "start_ms": 247000,
+      "snippet": "You get 15W wireless charging & 30W wireless charging on the Oppo K13 Turbo. So that's good. I'd say the software is good & you get 2 years of major updates.",
+      "start_time_text": "4:07",
+      "start_time_label": "4 minutes, 7 seconds"
+    },
+    {
+      "start_ms": 253000,
+      "snippet": "But there are GT Triggers for gaming, Mecha Lights, IP64, VC Cooling Chamber, Wireless Charging under Rs 30K.",
+      "start_time_text": "4:13",
+      "start_time_label": "4 minutes, 13 seconds"
+    },
+    {
+      "start_ms": 260000,
+      "snippet": "So for gaming, you can look at the Oppo K13 Turbo or the GT30 Pro. All the phones I've mentioned are tagged.",
+      "start_time_text": "4:20",
+      "start_time_label": "4 minutes, 20 seconds"
+    },
+    {
+      "start_ms": 268000,
+      "snippet": "Generally, I'd prefer the 256GB variant for Rs 1-2K. So if you want a premium lightweight phone, then you can look at the Edge 70.",
+      "start_time_text": "4:28",
+      "start_time_label": "4 minutes, 28 seconds"
+    },
+    {
+      "start_ms": 275000,
+      "snippet": "If you want a Samsung phone with an important OS, then you can look at the M56. For the battery, I'd say the X8. For the performance, I'd say the Realme P3 Ultra.",
+      "start_time_text": "4:35",
+      "start_time_label": "4 minutes, 35 seconds"
+    },
+    {
+      "start_ms": 284000,
+      "snippet": "For gaming, you can look at the Oppo K13 Turbo or the GT30 Pro. So that's what it is! Do you agree with this list? Do let us know in the COMMENTS!",
+      "start_time_text": "4:44",
+      "start_time_label": "4 minutes, 44 seconds"
+    },
+    {
+      "start_ms": 293000,
+      "snippet": "We've done a lot of research & the pricing is increasing every 2-3 weeks. So we've made this video after looking at it. I hope you like it!",
+      "start_time_text": "4:53",
+      "start_time_label": "4 minutes, 53 seconds"
+    },
+    {
+      "start_ms": 301000,
+      "snippet": "If you do, then do hit LIKE! That's all for this video, until the next one, Keep Trakin & Stay Safe!",
+      "start_time_text": "5:01",
+      "start_time_label": "5 minutes, 1 second"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": "Chapter 1: Introduction",
+      "start_ms": 0,
+      "start_time_text": "0:00"
+    },
+    {
+      "chapter": "Chapter 2: 6th Best Smartphone Under ₹30,000",
+      "start_ms": 32000,
+      "start_time_text": "0:32"
+    },
+    {
+      "chapter": "Chapter 3: 5th Best Smartphone Under ₹30,000",
+      "start_ms": 80000,
+      "start_time_text": "1:20"
+    },
+    {
+      "chapter": "Chapter 4: 4th Best Smartphone Under ₹30,000",
+      "start_ms": 109000,
+      "start_time_text": "1:49"
+    },
+    {
+      "chapter": "Chapter 5: 3rd Best Smartphone Under ₹30,000",
+      "start_ms": 146000,
+      "start_time_text": "2:26"
+    },
+    {
+      "chapter": "Chapter 6: 2nd Best Smartphone Under ₹30,000",
+      "start_ms": 182000,
+      "start_time_text": "3:02"
+    },
+    {
+      "chapter": "Chapter 7: 1st Best Smartphone Under ₹30,000",
+      "start_ms": 223000,
+      "start_time_text": "3:43"
+    }
+  ]
+}

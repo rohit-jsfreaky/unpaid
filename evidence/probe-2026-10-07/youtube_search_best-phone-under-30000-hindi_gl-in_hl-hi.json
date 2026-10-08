@@ -1,0 +1,790 @@
+{
+  "search_metadata": {
+    "id": "6ac6b3fdf9aa731e2c815b5a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/K0beclAAByL_ENkdg3-hqe_bwmSmo3g17df3oibw2TE/6ac6b3fdf9aa731e2c815b5a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/K0beclAAByL_ENkdg3-hqe_bwmSmo3g17df3oibw2TE/6ac6b3fdf9aa731e2c815b5a.md",
+    "created_at": "2026-10-07 21:05:01 UTC",
+    "processed_at": "2026-10-07 21:05:01 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=best+phone+under+30000+review+hindi&gl=in&hl=hi",
+    "raw_html_file": "https://serpapi.com/searches/K0beclAAByL_ENkdg3-hqe_bwmSmo3g17df3oibw2TE/6ac6b3fdf9aa731e2c815b5a.html",
+    "total_time_taken": 2.31
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "best phone under 30000 review hindi",
+    "gl": "in",
+    "hl": "hi"
+  },
+  "search_information": {
+    "total_results": 8291109,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Top 5 Best Smartphones Under ₹30000 ⚡September 2026",
+      "link": "https://www.youtube.com/watch?v=ZRVRBnrSNnc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=ZRVRBnrSNnc",
+      "video_id": "ZRVRBnrSNnc",
+      "channel": {
+        "name": "Trakin Tech",
+        "link": "https://www.youtube.com/@TrakinTech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/CoxkM-bkUecdch2e4R7gaa5gyMAqrhKrYqyjTL0_kkJ1lUb44-cNA5tAOYKX1jAk1OVEU1qO6g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3 सप्ताह पहले",
+      "views": 1298951,
+      "length": "5:19",
+      "description": "... Best Smartphone Under ₹30000 01:20 5th Best Smartphone Under ₹30000 01:49 4th Best Smartphone Under ₹30000 02:26 ...",
+      "extensions": [
+        "8 प्रॉडक्ट",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZRVRBnrSNnc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzUfPcjo_9nsXBG705u5jaAf6cnQ",
+        "rich": "https://i.ytimg.com/an_webp/ZRVRBnrSNnc/mqdefault_6s.webp?du=3000&sqp=CLjUmtYG&rs=AOn4CLA5W1gb7DRynxtqaTV-P04Dbv5BAw"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Top 7 Phones From ₹20,000 to ₹30,000 Rupees !",
+      "link": "https://www.youtube.com/watch?v=JUzsrqTqmf8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=JUzsrqTqmf8",
+      "video_id": "JUzsrqTqmf8",
+      "channel": {
+        "name": "Gyan Therapy",
+        "link": "https://www.youtube.com/@GyanTherapy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2 दिन पहले",
+      "views": 653138,
+      "length": "9:39",
+      "description": "Best Smartphone under 20000 Best smartphone under 30000 Thanks for watching #gyantherapy #flipkartsale #amazonsale ...",
+      "extensions": [
+        "नया",
+        "5 प्रॉडक्ट"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JUzsrqTqmf8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDHKmI5mH0HbVqRAT1wDa73MHriw",
+        "rich": "https://i.ytimg.com/an_webp/JUzsrqTqmf8/mqdefault_6s.webp?du=3000&sqp=CIbUmtYG&rs=AOn4CLCn_jxDDd3BoKAzeJfpJ067zqvW8A"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "TOP 5 Best Phone Under 25000 to 30000 in Flipkart Big Billion Sale & Amazon Great Indian Sale 🟠​",
+      "link": "https://www.youtube.com/watch?v=tJHSco5gJhA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=tJHSco5gJhA",
+      "video_id": "tJHSco5gJhA",
+      "channel": {
+        "name": "Fastoye",
+        "link": "https://www.youtube.com/@fastoye",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/yf-goo8RwZlIxIJSI4s_mwWHwRYMsEqYLrIvO_EV-WSA14Sop5Mx5YfG9bW69JzN5KQi4M8GMA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "12 घं॰ पहले",
+      "views": 14335,
+      "length": "8:29",
+      "description": "flipkartbigbillionsale #bigbilliondays #best5gphoneunder30000 #amazongreatindianfestival #flipkartbbdsale #under25000 ...",
+      "extensions": [
+        "नया",
+        "17 प्रॉडक्ट"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tJHSco5gJhA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTnx_bLAxZAQcpIEzJ029cI9TP6A",
+        "rich": "https://i.ytimg.com/an_webp/tJHSco5gJhA/mqdefault_6s.webp?du=3000&sqp=CNC4mtYG&rs=AOn4CLAVL4s7d4RasIC6ZQoKIjk2c5N2RQ"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "TOP 5 Best Phone Under 30000 in Big Billion Days Sale 2026 & Amazon Sale !",
+      "link": "https://www.youtube.com/watch?v=GVpBIyhW3RA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=GVpBIyhW3RA",
+      "video_id": "GVpBIyhW3RA",
+      "channel": {
+        "name": "Madan Gaikwad",
+        "link": "https://www.youtube.com/@MadanGaikwad",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/5GLqV3suOX3IDUdPiiMTx-vPArocaPfzylwsT2W0Xq-wX4qCNxf_h0MJf64ItAtdtmGSQhHx274=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "12 घं॰ पहले",
+      "views": 21570,
+      "length": "9:52",
+      "description": "Looking for the best phone under 30000 in Flipkart BBD Sale 2026 and Amazon Great Indian Festival Sale 2026? In this video ...",
+      "extensions": [
+        "नया",
+        "12 प्रॉडक्ट"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/GVpBIyhW3RA/hq720_custom_2.jpg?sqp=CPznmtYG-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw9VqKweVs0ufQRPjgT5FIlPj0xA",
+        "rich": "https://i.ytimg.com/an_webp/GVpBIyhW3RA/mqdefault_6s.webp?du=3000&sqp=CMCxmtYG&rs=AOn4CLAqdB0gOolP_S3AAXHI154jqz-mpQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Best Phone Under ₹30,000 🔥 Flipkart BBD Sale – Honest List! #notsponsored",
+      "link": "https://www.youtube.com/watch?v=2c-uoW-NPIQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=2c-uoW-NPIQ",
+      "video_id": "2c-uoW-NPIQ",
+      "channel": {
+        "name": "Techy Pathshala",
+        "link": "https://www.youtube.com/@TechyPathshala",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/YUJG-QmAGDR0AZtUJMGAkjqvvNwe08UZNi-l_PNRyYiUhJxiVEQ1kKRk09u7l2dxkAeyfrz9=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "13 घं॰ पहले",
+      "views": 50844,
+      "length": "13:13",
+      "description": "Best phone under 30000 in Flipkart BBD Sale 2026 - my honest picks of the best smartphones under 30000 after cross-checking ...",
+      "extensions": [
+        "नया",
+        "8 प्रॉडक्ट"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/2c-uoW-NPIQ/hq720_custom_1.jpg?sqp=CPznmtYG-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt4FfY-jYiPthGeu5wlC4v472I9Q",
+        "rich": "https://i.ytimg.com/an_webp/2c-uoW-NPIQ/mqdefault_6s.webp?du=3000&sqp=CPzPmtYG&rs=AOn4CLBgD1GD0AZIHqc6fPOwTk9IHoz36A"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Best Smartphone Under ₹30,000 in 2026 🔥 BBD + Amazon Sale",
+      "link": "https://www.youtube.com/watch?v=pg2HubRUVdY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=pg2HubRUVdY",
+      "video_id": "pg2HubRUVdY",
+      "channel": {
+        "name": "Tech Buffet",
+        "link": "https://www.youtube.com/@TechBuffet",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n2o4O0cAvEmC8EMe6TYYJ6-rUGeeqnKd38iGdRKVPxZojB=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "13 घं॰ पहले",
+      "views": 45224,
+      "length": "16:44",
+      "description": "Looking for the best smartphone under ₹30000 during the Flipkart Big Billion Days and Amazon Great Indian Festival sale?",
+      "extensions": [
+        "नया",
+        "17 प्रॉडक्ट"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pg2HubRUVdY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBr8JJ_87T70G7q6-Fg1SV01XoexQ",
+        "rich": "https://i.ytimg.com/an_webp/pg2HubRUVdY/mqdefault_6s.webp?du=3000&sqp=CIDDmtYG&rs=AOn4CLBxPU7gSPkauV9vtG2CZP1f1deubA"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "₹30000 से कम कीमत वाले टॉप 5 बेहतरीन स्मार्टफोन ⚡जनवरी 2026",
+      "link": "https://www.youtube.com/watch?v=oPf1XH71R0I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=oPf1XH71R0I",
+      "video_id": "oPf1XH71R0I",
+      "channel": {
+        "name": "Trakin Tech",
+        "link": "https://www.youtube.com/@TrakinTech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/CoxkM-bkUecdch2e4R7gaa5gyMAqrhKrYqyjTL0_kkJ1lUb44-cNA5tAOYKX1jAk1OVEU1qO6g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8 माह पहले",
+      "views": 1026878,
+      "length": "6:03",
+      "description": "दोस्तों, एक और उपयोगी वीडियो में आपका स्वागत है! यहाँ हम लगभग 30,000 रुपये के बजट में सर्वश्रेष्ठ स्मार्टफ़ोन ...",
+      "extensions": [
+        "3 प्रॉडक्ट",
+        "कमीशन मिलेगा"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/oPf1XH71R0I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp2VqT9BTufRwV9No4d3BqmmkowQ",
+        "rich": "https://i.ytimg.com/an_webp/oPf1XH71R0I/mqdefault_6s.webp?du=3000&sqp=CJ6hmtYG&rs=AOn4CLBIS389Smw8tATgSPFd9jJDhlkDmg"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Top 5 Best Smartphones Under ₹30000 ⚡ Ft. Best Flipkart BBD Deals",
+      "link": "https://www.youtube.com/watch?v=duBKXZrsKg8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=duBKXZrsKg8",
+      "video_id": "duBKXZrsKg8",
+      "channel": {
+        "name": "Trakin Tech",
+        "link": "https://www.youtube.com/@TrakinTech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/CoxkM-bkUecdch2e4R7gaa5gyMAqrhKrYqyjTL0_kkJ1lUb44-cNA5tAOYKX1jAk1OVEU1qO6g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3 दिन पहले",
+      "views": 520573,
+      "length": "3:50",
+      "description": "... 1st Best Smartphone Under ₹30000 01:33 2nd Best Smartphone Under ₹30000 02:02 3rd Best Smartphone Under ₹30000 ...",
+      "extensions": [
+        "नया",
+        "5 प्रॉडक्ट"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/duBKXZrsKg8/hq720_custom_3.jpg?sqp=CPznmtYG-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBic6zvlvNJCu6ORFJoa9tZIpMIgg",
+        "rich": "https://i.ytimg.com/an_webp/duBKXZrsKg8/mqdefault_6s.webp?du=3000&sqp=CKLjmtYG&rs=AOn4CLBtfrNIdPDSoCTIYLcyDXZMR3hAYg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Top 5 Best Mobile Phones Under ₹30000⚡Amazon & Flipkart Sale 2026 | Best Phone Under 30000 😱",
+      "link": "https://www.youtube.com/watch?v=WWpRe3fA9YE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=WWpRe3fA9YE",
+      "video_id": "WWpRe3fA9YE",
+      "channel": {
+        "name": "Harshit Technical",
+        "link": "https://www.youtube.com/@HarshitTechnicalYT",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mMqJvZR9c7YXcXzOrBTuPtPzFxwvlxPqMxbQIddA9yHYc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3 सप्ताह पहले",
+      "views": 145426,
+      "length": "10:29",
+      "description": "Top Smartphone Under ₹30000, Top 5 Best Mobile Phones Under ₹30000 Budget,Flipkart Sale 2026 Best Phone Under 30000 ...",
+      "extensions": [
+        "3 प्रॉडक्ट",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WWpRe3fA9YE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiUbqt5XKtvnSurrxEKzjuAhCVIg",
+        "rich": "https://i.ytimg.com/an_webp/WWpRe3fA9YE/mqdefault_6s.webp?du=3000&sqp=CKymmtYG&rs=AOn4CLANVlWstwDky6BB_Hwr22b3-9AJuA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Best CAMERA PHONE under 30k, 40k, 50k, 60k, 70k, 80k - Flipkart & Amazon SALE!",
+      "link": "https://www.youtube.com/watch?v=SYFq9ztLD9I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=SYFq9ztLD9I",
+      "video_id": "SYFq9ztLD9I",
+      "channel": {
+        "name": "TechBar",
+        "link": "https://www.youtube.com/@TechBar",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/TQ3e9Ye1BqlarAIyngEWlrKVyCVQpNYMiGUsE5PZSXjQ94cPXb01HfdCFpovzn_JMyUO8e4o=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6 घं॰ पहले",
+      "views": 89875,
+      "length": "11:21",
+      "description": "Looking for the best camera phone in the Flipkart and Amazon Sale? In this video, we break down the absolute best camera ...",
+      "extensions": [
+        "नया",
+        "14 प्रॉडक्ट"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SYFq9ztLD9I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo2ntDqREZDP9k5Q5b_kXgR9Ts_A",
+        "rich": "https://i.ytimg.com/an_webp/SYFq9ztLD9I/mqdefault_6s.webp?du=3000&sqp=CIDBmtYG&rs=AOn4CLDaA3KJGIH9Qb0X4YVrBWYluw_ZYQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Best Phones For Everyone Under 30K - Flipkart BBD & Amazon Sale ! 🔥",
+      "link": "https://www.youtube.com/watch?v=iS9y396hJFk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=iS9y396hJFk",
+      "video_id": "iS9y396hJFk",
+      "channel": {
+        "name": "VJ MEHTA",
+        "link": "https://www.youtube.com/@TechyMehta",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/2gF8BNod5962rp0K0MAfS7a4nVURtRlAVACglbzeuedhl55d0HswIOKcXcY8Rf_HsRuJLuoP=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8 घं॰ पहले",
+      "views": 8482,
+      "length": "8:40",
+      "description": "Watch till the end to find out the **best phone under ₹30000 in the Flipkart BBD & Amazon Sale 2026** and which phone you ...",
+      "extensions": [
+        "नया",
+        "14 प्रॉडक्ट"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/iS9y396hJFk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYmKuW_fk5fZZK41U4eDsovWMu7Q",
+        "rich": "https://i.ytimg.com/an_webp/iS9y396hJFk/mqdefault_6s.webp?du=3000&sqp=CMnnmtYG&rs=AOn4CLAIRSP3X3vUYHm_AdlkoOM2hvfUww"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Best Smartphone to Buy - My Clear Suggestion (2026)",
+      "link": "https://www.youtube.com/watch?v=pL3xeFqZxvg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=pL3xeFqZxvg",
+      "video_id": "pL3xeFqZxvg",
+      "channel": {
+        "name": "Gyan Therapy",
+        "link": "https://www.youtube.com/@GyanTherapy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11 घं॰ पहले",
+      "views": 643143,
+      "length": "19:36",
+      "description": "... vivo, oppo etc in 2026 best smartphone under 20000 smartphone under 30000 smartphone under 50000 to 1 lakh Thanks for ...",
+      "extensions": [
+        "नया",
+        "8 प्रॉडक्ट"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pL3xeFqZxvg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT1XIrYV9HBEseWA1cCC5KHj70Kg",
+        "rich": "https://i.ytimg.com/an_webp/pL3xeFqZxvg/mqdefault_6s.webp?du=3000&sqp=CIDimtYG&rs=AOn4CLB8S-YR7o1aZOhDcEf2v_cOGpNN_w"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Top 5 phone under 30000 in October 2026 | flipkart Bbd sale 2026",
+      "link": "https://www.youtube.com/watch?v=gdQJn8FE42Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=gdQJn8FE42Y",
+      "video_id": "gdQJn8FE42Y",
+      "channel": {
+        "name": "Gadgets news Hindii",
+        "link": "https://www.youtube.com/@GadgetsnewsHindii",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/iIOgYYlNYWBbASasbB_tE6UhbNaHMi2Q_Z1-xOWK_2XnoCxICi6c0fniN1UljOZpHDqZkPoz7A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2 दिन पहले",
+      "views": 10839,
+      "length": "16:11",
+      "description": "Top 5 phone under 30000 in October 2026 in this video we have talked about best phone under 30000 YOU CAN FOLLOW US ...",
+      "extensions": [
+        "नया",
+        "7 प्रॉडक्ट"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gdQJn8FE42Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCs5T3WyCvrhafkdwHdZGJwdIsp1g",
+        "rich": "https://i.ytimg.com/an_webp/gdQJn8FE42Y/mqdefault_6s.webp?du=3000&sqp=CN7TmtYG&rs=AOn4CLA1niW8eTf0700EKcW-jUB84Yex4g"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "I Found the Best Phones Under 30000 To 35000 in Flipkart Big Billion Days Sale 2026 !",
+      "link": "https://www.youtube.com/watch?v=3NGXKiMpQ9k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=3NGXKiMpQ9k",
+      "video_id": "3NGXKiMpQ9k",
+      "channel": {
+        "name": "Techcaff",
+        "link": "https://www.youtube.com/@techcaff",
+        "thumbnail": "https://yt3.ggpht.com/ehmCJhjUMp3-8obJVsLwfu4C1Td4M6CGdxA0GNh7cpKybLXEkmIiJicO-3aD6-OBzYlgFIcq=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2 दिन पहले",
+      "views": 18593,
+      "length": "9:39",
+      "description": "I Found the Best Phones Under 30000 To 35000 in Flipkart Big Billion Days Sale 2026 02:50 Important Update must watch   Best ...",
+      "extensions": [
+        "नया",
+        "19 प्रॉडक्ट"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3NGXKiMpQ9k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnMM8F6Aw7MKuq33kGZgftZ1c_ng",
+        "rich": "https://i.ytimg.com/an_webp/3NGXKiMpQ9k/mqdefault_6s.webp?du=3000&sqp=CN7YmtYG&rs=AOn4CLBdFngkTAVl50LwJd8NrNtMj0Sv3Q"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Best Phone under 30000 buy before Flipkart Big Billion Days Sale 2026 🔥🔥 Best Mobile under 30000",
+      "link": "https://www.youtube.com/watch?v=vrG9j1dfT10",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=vrG9j1dfT10",
+      "video_id": "vrG9j1dfT10",
+      "channel": {
+        "name": "Tech Guide",
+        "link": "https://www.youtube.com/@TechGuideOff",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lIOEAy_z73jDdcVKLwvi1JpXiwVCVAYCdRt4FzBRC4V8Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2 सप्ताह पहले",
+      "views": 43344,
+      "length": "11:08",
+      "description": "This video is about best phone under 30000 ft. realme P4 Pro that is available below 30000 and if you are waiting for flipkart big ...",
+      "extensions": [
+        "1 प्रॉडक्ट",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vrG9j1dfT10/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRV-3A1_ed4CVS5OHC4J9RMczqqA",
+        "rich": "https://i.ytimg.com/an_webp/vrG9j1dfT10/mqdefault_6s.webp?du=3000&sqp=CMTQmtYG&rs=AOn4CLB2i_ih9JCeOcnVT2_jAN1l5zA6Sg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Top 5 Phones To Buy From ₹30,000 to ₹40,000 In Flipkart Big Billion Day Sale!",
+      "link": "https://www.youtube.com/watch?v=A_ivWjSl130",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=A_ivWjSl130",
+      "video_id": "A_ivWjSl130",
+      "channel": {
+        "name": "Perfect Gadget",
+        "link": "https://www.youtube.com/@PerfectGadget",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/aeZFKiYws9dSWTsP-f317nwG6rXEWMzCmWMxId0X9oCMuKcAsz-UG95VszjuulZiNCjEj4e7=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3 दिन पहले",
+      "views": 90074,
+      "length": "5:16",
+      "description": "Top Smartphone Under ₹40000, Top 5 Best Mobile Phones Under ₹40000 Budget,OCT 2026 Best Phone Under 40000, Best ...",
+      "extensions": [
+        "नया",
+        "3 प्रॉडक्ट"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/A_ivWjSl130/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC4CLeU_5MeDJ5cbaI3wUWv5KvZw",
+        "rich": "https://i.ytimg.com/an_webp/A_ivWjSl130/mqdefault_6s.webp?du=3000&sqp=CPTlmtYG&rs=AOn4CLAraJmdDXGFM-b7UaFK346Kh-HWCA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Best All-Rounder 5G Phones : Under ₹30,000 🏆",
+      "link": "https://www.youtube.com/watch?v=NH1LKUIAOS4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=NH1LKUIAOS4",
+      "video_id": "NH1LKUIAOS4",
+      "channel": {
+        "name": "Techno Ruhez",
+        "link": "https://www.youtube.com/@TechnoRuhez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/QRorXoNjkwDgFhrnplEqz189m9qAgdM3aglBMM4Eat3dULvqu2fyutNchcB_U8REOd83LmYWqyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4 माह पहले",
+      "views": 163694,
+      "length": "11:01",
+      "description": "Best Smartphones Of 2026 Under ₹30000 Hello Dosto Is video me maine India me ₹30000 ke andar aane wale Top 11+ best ...",
+      "extensions": [
+        "17 प्रॉडक्ट",
+        "कमीशन मिलेगा"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/NH1LKUIAOS4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2WZFhKr-TAUTN4gaPCrwolA8xvw",
+        "rich": "https://i.ytimg.com/an_webp/NH1LKUIAOS4/mqdefault_6s.webp?du=3000&sqp=CPS8mtYG&rs=AOn4CLDE2yL3WhocrxaKC-w6_p3zfB7o4A"
+      }
+    },
+    {
+      "position_on_page": 21,
+      "title": "GREAT Phone under 30,000 Rupees? *Real Life Review*",
+      "link": "https://www.youtube.com/watch?v=dR5kt_a62sg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=dR5kt_a62sg",
+      "video_id": "dR5kt_a62sg",
+      "channel": {
+        "name": "TechBar",
+        "link": "https://www.youtube.com/@TechBar",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/TQ3e9Ye1BqlarAIyngEWlrKVyCVQpNYMiGUsE5PZSXjQ94cPXb01HfdCFpovzn_JMyUO8e4o=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1 माह पहले",
+      "views": 244684,
+      "length": "7:42",
+      "description": "TechBar #India #Hindi #Motorola Is the Motorola Edge 70 Fusion still the ultimate smartphone under ₹30000 in India, or are ...",
+      "extensions": [
+        "2 प्रॉडक्ट",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/dR5kt_a62sg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAFzPacmpm_VJf4P5ORS4ou3xG0Q",
+        "rich": "https://i.ytimg.com/an_webp/dR5kt_a62sg/mqdefault_6s.webp?du=3000&sqp=CPDVmtYG&rs=AOn4CLDCkTqtQnFM3TnHNipXDYbFKCVjNQ"
+      }
+    },
+    {
+      "position_on_page": 22,
+      "title": "Top Smartphones - Under 30,000/- Price in India !",
+      "link": "https://www.youtube.com/watch?v=whyTGnyOUwQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=whyTGnyOUwQ",
+      "video_id": "whyTGnyOUwQ",
+      "channel": {
+        "name": "Gyan Therapy",
+        "link": "https://www.youtube.com/@GyanTherapy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/pGwLUkx1eOojRlcqnvOD6G30CCLpVhP-AxzX9yJ7OmN0zoBSuptrxi8FqMzRA2Jj5ChX37g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4 माह पहले",
+      "views": 1016375,
+      "length": "11:00",
+      "description": "Mobile smartphones under 30000 price Smartphones under 25000 price Best amazon & Flipkart offer Best Samsung, Realme, ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/whyTGnyOUwQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcvlKT3Jg5FD9btECDsCW2ShoEOQ",
+        "rich": "https://i.ytimg.com/an_webp/whyTGnyOUwQ/mqdefault_6s.webp?du=3000&sqp=CMDgmtYG&rs=AOn4CLB6QPFG07h5ca7yU_EiMccgnC3giA"
+      }
+    },
+    {
+      "position_on_page": 23,
+      "title": "हर उपयोगकर्ता के लिए सर्वश्रेष्ठ फ़ोन - 10000, 15000, 20000, 25000, 30000, 40000, 50000 से कम",
+      "link": "https://www.youtube.com/watch?v=r4FGG33YE48",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=hi&v=r4FGG33YE48",
+      "video_id": "r4FGG33YE48",
+      "channel": {
+        "name": "Technology Gyan",
+        "link": "https://www.youtube.com/@TechnologyGyan",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/utfTJ7b2YEJSS7Ta5t1NR2QzkMm4_ODijQZI8hKDIJA7msvsISYh1dyw2PLHjzlfr7hrW5sVrQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11 माह पहले",
+      "views": 2581588,
+      "length": "13:12",
+      "description": "🔥 खरीदने के लिए सर्वश्रेष्ठ स्मार्टफोन - हर बजट में परफेक्ट फोन! 🔥\nअगर आप भी कंफ्यूज हैं कि आपके लिए कौन सा फोन ...",
+      "extensions": [
+        "6 प्रॉडक्ट",
+        "कमीशन मिलेगा"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/r4FGG33YE48/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA8HabmAVr8wrnLC_hkc05mRChPA",
+        "rich": "https://i.ytimg.com/an_webp/r4FGG33YE48/mqdefault_6s.webp?du=3000&sqp=CIusmtYG&rs=AOn4CLD6u570OIpYHZRUj2i-no0aEkJpbQ"
+      }
+    }
+  ],
+  "shorts_results": [
+    {
+      "position_on_page": 4,
+      "shorts": [
+        {
+          "title": "Top 3 Best Phone Under 30000 in 2026 ⚡️ Best 5G Mobile Under 30000 Part 2",
+          "link": "https://www.youtube.com/shorts/rfbPKNDNkFA",
+          "thumbnail": "https://i.ytimg.com/vi/rfbPKNDNkFA/frame0.jpg",
+          "views_original": "25 हज़ार व्यू",
+          "views": 25000,
+          "video_id": "rfbPKNDNkFA"
+        },
+        {
+          "title": "Top 5 Best Smartphones Under ₹30,000 in Flipkart Big Billion Days Sale 2026 📱🔥 | Best Camera Phones",
+          "link": "https://www.youtube.com/shorts/DmpTAXhLOTo",
+          "thumbnail": "https://i.ytimg.com/vi/DmpTAXhLOTo/frame0.jpg",
+          "views_original": "7.7 हज़ार व्यू",
+          "views": 7700,
+          "video_id": "DmpTAXhLOTo"
+        },
+        {
+          "title": "3 Best Camera Phone Under 30000 In 2026 | Best 5G Smartphone Under 30000 | Mobile Under 30k",
+          "link": "https://www.youtube.com/shorts/GxSYpvE_oDU",
+          "thumbnail": "https://i.ytimg.com/vi/GxSYpvE_oDU/frame0.jpg",
+          "views_original": "23 हज़ार व्यू",
+          "views": 23000,
+          "video_id": "GxSYpvE_oDU"
+        },
+        {
+          "title": "Top 5 Best Phone under ₹30000 in 2026 | 30000 under Best Smartphone | Flipkart & Amazon Sale #phone",
+          "link": "https://www.youtube.com/shorts/Eh4XamaX1ds",
+          "thumbnail": "https://i.ytimg.com/vi/Eh4XamaX1ds/frame0.jpg",
+          "views_original": "6.5 हज़ार व्यू",
+          "views": 6500,
+          "video_id": "Eh4XamaX1ds"
+        },
+        {
+          "title": "Top 5 Best Mobile Phones Under ₹30000⚡Amazon & Flipkart Sale 2026 | Best Phone Under 30000 😱",
+          "link": "https://www.youtube.com/shorts/UGHjMWp70iw",
+          "thumbnail": "https://i.ytimg.com/vi/UGHjMWp70iw/frame0.jpg",
+          "views_original": "2.7 लाख व्यू",
+          "views": 270000,
+          "video_id": "UGHjMWp70iw"
+        }
+      ]
+    },
+    {
+      "position_on_page": 8,
+      "shorts": [
+        {
+          "title": "Top 5 Best Phones Under 30000 | Best Phone Under 30000 | Best Smartphone Under 30000 | Tech Deepak",
+          "link": "https://www.youtube.com/shorts/cFo9tvUmwuY",
+          "thumbnail": "https://i.ytimg.com/vi/cFo9tvUmwuY/frame0.jpg",
+          "views_original": "12 हज़ार व्यू",
+          "views": 12000,
+          "video_id": "cFo9tvUmwuY"
+        },
+        {
+          "title": "Best Phone Under 30000 in 2026 ⚡️ Best 5G Mobile Under 30000",
+          "link": "https://www.youtube.com/shorts/DArtUQHFC7k",
+          "thumbnail": "https://i.ytimg.com/vi/DArtUQHFC7k/frame0.jpg",
+          "views_original": "37 लाख व्यू",
+          "views": 3700000,
+          "video_id": "DArtUQHFC7k"
+        },
+        {
+          "title": "2026 में ₹30,000 से कम कीमत वाले सर्वश्रेष्ठ फ़ोन 🔥 वीडियो देखे बिना न खरीदें!",
+          "link": "https://www.youtube.com/shorts/2h-m-zQNHuc",
+          "thumbnail": "https://i.ytimg.com/vi/2h-m-zQNHuc/frame0.jpg",
+          "views_original": "58 लाख व्यू",
+          "views": 5800000,
+          "video_id": "2h-m-zQNHuc"
+        },
+        {
+          "title": "Best Camera Phones Under ₹30,000 🔥 | Top 5 Camera Phones in 2026 📸",
+          "link": "https://www.youtube.com/shorts/BOBBnobmXaI",
+          "thumbnail": "https://i.ytimg.com/vi/BOBBnobmXaI/frame0.jpg",
+          "views_original": "2.3 हज़ार व्यू",
+          "views": 2300,
+          "video_id": "BOBBnobmXaI"
+        },
+        {
+          "title": "Best Phones Under ₹30,000 in Big Billion Days 2026! 🔥Realme P4 Power vs GT 30 Pro vs Edge 70 Fusion",
+          "link": "https://www.youtube.com/shorts/WZoiXBhF9ZU",
+          "thumbnail": "https://i.ytimg.com/vi/WZoiXBhF9ZU/frame0.jpg",
+          "views_original": "40 हज़ार व्यू",
+          "views": 40000,
+          "video_id": "WZoiXBhF9ZU"
+        },
+        {
+          "title": "Best Phone Under 30000 in 2026🔥 Best 5G Mobile Phone Under 30000",
+          "link": "https://www.youtube.com/shorts/DFR5R47STFk",
+          "thumbnail": "https://i.ytimg.com/vi/DFR5R47STFk/frame0.jpg",
+          "views_original": "5.2 लाख व्यू",
+          "views": 520000,
+          "video_id": "DFR5R47STFk"
+        },
+        {
+          "title": "Best Smartphones Under ₹30000 in 2026 ⚡ Don’t Buy Before Watching!",
+          "link": "https://www.youtube.com/shorts/4qSsdSR7diQ",
+          "thumbnail": "https://i.ytimg.com/vi/4qSsdSR7diQ/frame0.jpg",
+          "views_original": "16 लाख व्यू",
+          "views": 1600000,
+          "video_id": "4qSsdSR7diQ"
+        },
+        {
+          "title": "2025 में 30,000 से कम कीमत वाले सर्वश्रेष्ठ DSLR कैमरा स्मार्टफोन | 30,000 से कम कीमत वाले सर्वश्रेष्ठ फ़ोन",
+          "link": "https://www.youtube.com/shorts/nJmcG87PWd0",
+          "thumbnail": "https://i.ytimg.com/vi/nJmcG87PWd0/frame0.jpg",
+          "views_original": "21 लाख व्यू",
+          "views": 2100000,
+          "video_id": "nJmcG87PWd0"
+        },
+        {
+          "title": "Best Smartphones Under ₹30,000 🔥 September 2026 | Top Phones to Buy! 📱",
+          "link": "https://www.youtube.com/shorts/zmRwiQquO1k",
+          "thumbnail": "https://i.ytimg.com/vi/zmRwiQquO1k/frame0.jpg",
+          "views_original": "2.4 लाख व्यू",
+          "views": 240000,
+          "video_id": "zmRwiQquO1k"
+        },
+        {
+          "title": "Top 5 Best Phones Under ₹30,000 🔥 BBD & Amazon Sale | Best Smartphone Deals 2026",
+          "link": "https://www.youtube.com/shorts/WjzTUHROjA4",
+          "thumbnail": "https://i.ytimg.com/vi/WjzTUHROjA4/frame0.jpg",
+          "views_original": "484 व्यू",
+          "views": 484,
+          "video_id": "WjzTUHROjA4"
+        },
+        {
+          "title": "Best SmartPhones under ₹30,000 for everyone !!",
+          "link": "https://www.youtube.com/shorts/JrXaqf5sqds",
+          "thumbnail": "https://i.ytimg.com/vi/JrXaqf5sqds/frame0.jpg",
+          "views_original": "2.2 हज़ार व्यू",
+          "views": 2200,
+          "video_id": "JrXaqf5sqds"
+        },
+        {
+          "title": "Top 5 Best Camera Phone Under ₹30000 in 2026🔥Best Camera Phone Under 30000⚡️Best Phone Under 30000",
+          "link": "https://www.youtube.com/shorts/PUs7R51tIYg",
+          "thumbnail": "https://i.ytimg.com/vi/PUs7R51tIYg/frame0.jpg",
+          "views_original": "8.3 लाख व्यू",
+          "views": 830000,
+          "video_id": "PUs7R51tIYg"
+        },
+        {
+          "title": "Best Phones Under ₹30,000 🔥 Flipkart Big Billion Days 2026 | Best Deals! 📱⚡",
+          "link": "https://www.youtube.com/shorts/Dp0JCYJxTwY",
+          "thumbnail": "https://i.ytimg.com/vi/Dp0JCYJxTwY/frame0.jpg",
+          "views_original": "15 हज़ार व्यू",
+          "views": 15000,
+          "video_id": "Dp0JCYJxTwY"
+        },
+        {
+          "title": "Best Phones under ₹30k in Big Billion Days sale | Best Smartphones deals under RS 30000",
+          "link": "https://www.youtube.com/shorts/67q7SzeKIaM",
+          "thumbnail": "https://i.ytimg.com/vi/67q7SzeKIaM/frame0.jpg",
+          "views_original": "324 व्यू",
+          "views": 324,
+          "video_id": "67q7SzeKIaM"
+        },
+        {
+          "title": "BEST PHONES UNDER ₹30,000 🔥 | Flipkart BBD 2026",
+          "link": "https://www.youtube.com/shorts/fRpvN94rKHQ",
+          "thumbnail": "https://i.ytimg.com/vi/fRpvN94rKHQ/frame0.jpg",
+          "views_original": "535 व्यू",
+          "views": 535,
+          "video_id": "fRpvN94rKHQ"
+        },
+        {
+          "title": "Top 3 Best Phone Under ₹30000 - Powerful",
+          "link": "https://www.youtube.com/shorts/s5_waHSGg9Y",
+          "thumbnail": "https://i.ytimg.com/vi/s5_waHSGg9Y/frame0.jpg",
+          "views_original": "1.1 लाख व्यू",
+          "views": 110000,
+          "video_id": "s5_waHSGg9Y"
+        },
+        {
+          "title": "Top 5 Best Phones Under 30000 | Best Phone Under 30000 | Best Smartphone Under 30000 | Tech Deepak",
+          "link": "https://www.youtube.com/shorts/JogJWx-9Fvk",
+          "thumbnail": "https://i.ytimg.com/vi/JogJWx-9Fvk/frame0.jpg",
+          "views_original": "17 हज़ार व्यू",
+          "views": 17000,
+          "video_id": "JogJWx-9Fvk"
+        },
+        {
+          "title": "Top 3 Camera Phones under 30,000 and 50,000",
+          "link": "https://www.youtube.com/shorts/_zlsNKBk2rw",
+          "thumbnail": "https://i.ytimg.com/vi/_zlsNKBk2rw/frame0.jpg",
+          "views_original": "46 हज़ार व्यू",
+          "views": 46000,
+          "video_id": "_zlsNKBk2rw"
+        },
+        {
+          "title": "STOP Buying the Wrong Phone! 🔥 Best Phones Under ₹30,000",
+          "link": "https://www.youtube.com/shorts/yWHxquk5YT8",
+          "thumbnail": "https://i.ytimg.com/vi/yWHxquk5YT8/frame0.jpg",
+          "views_original": "18 हज़ार व्यू",
+          "views": 18000,
+          "video_id": "yWHxquk5YT8"
+        },
+        {
+          "title": "Best Phone Under 30000 in 2026 - Top 5 Best 5G Smartphones Under 30k Freedom Sale Deals",
+          "link": "https://www.youtube.com/shorts/1QjqzFm4LZw",
+          "thumbnail": "https://i.ytimg.com/vi/1QjqzFm4LZw/frame0.jpg",
+          "views_original": "1.8 लाख व्यू",
+          "views": 180000,
+          "video_id": "1QjqzFm4LZw"
+        }
+      ]
+    },
+    {
+      "position_on_page": 14,
+      "shorts": [
+        {
+          "title": "Top 5 Best Smartphones Under ₹30k🔥 (September 2026)",
+          "link": "https://www.youtube.com/shorts/yEbwn1ZJX-U",
+          "thumbnail": "https://i.ytimg.com/vi/yEbwn1ZJX-U/frame0.jpg",
+          "views_original": "4 लाख व्यू",
+          "views": 400000,
+          "video_id": "yEbwn1ZJX-U"
+        },
+        {
+          "title": "Best Smartphones Under ₹30,000 🔥 Top Phones to Buy in 2026! 📱",
+          "link": "https://www.youtube.com/shorts/4sA8ZUHxnW4",
+          "thumbnail": "https://i.ytimg.com/vi/4sA8ZUHxnW4/frame0.jpg",
+          "views_original": "13 लाख व्यू",
+          "views": 1300000,
+          "video_id": "4sA8ZUHxnW4"
+        },
+        {
+          "title": "STOP Buying the Wrong Phone! 🔥 Best Phones Under ₹30,000",
+          "link": "https://www.youtube.com/shorts/yWHxquk5YT8",
+          "thumbnail": "https://i.ytimg.com/vi/yWHxquk5YT8/frame0.jpg",
+          "views_original": "18 हज़ार व्यू",
+          "views": 18000,
+          "video_id": "yWHxquk5YT8"
+        },
+        {
+          "title": "Best 5 Smartphones Under ₹30000 in 2026 🔥",
+          "link": "https://www.youtube.com/shorts/iPQKmbDK4PE",
+          "thumbnail": "https://i.ytimg.com/vi/iPQKmbDK4PE/frame0.jpg",
+          "views_original": "3.1 लाख व्यू",
+          "views": 310000,
+          "video_id": "iPQKmbDK4PE"
+        },
+        {
+          "title": "Top 5 Best Camera Phone Under ₹30000 in 2026🔥Best Camera Phone Under 30000⚡️Best Phone Under 30000",
+          "link": "https://www.youtube.com/shorts/PUs7R51tIYg",
+          "thumbnail": "https://i.ytimg.com/vi/PUs7R51tIYg/frame0.jpg",
+          "views_original": "8.3 लाख व्यू",
+          "views": 830000,
+          "video_id": "PUs7R51tIYg"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=best+phone+under+30000+review+hindi&gl=in&hl=hi",
+    "next": "https://www.youtube.com/results?gl=in&hl=hi&search_query=best%20phone%20under%2030000%20review%20hindi&sp=SBSCAQtaUlZSQm5yU05uY4IBC0pVenNycVRxbWY4ggELdEpIU2NvNWdKaEGCAQtHVnBCSXloVzNSQYIBCzJjLXVvVy1OUElRggELcGcySHViUlVWZFmCAQtvUGYxWEg3MVIwSYIBC2R1QktYWnJzS2c4ggELV1dwUmUzZkE5WUWCAQtTWUZxOXp0TEQ5SYIBC2lTOXkzOTZoSkZrggELcEwzeGVGcVp4dmeCAQtnZFFKbjhGRTQyWYIBCzNOR1hLaU1wUTlrggELdnJHOWoxZGZUMTCCAQtBX2l2V2pTbDEzMIIBC05IMUxLVUlBT1M0ggELZFI1a3RfYTYyc2eCAQt3aHlUR255T1V3UYIBC3I0RkdHMzNZRTQ4sgEGCgQIGBAC6gEECAIQGQ%253D%253D",
+    "next_page_token": "SBSCAQtaUlZSQm5yU05uY4IBC0pVenNycVRxbWY4ggELdEpIU2NvNWdKaEGCAQtHVnBCSXloVzNSQYIBCzJjLXVvVy1OUElRggELcGcySHViUlVWZFmCAQtvUGYxWEg3MVIwSYIBC2R1QktYWnJzS2c4ggELV1dwUmUzZkE5WUWCAQtTWUZxOXp0TEQ5SYIBC2lTOXkzOTZoSkZrggELcEwzeGVGcVp4dmeCAQtnZFFKbjhGRTQyWYIBCzNOR1hLaU1wUTlrggELdnJHOWoxZGZUMTCCAQtBX2l2V2pTbDEzMIIBC05IMUxLVUlBT1M0ggELZFI1a3RfYTYyc2eCAQt3aHlUR255T1V3UYIBC3I0RkdHMzNZRTQ4sgEGCgQIGBAC6gEECAIQGQ%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=hi&search_query=best+phone+under+30000+review+hindi",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=hi&search_query=best+phone+under+30000+review+hindi&sp=SBSCAQtaUlZSQm5yU05uY4IBC0pVenNycVRxbWY4ggELdEpIU2NvNWdKaEGCAQtHVnBCSXloVzNSQYIBCzJjLXVvVy1OUElRggELcGcySHViUlVWZFmCAQtvUGYxWEg3MVIwSYIBC2R1QktYWnJzS2c4ggELV1dwUmUzZkE5WUWCAQtTWUZxOXp0TEQ5SYIBC2lTOXkzOTZoSkZrggELcEwzeGVGcVp4dmeCAQtnZFFKbjhGRTQyWYIBCzNOR1hLaU1wUTlrggELdnJHOWoxZGZUMTCCAQtBX2l2V2pTbDEzMIIBC05IMUxLVUlBT1M0ggELZFI1a3RfYTYyc2eCAQt3aHlUR255T1V3UYIBC3I0RkdHMzNZRTQ4sgEGCgQIGBAC6gEECAIQGQ%253D%253D",
+    "next_page_token": "SBSCAQtaUlZSQm5yU05uY4IBC0pVenNycVRxbWY4ggELdEpIU2NvNWdKaEGCAQtHVnBCSXloVzNSQYIBCzJjLXVvVy1OUElRggELcGcySHViUlVWZFmCAQtvUGYxWEg3MVIwSYIBC2R1QktYWnJzS2c4ggELV1dwUmUzZkE5WUWCAQtTWUZxOXp0TEQ5SYIBC2lTOXkzOTZoSkZrggELcEwzeGVGcVp4dmeCAQtnZFFKbjhGRTQyWYIBCzNOR1hLaU1wUTlrggELdnJHOWoxZGZUMTCCAQtBX2l2V2pTbDEzMIIBC05IMUxLVUlBT1M0ggELZFI1a3RfYTYyc2eCAQt3aHlUR255T1V3UYIBC3I0RkdHMzNZRTQ4sgEGCgQIGBAC6gEECAIQGQ%3D%3D"
+  }
+}

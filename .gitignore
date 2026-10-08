@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+__pycache__/
+.venv/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.playwright-mcp/
+
+# Notes stay local. Only README.md files (any folder) and hackathon.md (the judges' page) go in the repo.
+*.md
+!README.md
+!hackathon.md

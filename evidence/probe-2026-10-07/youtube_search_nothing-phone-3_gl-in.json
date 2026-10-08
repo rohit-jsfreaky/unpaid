@@ -1,0 +1,719 @@
+{
+  "search_metadata": {
+    "id": "6ac60c83a7d78492f86839e0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/NNlth2EgJhYwSoNJSS6kvBzkiwELDSSAYbiduwygeDE/6ac60c83a7d78492f86839e0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/NNlth2EgJhYwSoNJSS6kvBzkiwELDSSAYbiduwygeDE/6ac60c83a7d78492f86839e0.md",
+    "created_at": "2026-10-07 09:10:27 UTC",
+    "processed_at": "2026-10-07 09:10:27 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Nothing+Phone+3+review&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/NNlth2EgJhYwSoNJSS6kvBzkiwELDSSAYbiduwygeDE/6ac60c83a7d78492f86839e0.html",
+    "total_time_taken": 3.68
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Nothing Phone 3 review",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 12930609,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Nothing Phone 3 Review: They Lied!",
+      "link": "https://www.youtube.com/watch?v=4KbrxIpQgkM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4KbrxIpQgkM",
+      "video_id": "4KbrxIpQgkM",
+      "channel": {
+        "name": "Marques Brownlee",
+        "link": "https://www.youtube.com/@mkbhd",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 4233112,
+      "length": "15:38",
+      "description": "So you want to be a flagship? Nothing Phone 3: https://geni.us/Lv2Fcd MKBHD Merch: http://shop.MKBHD.com Playlist of MKBHD ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4KbrxIpQgkM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8DFgMtpiR5uOCRPPLHY1b3GVXSg",
+        "rich": "https://i.ytimg.com/an_webp/4KbrxIpQgkM/mqdefault_6s.webp?du=3000&sqp=CKaSmNYG&rs=AOn4CLB7o7Pn4im50g8k_b960uz6TNqOfA"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Nothing Phone (3) Review - 6 Months Later",
+      "link": "https://www.youtube.com/watch?v=vsC7ziJdpiI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vsC7ziJdpiI",
+      "video_id": "vsC7ziJdpiI",
+      "channel": {
+        "name": "6 Months Later",
+        "link": "https://www.youtube.com/@6MonthsLater",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/2Kiy90zc2RNKwNkAaZuMSLZAkPfP332BHsTJDjEuZc22fO7v2iwUGOEKytVkSyNtxJ6Ujcqe=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 171030,
+      "length": "13:41",
+      "description": "Is the Nothing Phone (3) secretly a good phone? Is it really that ugly? And what's really stood out with this phone over the past 6 ...",
+      "extensions": [
+        "2 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vsC7ziJdpiI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8ubkk104CFC8mTsA1_DJP6whZQA",
+        "rich": "https://i.ytimg.com/an_webp/vsC7ziJdpiI/mqdefault_6s.webp?du=3000&sqp=CLD7l9YG&rs=AOn4CLD6awMrLStw0qU_Bl1XDsfPHzhcqw"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Nothing Phone 3 In 2026! (Still Worth It?) (Review)",
+      "link": "https://www.youtube.com/watch?v=hxBYO4k7uBM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hxBYO4k7uBM",
+      "video_id": "hxBYO4k7uBM",
+      "channel": {
+        "name": "Simple Alpaca",
+        "link": "https://www.youtube.com/@SimpleAlpaca",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kc7747L68U3IZIDYN6HJHyIg6C1VFEHK2b92NvZ9b-pck=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 16259,
+      "length": "3:41",
+      "description": "Get The Cheapest iPhones Here: https://amzn.to/3JTnWAr Get The Cheapest Androids Here: https://amzn.to/3r2k1st Wallpapers I ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hxBYO4k7uBM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAH5UeQKdCP4_SqMQtCYB_VolZQOQ",
+        "rich": "https://i.ytimg.com/an_webp/hxBYO4k7uBM/mqdefault_6s.webp?du=3000&sqp=CJ7vl9YG&rs=AOn4CLB_3s-CLt9lpfNLmruckFiUcm-ziw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Nothing Phone (3) review",
+      "link": "https://www.youtube.com/watch?v=ne5ALl_ai58",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ne5ALl_ai58",
+      "video_id": "ne5ALl_ai58",
+      "channel": {
+        "name": "GSMArena Official",
+        "link": "https://www.youtube.com/@GSMArenaOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/N9Qlp4XZp5IMR4z1JRFT2p2AookwU-bniyAhN8jFe-DfpKlvhklPBUlYo4Bkbh4h0Gwfs1BoRA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 124474,
+      "length": "9:45",
+      "description": "The third time's a charm - or so Nothing hopes with its latest release, the Nothing Phone (3). Following up on the well-received ...",
+      "extensions": [
+        "1 product",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ne5ALl_ai58/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAGXc4WgCVuW_JNBnB1DgomDqL7g",
+        "rich": "https://i.ytimg.com/an_webp/ne5ALl_ai58/mqdefault_6s.webp?du=3000&sqp=CPiGmNYG&rs=AOn4CLAzOtFMEc6it4wNv0RtZml6jGsM1Q"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Nothing Phone (3) - What have you done!?",
+      "link": "https://www.youtube.com/watch?v=k5itPbQtz_Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=k5itPbQtz_Y",
+      "video_id": "k5itPbQtz_Y",
+      "channel": {
+        "name": "Mrwhosetheboss",
+        "link": "https://www.youtube.com/@Mrwhosetheboss",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/QFI5OsUuSRHV-YpwksnVqpqWC19gjU55smnxPzLVU5Y5ohqKIkxq21nV_VfBJhvanYeMBot21A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 5189994,
+      "length": "15:16",
+      "description": "Hands on and initial impressions of the Nothing Phone(3) - including camera, screen, battery, specs, price and more! Take your ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/k5itPbQtz_Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEtC9qrmEw3h-1c7MJhn1vQHQsQA",
+        "rich": "https://i.ytimg.com/an_webp/k5itPbQtz_Y/mqdefault_6s.webp?du=3000&sqp=CN6EmNYG&rs=AOn4CLDjjiyO-B2FESSrjJSa_BMZajdDmg"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Nothing Phone (3) Review: Nothing Like You Expect",
+      "link": "https://www.youtube.com/watch?v=01jJv0C_028",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=01jJv0C_028",
+      "video_id": "01jJv0C_028",
+      "channel": {
+        "name": "MrMobile [Michael Fisher]",
+        "link": "https://www.youtube.com/@TheMrMobile",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/RpqJy1uS9sbNkT9zExMcvg0_wiGr-84xC-D0k5gLyOtDw1NMSzySlMz-ldmBtWCKqgUzjHMu=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 209490,
+      "length": "10:00",
+      "description": "There's a problem with trying to stand out in smartphones in 2025: it's almost impossible. That's a problem London-based mobile ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/01jJv0C_028/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLqilsd3CPAJU4iB7t6J9M2nc1CQ",
+        "rich": "https://i.ytimg.com/an_webp/01jJv0C_028/mqdefault_6s.webp?du=3000&sqp=CJyRmNYG&rs=AOn4CLBT7kYMRbMwZSqrpd2Zz8U3zCth3Q"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Nothing CEO reacts to Phone (3) reviews",
+      "link": "https://www.youtube.com/watch?v=qP0zM0bq3eo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qP0zM0bq3eo",
+      "video_id": "qP0zM0bq3eo",
+      "channel": {
+        "name": "Nothing",
+        "link": "https://www.youtube.com/@NothingTechnology",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/2diTy-bnn-95Gw4BUXkyZ3ugV_mIrLBXWm4_TFaVOPeZyiGMA7E7xWCB4UzemKhAOCBe6m1F=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 2268812,
+      "length": "14:51",
+      "description": "Sit down with Nothing CEO Carl Pei as he reacts to YouTube's techtubers' comments about the Nothing Phone (3).This one's ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qP0zM0bq3eo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6e2QldGXBOWbeZnUQBOwYbaBTkA",
+        "rich": "https://i.ytimg.com/an_webp/qP0zM0bq3eo/mqdefault_6s.webp?du=3000&sqp=CJ77l9YG&rs=AOn4CLDSfDjDUVUlHZn0BxrUh73T8W4LxA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Nothing Phone 3: This is NOT a Flagship Phone (Review) | All Things Mobile",
+      "link": "https://www.youtube.com/watch?v=5Na2PAD8Znc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5Na2PAD8Znc",
+      "video_id": "5Na2PAD8Znc",
+      "channel": {
+        "name": "CNET",
+        "link": "https://www.youtube.com/@CNET",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/SGoD0SodPuysPRUSFI8jd_eqR-ZCgvxhZk905338O1NUYI5eUqMZ1lQaekFNiDggJh0lA_5kQg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 18745,
+      "length": "7:39",
+      "description": "Nothing's latest phone is out, and it's pushing its unique design further with the new Glyph Matrix. But in a crowded market ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5Na2PAD8Znc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz7u76hUybk3cNokO1n9_H9ejfCw",
+        "rich": "https://i.ytimg.com/an_webp/5Na2PAD8Znc/mqdefault_6s.webp?du=3000&sqp=CPKOmNYG&rs=AOn4CLBxc97U8AcN-KIp50bP-H17FPj0Yg"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Nothing Phone 3 Review | Literally Hottest Phone Of 2025",
+      "link": "https://www.youtube.com/watch?v=6s6FF-wljuM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6s6FF-wljuM",
+      "video_id": "6s6FF-wljuM",
+      "channel": {
+        "name": "Tech Spurt",
+        "link": "https://www.youtube.com/@TechSpurt",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/cHE0REG7vM0_ZDMqkkV7ahQa0ZPBb0H-melZXshyeeWwlwUT6QJyCKKDS4_N7hBaB4dXlfbPPPw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 171905,
+      "length": "21:25",
+      "description": "Reviewing the Nothing Phone 3, Carl & Co's \"first flagship phone\", to see if the camera tech, gaming chops, battery life etc stack ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6s6FF-wljuM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpVGA-d8QD8z_yIOKTI4o_DWMU6A",
+        "rich": "https://i.ytimg.com/an_webp/6s6FF-wljuM/mqdefault_6s.webp?du=3000&sqp=CKOWmNYG&rs=AOn4CLASg4NZl9qMhn6HSaG6bipWyKv3Pw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "I still need a new phone and I’m losing hope - Nothing Phone (3)",
+      "link": "https://www.youtube.com/watch?v=C2fqp_S43bo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=C2fqp_S43bo",
+      "video_id": "C2fqp_S43bo",
+      "channel": {
+        "name": "ShortCircuit",
+        "link": "https://www.youtube.com/@ShortCircuit",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 738673,
+      "length": "18:40",
+      "description": "Go to https://shortlinus.com for all your case and overpriced stickers needs. Linus really wants to love Nothing's phones… but it's ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/C2fqp_S43bo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6rLenB5vQP6eXgTt-fcCargeJnw",
+        "rich": "https://i.ytimg.com/an_webp/C2fqp_S43bo/mqdefault_6s.webp?du=3000&sqp=CO70l9YG&rs=AOn4CLCLMzGrcgmdm1k8vBgmP9M5As9QyQ"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Nothing Phone 3 - Love it or Hate it?",
+      "link": "https://www.youtube.com/watch?v=1aZF9OTwHvM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1aZF9OTwHvM",
+      "video_id": "1aZF9OTwHvM",
+      "channel": {
+        "name": "Flossy Carter",
+        "link": "https://www.youtube.com/@FlossyCarter",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mYM0Po5paDDCS6yYjmZRASfHQHNsv5haI-4SVmHvI3VHc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 64503,
+      "length": "1:19:16",
+      "description": "Nothing Phone 3 Buy it here, https://us.nothing.tech/ Wanna buy some of my gadgets - http://amzn.to/1zZ2y4P Check out my ...",
+      "extensions": [
+        "1 product",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/1aZF9OTwHvM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6dGl8pBrYmms8ziEzFKXd-R6K6Q",
+        "rich": "https://i.ytimg.com/an_webp/1aZF9OTwHvM/mqdefault_6s.webp?du=3000&sqp=CL3nl9YG&rs=AOn4CLAb31t6yPl8DMwytJUJz_2sblKkCQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Why I Still Love the Nothing Phone 3",
+      "link": "https://www.youtube.com/watch?v=Gn7EWVWu0u4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Gn7EWVWu0u4",
+      "video_id": "Gn7EWVWu0u4",
+      "channel": {
+        "name": "AB Three Phones",
+        "link": "https://www.youtube.com/@ABthreePhones",
+        "thumbnail": "https://yt3.ggpht.com/K1HfCohJIW06BtRnnkIEnypqiiQfI-qjjdPQ39Efu8pnmYaLJpPzm1HOhX-Eg8DmDB3jpobPmp0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 54226,
+      "length": "8:01",
+      "description": "After months of using the Nothing Phone 3, I'm sharing why it's still one of my favorite Android phones. From Nothing OS to the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Gn7EWVWu0u4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr3yVpMi8KRTsbnpsFUe9nP1N_DQ",
+        "rich": "https://i.ytimg.com/an_webp/Gn7EWVWu0u4/mqdefault_6s.webp?du=3000&sqp=CJz4l9YG&rs=AOn4CLAvQvYBHd_JifRw73HaUYlpFMW_AQ"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Ex-Apple User Living 180 Days With Nothing Phone (3)",
+      "link": "https://www.youtube.com/watch?v=lGNhNd844YY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lGNhNd844YY",
+      "video_id": "lGNhNd844YY",
+      "channel": {
+        "name": "Nick Kendall",
+        "link": "https://www.youtube.com/@NickKendall",
+        "thumbnail": "https://yt3.ggpht.com/YK1hFb0mMytpmdpRV4zOEICpJQSzXkgJ21sl1XvqgAGrcBWuyJjdK_Ay_F7OA1WXpVnjOeOcLA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8mo ago",
+      "views": 121369,
+      "length": "11:09",
+      "description": "I've been daily driving the Nothing Phone (3) for 180 days after leaving Apple and Google, and this is my honest long-term verdict.",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lGNhNd844YY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwyTFO2DxtNcQQ_4kX1K7cCv-Krw",
+        "rich": "https://i.ytimg.com/an_webp/lGNhNd844YY/mqdefault_6s.webp?du=3000&sqp=CJySmNYG&rs=AOn4CLAcQQ_0aNQrIzMacudr_CpKXe3ajQ"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "One Year Later - Nothing Phone 3 Review!",
+      "link": "https://www.youtube.com/watch?v=-XDSt-r4AQY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-XDSt-r4AQY",
+      "video_id": "-XDSt-r4AQY",
+      "channel": {
+        "name": "The Tech Bros",
+        "link": "https://www.youtube.com/@TheTechBros",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNAneNMHVEfB0QXK5EU7DnUNlcolG_21yGlSyFBQuWxjA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 25436,
+      "length": "19:44",
+      "description": "Check out our review over the Nothing Phone 3... One year later! This phone has a lot to offer, but does it pass the test of time?",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-XDSt-r4AQY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH8Hs7aRScI3-ZAESWL4e5XM-hlg",
+        "rich": "https://i.ytimg.com/an_webp/-XDSt-r4AQY/mqdefault_6s.webp?du=3000&sqp=CI6DmNYG&rs=AOn4CLDbReDFlCDcjzh8wTmSbQM21GpJWQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "I finally GET it — 30 days with the Nothing Phone 3",
+      "link": "https://www.youtube.com/watch?v=uOP87-dNzyE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uOP87-dNzyE",
+      "video_id": "uOP87-dNzyE",
+      "channel": {
+        "name": "Android Authority",
+        "link": "https://www.youtube.com/@AndroidAuthority",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/1EiH0cEXTu1pTOf_EFtXYgjWV5OgmlBUvDh1ghWBJ8wP1H6_EHvDgOwFNXXEZiyJa1FPYbo25A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 70795,
+      "length": "9:32",
+      "description": "The Nothing Phone 3 is bold, beautiful, and built with solid cameras — easily the company's most refined phone yet. But with its ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/uOP87-dNzyE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuxqLDkh2EnJ5Q-ZtdyBYmoFv_ZA",
+        "rich": "https://i.ytimg.com/an_webp/uOP87-dNzyE/mqdefault_6s.webp?du=3000&sqp=CLGOmNYG&rs=AOn4CLDGstE0tZ3AkIMtxWDnjfZiMa4fsg"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Nothing Phone 3 Detailed Review | Long Term Review after 1 Year",
+      "link": "https://www.youtube.com/watch?v=BJOV-sIILa0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BJOV-sIILa0",
+      "video_id": "BJOV-sIILa0",
+      "channel": {
+        "name": "RON TEK",
+        "link": "https://www.youtube.com/@RONTEK",
+        "thumbnail": "https://yt3.ggpht.com/dAGVjFFXSJ1Vt20yeoHnkYWJdGgmZVbyRY_n0TbCGPIrbTlouKm-wA9hs3brDUrz5LNCn0I1xak=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 20704,
+      "length": "14:05",
+      "description": "In this video, I review the Nothing Phone 3 after using it for 1 year. While its launch price was very high for what it offered, ...",
+      "extensions": [
+        "2 products",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BJOV-sIILa0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcvFySymo76bwcahUZ7o7OSu_ukg",
+        "rich": "https://i.ytimg.com/an_webp/BJOV-sIILa0/mqdefault_6s.webp?du=3000&sqp=CIvll9YG&rs=AOn4CLCLIARndbz90VIyCAgHqclM0ST-xA"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Nothing Phone 3 | Is it worth it now?",
+      "link": "https://www.youtube.com/watch?v=QA3TfaUKL_A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QA3TfaUKL_A",
+      "video_id": "QA3TfaUKL_A",
+      "channel": {
+        "name": "Nathan B Tech",
+        "link": "https://www.youtube.com/@TheNathanVids",
+        "thumbnail": "https://yt3.ggpht.com/8pLNy3IxX2prMon2zDi4GBR_RNTSnoVBhLvCe2EqtrvaGRikLPnmdwuggoJ73KCTage4HsCV=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 23822,
+      "length": "16:54",
+      "description": "Buisness Inquiries: @nathanbrisonbarron@gmail.com Instagram:Nathanbrisonb What's up, friends? Nathan B. Tech here!",
+      "extensions": [
+        "1 product",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/QA3TfaUKL_A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD65bb051AX72QojwygkBM6NKZFLQ",
+        "rich": "https://i.ytimg.com/an_webp/QA3TfaUKL_A/mqdefault_6s.webp?du=3000&sqp=CICBmNYG&rs=AOn4CLDQmY_LGIs7NqaLTNTdFK25f_wQAw"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "The REAL Nothing Phone (3) Experience - Long Term Review",
+      "link": "https://www.youtube.com/watch?v=r1Q-I6Qrecw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r1Q-I6Qrecw",
+      "video_id": "r1Q-I6Qrecw",
+      "channel": {
+        "name": "Jamal Lee",
+        "link": "https://www.youtube.com/@JamalLee1111",
+        "thumbnail": "https://yt3.ggpht.com/IBkJMAQsuxYCy3TgOC_GkkqEUB_iGwaaBYOFFcihhH142waR9M6MLlKBXkNs_rkIp0AMnGjqpA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 29140,
+      "length": "43:09",
+      "description": "Reviewing the Nothing Phone (3), sharing all of my thoughts on this phone. Is it as bad or unworthy of it's price like everyone has ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/r1Q-I6Qrecw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhytJdJwzPjjtPKG8CjMWQEidpKQ",
+        "rich": "https://i.ytimg.com/an_webp/r1Q-I6Qrecw/mqdefault_6s.webp?du=3000&sqp=CKyAmNYG&rs=AOn4CLBTtUchYm-6tcUtJukzki6pbrWutA"
+      }
+    },
+    {
+      "position_on_page": 21,
+      "title": "Nothing Phone 3 Teardown! - Revealing the Truth...",
+      "link": "https://www.youtube.com/watch?v=xItKw0p_s-o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xItKw0p_s-o",
+      "video_id": "xItKw0p_s-o",
+      "channel": {
+        "name": "JerryRigEverything",
+        "link": "https://www.youtube.com/@JerryRigEverything",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ebXyJhsgpfIHg4PXw3eSFTeSx6Ud1us26Gwgshe9jPBvSu82SpQkFmc1GK7q2Go2KJePYQ5Icg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1649166,
+      "length": "10:12",
+      "description": "The Nothing Phone 3 is ready for its Autopsy. Get the unlimited everything Smartphone plan for only $25 here: ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xItKw0p_s-o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaf9HM_6N85TcN0vyXXZWS_rQmgQ",
+        "rich": "https://i.ytimg.com/an_webp/xItKw0p_s-o/mqdefault_6s.webp?du=3000&sqp=CJT9l9YG&rs=AOn4CLBsTsvwbR4QNvjvRpQn1WgYHKNnzg"
+      }
+    },
+    {
+      "position_on_page": 22,
+      "title": "Nothing Phone 3 Long Term Review – Everything Changed in 2026!",
+      "link": "https://www.youtube.com/watch?v=l4dD_p6mbnE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l4dD_p6mbnE",
+      "video_id": "l4dD_p6mbnE",
+      "channel": {
+        "name": "EraserNinja",
+        "link": "https://www.youtube.com/@EraserNinja",
+        "thumbnail": "https://yt3.ggpht.com/ul8XsOXphyCK1jaQRh7aTpVgpkLVqkzUmBBP_RgBevD0LFgRkD5YC6sQW3JFk1xGNVGHqmQxGQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 16030,
+      "length": "8:01",
+      "description": "There are no bad phones, just bad pricing. At a new price, is the Nothing Phone (3) a good choice? . . Please leave a LIKE and ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/l4dD_p6mbnE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9Olq-6VYiWmAv4wnCvDXWLNN0eA",
+        "rich": "https://i.ytimg.com/an_webp/l4dD_p6mbnE/mqdefault_6s.webp?du=3000&sqp=CPfxl9YG&rs=AOn4CLAjJc0QXUy8QYUqGi8wTfYEIswDkA"
+      }
+    }
+  ],
+  "shorts_results": [
+    {
+      "position_on_page": 9,
+      "shorts": [
+        {
+          "title": "The Problem with the Nothing Phone 3",
+          "link": "https://www.youtube.com/shorts/ILGuXJOqmZk",
+          "thumbnail": "https://i.ytimg.com/vi/ILGuXJOqmZk/frame0.jpg",
+          "views_original": "234K views",
+          "views": 234000,
+          "video_id": "ILGuXJOqmZk"
+        },
+        {
+          "title": "Nothing Phone 3 Review After 30 Days ⚡",
+          "link": "https://www.youtube.com/shorts/wQzCl3ScBU0",
+          "thumbnail": "https://i.ytimg.com/vi/wQzCl3ScBU0/frame0.jpg",
+          "views_original": "156K views",
+          "views": 156000,
+          "video_id": "wQzCl3ScBU0"
+        },
+        {
+          "title": "Nothing Phone (3): Hype or Flop?🔥",
+          "link": "https://www.youtube.com/shorts/Z2_DXyXHvtE",
+          "thumbnail": "https://i.ytimg.com/vi/Z2_DXyXHvtE/frame0.jpg",
+          "views_original": "499K views",
+          "views": 499000,
+          "video_id": "Z2_DXyXHvtE"
+        },
+        {
+          "title": "The Nothing Phone 3 Is Wild",
+          "link": "https://www.youtube.com/shorts/ce70Eb3mVho",
+          "thumbnail": "https://i.ytimg.com/vi/ce70Eb3mVho/frame0.jpg",
+          "views_original": "411K views",
+          "views": 411000,
+          "video_id": "ce70Eb3mVho"
+        },
+        {
+          "title": "Nothing Phone (3) Thoughts After 6 Months of Daily Use!",
+          "link": "https://www.youtube.com/shorts/eRsHSBVUyhU",
+          "thumbnail": "https://i.ytimg.com/vi/eRsHSBVUyhU/frame0.jpg",
+          "views_original": "8.4K views",
+          "views": 8400,
+          "video_id": "eRsHSBVUyhU"
+        }
+      ]
+    },
+    {
+      "position_on_page": 13,
+      "shorts": [
+        {
+          "title": "Nothing CEO Reacts to MKBHD's Phone (3) Glyph Matrix Review",
+          "link": "https://www.youtube.com/shorts/k2NqcE0MXY8",
+          "thumbnail": "https://i.ytimg.com/vi/k2NqcE0MXY8/frame0.jpg",
+          "views_original": "429K views",
+          "views": 429000,
+          "video_id": "k2NqcE0MXY8"
+        },
+        {
+          "title": "why i like the nothing phone 3",
+          "link": "https://www.youtube.com/shorts/myzY6WZioM4",
+          "thumbnail": "https://i.ytimg.com/vi/myzY6WZioM4/frame0.jpg",
+          "views_original": "130K views",
+          "views": 130000,
+          "video_id": "myzY6WZioM4"
+        },
+        {
+          "title": "Nothing Phone (3): Do you Love it or Hate it?",
+          "link": "https://www.youtube.com/shorts/8d_lqu4iV74",
+          "thumbnail": "https://i.ytimg.com/vi/8d_lqu4iV74/frame0.jpg",
+          "views_original": "23K views",
+          "views": 23000,
+          "video_id": "8d_lqu4iV74"
+        },
+        {
+          "title": "Nothing Phone 3 UNBOXING! 🔥",
+          "link": "https://www.youtube.com/shorts/AhKC0066724",
+          "thumbnail": "https://i.ytimg.com/vi/AhKC0066724/frame0.jpg",
+          "views_original": "1.4M views",
+          "views": 1400000,
+          "video_id": "AhKC0066724"
+        },
+        {
+          "title": "Must watch this video before buying Nothing phone 3 buy or not || Nothing phone 3 detailed review",
+          "link": "https://www.youtube.com/shorts/5IhAlLz911s",
+          "thumbnail": "https://i.ytimg.com/vi/5IhAlLz911s/frame0.jpg",
+          "views_original": "68K views",
+          "views": 68000,
+          "video_id": "5IhAlLz911s"
+        },
+        {
+          "title": "❌️ Don't Buy Nothing Phone 3 : 3! Biggest Problem 🔥",
+          "link": "https://www.youtube.com/shorts/RN48oowgi2U",
+          "thumbnail": "https://i.ytimg.com/vi/RN48oowgi2U/frame0.jpg",
+          "views_original": "669K views",
+          "views": 669000,
+          "video_id": "RN48oowgi2U"
+        },
+        {
+          "title": "nothing phone 3 first look review,  price , test ,camera",
+          "link": "https://www.youtube.com/shorts/3WHdMS7gmmk",
+          "thumbnail": "https://i.ytimg.com/vi/3WHdMS7gmmk/frame0.jpg",
+          "views_original": "1.1M views",
+          "views": 1100000,
+          "video_id": "3WHdMS7gmmk"
+        },
+        {
+          "title": "Don’t buy nothing phone 3 if you can afford iPhone or Samsung flagship",
+          "link": "https://www.youtube.com/shorts/HIJHwfeJ5sc",
+          "thumbnail": "https://i.ytimg.com/vi/HIJHwfeJ5sc/frame0.jpg",
+          "views_original": "5.8K views",
+          "views": 5800,
+          "video_id": "HIJHwfeJ5sc"
+        },
+        {
+          "title": "Nothing OS Is Refreshingly Simple - Nothing Phone 3 Review",
+          "link": "https://www.youtube.com/shorts/80NWP62m5pI",
+          "thumbnail": "https://i.ytimg.com/vi/80NWP62m5pI/frame0.jpg",
+          "views_original": "33K views",
+          "views": 33000,
+          "video_id": "80NWP62m5pI"
+        },
+        {
+          "title": "iPhone 16e vs Nothing Phone 3 Speed Test",
+          "link": "https://www.youtube.com/shorts/trcEJBEtSPM",
+          "thumbnail": "https://i.ytimg.com/vi/trcEJBEtSPM/frame0.jpg",
+          "views_original": "1.3M views",
+          "views": 1300000,
+          "video_id": "trcEJBEtSPM"
+        },
+        {
+          "title": "Is Nothing Phone 3 Pricing a Scam?",
+          "link": "https://www.youtube.com/shorts/wnUzYs6ATqc",
+          "thumbnail": "https://i.ytimg.com/vi/wnUzYs6ATqc/frame0.jpg",
+          "views_original": "389K views",
+          "views": 389000,
+          "video_id": "wnUzYs6ATqc"
+        },
+        {
+          "title": "Nothing Phone 3 Camera Testing: Features, Sample Photos & Review#shortsfeed",
+          "link": "https://www.youtube.com/shorts/iR-Ou8z2z74",
+          "thumbnail": "https://i.ytimg.com/vi/iR-Ou8z2z74/frame0.jpg",
+          "views_original": "131K views",
+          "views": 131000,
+          "video_id": "iR-Ou8z2z74"
+        },
+        {
+          "title": "Nothing CEO reacts to MrWhoseTheBoss' Phone (3) Review",
+          "link": "https://www.youtube.com/shorts/M8J2w91Nrho",
+          "thumbnail": "https://i.ytimg.com/vi/M8J2w91Nrho/frame0.jpg",
+          "views_original": "3.3M views",
+          "views": 3300000,
+          "video_id": "M8J2w91Nrho"
+        },
+        {
+          "title": "DON’T buy the wrong one 🤔 iPhone 16 vs Nothing Phone 3",
+          "link": "https://www.youtube.com/shorts/mMSuvHtwzNk",
+          "thumbnail": "https://i.ytimg.com/vi/mMSuvHtwzNk/frame0.jpg",
+          "views_original": "652K views",
+          "views": 652000,
+          "video_id": "mMSuvHtwzNk"
+        },
+        {
+          "title": "iPhone 16 vs Nothing Phone 3 - Camera Battle!",
+          "link": "https://www.youtube.com/shorts/BRrOIllcsMg",
+          "thumbnail": "https://i.ytimg.com/vi/BRrOIllcsMg/frame0.jpg",
+          "views_original": "1M views",
+          "views": 1000000,
+          "video_id": "BRrOIllcsMg"
+        },
+        {
+          "title": "1 month with the Nothing Phone (3)! #nothing #nothingphone3 #phone #andriod",
+          "link": "https://www.youtube.com/shorts/dFud2ys2lAU",
+          "thumbnail": "https://i.ytimg.com/vi/dFud2ys2lAU/frame0.jpg",
+          "views_original": "123K views",
+          "views": 123000,
+          "video_id": "dFud2ys2lAU"
+        },
+        {
+          "title": "Spend your money wisely. Nothing Phone 3a pro vs Phone 3",
+          "link": "https://www.youtube.com/shorts/04fXWNwzedI",
+          "thumbnail": "https://i.ytimg.com/vi/04fXWNwzedI/frame0.jpg",
+          "views_original": "1.1M views",
+          "views": 1100000,
+          "video_id": "04fXWNwzedI"
+        },
+        {
+          "title": "The Nothing Phone (3a) Is So Solid",
+          "link": "https://www.youtube.com/shorts/fJEfXWp42H8",
+          "thumbnail": "https://i.ytimg.com/vi/fJEfXWp42H8/frame0.jpg",
+          "views_original": "337K views",
+          "views": 337000,
+          "video_id": "fJEfXWp42H8"
+        },
+        {
+          "title": "New Nothing Phone (3) and Headphones (1)",
+          "link": "https://www.youtube.com/shorts/kxjr0qqIGqs",
+          "thumbnail": "https://i.ytimg.com/vi/kxjr0qqIGqs/frame0.jpg",
+          "views_original": "200K views",
+          "views": 200000,
+          "video_id": "kxjr0qqIGqs"
+        },
+        {
+          "title": "Nothing Phone 3A Review After 6 Months | Honest User Experience",
+          "link": "https://www.youtube.com/shorts/7yOo8GL41ng",
+          "thumbnail": "https://i.ytimg.com/vi/7yOo8GL41ng/frame0.jpg",
+          "views_original": "159K views",
+          "views": 159000,
+          "video_id": "7yOo8GL41ng"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Nothing+Phone+3+review&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Nothing%20Phone%203%20review&sp=SBSCAQs0S2JyeElwUWdrTYIBC3ZzQzd6aUpkcGlJggELaHhCWU80azd1Qk2CAQtuZTVBTGxfYWk1OIIBC2s1aXRQYlF0el9ZggELMDFqSnYwQ18wMjiCAQtxUDB6TTBicTNlb4IBCzVOYTJQQUQ4Wm5jggELNnM2RkYtd2xqdU2CAQtDMmZxcF9TNDNib4IBCzFhWkY5T1R3SHZNggELR243RVdWV3UwdTSCAQtsR05oTmQ4NDRZWYIBCy1YRFN0LXI0QVFZggELdU9QODctZE56eUWCAQtCSk9WLXNJSUxhMIIBC1FBM1RmYVVLTF9BggELcjFRLUk2UXJlY3eCAQt4SXRLdzBwX3Mtb4IBC2w0ZERfcDZtYm5FsgEGCgQIFhAC6gEECAIQGQ%253D%253D",
+    "next_page_token": "SBSCAQs0S2JyeElwUWdrTYIBC3ZzQzd6aUpkcGlJggELaHhCWU80azd1Qk2CAQtuZTVBTGxfYWk1OIIBC2s1aXRQYlF0el9ZggELMDFqSnYwQ18wMjiCAQtxUDB6TTBicTNlb4IBCzVOYTJQQUQ4Wm5jggELNnM2RkYtd2xqdU2CAQtDMmZxcF9TNDNib4IBCzFhWkY5T1R3SHZNggELR243RVdWV3UwdTSCAQtsR05oTmQ4NDRZWYIBCy1YRFN0LXI0QVFZggELdU9QODctZE56eUWCAQtCSk9WLXNJSUxhMIIBC1FBM1RmYVVLTF9BggELcjFRLUk2UXJlY3eCAQt4SXRLdzBwX3Mtb4IBC2w0ZERfcDZtYm5FsgEGCgQIFhAC6gEECAIQGQ%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Nothing+Phone+3+review",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Nothing+Phone+3+review&sp=SBSCAQs0S2JyeElwUWdrTYIBC3ZzQzd6aUpkcGlJggELaHhCWU80azd1Qk2CAQtuZTVBTGxfYWk1OIIBC2s1aXRQYlF0el9ZggELMDFqSnYwQ18wMjiCAQtxUDB6TTBicTNlb4IBCzVOYTJQQUQ4Wm5jggELNnM2RkYtd2xqdU2CAQtDMmZxcF9TNDNib4IBCzFhWkY5T1R3SHZNggELR243RVdWV3UwdTSCAQtsR05oTmQ4NDRZWYIBCy1YRFN0LXI0QVFZggELdU9QODctZE56eUWCAQtCSk9WLXNJSUxhMIIBC1FBM1RmYVVLTF9BggELcjFRLUk2UXJlY3eCAQt4SXRLdzBwX3Mtb4IBC2w0ZERfcDZtYm5FsgEGCgQIFhAC6gEECAIQGQ%253D%253D",
+    "next_page_token": "SBSCAQs0S2JyeElwUWdrTYIBC3ZzQzd6aUpkcGlJggELaHhCWU80azd1Qk2CAQtuZTVBTGxfYWk1OIIBC2s1aXRQYlF0el9ZggELMDFqSnYwQ18wMjiCAQtxUDB6TTBicTNlb4IBCzVOYTJQQUQ4Wm5jggELNnM2RkYtd2xqdU2CAQtDMmZxcF9TNDNib4IBCzFhWkY5T1R3SHZNggELR243RVdWV3UwdTSCAQtsR05oTmQ4NDRZWYIBCy1YRFN0LXI0QVFZggELdU9QODctZE56eUWCAQtCSk9WLXNJSUxhMIIBC1FBM1RmYVVLTF9BggELcjFRLUk2UXJlY3eCAQt4SXRLdzBwX3Mtb4IBC2w0ZERfcDZtYm5FsgEGCgQIFhAC6gEECAIQGQ%3D%3D"
+  }
+}

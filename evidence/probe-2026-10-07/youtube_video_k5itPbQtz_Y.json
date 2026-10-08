@@ -1,0 +1,721 @@
+{
+  "search_metadata": {
+    "id": "6ac60c91f607a92ac0df187b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/L3Id6DNhDtuFHUgJzY6_nJazEhQYyt51gZs4SAWEOQc/6ac60c91f607a92ac0df187b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/L3Id6DNhDtuFHUgJzY6_nJazEhQYyt51gZs4SAWEOQc/6ac60c91f607a92ac0df187b.md",
+    "created_at": "2026-10-07 09:10:41 UTC",
+    "processed_at": "2026-10-07 09:10:41 UTC",
+    "youtube_video_url": "https://www.youtube.com/watch?v=k5itPbQtz_Y",
+    "raw_html_file": "https://serpapi.com/searches/L3Id6DNhDtuFHUgJzY6_nJazEhQYyt51gZs4SAWEOQc/6ac60c91f607a92ac0df187b.html",
+    "prettify_html_file": "https://serpapi.com/searches/L3Id6DNhDtuFHUgJzY6_nJazEhQYyt51gZs4SAWEOQc/6ac60c91f607a92ac0df187b.prettify",
+    "total_time_taken": 1.77
+  },
+  "search_parameters": {
+    "engine": "youtube_video",
+    "v": "k5itPbQtz_Y",
+    "gl": "in"
+  },
+  "title": "Nothing Phone (3) - What have you done!?",
+  "thumbnail": "https://i.ytimg.com/vi/k5itPbQtz_Y/maxresdefault.jpg",
+  "channel": {
+    "name": "Mrwhosetheboss",
+    "thumbnail": "https://yt3.ggpht.com/QFI5OsUuSRHV-YpwksnVqpqWC19gjU55smnxPzLVU5Y5ohqKIkxq21nV_VfBJhvanYeMBot21A=s176-c-k-c0x00ffffff-no-rj",
+    "link": "https://www.youtube.com/@Mrwhosetheboss",
+    "subscribers": "23M subscribers",
+    "extracted_subscribers": 23000000,
+    "verified": true
+  },
+  "views": "5,190,002 views",
+  "extracted_views": 5190002,
+  "likes": "129K",
+  "extracted_likes": 129000,
+  "published_date": "Jul 2, 2025",
+  "description": {
+    "content": "Hands on and initial impressions of the Nothing Phone(3) - including camera, screen, battery, specs, price and more! Take your personal data back with Incogni - use code MRWHOSETHEBOSS at the link below and get 60% off an annual plan: http://incogni.com/mrwhosetheboss\n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nFor my tech hot takes:   / mrwhosetheboss  \nFor my Personal Posts:   / mrwhosetheboss  \nFor quick tech videos:   / mrwhosetheboss  \nDoes anyone still use this anymore?:   / mrwhosetheboss  \n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://amzn.to/3mFix9d\nAmazon UK: https://amzn.to/3GMPPtM\n\nMy Browser: https://opr.as/Opera-browser-Mr-Whose... \nMy Filming Gear: https://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT",
+    "links": [
+      {
+        "start_index": 235,
+        "length": 33,
+        "text": "http://incogni.com/mrwhosetheboss",
+        "url": "http://incogni.com/mrwhosetheboss"
+      },
+      {
+        "start_index": 507,
+        "length": 20,
+        "text": " / mrwhosetheboss  \n",
+        "url": "http://twitter.com/Mrwhosetheboss"
+      },
+      {
+        "start_index": 551,
+        "length": 20,
+        "text": " / mrwhosetheboss  \n",
+        "url": "http://instagram.com/mrwhosetheboss"
+      },
+      {
+        "start_index": 595,
+        "length": 20,
+        "text": " / mrwhosetheboss  \n",
+        "url": "https://www.tiktok.com/@mrwhosetheboss"
+      },
+      {
+        "start_index": 653,
+        "length": 20,
+        "text": " / mrwhosetheboss  \n",
+        "url": "https://facebook.com/mrwhosetheboss"
+      },
+      {
+        "start_index": 807,
+        "length": 23,
+        "text": "ttps://amzn.to/3mFix9d\n",
+        "url": "https://amzn.to/3mFix9d"
+      },
+      {
+        "start_index": 842,
+        "length": 23,
+        "text": "ttps://amzn.to/3GMPPtM\n",
+        "url": "https://amzn.to/3GMPPtM"
+      },
+      {
+        "start_index": 879,
+        "length": 40,
+        "text": "ttps://opr.as/Opera-browser-Mr-Whose... ",
+        "url": "https://opr.as/Opera-browser-Mr-Whose-the-Boss"
+      },
+      {
+        "start_index": 938,
+        "length": 22,
+        "text": "ttps://bit.ly/35CuxwI\n",
+        "url": "https://bit.ly/35CuxwI"
+      },
+      {
+        "start_index": 992,
+        "length": 36,
+        "text": "ttp://share.epidemicsound.com/pHDFT",
+        "url": "http://share.epidemicsound.com/pHDFT"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "title": "The Nothing phone 3 launch",
+      "thumbnail": "https://i.ytimg.com/vi/k5itPbQtz_Y/hqdefault_14000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCNpA4WhVvdc4pTDXdG4kT5dYsnCQ",
+      "time_start": 0
+    },
+    {
+      "title": "Design and build quality",
+      "thumbnail": "https://i.ytimg.com/vi/k5itPbQtz_Y/hqdefault_54933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBvAjxC8ZbxmefJSYlT6r3kZ4-6zg",
+      "time_start": 40
+    },
+    {
+      "title": "The glyph matrix explained",
+      "thumbnail": "https://i.ytimg.com/vi/k5itPbQtz_Y/hqdefault_140866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAo3ZA1EbW4emlH4lNkLLJNI66hIw",
+      "time_start": 125
+    },
+    {
+      "title": "Performance and display",
+      "thumbnail": "https://i.ytimg.com/vi/k5itPbQtz_Y/hqdefault_473933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAhr0yCcW0i-wb1ZlQcF5qnYoJKsA",
+      "time_start": 445
+    },
+    {
+      "title": "Battery life and charging",
+      "thumbnail": "https://i.ytimg.com/vi/k5itPbQtz_Y/hqdefault_530133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDs56eOhkD3ybHAPa6MXvFKMBLWcg",
+      "time_start": 520
+    },
+    {
+      "title": "Software experience",
+      "thumbnail": "https://i.ytimg.com/vi/k5itPbQtz_Y/hqdefault_631866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBiPM0YgcDBlyScqfr_hn5IencKEg",
+      "time_start": 631
+    },
+    {
+      "title": "Camera system review",
+      "thumbnail": "https://i.ytimg.com/vi/k5itPbQtz_Y/hqdefault_749866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBFdfa3X-TB5RklYSRLYpI2B_5Ytg",
+      "time_start": 740
+    },
+    {
+      "title": "Verdict and ad segment",
+      "thumbnail": "https://i.ytimg.com/vi/k5itPbQtz_Y/hqdefault_845100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrc5K-Cgp9j07eMTFHSGRJLg-wiA",
+      "time_start": 838
+    }
+  ],
+  "related_videos": [
+    {
+      "video_id": "4KbrxIpQgkM",
+      "link": "https://www.youtube.com/watch?v=4KbrxIpQgkM&pp=ugUEEgJlbg%3D%3D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=4KbrxIpQgkM",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4KbrxIpQgkM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCllTFS_gWtvvSFQinSYjrqeHAMXQ",
+        "rich": "https://i.ytimg.com/an_webp/4KbrxIpQgkM/mqdefault_6s.webp?du=3000&sqp=CKaSmNYG&rs=AOn4CLB7o7Pn4im50g8k_b960uz6TNqOfA"
+      },
+      "title": "Nothing Phone 3 Review: They Lied!",
+      "published_date": "1y ago",
+      "views": "4.2M",
+      "extracted_views": 4200000,
+      "channel": {
+        "name": "Marques Brownlee",
+        "link": "https://www.youtube.com/@mkbhd",
+        "thumbnail": "https://yt3.ggpht.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "Y9JF_yYTNlw",
+      "link": "https://www.youtube.com/watch?v=Y9JF_yYTNlw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=Y9JF_yYTNlw",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Y9JF_yYTNlw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAYkGsYodhTSQ-gzhip0D5vuh_sug",
+        "rich": "https://i.ytimg.com/an_webp/Y9JF_yYTNlw/mqdefault_6s.webp?du=3000&sqp=CKiGmNYG&rs=AOn4CLAVhmMJB83Otv72cRrcdyhdjbaU3g"
+      },
+      "title": "The BEST Smartphones of 2025!",
+      "published_date": "9mo ago",
+      "views": "3.7M",
+      "extracted_views": 3700000,
+      "channel": {
+        "name": "Mrwhosetheboss",
+        "link": "https://www.youtube.com/@Mrwhosetheboss",
+        "thumbnail": "https://yt3.ggpht.com/QFI5OsUuSRHV-YpwksnVqpqWC19gjU55smnxPzLVU5Y5ohqKIkxq21nV_VfBJhvanYeMBot21A=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "s7aOJYueEtI",
+      "link": "https://www.youtube.com/watch?v=s7aOJYueEtI&pp=ugUHEgVlbi1HQg%3D%3D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=s7aOJYueEtI",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/s7aOJYueEtI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_LcUNQxmIba94H6kg4-Ip-HolQA",
+        "rich": "https://i.ytimg.com/an_webp/s7aOJYueEtI/mqdefault_6s.webp?du=3000&sqp=CMSJmNYG&rs=AOn4CLDND9S6OiSmGSBj0rg3aKTlFFAKEg"
+      },
+      "title": "I Investigated India’s Biggest Smartphone Controversy",
+      "published_date": "4mo ago",
+      "views": "9.7M",
+      "extracted_views": 9700000,
+      "channel": {
+        "name": "Mrwhosetheboss",
+        "link": "https://www.youtube.com/@Mrwhosetheboss",
+        "thumbnail": "https://yt3.ggpht.com/QFI5OsUuSRHV-YpwksnVqpqWC19gjU55smnxPzLVU5Y5ohqKIkxq21nV_VfBJhvanYeMBot21A=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "6IFVTcM28KA",
+      "link": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=6IFVTcM28KA",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6IFVTcM28KA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAf4MmRVI6PEcnFnNs8z0pYToEJ_g",
+        "rich": "https://i.ytimg.com/an_webp/6IFVTcM28KA/mqdefault_6s.webp?du=3000&sqp=CIDyl9YG&rs=AOn4CLBxuuMEPHPjQEMqMPfS6xNoM0miSw"
+      },
+      "title": "216,000,000 Spy TVs | The LG Smart TV Problem",
+      "published_date": "1mo ago",
+      "views": "7.8M",
+      "extracted_views": 7800000,
+      "channel": {
+        "name": "Gamers Nexus",
+        "link": "https://www.youtube.com/@GamersNexus",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n50Rj8oqwUnusv4I6_DllKflZrSdSxmXhYvpHs0hOEj5o=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "ujkD4SxPKOI",
+      "link": "https://www.youtube.com/watch?v=ujkD4SxPKOI&pp=ugUEEgJlbg%3D%3D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=ujkD4SxPKOI",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ujkD4SxPKOI/hqdefault_custom_1.jpg?sqp=COiYmNYG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDi_hYXjvLzZthgc7VmZS6pgu73vg",
+        "rich": "https://i.ytimg.com/an_webp/ujkD4SxPKOI/mqdefault_6s.webp?du=3000&sqp=CLTLl9YG&rs=AOn4CLAPX0kjg3DQGUKC1BB3lD7gew2MCA"
+      },
+      "title": "AI Just Crossed the Terrifying Line - Now What?",
+      "published_date": "1d ago",
+      "views": "9.5M",
+      "extracted_views": 9500000,
+      "channel": {
+        "name": "Kurzgesagt – In a Nutshell",
+        "link": "https://www.youtube.com/@kurzgesagt",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      },
+      "extensions": [
+        "New"
+      ]
+    },
+    {
+      "video_id": "Xg9uDpJZwNA",
+      "link": "https://www.youtube.com/watch?v=Xg9uDpJZwNA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=Xg9uDpJZwNA",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Xg9uDpJZwNA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC73mlOql6Zg5a5euhsVbeJLyvJlQ",
+        "rich": "https://i.ytimg.com/an_webp/Xg9uDpJZwNA/mqdefault_6s.webp?du=3000&sqp=COCTmNYG&rs=AOn4CLAGOgx8PogpJ6315shyfbjlkJGMJQ"
+      },
+      "title": "We made MrWhoseTheBoss' Dream Phone",
+      "published_date": "11mo ago",
+      "views": "1.7M",
+      "extracted_views": 1700000,
+      "channel": {
+        "name": "Nothing",
+        "link": "https://www.youtube.com/@NothingTechnology",
+        "thumbnail": "https://yt3.ggpht.com/2diTy-bnn-95Gw4BUXkyZ3ugV_mIrLBXWm4_TFaVOPeZyiGMA7E7xWCB4UzemKhAOCBe6m1F=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "xItKw0p_s-o",
+      "link": "https://www.youtube.com/watch?v=xItKw0p_s-o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=xItKw0p_s-o",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xItKw0p_s-o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCMgei3BU3N_rtZ4pNmcjsNcg9I0Q",
+        "rich": "https://i.ytimg.com/an_webp/xItKw0p_s-o/mqdefault_6s.webp?du=3000&sqp=CJT9l9YG&rs=AOn4CLBsTsvwbR4QNvjvRpQn1WgYHKNnzg"
+      },
+      "title": "Nothing Phone 3 Teardown! - Revealing the Truth...",
+      "published_date": "1y ago",
+      "views": "1.6M",
+      "extracted_views": 1600000,
+      "channel": {
+        "name": "JerryRigEverything",
+        "link": "https://www.youtube.com/@JerryRigEverything",
+        "thumbnail": "https://yt3.ggpht.com/ebXyJhsgpfIHg4PXw3eSFTeSx6Ud1us26Gwgshe9jPBvSu82SpQkFmc1GK7q2Go2KJePYQ5Icg=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "7mCTaTJ0kDo",
+      "link": "https://www.youtube.com/watch?v=7mCTaTJ0kDo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=7mCTaTJ0kDo",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7mCTaTJ0kDo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA8nIS2r0cMccfHuXOeNDM5v7im7g",
+        "rich": "https://i.ytimg.com/an_webp/7mCTaTJ0kDo/mqdefault_6s.webp?du=3000&sqp=CIDml9YG&rs=AOn4CLBPRamNpMM0lCgvFwQAfVBQzJCXrA"
+      },
+      "title": "Cheap vs Midrange vs Expensive Phone - Should you spend more?",
+      "published_date": "1y ago",
+      "views": "4.3M",
+      "extracted_views": 4300000,
+      "channel": {
+        "name": "Mrwhosetheboss",
+        "link": "https://www.youtube.com/@Mrwhosetheboss",
+        "thumbnail": "https://yt3.ggpht.com/QFI5OsUuSRHV-YpwksnVqpqWC19gjU55smnxPzLVU5Y5ohqKIkxq21nV_VfBJhvanYeMBot21A=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "R5TMLziDjtA",
+      "link": "https://www.youtube.com/watch?v=R5TMLziDjtA&pp=ugUEEgJlbg%3D%3D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=R5TMLziDjtA",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/R5TMLziDjtA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCv1YqX9bAnTn7x4sYxDB6Q24DVIg",
+        "rich": "https://i.ytimg.com/an_webp/R5TMLziDjtA/mqdefault_6s.webp?du=3000&sqp=CIDOl9YG&rs=AOn4CLBTcmpv79zi-vAZesj9KQ-iyxl-kg"
+      },
+      "title": "A smart move - Nothing Phone 4a Pro",
+      "published_date": "5mo ago",
+      "views": "847K",
+      "extracted_views": 847000,
+      "channel": {
+        "name": "ShortCircuit",
+        "link": "https://www.youtube.com/@ShortCircuit",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "D4QyStJWgCc",
+      "link": "https://www.youtube.com/watch?v=D4QyStJWgCc&pp=ugUEEgJlbtIHCQk1DAGHKiGM7w%3D%3D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=D4QyStJWgCc",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/D4QyStJWgCc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkJPgz8EtCPSF001w4-Ozs2v-cFw",
+        "rich": "https://i.ytimg.com/an_webp/D4QyStJWgCc/mqdefault_6s.webp?du=3000&sqp=CKOYmNYG&rs=AOn4CLDTg4AjLTHugpaV0sr7Ue-qdLKwmA"
+      },
+      "title": "Nothing Phone 4A/Pro Review: I Have a Theory",
+      "published_date": "6mo ago",
+      "views": "3.7M",
+      "extracted_views": 3700000,
+      "channel": {
+        "name": "Marques Brownlee",
+        "link": "https://www.youtube.com/@mkbhd",
+        "thumbnail": "https://yt3.ggpht.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "mfv0V1SxbNA",
+      "link": "https://www.youtube.com/watch?v=mfv0V1SxbNA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=mfv0V1SxbNA",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/mfv0V1SxbNA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBo3_KUF4Bk2siaaJFQgcKenTsnFg",
+        "rich": "https://i.ytimg.com/an_webp/mfv0V1SxbNA/mqdefault_6s.webp?du=3000&sqp=CJD0l9YG&rs=AOn4CLBIXkvZp5CxivMjjYssuuUMZnEK4g"
+      },
+      "title": "Building the PERFECT Linux PC with Linus Torvalds",
+      "published_date": "10mo ago",
+      "views": "9.2M",
+      "extracted_views": 9200000,
+      "channel": {
+        "name": "Linus Tech Tips",
+        "link": "https://www.youtube.com/@LinusTechTips",
+        "thumbnail": "https://yt3.ggpht.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "qP0zM0bq3eo",
+      "link": "https://www.youtube.com/watch?v=qP0zM0bq3eo&pp=0gcJCTUMAYcqIYzv",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=qP0zM0bq3eo",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qP0zM0bq3eo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAe3t1LyG8RTp7fkoa87EZzF83ayw",
+        "rich": "https://i.ytimg.com/an_webp/qP0zM0bq3eo/mqdefault_6s.webp?du=3000&sqp=CJ77l9YG&rs=AOn4CLDSfDjDUVUlHZn0BxrUh73T8W4LxA"
+      },
+      "title": "Nothing CEO reacts to Phone (3) reviews",
+      "published_date": "1y ago",
+      "views": "2.2M",
+      "extracted_views": 2200000,
+      "channel": {
+        "name": "Nothing",
+        "link": "https://www.youtube.com/@NothingTechnology",
+        "thumbnail": "https://yt3.ggpht.com/2diTy-bnn-95Gw4BUXkyZ3ugV_mIrLBXWm4_TFaVOPeZyiGMA7E7xWCB4UzemKhAOCBe6m1F=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "6DGT0Rue2dY",
+      "link": "https://www.youtube.com/watch?v=6DGT0Rue2dY&pp=ugUEEgJlbtIHCQk1DAGHKiGM7w%3D%3D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=6DGT0Rue2dY",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6DGT0Rue2dY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBO2OK7GfH0nvyW9Ejr4JgOS-VQ9Q",
+        "rich": "https://i.ytimg.com/an_webp/6DGT0Rue2dY/mqdefault_6s.webp?du=3000&sqp=CNbPl9YG&rs=AOn4CLBRodq82DGDIshY8QD3hOtAV7BBzQ"
+      },
+      "title": "I Switched to the Nothing (4a) Pro - iPhone User Review",
+      "published_date": "2mo ago",
+      "views": "53K",
+      "extracted_views": 53000,
+      "channel": {
+        "name": "Jared Ramirez",
+        "link": "https://www.youtube.com/@JaredRamirezTech",
+        "thumbnail": "https://yt3.ggpht.com/XiIMGW3jiOvCSJrtm2jVfbnyIMhDiQL1Z-4KEoywilOS2MxhBAqiS4pXPVXO1-72tqVg0tszzA=s68-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    {
+      "video_id": "9tcyWI45w7s",
+      "link": "https://www.youtube.com/watch?v=9tcyWI45w7s&pp=0gcJCTUMAYcqIYzv",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=9tcyWI45w7s",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9tcyWI45w7s/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAkuza8-8CZdegkbN6XttoeYZ4Mgw",
+        "rich": "https://i.ytimg.com/an_webp/9tcyWI45w7s/mqdefault_6s.webp?du=3000&sqp=CMePmNYG&rs=AOn4CLB94wATnLNnFZxv0od0zxONXyk3Bw"
+      },
+      "title": "Cheap vs Expensive Phones - How close ARE they!?",
+      "published_date": "2y ago",
+      "views": "8M",
+      "extracted_views": 8000000,
+      "channel": {
+        "name": "Mrwhosetheboss",
+        "link": "https://www.youtube.com/@Mrwhosetheboss",
+        "thumbnail": "https://yt3.ggpht.com/QFI5OsUuSRHV-YpwksnVqpqWC19gjU55smnxPzLVU5Y5ohqKIkxq21nV_VfBJhvanYeMBot21A=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "oMmpC1tef4c",
+      "link": "https://www.youtube.com/watch?v=oMmpC1tef4c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=oMmpC1tef4c",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/oMmpC1tef4c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLArMO27316gtmaIi2Az5MM25twhoA",
+        "rich": "https://i.ytimg.com/an_webp/oMmpC1tef4c/mqdefault_6s.webp?du=3000&sqp=CIqRmNYG&rs=AOn4CLApvX6pe9ArTqnjDQ1hJvBNjoGe6A"
+      },
+      "title": "I Investigated the Most Expensive Phone Brand",
+      "published_date": "10mo ago",
+      "views": "10M",
+      "extracted_views": 10000000,
+      "channel": {
+        "name": "Mrwhosetheboss",
+        "link": "https://www.youtube.com/@Mrwhosetheboss",
+        "thumbnail": "https://yt3.ggpht.com/QFI5OsUuSRHV-YpwksnVqpqWC19gjU55smnxPzLVU5Y5ohqKIkxq21nV_VfBJhvanYeMBot21A=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "Cp1NLQYBu3w",
+      "link": "https://www.youtube.com/watch?v=Cp1NLQYBu3w&pp=ugUEEgJlbg%3D%3D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=Cp1NLQYBu3w",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Cp1NLQYBu3w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDsJU4ysJuH2rm8wHHFf1hlYHaGAQ",
+        "rich": "https://i.ytimg.com/an_webp/Cp1NLQYBu3w/mqdefault_6s.webp?du=3000&sqp=CPjml9YG&rs=AOn4CLCcyHpUpuzZrfx6_ykrXpRAEZz0QA"
+      },
+      "title": "Why I keep coming back to Nothing.",
+      "published_date": "4mo ago",
+      "views": "292K",
+      "extracted_views": 292000,
+      "channel": {
+        "name": "AllexB",
+        "link": "https://www.youtube.com/@AllexB",
+        "thumbnail": "https://yt3.ggpht.com/TtRT75NGSwZs0vWFyqHNWw5OIQkWsfro2FsGU6yIs443Gwd3vYufOBKopmh_IGqk4mHWHAHE=s68-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    {
+      "video_id": "1kuKa4LL1Ks",
+      "link": "https://www.youtube.com/watch?v=1kuKa4LL1Ks",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=1kuKa4LL1Ks",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/1kuKa4LL1Ks/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCnJd0s6pSoOdCvpoMnmnc_Ph9A9w",
+        "rich": "https://i.ytimg.com/an_webp/1kuKa4LL1Ks/mqdefault_6s.webp?du=3000&sqp=CMePmNYG&rs=AOn4CLCxpHIiicMKBZfXrwytZlYjhXuAyQ"
+      },
+      "title": "Nothing Phone 4a Pro vs Pixel 10a: Google Has a Problem.",
+      "published_date": "5mo ago",
+      "views": "87K",
+      "extracted_views": 87000,
+      "channel": {
+        "name": "9to5Google",
+        "link": "https://www.youtube.com/@9to5Google",
+        "thumbnail": "https://yt3.ggpht.com/FRA_4XHHggh2Oe8iL7F7xFDnIJh1ceOWQqGcw1fsoUhf3K7S2Kua9Eaku47SX58iW60seC6TrbU=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "vsC7ziJdpiI",
+      "link": "https://www.youtube.com/watch?v=vsC7ziJdpiI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=vsC7ziJdpiI",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vsC7ziJdpiI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5Mqn0EuOpbW_u94ZCa7W-VKoinw",
+        "rich": "https://i.ytimg.com/an_webp/vsC7ziJdpiI/mqdefault_6s.webp?du=3000&sqp=CLD7l9YG&rs=AOn4CLD6awMrLStw0qU_Bl1XDsfPHzhcqw"
+      },
+      "title": "Nothing Phone (3) Review - 6 Months Later",
+      "published_date": "7mo ago",
+      "views": "171K",
+      "extracted_views": 171000,
+      "channel": {
+        "name": "6 Months Later",
+        "link": "https://www.youtube.com/@6MonthsLater",
+        "thumbnail": "https://yt3.ggpht.com/2Kiy90zc2RNKwNkAaZuMSLZAkPfP332BHsTJDjEuZc22fO7v2iwUGOEKytVkSyNtxJ6Ujcqe=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "YIcyVErjUDo",
+      "link": "https://www.youtube.com/watch?v=YIcyVErjUDo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=YIcyVErjUDo",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/YIcyVErjUDo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCYimJlXNgKgYbdgkmxfmIme464HQ",
+        "rich": "https://i.ytimg.com/an_webp/YIcyVErjUDo/mqdefault_6s.webp?du=3000&sqp=CIiWmNYG&rs=AOn4CLBT9D4oK3ykCFZdwbBZmTjluy3qVw"
+      },
+      "title": "Why I Switched to Nothing Phone 4a… Permanently",
+      "published_date": "4mo ago",
+      "views": "255K",
+      "extracted_views": 255000,
+      "channel": {
+        "name": "minoqtopus",
+        "link": "https://www.youtube.com/@minoqtopus",
+        "thumbnail": "https://yt3.ggpht.com/kBKsXnc0eNFg0OXqf0-jnaAClE0FiTumUWm4k_vtJGNHU_BZZ8CcpUTdVL-DF8S5duanlxvOS90=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    },
+    {
+      "video_id": "eYBEJBfq_Zs",
+      "link": "https://www.youtube.com/watch?v=eYBEJBfq_Zs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=eYBEJBfq_Zs",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eYBEJBfq_Zs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA83fPP2rHkSCyIZeg2XJha8jVvPQ",
+        "rich": "https://i.ytimg.com/an_webp/eYBEJBfq_Zs/mqdefault_6s.webp?du=3000&sqp=CPn7l9YG&rs=AOn4CLABcZdb9ncwRuFH9AVqwaGI2AOqDw"
+      },
+      "title": "Xiaomi made an iPhone Duo. It’s Unhinged.",
+      "published_date": "2w ago",
+      "views": "17M",
+      "extracted_views": 17000000,
+      "channel": {
+        "name": "Mrwhosetheboss",
+        "link": "https://www.youtube.com/@Mrwhosetheboss",
+        "thumbnail": "https://yt3.ggpht.com/QFI5OsUuSRHV-YpwksnVqpqWC19gjU55smnxPzLVU5Y5ohqKIkxq21nV_VfBJhvanYeMBot21A=s68-c-k-c0x00ffffff-no-rj",
+        "verified": true
+      }
+    }
+  ],
+  "related_videos_next_page_token": "CBQSKRILazVpdFBiUXR6X1nAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqxgZNZ29JbV91cnY4R0VrY0I1MnM2TDZ3emhCQXJlQkFvRDhqNEFDZzdDUGdzSTdzaURrckNPdi1hQUFRb0Q4ajRBQ2c3Q1Bnc0l3NFRDMHNqNHV0UGdBUW9EOGo0QUNnM0NQZ29JM096TXNQS19rZWxqQ2dQeVBnQUtEc0ktQ3dqU3BmamMyTVNqMjdNQkNnUHlQZ0FLRHNJLUN3aWc0ZHVaM0tuVndPZ0JDZ1B5UGdBS0RzSS1Dd2ppMGJ6aWt2ekFuTG9CQ2dQeVBnQUtEY0ktQ2dqUWdlZVM2Y0hiaDE0S0FfSS1BQW9Pd2o0TENPcm5fdE8wMk5MRnhBRUtBX0ktQUFvT3dqNExDTHFnMHBPVDdhU3c3Z0VLQV9JLUFBb053ajRLQ05DZGpzVHpoYlBLUndvRDhqNEFDZzNDUGdvSXA0RGFrcTNKak1JUENnUHlQZ0FLRHNJLUN3alEyY1dsOVlyOV9aa0JDZ1B5UGdBS0RzSS1Dd2pxdTZ1M3RPYk1fcWdCQ2dQeVBnQUtEc0ktQ3dqV3NfdmNrZnJrbU9nQkNnUHlQZ0FLRHNJLUN3aTdoLWZ4aU12TTZfWUJDZ1B5UGdBS0RzSS1Dd2lIX19uYXRhSHE1S0FCQ2dQeVBnQUtEY0ktQ2dqODlvYXcwS1hUemdvS0FfSS1BQW9Pd2o0TENLdXByNWE0emVLbDFnRUtBX0ktQUFvT3dqNExDS0xNOXBMaS1hN2d2Z0VLQV9JLUFBb053ajRLQ0xxZ2pkZkV5c3pEWUFvRDhqNEFDZzNDUGdvSW1fdXJ2OEdFa2NCNUVoVUFBZ1FHQ0FvTURoQVNGQllZR2h3ZUlDSWtKaWdhQkFnQUVBRWFCQWdDRUFNYUJBZ0VFQVVhQkFnR0VBY2FCQWdJRUFrYUJBZ0tFQXNhQkFnTUVBMGFCQWdPRUE4YUJBZ1FFQkVhQkFnU0VCTWFCQWdVRUJVYUJBZ1dFQmNhQkFnWUVCa2FCQWdhRUJzYUJBZ2NFQjBhQkFnZUVCOGFCQWdnRUNFYUJBZ2lFQ01hQkFna0VDVWFCQWdtRUNjYUJBZ29FQ2txRlFBQ0JBWUlDZ3dPRUJJVUZoZ2FIQjRnSWlRbUtBag93YXRjaC1uZXh0LWZlZWQ%3D",
+  "end_screen_videos": [
+    {
+      "video_id": "4KbrxIpQgkM",
+      "link": "https://www.youtube.com/watch?v=4KbrxIpQgkM&pp=ugUEEgJlbg%3D%3D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=4KbrxIpQgkM",
+      "thumbnail": "https://i.ytimg.com/vi/4KbrxIpQgkM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCllTFS_gWtvvSFQinSYjrqeHAMXQ",
+      "title": "Nothing Phone 3 Review: They Lied!",
+      "published_date": "1 year ago",
+      "views": "4.2M views",
+      "extracted_views": 4200000,
+      "length": "15:38",
+      "channel": {
+        "name": "Marques Brownlee",
+        "link": "https://www.youtube.com/@mkbhd"
+      }
+    },
+    {
+      "video_id": "Y9JF_yYTNlw",
+      "link": "https://www.youtube.com/watch?v=Y9JF_yYTNlw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=Y9JF_yYTNlw",
+      "thumbnail": "https://i.ytimg.com/vi/Y9JF_yYTNlw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAYkGsYodhTSQ-gzhip0D5vuh_sug",
+      "title": "The BEST Smartphones of 2025!",
+      "published_date": "9 months ago",
+      "views": "3.7M views",
+      "extracted_views": 3700000,
+      "length": "21:31",
+      "channel": {
+        "name": "Mrwhosetheboss",
+        "link": "https://www.youtube.com/@Mrwhosetheboss"
+      }
+    },
+    {
+      "video_id": "s7aOJYueEtI",
+      "link": "https://www.youtube.com/watch?v=s7aOJYueEtI&pp=ugUHEgVlbi1HQg%3D%3D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=s7aOJYueEtI",
+      "thumbnail": "https://i.ytimg.com/vi/s7aOJYueEtI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_LcUNQxmIba94H6kg4-Ip-HolQA",
+      "title": "I Investigated India’s Biggest Smartphone Controversy",
+      "published_date": "4 months ago",
+      "views": "9.7M views",
+      "extracted_views": 9700000,
+      "length": "41:31",
+      "channel": {
+        "name": "Mrwhosetheboss",
+        "link": "https://www.youtube.com/@Mrwhosetheboss"
+      }
+    },
+    {
+      "video_id": "6IFVTcM28KA",
+      "link": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=6IFVTcM28KA",
+      "thumbnail": "https://i.ytimg.com/vi/6IFVTcM28KA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAf4MmRVI6PEcnFnNs8z0pYToEJ_g",
+      "title": "216,000,000 Spy TVs | The LG Smart TV Problem",
+      "published_date": "1 month ago",
+      "views": "7.8M views",
+      "extracted_views": 7800000,
+      "length": "2:15:52",
+      "channel": {
+        "name": "Gamers Nexus",
+        "link": "https://www.youtube.com/@GamersNexus"
+      }
+    },
+    {
+      "video_id": "ujkD4SxPKOI",
+      "link": "https://www.youtube.com/watch?v=ujkD4SxPKOI&pp=ugUEEgJlbg%3D%3D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=ujkD4SxPKOI",
+      "thumbnail": "https://i.ytimg.com/vi/ujkD4SxPKOI/hqdefault_custom_1.jpg?sqp=COiYmNYG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDi_hYXjvLzZthgc7VmZS6pgu73vg",
+      "title": "AI Just Crossed the Terrifying Line - Now What?",
+      "published_date": "1 day ago",
+      "views": "9.5M views",
+      "extracted_views": 9500000,
+      "length": "21:44",
+      "channel": {
+        "name": "Kurzgesagt – In a Nutshell",
+        "link": "https://www.youtube.com/@kurzgesagt"
+      }
+    },
+    {
+      "video_id": "Xg9uDpJZwNA",
+      "link": "https://www.youtube.com/watch?v=Xg9uDpJZwNA&pp=0gcJCTUMAYcqIYzv",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=Xg9uDpJZwNA",
+      "thumbnail": "https://i.ytimg.com/vi/Xg9uDpJZwNA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC73mlOql6Zg5a5euhsVbeJLyvJlQ",
+      "title": "We made MrWhoseTheBoss' Dream Phone",
+      "published_date": "11 months ago",
+      "views": "1.7M views",
+      "extracted_views": 1700000,
+      "length": "9:01",
+      "channel": {
+        "name": "Nothing",
+        "link": "https://www.youtube.com/@NothingTechnology"
+      }
+    },
+    {
+      "video_id": "xItKw0p_s-o",
+      "link": "https://www.youtube.com/watch?v=xItKw0p_s-o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=xItKw0p_s-o",
+      "thumbnail": "https://i.ytimg.com/vi/xItKw0p_s-o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCMgei3BU3N_rtZ4pNmcjsNcg9I0Q",
+      "title": "Nothing Phone 3 Teardown! - Revealing the Truth...",
+      "published_date": "1 year ago",
+      "views": "1.6M views",
+      "extracted_views": 1600000,
+      "length": "10:12",
+      "channel": {
+        "name": "JerryRigEverything",
+        "link": "https://www.youtube.com/@JerryRigEverything"
+      }
+    },
+    {
+      "video_id": "7mCTaTJ0kDo",
+      "link": "https://www.youtube.com/watch?v=7mCTaTJ0kDo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=7mCTaTJ0kDo",
+      "thumbnail": "https://i.ytimg.com/vi/7mCTaTJ0kDo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA8nIS2r0cMccfHuXOeNDM5v7im7g",
+      "title": "Cheap vs Midrange vs Expensive Phone - Should you spend more?",
+      "published_date": "1 year ago",
+      "views": "4.3M views",
+      "extracted_views": 4300000,
+      "length": "19:42",
+      "channel": {
+        "name": "Mrwhosetheboss",
+        "link": "https://www.youtube.com/@Mrwhosetheboss"
+      }
+    },
+    {
+      "video_id": "R5TMLziDjtA",
+      "link": "https://www.youtube.com/watch?v=R5TMLziDjtA&pp=ugUEEgJlbg%3D%3D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=R5TMLziDjtA",
+      "thumbnail": "https://i.ytimg.com/vi/R5TMLziDjtA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCv1YqX9bAnTn7x4sYxDB6Q24DVIg",
+      "title": "A smart move - Nothing Phone 4a Pro",
+      "published_date": "5 months ago",
+      "views": "847K views",
+      "extracted_views": 847000,
+      "length": "16:26",
+      "channel": {
+        "name": "ShortCircuit",
+        "link": "https://www.youtube.com/@ShortCircuit"
+      }
+    },
+    {
+      "video_id": "D4QyStJWgCc",
+      "link": "https://www.youtube.com/watch?v=D4QyStJWgCc&pp=ugUEEgJlbg%3D%3D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=D4QyStJWgCc",
+      "thumbnail": "https://i.ytimg.com/vi/D4QyStJWgCc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkJPgz8EtCPSF001w4-Ozs2v-cFw",
+      "title": "Nothing Phone 4A/Pro Review: I Have a Theory",
+      "published_date": "6 months ago",
+      "views": "3.7M views",
+      "extracted_views": 3700000,
+      "length": "12:04",
+      "channel": {
+        "name": "Marques Brownlee",
+        "link": "https://www.youtube.com/@mkbhd"
+      }
+    },
+    {
+      "video_id": "mfv0V1SxbNA",
+      "link": "https://www.youtube.com/watch?v=mfv0V1SxbNA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=mfv0V1SxbNA",
+      "thumbnail": "https://i.ytimg.com/vi/mfv0V1SxbNA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBo3_KUF4Bk2siaaJFQgcKenTsnFg",
+      "title": "Building the PERFECT Linux PC with Linus Torvalds",
+      "published_date": "10 months ago",
+      "views": "9.2M views",
+      "extracted_views": 9200000,
+      "length": "53:44",
+      "channel": {
+        "name": "Linus Tech Tips",
+        "link": "https://www.youtube.com/@LinusTechTips"
+      }
+    },
+    {
+      "video_id": "qP0zM0bq3eo",
+      "link": "https://www.youtube.com/watch?v=qP0zM0bq3eo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&v=qP0zM0bq3eo",
+      "thumbnail": "https://i.ytimg.com/vi/qP0zM0bq3eo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAe3t1LyG8RTp7fkoa87EZzF83ayw",
+      "title": "Nothing CEO reacts to Phone (3) reviews",
+      "published_date": "1 year ago",
+      "views": "2.2M views",
+      "extracted_views": 2200000,
+      "length": "14:51",
+      "channel": {
+        "name": "Nothing",
+        "link": "https://www.youtube.com/@NothingTechnology"
+      }
+    }
+  ],
+  "comments_next_page_token": "Eg0SC2s1aXRQYlF0el9ZGAYyJSIRIgtrNWl0UGJRdHpfWTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+  "comments_sorting_token": [
+    {
+      "title": "Top",
+      "token": "Eg0SC2s1aXRQYlF0el9ZGAYyWCIxIgtrNWl0UGJRdHpfWTAAeAKqAhpVZ3pPTDNOMEtXSHFLUGNJUWZONEFhQUJBZ_ADATABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+    },
+    {
+      "title": "Newest",
+      "token": "Eg0SC2s1aXRQYlF0el9ZGAYyOyIUIgtrNWl0UGJRdHpfWTABeALwAwEwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+    }
+  ],
+  "transcript": {
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=k5itPbQtz_Y"
+  }
+}

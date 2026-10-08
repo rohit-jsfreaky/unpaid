@@ -1,0 +1,15 @@
+# Unpaid settings. No secrets here: keys live only in .env (gitignored).
+
+[budget]
+# A live run is refused if it would leave fewer than this many searches on the SerpApi account.
+# Free plan = 250 searches a month. Replays from the cache cost nothing.
+keep_at_least = 40
+
+[youtube]
+gl = "in"
+# Search in English and Hindi: YouTube's labels differ ("Earns commission" / "कमीशन मिलेगा").
+languages = ["en", "hi"]
+# Only videos posted in the last N days count as "recent".
+window_days = 21
+# Most videos opened per question (each costs 2 searches: video + transcript).
+max_videos = 30
