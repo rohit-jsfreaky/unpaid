@@ -82,5 +82,161 @@
     ]
    }
   ]
+ },
+ "board": {
+  "videos_with_picks": 18,
+  "no_disclosure_videos_with_picks": 9,
+  "disclosed_videos_with_picks": 9,
+  "top_all": [
+   "Motorola Edge 70 Fusion",
+   "Realme P4 Pro",
+   "Realme P4 Power"
+  ],
+  "top_no_disclosure": [
+   "Motorola Edge 70 Fusion",
+   "Realme P4 Power",
+   "Realme P4 Pro"
+  ],
+  "phones": [
+   {
+    "key": "motorola edge70fusion",
+    "name": "Motorola Edge 70 Fusion",
+    "all": 15,
+    "no_disclosure": 7,
+    "disclosed": 8,
+    "share_all": 0.833,
+    "share_no_disclosure": 0.778,
+    "share_disclosed": 0.889,
+    "best_rank": 1
+   },
+   {
+    "key": "realme p4pro",
+    "name": "Realme P4 Pro",
+    "all": 10,
+    "no_disclosure": 5,
+    "disclosed": 5,
+    "share_all": 0.556,
+    "share_no_disclosure": 0.556,
+    "share_disclosed": 0.556,
+    "best_rank": 1
+   },
+   {
+    "key": "realme p4power",
+    "name": "Realme P4 Power",
+    "all": 9,
+    "no_disclosure": 6,
+    "disclosed": 3,
+    "share_all": 0.5,
+    "share_no_disclosure": 0.667,
+    "share_disclosed": 0.333,
+    "best_rank": 2
+   },
+   {
+    "key": "motorola edge70",
+    "name": "Motorola Edge 70",
+    "all": 6,
+    "no_disclosure": 4,
+    "disclosed": 2,
+    "share_all": 0.333,
+    "share_no_disclosure": 0.444,
+    "share_disclosed": 0.222,
+    "best_rank": 6
+   },
+   {
+    "key": "nothing phone4b",
+    "name": "Nothing Phone 4B",
+    "all": 5,
+    "no_disclosure": 4,
+    "disclosed": 1,
+    "share_all": 0.278,
+    "share_no_disclosure": 0.444,
+    "share_disclosed": 0.111,
+    "best_rank": 3
+   },
+   {
+    "key": "poco x8",
+    "name": "POCO X8",
+    "all": 5,
+    "no_disclosure": 3,
+    "disclosed": 2,
+    "share_all": 0.278,
+    "share_no_disclosure": 0.333,
+    "share_disclosed": 0.222,
+    "best_rank": 4
+   },
+   {
+    "key": "samsung f70pro",
+    "name": "Samsung Galaxy F70 Pro",
+    "all": 5,
+    "no_disclosure": 3,
+    "disclosed": 2,
+    "share_all": 0.278,
+    "share_no_disclosure": 0.333,
+    "share_disclosed": 0.222,
+    "best_rank": 4
+   },
+   {
+    "key": "motorola edge60pro",
+    "name": "Motorola Edge 60 Pro",
+    "all": 4,
+    "no_disclosure": 2,
+    "disclosed": 2,
+    "share_all": 0.222,
+    "share_no_disclosure": 0.222,
+    "share_disclosed": 0.222,
+    "best_rank": 2
+   },
+   {
+    "key": "samsung a36",
+    "name": "Samsung Galaxy A36 5G",
+    "all": 4,
+    "no_disclosure": 3,
+    "disclosed": 1,
+    "share_all": 0.222,
+    "share_no_disclosure": 0.333,
+    "share_disclosed": 0.111,
+    "best_rank": 3
+   },
+   {
+    "key": "samsung m56",
+    "name": "Samsung Galaxy M56",
+    "all": 4,
+    "no_disclosure": 2,
+    "disclosed": 2,
+    "share_all": 0.222,
+    "share_no_disclosure": 0.222,
+    "share_disclosed": 0.222,
+    "best_rank": 5
+   }
+  ],
+  "lowest_price": {
+   "Motorola Edge 70 Fusion": {
+    "seller": "Zepto",
+    "title": "Motorola Edge 70 Fusion",
+    "price": 25799,
+    "price_text": "\u20b925,799",
+    "link": "https://www.google.co.in/search?ibp=oshop&q=Motorola Edge 70 Fusion&prds=catalogid:17820599955816641723,productid:3512076757800023105,headlineOfferDocid:3322805909294707345,imageDocid:2918462819694158043,gpcid:11145321886994972195,mid:576462892686420281,pvt:hg&hl=en&gl=in&udm=28",
+    "search_id": "6ac7de2f2b15b90f2618bda8",
+    "searched_at": "2026-10-08 18:17:19 UTC"
+   },
+   "Realme P4 Pro": {
+    "seller": "MKD",
+    "title": "Realme P4 Pro 5g",
+    "price": 28999,
+    "price_text": "\u20b928,999",
+    "link": "https://www.google.co.in/search?ibp=oshop&q=Realme P4 Pro&prds=catalogid:16721875019299705932,productid:11667326205061819164,headlineOfferDocid:1949388642410176602,imageDocid:4396491336325684610,rds:PC_1313629141078386771|PROD_PC_1313629141078386771,gpcid:1313629141078386771,mid:576462840756007696,pvt:hg&hl=en&gl=in&udm=28",
+    "search_id": "6ac7de31f357f62571048d8f",
+    "searched_at": "2026-10-08 18:17:21 UTC"
+   },
+   "Realme P4 Power": {
+    "seller": "Digihaat",
+    "title": "realme P4 Power 5G",
+    "price": 32999,
+    "price_text": "\u20b932,999",
+    "link": "https://www.google.co.in/search?ibp=oshop&q=Realme P4 Pro&prds=productid:15108090339756490530,headlineOfferDocid:15108090339756490530,imageDocid:16100895504848765651,pvt:hg&hl=en&gl=in&udm=28",
+    "search_id": "6ac7de31f357f62571048d8f",
+    "searched_at": "2026-10-08 18:17:21 UTC"
+   }
+  }
  }
 }

@@ -13,6 +13,7 @@ from collections import Counter
 from collections.abc import Callable
 from pathlib import Path
 
+from unpaid.board import Showcase, build
 from unpaid.collect import Collection, Recording, collect, showcase_plan
 from unpaid.config import EVIDENCE_DIR, PROBE_DIR, ROOT, SHOWCASE_DIR, api_key, llm_key, load_settings
 from unpaid.label import Labelled, label_all, showcase_paths
@@ -23,6 +24,7 @@ from unpaid.score import load_key, score
 from unpaid.serpapi import BudgetExceeded, Cache, Client, receipt
 
 SKIP_DIRS = {".git", ".venv", "node_modules", ".next", "__pycache__", ".pytest_cache", ".ruff_cache"}
+YOUTUBE_ENGINES = ("youtube", "youtube_video", "youtube_video_transcript")
 KEY_IN_URL = re.compile(r"api_key=[0-9a-f]{64}")
 OPENROUTER_KEY = re.compile(r"sk-or-v1-[0-9a-f]{32,}")
 
@@ -96,11 +98,11 @@ def checks() -> tuple[list[tuple[str, Callable[[], str]]], dict[str, object]]:
 
     @claim("Recorded live: 21 videos opened and 18 transcripts read in one 42-search pass")
     def _() -> str:
-        files = len(list((SHOWCASE_DIR / "serpapi").rglob("*.json")))
+        files = sum(len(list((SHOWCASE_DIR / "serpapi" / e).glob("*.json"))) for e in YOUTUBE_ENGINES)
         assert (rec.videos_opened, rec.transcripts_read, rec.searches_used) == (21, 18, 42), rec
         assert files == len(run.searches) + rec.searches_used == 45, files
         assert rec.transcripts_read == len(said)
-        return f"{rec.elapsed_s}s on {rec.started_at:%d %b %H:%M} UTC; {files} SerpApi files on disk"
+        return f"{rec.elapsed_s}s on {rec.started_at:%d %b %H:%M} UTC; {files} YouTube SerpApi files on disk"
 
     @claim("Every opened video is recent and names the budget; every skipped one says why")
     def _() -> str:
@@ -194,6 +196,53 @@ def checks() -> tuple[list[tuple[str, Callable[[], str]]], dict[str, object]]:
             for s in rows
         ]
         return "\n      ".join(lines)
+
+    shop_client = Client(mode="replay", key=None, cache=Cache(write_dir=SHOWCASE_DIR, read_dirs=(SHOWCASE_DIR,)))
+    show = build(SHOWCASE_DIR, shop_client)
+    board = show.board
+    numbers["board"] = {
+        "videos_with_picks": board.videos_with_picks,
+        "no_disclosure_videos_with_picks": board.no_disclosure_videos_with_picks,
+        "disclosed_videos_with_picks": board.disclosed_videos_with_picks,
+        "top_all": board.top_all,
+        "top_no_disclosure": board.top_no_disclosure,
+        "phones": [p.model_dump(exclude={"mentions"}) for p in board.phones[:10]],
+        "lowest_price": {pp.phone: pp.lowest.model_dump() if pp.lowest else None for pp in show.prices},
+    }
+
+    @claim("The board replays with no API key: rankings and Google Shopping prices, 0 searches, = board.json")
+    def _() -> str:
+        frozen = Showcase.model_validate_json((SHOWCASE_DIR / "board.json").read_text(encoding="utf-8"))
+        assert shop_client.searches_used == 0 and frozen == show, "stale board.json: run uv run unpaid board"
+        return f"{len(board.phones)} phones from {board.videos_with_picks} videos; prices for {len(show.prices)}"
+
+    @claim("What reviewers recommend: all of them vs only those with no disclosure found")
+    def _() -> str:
+        rows = []
+        for p in board.phones[:5]:
+            rows.append(
+                f"{p.name}: {p.no_disclosure}/{board.no_disclosure_videos_with_picks} no-disclosure videos, "
+                f"{p.disclosed}/{board.disclosed_videos_with_picks} disclosed"
+            )
+        assert all(p.all == p.no_disclosure + p.disclosed for p in board.phones)
+        assert sum(len(p.mentions) for p in board.phones) == sum(p.all for p in board.phones)
+        top = f"top 3 all: {', '.join(board.top_all)} | top 3 no disclosure: {', '.join(board.top_no_disclosure)}"
+        return "\n      ".join([top, *rows])
+
+    @claim("Every price comes from a recorded Google Shopping search, cheapest per seller, phone matched by title")
+    def _() -> str:
+        ids = {
+            json.loads(f.read_text(encoding="utf-8"))["response"]["search_metadata"]["id"]
+            for f in (SHOWCASE_DIR / "serpapi" / "google_shopping").glob("*.json")
+        }
+        out = []
+        for pp in show.prices:
+            assert all(o.search_id in ids for o in pp.offers)
+            assert [o.price for o in pp.offers] == sorted(o.price for o in pp.offers)
+            low = pp.lowest
+            said = f"Rs {low.price:,} at {low.seller} ({len(pp.offers)} sellers)" if low else "— (no listing found)"
+            out.append(f"{pp.phone}: {said}")
+        return "; ".join(out)
 
     @claim("Budget guard refuses a run that would cross the limit in unpaid.toml")
     def _() -> str:

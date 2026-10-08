@@ -1,0 +1,51 @@
+{
+ "request": {
+  "engine": "google_shopping",
+  "gl": "in",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "min_price": "10000",
+  "q": "Realme P4 Power"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7dde6fbe53be99d5b9419",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/4jXpkfXRNYxnIwbZab8wMODV5QBSwf0tM8bUnHCJFXA/6ac7dde6fbe53be99d5b9419.json",
+   "markdown_endpoint": "https://serpapi.com/searches/4jXpkfXRNYxnIwbZab8wMODV5QBSwf0tM8bUnHCJFXA/6ac7dde6fbe53be99d5b9419.md",
+   "created_at": "2026-10-08 18:16:06 UTC",
+   "processed_at": "2026-10-08 18:16:06 UTC",
+   "google_shopping_url": "https://www.google.co.in/search?udm=28&q=%E2%82%B910000+%E0%A4%B8%E0%A5%87+%E0%A4%9C%E0%A4%BC%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%BE+%E0%A4%95%E0%A5%80%E0%A4%AE%E0%A4%A4+%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%87+Realme+P4+Power&hl=en&gl=in&shoprs=CAESDRILCQAAACBfoAJCGAEqD1JlYWxtZSBQNCBQb3dlcjI1CAUSIuKCuTEwMDAwIOCkuOClhyDgpZvgpY3gpK_gpL7gpKbgpL4iDRILCQAAACBfoAJCGAE",
+   "raw_html_file": "https://serpapi.com/searches/4jXpkfXRNYxnIwbZab8wMODV5QBSwf0tM8bUnHCJFXA/6ac7dde6fbe53be99d5b9419.html",
+   "total_time_taken": 52.56
+  },
+  "search_parameters": {
+   "engine": "google_shopping",
+   "q": "Realme P4 Power",
+   "google_domain": "google.co.in",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop",
+   "min_price": "10000"
+  },
+  "search_information": {
+   "query_displayed": "₹10000 से ज़्यादा कीमत वाले Realme P4 Power",
+   "shopping_results_state": "Fully empty"
+  },
+  "filters": [
+   {
+    "type": "Carousel Filters",
+    "options": [
+     {
+      "text": "₹10000 से ज़्यादा",
+      "selected": true,
+      "shoprs": "CAEYBSoPUmVhbG1lIFA0IFBvd2VyYAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&min_price=10000&q=realme+p4+power&shoprs=CAEYBSoPUmVhbG1lIFA0IFBvd2VyYAE",
+      "input_type": "link"
+     }
+    ]
+   }
+  ],
+  "error": "Google hasn't returned any results for this query."
+ }
+}

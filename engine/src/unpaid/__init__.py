@@ -62,6 +62,26 @@ def _label(args: argparse.Namespace) -> None:
     print(f"wrote {out}")
 
 
+def _board(args: argparse.Namespace) -> None:
+    from unpaid.board import build
+    from unpaid.config import SHOWCASE_DIR
+    from unpaid.serpapi import Cache
+
+    client = Client.from_env("replay" if args.replay else None)
+    client.cache = Cache(write_dir=SHOWCASE_DIR / "serpapi", read_dirs=(SHOWCASE_DIR,))
+    show = build(SHOWCASE_DIR, client)
+    for pp in show.prices:
+        print(f"{pp.phone}: {len(pp.offers)} sellers, {pp.skipped} other results skipped")
+        for o in pp.offers[:6]:
+            print(f"    Rs {o.price:>7,}  {o.seller:<22} {o.title[:70]}")
+    print(f"top (all): {show.board.top_all}")
+    print(f"top (no disclosure): {show.board.top_no_disclosure}")
+    print(f"{client.searches_used} searches used")
+    out = SHOWCASE_DIR / "board.json"
+    out.write_text(show.model_dump_json(indent=1), encoding="utf-8")
+    print(f"wrote {out}")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(prog="unpaid")
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -73,6 +93,8 @@ def main() -> None:
     )
     lb = sub.add_parser("label", help="label the recorded showcase videos (LLM finds, code proves)")
     lb.add_argument("--replay", action="store_true", help="use saved LLM answers and link checks only")
+    bd = sub.add_parser("board", help="rank the phones and fetch live prices for the top ones")
+    bd.add_argument("--replay", action="store_true", help="use recorded prices only")
     args = parser.parse_args()
 
     if args.cmd == "account":
@@ -84,3 +106,5 @@ def main() -> None:
         _collect(args)
     elif args.cmd == "label":
         _label(args)
+    elif args.cmd == "board":
+        _board(args)

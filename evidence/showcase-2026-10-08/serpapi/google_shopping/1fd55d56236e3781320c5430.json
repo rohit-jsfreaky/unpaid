@@ -1,0 +1,74 @@
+{
+ "request": {
+  "engine": "google_shopping",
+  "gl": "in",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "min_price": "10000",
+  "q": "Realme P4 Pro"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac7dde5484c092b5db91c90",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/X3AkOEW6S77mEYlW37eyh_J1PmpDYuWCcPEYQ1-KzIA/6ac7dde5484c092b5db91c90.json",
+   "markdown_endpoint": "https://serpapi.com/searches/X3AkOEW6S77mEYlW37eyh_J1PmpDYuWCcPEYQ1-KzIA/6ac7dde5484c092b5db91c90.md",
+   "created_at": "2026-10-08 18:16:05 UTC",
+   "processed_at": "2026-10-08 18:16:05 UTC",
+   "google_shopping_url": "https://www.google.co.in/search?udm=28&q=%E2%82%B910000+%E0%A4%B8%E0%A5%87+%E0%A4%9C%E0%A4%BC%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%BE+%E0%A4%95%E0%A5%80%E0%A4%AE%E0%A4%A4+%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%87+Realme+P4+Pro&hl=en&gl=in&shoprs=CAESDRILCQAAACBfoAJCGAEqDVJlYWxtZSBQNCBQcm8yNQgFEiLigrkxMDAwMCDgpLjgpYcg4KWb4KWN4KSv4KS-4KSm4KS-Ig0SCwkAAAAgX6ACQhgB",
+   "raw_html_file": "https://serpapi.com/searches/X3AkOEW6S77mEYlW37eyh_J1PmpDYuWCcPEYQ1-KzIA/6ac7dde5484c092b5db91c90.html",
+   "total_time_taken": 1.0
+  },
+  "search_parameters": {
+   "engine": "google_shopping",
+   "q": "Realme P4 Pro",
+   "google_domain": "google.co.in",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop",
+   "min_price": "10000"
+  },
+  "search_information": {
+   "query_displayed": "₹10000 से ज़्यादा कीमत वाले Realme P4 Pro",
+   "shopping_results_state": "Showing results for exact spelling despite spelling suggestion",
+   "spelling_fix": "₹10000 से ज्यादा कीमत वाला Realme P4 Pro"
+  },
+  "shopping_results": [
+   {
+    "position": 1,
+    "title": "Realme P4 PRO 8+128",
+    "product_id": "1130138739764196827",
+    "product_link": "https://www.google.co.in/search?ibp=oshop&q=Realme P4 Pro&prds=productid:1130138739764196827,headlineOfferDocid:1130138739764196827,imageDocid:16851853876292766728,pvt:hg&hl=en&gl=in&udm=28",
+    "immersive_product_page_token": "l0Tfb3icbVPJjvM2Ep7BvMA8Ql_69MOBKGrthg9aKFu2te-6CNosubVakjc9zY_OAmSOSYBgbvMaySHPEiVI_wMMhiDI4vdVsVhVrN_-9s_3_PQzmcFtPA4-zwokpiO9GprbycC-74cuu6TTKfsRAIgByNCQpSkCsBSD09-n8RTXXXHKPv9Q5nFWn9pcOx7zQezS_2_xr1MTF_mf9E-AYkjAkIsChbM4TVE0znw9ZOPnb8-XfHj88u9nhD8z-DPPAmwZn54R9swRzzzzp0A-M_QHxAofnPDBiX8hnPRBoQ-E-oJ8sSc_zLAPpS_axBe_5P_exOP_fYmZx3WTf9KJT_rQfVv0S4Cfv27-WPrr9F4W31wudf6f96J-P7XvZf2et991cX89pr_-_Q11N0EYb7zh9L0rmpgtSqYJSyyZedfa7KTAM1E681vNMfu4UmcbhLUxlzBGJeEgdutJPGZCU_Th7uTM_D1pM8Gxd60qqZQL-k0G5FvogT631UvQ9oZXl3tVCjHDd6GKRqjaPK565pQ0ZOu6pWk6mapugG3h0yXx5IcDwiHD7pIqZmIKw4O7mS4KFoIM1aPdGkSyITAFJ4m0YSbVzoDrhVSGgzmpmEfuhUB17p6zkXjHTYkEZFXsTG3mOniKsbEqlrLjh6E5c3PugSFBJO_jwc3w6w6VKQhFVQ589eEhmTRm5-Yg14jhbsrw2lT47mQ45py-1Y3TqmO2uZcqcIHZhPscjSBx6iGTnCW2bsmpq4a3b-7jcPwF4yRysjSiLqpVUha5HT7oorcacaeW_WG3z4TiBdAsIBgIKZJhmO_SrqtO-a__yC1VFtfcTgO4v80LK-FZM1mOEl0PzIhxbUMlGQ7jSZfbuBIr31ODbKqprD87eR0otNn4LBVRbZjTrjfaTLQ_7aMcwsBbtQ4pMIllzbNYvD5ZmmCtBU5eJMSZwjayOAVZso3WQmHI0Rnxr08cEtZcHLNo11keTcuh8zZL4rby6khoCH327Z7QnAm7yGxJPZrqKrWP2A2m0DIU23h92mja5oAijncsFCEfKbota-p6iZA9LvWDMX2EGRbjkH6xlfVfGcFw-CKshxdZXwOM_grQ-FcEtmzk6sVaB0DIQ1qYvUkzb2ZVWPlhDy_Y61MUWXl6GfKVZZv6muPVkqNOxMGgqitvp3c58Oo3unaUFlCkj9PSTZXm2XaBKsGSTgFzJ3a93Pm2uRsHTxL3Loff1aVlEhjMQqgxcM5H3YD9CZHS4-YtCfyjUMJ5FAQOWdBAvHbfiBY_XaaE1mm4TBvThcW1GimnhlRXZz3MzpxXX8PwGkbHA5blJh8fN0QrHLaKT0Zd_ohkWK_2V4KmgiNX-q4ZFvh-5SbdMetiRdWRGD1MxR2DA9hyTrtXK3nYMxl5YFoDbdluZvPmZjdWUckRdqfJft5v0RurOSdmLLgmvmdv3sGA22re6fwlOdtNdCyI2tzc-rK734W3CvZL50jy5gQ7GZmaC2SjSMs-kLrWHvwAgRuN7AzzG2MyV_v4igvXQaq86X63e0G8FsHVk0ot8BJ81MWruwmVwCr0UNitNFbvmlPBK5XDY-fbdn7ctckWJBPDLPrK1hyHKbDtMq8NGuriZkdSVS5dFW9JvDy-haXIwBTf7pUKlWGt5DcLT6BPu1dIcKV5yKTLGSYHg3t9Et21QedaRewH1GLmbekSudLz5eOMrUQfkNn9Din0GNY",
+    "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=l0Tfb3icbVPJjvM2Ep7BvMA8Ql_69MOBKGrthg9aKFu2te-6CNosubVakjc9zY_OAmSOSYBgbvMaySHPEiVI_wMMhiDI4vdVsVhVrN_-9s_3_PQzmcFtPA4-zwokpiO9GprbycC-74cuu6TTKfsRAIgByNCQpSkCsBSD09-n8RTXXXHKPv9Q5nFWn9pcOx7zQezS_2_xr1MTF_mf9E-AYkjAkIsChbM4TVE0znw9ZOPnb8-XfHj88u9nhD8z-DPPAmwZn54R9swRzzzzp0A-M_QHxAofnPDBiX8hnPRBoQ-E-oJ8sSc_zLAPpS_axBe_5P_exOP_fYmZx3WTf9KJT_rQfVv0S4Cfv27-WPrr9F4W31wudf6f96J-P7XvZf2et991cX89pr_-_Q11N0EYb7zh9L0rmpgtSqYJSyyZedfa7KTAM1E681vNMfu4UmcbhLUxlzBGJeEgdutJPGZCU_Th7uTM_D1pM8Gxd60qqZQL-k0G5FvogT631UvQ9oZXl3tVCjHDd6GKRqjaPK565pQ0ZOu6pWk6mapugG3h0yXx5IcDwiHD7pIqZmIKw4O7mS4KFoIM1aPdGkSyITAFJ4m0YSbVzoDrhVSGgzmpmEfuhUB17p6zkXjHTYkEZFXsTG3mOniKsbEqlrLjh6E5c3PugSFBJO_jwc3w6w6VKQhFVQ589eEhmTRm5-Yg14jhbsrw2lT47mQ45py-1Y3TqmO2uZcqcIHZhPscjSBx6iGTnCW2bsmpq4a3b-7jcPwF4yRysjSiLqpVUha5HT7oorcacaeW_WG3z4TiBdAsIBgIKZJhmO_SrqtO-a__yC1VFtfcTgO4v80LK-FZM1mOEl0PzIhxbUMlGQ7jSZfbuBIr31ODbKqprD87eR0otNn4LBVRbZjTrjfaTLQ_7aMcwsBbtQ4pMIllzbNYvD5ZmmCtBU5eJMSZwjayOAVZso3WQmHI0Rnxr08cEtZcHLNo11keTcuh8zZL4rby6khoCH327Z7QnAm7yGxJPZrqKrWP2A2m0DIU23h92mja5oAijncsFCEfKbota-p6iZA9LvWDMX2EGRbjkH6xlfVfGcFw-CKshxdZXwOM_grQ-FcEtmzk6sVaB0DIQ1qYvUkzb2ZVWPlhDy_Y61MUWXl6GfKVZZv6muPVkqNOxMGgqitvp3c58Oo3unaUFlCkj9PSTZXm2XaBKsGSTgFzJ3a93Pm2uRsHTxL3Loff1aVlEhjMQqgxcM5H3YD9CZHS4-YtCfyjUMJ5FAQOWdBAvHbfiBY_XaaE1mm4TBvThcW1GimnhlRXZz3MzpxXX8PwGkbHA5blJh8fN0QrHLaKT0Zd_ohkWK_2V4KmgiNX-q4ZFvh-5SbdMetiRdWRGD1MxR2DA9hyTrtXK3nYMxl5YFoDbdluZvPmZjdWUckRdqfJft5v0RurOSdmLLgmvmdv3sGA22re6fwlOdtNdCyI2tzc-rK734W3CvZL50jy5gQ7GZmaC2SjSMs-kLrWHvwAgRuN7AzzG2MyV_v4igvXQaq86X63e0G8FsHVk0ot8BJ81MWruwmVwCr0UNitNFbvmlPBK5XDY-fbdn7ctckWJBPDLPrK1hyHKbDtMq8NGuriZkdSVS5dFW9JvDy-haXIwBTf7pUKlWGt5DcLT6BPu1dIcKV5yKTLGSYHg3t9Et21QedaRewH1GLmbekSudLz5eOMrUQfkNn9Din0GNY",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=l0Tfb3icbVPJjvM2Ep7BvMA8Ql_69MOBKGrthg9aKFu2te-6CNosubVakjc9zY_OAmSOSYBgbvMaySHPEiVI_wMMhiDI4vdVsVhVrN_-9s_3_PQzmcFtPA4-zwokpiO9GprbycC-74cuu6TTKfsRAIgByNCQpSkCsBSD09-n8RTXXXHKPv9Q5nFWn9pcOx7zQezS_2_xr1MTF_mf9E-AYkjAkIsChbM4TVE0znw9ZOPnb8-XfHj88u9nhD8z-DPPAmwZn54R9swRzzzzp0A-M_QHxAofnPDBiX8hnPRBoQ-E-oJ8sSc_zLAPpS_axBe_5P_exOP_fYmZx3WTf9KJT_rQfVv0S4Cfv27-WPrr9F4W31wudf6f96J-P7XvZf2et991cX89pr_-_Q11N0EYb7zh9L0rmpgtSqYJSyyZedfa7KTAM1E681vNMfu4UmcbhLUxlzBGJeEgdutJPGZCU_Th7uTM_D1pM8Gxd60qqZQL-k0G5FvogT631UvQ9oZXl3tVCjHDd6GKRqjaPK565pQ0ZOu6pWk6mapugG3h0yXx5IcDwiHD7pIqZmIKw4O7mS4KFoIM1aPdGkSyITAFJ4m0YSbVzoDrhVSGgzmpmEfuhUB17p6zkXjHTYkEZFXsTG3mOniKsbEqlrLjh6E5c3PugSFBJO_jwc3w6w6VKQhFVQ589eEhmTRm5-Yg14jhbsrw2lT47mQ45py-1Y3TqmO2uZcqcIHZhPscjSBx6iGTnCW2bsmpq4a3b-7jcPwF4yRysjSiLqpVUha5HT7oorcacaeW_WG3z4TiBdAsIBgIKZJhmO_SrqtO-a__yC1VFtfcTgO4v80LK-FZM1mOEl0PzIhxbUMlGQ7jSZfbuBIr31ODbKqprD87eR0otNn4LBVRbZjTrjfaTLQ_7aMcwsBbtQ4pMIllzbNYvD5ZmmCtBU5eJMSZwjayOAVZso3WQmHI0Rnxr08cEtZcHLNo11keTcuh8zZL4rby6khoCH327Z7QnAm7yGxJPZrqKrWP2A2m0DIU23h92mja5oAijncsFCEfKbota-p6iZA9LvWDMX2EGRbjkH6xlfVfGcFw-CKshxdZXwOM_grQ-FcEtmzk6sVaB0DIQ1qYvUkzb2ZVWPlhDy_Y61MUWXl6GfKVZZv6muPVkqNOxMGgqitvp3c58Oo3unaUFlCkj9PSTZXm2XaBKsGSTgFzJ3a93Pm2uRsHTxL3Loff1aVlEhjMQqgxcM5H3YD9CZHS4-YtCfyjUMJ5FAQOWdBAvHbfiBY_XaaE1mm4TBvThcW1GimnhlRXZz3MzpxXX8PwGkbHA5blJh8fN0QrHLaKT0Zd_ohkWK_2V4KmgiNX-q4ZFvh-5SbdMetiRdWRGD1MxR2DA9hyTrtXK3nYMxl5YFoDbdluZvPmZjdWUckRdqfJft5v0RurOSdmLLgmvmdv3sGA22re6fwlOdtNdCyI2tzc-rK734W3CvZL50jy5gQ7GZmaC2SjSMs-kLrWHvwAgRuN7AzzG2MyV_v4igvXQaq86X63e0G8FsHVk0ot8BJ81MWruwmVwCr0UNitNFbvmlPBK5XDY-fbdn7ctckWJBPDLPrK1hyHKbDtMq8NGuriZkdSVS5dFW9JvDy-haXIwBTf7pUKlWGt5DcLT6BPu1dIcKV5yKTLGSYHg3t9Et21QedaRewH1GLmbekSudLz5eOMrUQfkNn9Din0GNY",
+    "source": "Telephone Shoppees",
+    "source_icon": "https://serpapi.com/searches/6ac7dde5484c092b5db91c90/images/xzc1-x31trsruWb2TOs2Iwf9p4_EE7kBAFEEvWEwqpU.png",
+    "price": "₹28,999",
+    "extracted_price": 28999,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdfewAB36IMsCg_cXaiPfg1zP_89ZOQhRZcDcX2aoVWjERoWT3F2dYy9ThGN_xTDnHTb4z1UqKBwXa_Xp7wOMLPKoplIxIbgzQz0CdZv2N",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Yds4U3icDclJDoIwAADAF8lqVEiMYVEkyCJBqVwItFAwSottZHmOv_I3Otf5fhrOKdNFserga6K8QgtedpKAGS94CwVIniJrCKVth3f99n-6ESDNgTGqq8Ew1ZXrMwvnEBRtVGN5jvKNloXnJs6gDYFSkGt638ckTdSDgm6TljROkI-J3R2TcjnLl94zB1DkgK6H0D9FHqEPd3RLPJ9nyULZWwl-T6I6Pw"
+   }
+  ],
+  "filters": [
+   {
+    "type": "Carousel Filters",
+    "options": [
+     {
+      "text": "₹10000 से ज़्यादा",
+      "selected": true,
+      "shoprs": "CAEYBSoNUmVhbG1lIFA0IFByb2AB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&min_price=10000&q=realme+p4+pro&shoprs=CAEYBSoNUmVhbG1lIFA0IFByb2AB",
+      "input_type": "link"
+     },
+     {
+      "text": "Cell Phones",
+      "shoprs": "CAESDRILCQAAACBfoAJCGAEYCSoNUmVhbG1lIFA0IFBybzI1CAUSIuKCuTEwMDAwIOCkuOClhyDgpZvgpY3gpK_gpL7gpKbgpL4iDRILCQAAACBfoAJCGAEyDwgJEgtDZWxsIFBob25lc2AB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&min_price=10000&q=cell+phones+%E2%82%B910000+%E0%A4%B8%E0%A5%87+%E0%A4%9C%E0%A4%BC%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%BE+%E0%A4%95%E0%A5%80%E0%A4%AE%E0%A4%A4+%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%87+realme+p4+pro&shoprs=CAESDRILCQAAACBfoAJCGAEYCSoNUmVhbG1lIFA0IFBybzI1CAUSIuKCuTEwMDAwIOCkuOClhyDgpZvgpY3gpK_gpL7gpKbgpL4iDRILCQAAACBfoAJCGAEyDwgJEgtDZWxsIFBob25lc2AB",
+      "input_type": "link"
+     }
+    ]
+   }
+  ]
+ }
+}
