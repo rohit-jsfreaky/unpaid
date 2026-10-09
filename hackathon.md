@@ -5,7 +5,7 @@ reviewers say out loud, and shows who disclosed a brand deal, a free unit or a c
 with nothing to disclose recommend.
 
 - Repo: https://github.com/rohit-jsfreaky/unpaid (start with the [README](README.md))
-- Video (under 3 min, running locally): _link added after recording_
+- Video (2:17, the app running locally): https://youtu.be/neUM6Qp4lko
 - Track: Commerce & Market Intelligence
 - Auth: none. No login, and no API keys needed to judge: the real runs replay from `evidence/`.
 

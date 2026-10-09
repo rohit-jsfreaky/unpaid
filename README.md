@@ -2,7 +2,7 @@
 
 ![Unpaid: see who got paid before you trust a review](docs/landing.png)
 
-**[Judge it in 90 seconds](#judge-it-in-90-seconds)** · **[The numbers](#the-numbers)** ·
+**[Watch the demo](https://youtu.be/neUM6Qp4lko)** · **[Judge it in 90 seconds](#judge-it-in-90-seconds)** · **[The numbers](#the-numbers)** ·
 **[How SerpApi decides the answer](#how-unpaid-uses-serpapi)** · **[Limits](#honesty-limits-and-what-is-real)** ·
 **[For judges: hackathon.md](hackathon.md)**
 
@@ -17,7 +17,9 @@ out loud. It shows who disclosed a brand deal, a free unit or a commission, and 
 disclose recommend. The AI only finds the sentence; code shows a label only when that exact sentence is in the
 video's description or transcript, or YouTube labelled the video itself.**
 
-▶ **Demo video (under 3 min):** _link added after recording_
+▶ **Demo video (2:17, the app running locally):** https://youtu.be/neUM6Qp4lko
+
+[![Watch the Unpaid demo](https://img.youtube.com/vi/neUM6Qp4lko/hqdefault.jpg)](https://youtu.be/neUM6Qp4lko)
 
 Built for the **SerpApi India Hackathon 2026** (track: Commerce & Market Intelligence).
 
