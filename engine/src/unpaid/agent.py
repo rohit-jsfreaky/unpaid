@@ -83,6 +83,11 @@ def plan_from(question: str, intent: Intent, s: Settings) -> Plan:
     )
 
 
+def normalise_question(question: str) -> str:
+    """'Best phone under 30k?' and 'best phone  under 30k' are one question, so they share one recorded run."""
+    return " ".join(question.split()).casefold().rstrip(" .?!")
+
+
 def read_question(llm: LLM, question: str) -> Intent:
     intent, _ = llm.structured(INTENT_SYSTEM, question.strip(), Intent)
     return intent
@@ -121,6 +126,7 @@ class NotABuyingQuestion(ValueError):
 def ask(question: str, ws: Workspace, on_event: OnEvent | None = None) -> Showcase:
     emit = on_event or (lambda _e: None)
     s = load_settings()
+    question = normalise_question(question)
     emit({"type": "tool", "tool": "llm", "step": "read the question", "status": "start"})
     intent = read_question(ws.llm, question)
     emit({"type": "tool", "tool": "llm", "step": "read the question", "status": "done", "intent": intent.model_dump()})

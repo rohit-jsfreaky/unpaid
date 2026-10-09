@@ -9,6 +9,8 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 .playwright-mcp/
+# Local browser tool setup (points at a profile on this laptop).
+.mcp.json
 
 # Notes stay local. Only README.md files (any folder) and hackathon.md (the judges' page) go in the repo.
 *.md

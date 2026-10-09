@@ -328,7 +328,13 @@ def checks() -> tuple[list[tuple[str, Callable[[], str]]], dict[str, object]]:
             assert ws.client.searches_used == 0 and ws.llm.calls == 0, path
             assert again == saved, f"stale {path}: re-record with unpaid ask --record-into"
             ties = sum(bool(v.labels) for v in saved.videos)
-            best = [f"{a.area}: {a.best_no_disclosure or a.best_all or '-'}" for a in saved.areas if a.focus]
+            best = [
+                f"{a.area}: {a.best_no_disclosure}"
+                if a.best_no_disclosure
+                else f"{a.area}: - from reviewers with no disclosure (all reviewers: {a.best_all or '-'})"
+                for a in saved.areas
+                if a.focus
+            ]
             runs.append({"id": saved.id, "product": saved.product, "reviews": len(saved.videos), "with_ties": ties})
             lines.append(
                 f"{saved.product}: {len(saved.videos)} reviews, {ties} with a money tie, "

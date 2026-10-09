@@ -1,0 +1,154 @@
+{
+ "run": "run1-with-firecrawl",
+ "asked_at": "2026-10-08T02:35+05:30",
+ "question": "I want to buy a phone under 30000 in this Flipkart Big Billion Days sale. Every YouTube 'best phone under 30k' video says something different. Which of these YouTubers are being paid, sponsored, given free phones, or earning commission on the phones they recommend, and what do the unpaid, independent reviewers actually recommend? Give me a table with the video, the reviewer, what they recommended, and the proof of whether they were paid.",
+ "worked_for_s": 304,
+ "worked_for_text": "Worked for 5m 4s",
+ "tools_seen": [
+  "Firecrawl: Searched YouTube for the best smartphones under ₹30,000",
+  "Firecrawl: Extracted video recommendations, review rankings, and disclosure details",
+  "Searched 1 website",
+  "Searched 9 websites",
+  "Searched 1 website"
+ ],
+ "videos_cited": [
+  {
+   "video_id": "CNJMqc16XCQ",
+   "channel": "Technology Gyan",
+   "title": "Best Phones to Buy Under ₹30,000 - Flipkart Big Billion Days 2026",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "SAoMW8LoLzk",
+   "channel": "Gadgets 4 You",
+   "title": "Top 5 Best Phones Under ₹30,000 to Buy in Flipkart Big Billion Days & Amazon Sale 2026",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "q3cKoz-njBM",
+   "channel": "Ankur Gulati",
+   "title": "Best Smartphones Under ₹30,000 – Top Picks for Flipkart BBD 2026 Sale",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "chKspPAZj7U",
+   "channel": "Techno Gharib",
+   "title": "Top 5 Best Smartphone Under 30k In Big Billion Days | Best Phone Under 30000",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "UEj_k4t2-OM",
+   "channel": "Gyan Therapy",
+   "title": "Best Smartphone For You July 2026 - Offer & Sale Clear Suggestion !",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "urXTMFKEgCE",
+   "channel": "Gyan Therapy",
+   "title": "Nothing Phone 4a - After 30 Days !",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "jLhU90cf-DI",
+   "channel": "Gyan Therapy",
+   "title": "Popular Edge Phone From Motorola - Edge 70 Fusion",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  }
+ ],
+ "videos_cited_count": 7,
+ "channels_cited_count": 5,
+ "bbd_under_30k_list_videos": 4,
+ "disclosures_claimed": {
+  "Technology Gyan": "free units from the brand (description quote) + #Collab + tagged links (said in video)",
+  "Gadgets 4 You": "amzn.to shopping links in description",
+  "Ankur Gulati": "Amazon Associates disclosure (description quote)",
+  "Techno Gharib": "unknown (product tags only)",
+  "Gyan Therapy": "no disclosure found in the 3 videos it read"
+ },
+ "final_pick": "Moto Edge 70 Fusion at ₹29,999 (Flipkart BBD price it quoted)",
+ "links": [
+  {
+   "text": "Watch video",
+   "href": "https://www.youtube.com/watch?v=CNJMqc16XCQ&utm_source=chatgpt.com"
+  },
+  {
+   "text": "Watch video",
+   "href": "https://www.youtube.com/watch?v=SAoMW8LoLzk&utm_source=chatgpt.com"
+  },
+  {
+   "text": "Watch video",
+   "href": "https://www.youtube.com/watch?v=q3cKoz-njBM&utm_source=chatgpt.com"
+  },
+  {
+   "text": "Watch video",
+   "href": "https://www.youtube.com/watch?v=chKspPAZj7U&utm_source=chatgpt.com"
+  },
+  {
+   "text": "YouTube",
+   "href": "https://www.youtube.com/watch?v=UEj_k4t2-OM&utm_source=chatgpt.com"
+  },
+  {
+   "text": "YouTube",
+   "href": "https://www.youtube.com/watch?v=urXTMFKEgCE&utm_source=chatgpt.com"
+  },
+  {
+   "text": "YouTube",
+   "href": "https://www.youtube.com/watch?v=jLhU90cf-DI&utm_source=chatgpt.com"
+  },
+  {
+   "text": "YouTube\n+2",
+   "href": "https://www.youtube.com/watch?v=jLhU90cf-DI&utm_source=chatgpt.com"
+  },
+  {
+   "text": "YouTube",
+   "href": "https://www.youtube.com/watch?v=jLhU90cf-DI&utm_source=chatgpt.com"
+  },
+  {
+   "text": "Flipkart",
+   "href": "https://test-ssl.flipkart.com/mobiles/realme~brand/pr?sid=tyy%2C4io&utm_source=chatgpt.com"
+  },
+  {
+   "text": "Flipkart\n+1",
+   "href": "https://www.flipkart.com/mobiles/realme~brand/pr?sid=tyy%252C4io&utm_source=chatgpt.com"
+  },
+  {
+   "text": "YouTube",
+   "href": "https://www.youtube.com/watch?v=urXTMFKEgCE&utm_source=chatgpt.com"
+  },
+  {
+   "text": "91mobiles",
+   "href": "https://www.91mobiles.com/hub/nothing-phone-4a-pro-4b-price-discounted-flipkart-big-billion-days-sale-2026/?utm_source=chatgpt.com"
+  },
+  {
+   "text": "91mobiles",
+   "href": "https://www.91mobiles.com/hub/nothing-phone-4a-pro-4b-price-discounted-flipkart-big-billion-days-sale-2026/?utm_source=chatgpt.com"
+  },
+  {
+   "text": "Beebom Gadgets",
+   "href": "https://gadgets.beebom.com/news/oppo-phones-flipkart-big-billion-days-2026-sale-deals-revealed?utm_source=chatgpt.com"
+  },
+  {
+   "text": "Flipkart",
+   "href": "https://www.flipkart.com/mobiles/realme~brand/pr?sid=tyy%252C4io&utm_source=chatgpt.com"
+  },
+  {
+   "text": "Beebom Gadgets",
+   "href": "https://gadgets.beebom.com/news/tecno-pova-curve-2-5g-flipkart-big-billion-days-2026-sale-deal-revealed?utm_source=chatgpt.com"
+  }
+ ],
+ "note": "Unpaid's own run has no video in common with this list: different searches surface different videos."
+}

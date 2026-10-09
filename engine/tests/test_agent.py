@@ -7,7 +7,7 @@ from typing import Any
 
 import pytest
 
-from unpaid.agent import Intent, NotABuyingQuestion, budget_pattern, plan_from
+from unpaid.agent import Intent, NotABuyingQuestion, budget_pattern, normalise_question, plan_from
 from unpaid.collect import showcase_plan
 from unpaid.config import load_settings
 from unpaid.llm import LLMNotRecorded
@@ -53,6 +53,11 @@ def test_budget_pattern(title: str, hit: bool) -> None:
     assert bool(re.search(budget_pattern(30000), title, re.IGNORECASE)) is hit
 
 
+def test_same_question_typed_differently_is_one_question() -> None:
+    assert normalise_question(" Best phone under 30k for camera and\tbattery, big billion days?! ") == DEMO
+    assert normalise_question(DEMO) == DEMO
+
+
 def test_api_problems_map_to_clear_statuses() -> None:
     from unpaid.api import problem
 
@@ -74,7 +79,8 @@ def test_api_replays_the_demo_question_with_no_keys(tmp_path: Path, monkeypatch:
     monkeypatch.setenv("SERPAPI_API_KEY", "")
     monkeypatch.setenv("OPENROUTER_API_KEY", "")
     http = TestClient(api.app)
-    events = lines(http.post("/ask", json={"question": DEMO, "replay": True}).text)
+    typed = "Best phone under 30k for camera and  battery, big billion days?"  # how a person types it
+    events = lines(http.post("/ask", json={"question": typed, "replay": True}).text)
     kinds = [e["type"] for e in events]
     assert kinds[0] == "start" and kinds[-1] == "result" and "plan" in kinds and kinds.count("video") == 21
     cost = next(e for e in events if e["type"] == "cost")

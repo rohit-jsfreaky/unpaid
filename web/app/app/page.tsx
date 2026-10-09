@@ -88,7 +88,7 @@ export default function Home() {
             the rest recommend.
           </p>
           <div className="mt-6">
-            <AskBox />
+            <AskBox examples={reports?.map((r) => sentence(r.question))} />
           </div>
         </div>
         <LatestCard

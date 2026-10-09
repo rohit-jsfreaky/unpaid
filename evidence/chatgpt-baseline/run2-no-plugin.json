@@ -1,0 +1,121 @@
+{
+ "run": "run2-no-plugin",
+ "sent_at": "2026-10-09T05:36:35Z",
+ "worked_for_s": 27,
+ "worked_for_text": "Worked for 27s",
+ "tools_seen": [
+  "Searched 12 websites (built-in web search)"
+ ],
+ "videos_cited": [
+  {
+   "video_id": "vrG9j1dfT10",
+   "channel": "Tech Guide",
+   "title": "Best Phone under 30000 buy before Flipkart Big Billion Days Sale 2026",
+   "chatgpt_verdict": "affiliate disclosed (description)",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "YBiWQy-yfHs",
+   "channel": "Shashi Shukla Tech",
+   "title": "Best Phone Under 30000 in Flipkart Big Billion Days & Great Indian Festival 2026",
+   "chatgpt_verdict": "affiliate disclosed (description)",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "LLo5QtZCUho",
+   "channel": "Harsh Tech Support",
+   "title": "Top 5 BEST Phones Under ₹30,000 BBD 2026",
+   "chatgpt_verdict": "unverified",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "EDEDwxe5_Jg",
+   "channel": "Smart Technical",
+   "title": "Best Smartphones Under 25k to 30k Flipkart Big Billion Days",
+   "chatgpt_verdict": "unverified",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "qPq2B6UwW5s",
+   "channel": "Ritesh Jeph",
+   "title": "Top 5 Best Camera & Gaming Phone Under 30000 In 2026 (Jan 2026)",
+   "chatgpt_verdict": "unverified",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "3D5nr6qyN94",
+   "channel": "Yogesh Kaushal",
+   "title": "Motorola Edge 70 Fusion - Worth it Or Not?? (single-phone review)",
+   "chatgpt_verdict": "not sponsored (claimed)",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "FT1qSBl8Buo",
+   "channel": "Mobilarena",
+   "title": "Motorola Edge 70 Fusion rapidteszt (Hungarian single-phone review)",
+   "chatgpt_verdict": "not sponsored (claimed)",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  },
+  {
+   "video_id": "n-GKTi0v4zo",
+   "channel": "TotallydubbedHD",
+   "title": "Poco X7 Pro Review (older phone, single-phone review)",
+   "chatgpt_verdict": "affiliate disclosed",
+   "exists": true,
+   "checked_with": "youtube.com/oembed on 2026-10-09 (HTTP 200)",
+   "in_unpaid_search_results": false
+  }
+ ],
+ "videos_cited_count": 8,
+ "bbd_under_30k_list_videos": 4,
+ "its_own_limit": "I also haven't verified the spoken disclosures or YouTube's in-player paid-promotion labels, so this isn't a complete financial audit.",
+ "final_pick": "No single pick: shortlist Nothing Phone (4b) ₹27,999, Motorola Edge 70 Fusion ₹29,999, Realme P4 Power ₹29,999 (advertised prices)",
+ "links": [
+  {
+   "text": "Tech Guide",
+   "href": "https://www.youtube.com/watch?v=vrG9j1dfT10"
+  },
+  {
+   "text": "Shashi Shukla Tech",
+   "href": "https://www.youtube.com/watch?v=YBiWQy-yfHs"
+  },
+  {
+   "text": "Harsh Tech Support",
+   "href": "https://www.youtube.com/watch?v=LLo5QtZCUho"
+  },
+  {
+   "text": "Smartt Technical",
+   "href": "https://www.youtube.com/watch?v=EDEDwxe5_Jg"
+  },
+  {
+   "text": "Ritesh Jeph",
+   "href": "https://www.youtube.com/watch?v=qPq2B6UwW5s"
+  },
+  {
+   "text": "Yogesh Kaushal: Moto Edge 70 Fusion Review",
+   "href": "https://www.youtube.com/watch?v=3D5nr6qyN94"
+  },
+  {
+   "text": "Mobilarena: Edge 70 Fusion Review",
+   "href": "https://www.youtube.com/watch?v=FT1qSBl8Buo"
+  },
+  {
+   "text": "TotallydubbedHD: POCO X7 Pro Review",
+   "href": "https://www.youtube.com/watch?v=n-GKTi0v4zo"
+  }
+ ]
+}

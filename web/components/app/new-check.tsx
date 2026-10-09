@@ -101,7 +101,7 @@ export function NewCheck() {
             Ask the way you would ask a friend. We&apos;ll do the watching.
           </p>
         </div>
-        <AskBox />
+        <AskBox examples={reports?.map((r) => sentence(r.question))} />
         <Card>
           <CardHeader>
             <CardTitle>What happens next</CardTitle>

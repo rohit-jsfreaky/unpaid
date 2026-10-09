@@ -11,13 +11,14 @@ import {
   InputGroupTextarea,
 } from "@/components/ui/input-group"
 
-const EXAMPLES = [
-  "Best phone under 30k for camera and battery, big billion days",
-  "Best earbuds under 3000",
-  "Best laptop under 60000 for college",
-]
-
-export function AskBox({ initial = "" }: { initial?: string }) {
+/** `examples`: questions that already have a report, so a click opens a check that works. */
+export function AskBox({
+  initial = "",
+  examples = [],
+}: {
+  initial?: string
+  examples?: string[]
+}) {
   const router = useRouter()
   const [q, setQ] = useState(initial)
   const go = (text: string) => {
@@ -64,19 +65,21 @@ export function AskBox({ initial = "" }: { initial?: string }) {
           </InputGroupAddon>
         </InputGroup>
       </form>
-      <div className="flex flex-wrap items-center gap-2 text-[12.5px]">
-        <span className="text-faint">Try:</span>
-        {EXAMPLES.map((e) => (
-          <button
-            key={e}
-            type="button"
-            onClick={() => go(e)}
-            className="rounded-full bg-white px-3 py-1 font-medium text-ink-2 shadow-[0_0_0_1px_rgb(15_23_42/0.08)] transition-colors hover:bg-soft"
-          >
-            {e}
-          </button>
-        ))}
-      </div>
+      {examples.length > 0 && (
+        <div className="flex flex-wrap items-center gap-2 text-[12.5px]">
+          <span className="text-faint">Try:</span>
+          {examples.map((e) => (
+            <button
+              key={e}
+              type="button"
+              onClick={() => go(e)}
+              className="rounded-full bg-white px-3 py-1 font-medium text-ink-2 shadow-[0_0_0_1px_rgb(15_23_42/0.08)] transition-colors hover:bg-soft"
+            >
+              {e}
+            </button>
+          ))}
+        </div>
+      )}
     </div>
   )
 }
