@@ -68,7 +68,16 @@ def stream(body: AskBody) -> Iterator[str]:
             events.put({"type": "start", "mode": "replay" if body.replay else "live"})
             show = ask(body.question, ws, on_event=events.put)
             save_report(show)
-            events.put({"type": "result", "id": show.id, "showcase": show.model_dump(mode="json")})
+            # The card and the whole report go to the browser too: on Vercel the next request can reach another
+            # instance whose temp folder doesn't hold this report, so the browser keeps its own copy.
+            events.put(
+                {
+                    "type": "result",
+                    "id": show.id,
+                    "card": card(show, sample=False),
+                    "showcase": show.model_dump(mode="json"),
+                }
+            )
         except Exception as e:  # every failure becomes one clear event
             status, detail = problem(e)
             events.put({"type": "error", "status": status, "detail": detail})
@@ -121,26 +130,26 @@ def save_report(show: Showcase) -> None:
     (folder / f"{show.id}.json").write_text(show.model_dump_json(indent=1), encoding="utf-8")
 
 
+def card(s: Showcase, sample: bool) -> dict[str, Any]:
+    """A report's card for the lists: what was asked, how many reviews, how many with a money tie, the top pick."""
+    top = s.board.top_all[0] if s.board.top_all else None
+    low = next((p.lowest for p in s.prices if p.phone == top), None)
+    return {
+        "id": s.id,
+        "question": s.question,
+        "checked_at": s.checked_at.isoformat(),
+        "sample": sample,
+        "reviews": len(s.videos),
+        "with_money_ties": len([v for v in s.videos if v.labels]),
+        "top_pick": top,
+        "top_pick_price": low.price if low else None,
+    }
+
+
 @api.get("/reports")
 def reports() -> list[dict[str, Any]]:
     """Report cards, newest first."""
-    rows = []
-    for s, sample in load_reports().values():
-        labelled = [v for v in s.videos if v.labels]
-        top = s.board.top_all[0] if s.board.top_all else None
-        low = next((p.lowest for p in s.prices if p.phone == top), None)
-        rows.append(
-            {
-                "id": s.id,
-                "question": s.question,
-                "checked_at": s.checked_at.isoformat(),
-                "sample": sample,
-                "reviews": len(s.videos),
-                "with_money_ties": len(labelled),
-                "top_pick": top,
-                "top_pick_price": low.price if low else None,
-            }
-        )
+    rows = [card(s, sample) for s, sample in load_reports().values()]
     return sorted(rows, key=lambda r: r["checked_at"], reverse=True)
 
 

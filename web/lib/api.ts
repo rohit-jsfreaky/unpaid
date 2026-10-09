@@ -1,3 +1,4 @@
+import { saveReport, savedCards, savedReport } from "./saved"
 import type { Account, Accuracy, Report, ReportCard, RunEvent } from "./types"
 
 /** Why a call failed, in product terms. */
@@ -88,8 +89,10 @@ async function check(
     for (const line of lines) {
       if (!line.trim()) continue
       const event = JSON.parse(line) as RunEvent
-      if (event.type === "result")
+      if (event.type === "result") {
+        saveReport(event.card, event.showcase)
         return { id: event.id, report: event.showcase }
+      }
       if (event.type === "error")
         throw new ApiError(
           event.status,
@@ -103,13 +106,35 @@ async function check(
   }
 }
 
+/** Every report card: the engine's list plus the ones this browser checked, newest first. */
+async function reports(): Promise<ReportCard[]> {
+  const fromEngine = await get<ReportCard[]>("/reports")
+  const known = new Set(fromEngine.map((c) => c.id))
+  return [...fromEngine, ...savedCards().filter((c) => !known.has(c.id))].sort(
+    (a, b) => b.checked_at.localeCompare(a.checked_at)
+  )
+}
+
+/** One report: from the engine, or this browser's copy when the engine instance that answered doesn't have it. */
+async function report(
+  id: string
+): Promise<{ sample: boolean; report: Report }> {
+  try {
+    return await get<{ sample: boolean; report: Report }>(
+      `/reports/${encodeURIComponent(id)}`
+    )
+  } catch (e) {
+    const kept = savedReport(id)
+    if (kept && e instanceof ApiError && e.problem === "missing")
+      return { sample: false, report: kept }
+    throw e
+  }
+}
+
 export const api = {
   account: () => get<Account>("/account"),
-  reports: () => get<ReportCard[]>("/reports"),
-  report: (id: string) =>
-    get<{ sample: boolean; report: Report }>(
-      `/reports/${encodeURIComponent(id)}`
-    ),
+  reports,
+  report,
   accuracy: () => get<Accuracy>("/accuracy"),
   check,
 }

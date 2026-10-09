@@ -86,6 +86,7 @@ def test_api_replays_the_demo_question_with_no_keys(tmp_path: Path, monkeypatch:
     cost = next(e for e in events if e["type"] == "cost")
     assert cost["searches_used"] == 0 and cost["llm_calls"] == 0
     show = events[-1]["showcase"]
+    assert events[-1]["card"]["id"] == show["id"] and events[-1]["card"]["with_money_ties"] == 9
     assert show["board"]["top_all"][0] == "Motorola Edge 70 Fusion"
 
     other = lines(http.post("/api/ask", json={"question": "best laptop under 60k", "replay": True}).text)

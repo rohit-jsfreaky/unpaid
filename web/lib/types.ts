@@ -203,5 +203,5 @@ export type RunEvent =
     }
   | { type: "uses"; v: string; found: number }
   | { type: "cost"; searches_used: number; llm_calls: number }
-  | { type: "result"; id: string; showcase: Report }
+  | { type: "result"; id: string; card: ReportCard; showcase: Report }
   | { type: "error"; status: number; detail: string }

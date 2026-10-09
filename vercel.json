@@ -12,7 +12,7 @@
       "buildCommand": "rm -rf evidence && cp -r ../evidence ./evidence && cp ../unpaid.toml ./unpaid.toml",
       "functions": {
         "main.py": {
-          "maxDuration": 60,
+          "maxDuration": 300,
           "excludeFiles": "{tests/**,.venv/**,.ruff_cache/**,.pytest_cache/**}"
         }
       }

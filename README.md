@@ -369,8 +369,11 @@ web/app        landing (/), dashboard (/app), live check, report pages, How we l
 **Deploy (Vercel).** One Vercel project with two [services](https://vercel.com/docs/services) (`vercel.json`): the
 Next.js app (`web/`) and the FastAPI engine (`engine/`, entry `engine/main.py`). `/api/*` goes to the engine, every
 other path to the app, on one domain. The engine's build copies `evidence/` and `unpaid.toml` next to it, and it writes
-only to the temp folder. Set no API keys on Vercel: the hosted app then runs in replay mode, answers every recorded
-question for free, and can never spend searches. `vercel dev -L` runs the same setup locally.
+only to the temp folder; a live check can run up to 300 s (the Hobby limit). Without API keys the hosted app runs in
+replay mode and answers every recorded question for free. With `SERPAPI_API_KEY` and `OPENROUTER_API_KEY` set in the
+project's environment variables it also runs new questions live; the SerpApi budget guard (`keep_at_least` in
+`unpaid.toml`) still applies, and the browser keeps its own copy of each new report, since the next request can reach
+another instance. `vercel dev -L` runs the same setup locally.
 
 **Tests and checks** (same as CI):
 
