@@ -13,7 +13,7 @@ from collections.abc import Iterator
 from pathlib import Path
 from typing import Any
 
-from fastapi import FastAPI, HTTPException
+from fastapi import APIRouter, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field, ValidationError
@@ -31,6 +31,9 @@ app.add_middleware(
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
 )
+# Every route sits under /api: the web app calls /api/..., locally through its dev proxy and on Vercel through the
+# top-level rewrite, which passes the full path on (vercel.json).
+api = APIRouter(prefix="/api")
 # One run at a time, so two clicks can never spend searches twice.
 RUN_LOCK = threading.Lock()
 WORK_DIR: Path = CACHE_DIR
@@ -85,7 +88,7 @@ def stream(body: AskBody) -> Iterator[str]:
         RUN_LOCK.release()
 
 
-@app.post("/ask")
+@api.post("/ask")
 def ask_route(body: AskBody) -> StreamingResponse:
     return StreamingResponse(stream(body), media_type="application/x-ndjson")
 
@@ -118,7 +121,7 @@ def save_report(show: Showcase) -> None:
     (folder / f"{show.id}.json").write_text(show.model_dump_json(indent=1), encoding="utf-8")
 
 
-@app.get("/reports")
+@api.get("/reports")
 def reports() -> list[dict[str, Any]]:
     """Report cards, newest first."""
     rows = []
@@ -141,7 +144,7 @@ def reports() -> list[dict[str, Any]]:
     return sorted(rows, key=lambda r: r["checked_at"], reverse=True)
 
 
-@app.get("/reports/{report_id}")
+@api.get("/reports/{report_id}")
 def report(report_id: str) -> dict[str, Any]:
     found = load_reports().get(report_id)
     if found is None:
@@ -150,7 +153,7 @@ def report(report_id: str) -> dict[str, Any]:
     return {"sample": sample, "report": s.model_dump(mode="json")}
 
 
-@app.get("/accuracy")
+@api.get("/accuracy")
 def accuracy() -> dict[str, Any]:
     """How the labels compared with a review checked by reading every line (computed by `uv run verify`)."""
     numbers = EVIDENCE_DIR / "numbers.json"
@@ -161,7 +164,7 @@ def accuracy() -> dict[str, Any]:
     return {"videos": labels.get("videos"), "scores": labels.get("answer_key"), "per_label": labels.get("per_label")}
 
 
-@app.get("/account")
+@api.get("/account")
 def account() -> dict[str, Any]:
     """SerpApi searches left (a free call). Without a key the app runs in replay mode only."""
     client = Client.from_env()
@@ -172,3 +175,6 @@ def account() -> dict[str, Any]:
     except SerpApiError as e:
         raise HTTPException(502, str(e)) from None
     return {"mode": "live", "searches_left": info.get("total_searches_left"), "keep_at_least": client.keep_at_least}
+
+
+app.include_router(api)

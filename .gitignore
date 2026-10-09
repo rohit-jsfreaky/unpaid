@@ -19,3 +19,8 @@ __pycache__/
 
 # Ad-hoc live runs. The published record is evidence/.
 cache/
+
+# Vercel: the engine build copies these next to the app (vercel.json); the originals live at the repo root.
+engine/evidence/
+engine/unpaid.toml
+.vercel/

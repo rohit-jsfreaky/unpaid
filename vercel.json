@@ -1,0 +1,25 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "web": {
+      "root": "web/",
+      "framework": "nextjs"
+    },
+    "engine": {
+      "root": "engine/",
+      "framework": "fastapi",
+      "entrypoint": "main:app",
+      "buildCommand": "rm -rf evidence && cp -r ../evidence ./evidence && cp ../unpaid.toml ./unpaid.toml",
+      "functions": {
+        "main.py": {
+          "maxDuration": 60,
+          "excludeFiles": "{tests/**,.venv/**,.ruff_cache/**,.pytest_cache/**}"
+        }
+      }
+    }
+  },
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": { "service": "engine" } },
+    { "source": "/(.*)", "destination": { "service": "web" } }
+  ]
+}

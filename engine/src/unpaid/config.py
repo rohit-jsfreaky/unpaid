@@ -3,14 +3,32 @@
 from __future__ import annotations
 
 import os
+import tempfile
 import tomllib
 from dataclasses import dataclass
 from pathlib import Path
 
 from dotenv import load_dotenv
 
-ROOT = Path(os.environ.get("UNPAID_ROOT", Path(__file__).resolve().parents[3]))
-CACHE_DIR = ROOT / "cache"
+
+def _root() -> Path:
+    """The folder holding evidence/ and unpaid.toml: the repo root in a checkout (engine/src/unpaid/config.py), or the
+    app's own folder when deployed (the Vercel build copies both next to the app, see vercel.json)."""
+    if os.environ.get("UNPAID_ROOT"):
+        return Path(os.environ["UNPAID_ROOT"])
+    checkout = Path(__file__).resolve().parents[3]
+    return checkout if (checkout / "evidence").is_dir() else Path.cwd()
+
+
+def _cache_dir(root: Path) -> Path:
+    """Where live runs and saved reports go. On Vercel the app's folder is read-only; only the temp dir is writable."""
+    if os.environ.get("UNPAID_CACHE"):
+        return Path(os.environ["UNPAID_CACHE"])
+    return Path(tempfile.gettempdir()) / "unpaid-cache" if os.environ.get("VERCEL") else root / "cache"
+
+
+ROOT = _root()
+CACHE_DIR = _cache_dir(ROOT)
 EVIDENCE_DIR = ROOT / "evidence"
 PROBE_DIR = EVIDENCE_DIR / "probe-2026-10-07"
 # The recorded demo run: raw SerpApi files in serpapi/, the run itself in collection.json.

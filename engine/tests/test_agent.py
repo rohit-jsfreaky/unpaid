@@ -80,7 +80,7 @@ def test_api_replays_the_demo_question_with_no_keys(tmp_path: Path, monkeypatch:
     monkeypatch.setenv("OPENROUTER_API_KEY", "")
     http = TestClient(api.app)
     typed = "Best phone under 30k for camera and  battery, big billion days?"  # how a person types it
-    events = lines(http.post("/ask", json={"question": typed, "replay": True}).text)
+    events = lines(http.post("/api/ask", json={"question": typed, "replay": True}).text)
     kinds = [e["type"] for e in events]
     assert kinds[0] == "start" and kinds[-1] == "result" and "plan" in kinds and kinds.count("video") == 21
     cost = next(e for e in events if e["type"] == "cost")
@@ -88,17 +88,17 @@ def test_api_replays_the_demo_question_with_no_keys(tmp_path: Path, monkeypatch:
     show = events[-1]["showcase"]
     assert show["board"]["top_all"][0] == "Motorola Edge 70 Fusion"
 
-    other = lines(http.post("/ask", json={"question": "best laptop under 60k", "replay": True}).text)
+    other = lines(http.post("/api/ask", json={"question": "best laptop under 60k", "replay": True}).text)
     assert other[-1]["type"] == "error" and other[-1]["status"] == 404
-    listed = http.get("/reports").json()
+    listed = http.get("/api/reports").json()
     sample = next(r for r in listed if r["id"] == "best-phone-under-30000-2026-10-08")
     assert sample["sample"] and any(r["sample"] and r["id"].startswith("best-earbuds") for r in listed)
     assert (sample["id"], sample["reviews"], sample["with_money_ties"]) == ("best-phone-under-30000-2026-10-08", 21, 9)
     assert sample["top_pick"] == "Motorola Edge 70 Fusion" and sample["top_pick_price"] == 25799
-    got = http.get(f"/reports/{sample['id']}").json()
+    got = http.get(f"/api/reports/{sample['id']}").json()
     assert got["sample"] and got["report"]["question"] == DEMO and len(got["report"]["reviews"]) == 21
-    assert http.get("/reports/nope").status_code == 404
-    assert http.get("/accuracy").json()["videos"] == 21
+    assert http.get("/api/reports/nope").status_code == 404
+    assert http.get("/api/accuracy").json()["videos"] == 21
 
 
 def test_reports_list_skips_a_report_saved_by_an_older_version(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> None:
@@ -109,5 +109,5 @@ def test_reports_list_skips_a_report_saved_by_an_older_version(tmp_path: Path, m
     (tmp_path / "reports").mkdir()
     (tmp_path / "reports" / "old.json").write_text('{"id": "old", "question": "x"}', encoding="utf-8")
     monkeypatch.setattr(api, "WORK_DIR", tmp_path)
-    listed = TestClient(api.app).get("/reports")
+    listed = TestClient(api.app).get("/api/reports")
     assert listed.status_code == 200 and all(r["sample"] for r in listed.json())  # only the recorded samples

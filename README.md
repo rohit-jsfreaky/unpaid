@@ -178,7 +178,7 @@ flowchart LR
    disclosure and those with one.
 8. `prices.prices`: Google Shopping for the winners, matched by whole model words, skipping accessories, parts, used
    units and offers under 40% of the median.
-9. `board.assemble` → the report. The API streams every step as it happens (`POST /ask`, NDJSON).
+9. `board.assemble` → the report. The API streams every step as it happens (`POST /api/ask`, NDJSON).
 
 ## How Unpaid uses SerpApi
 
@@ -356,7 +356,7 @@ engine/src/unpaid/
   aggregate.py counts by all / no-disclosure / disclosed reviewers
   prices.py    Google Shopping offers, matched by model words
   board.py     the report
-  api.py       FastAPI: POST /ask (streaming), /reports, /accuracy, /account
+  api.py       FastAPI, all under /api: POST /ask (streaming), /reports, /accuracy, /account
   verify.py    the 22 checks
 evidence/      every recorded SerpApi response, LLM answer, link check, report; answer key; numbers.json
 web/app        landing (/), dashboard (/app), live check, report pages, How we label
@@ -365,6 +365,12 @@ web/app        landing (/), dashboard (/app), live check, report pages, How we l
 **Run a new question live** (spends searches): put your keys in `.env` at the repo root, then
 `cd engine && uv run unpaid ask "best smartwatch under 5000 for fitness"`, or ask it in the app.
 `uv run unpaid account` shows SerpApi searches left (free).
+
+**Deploy (Vercel).** One Vercel project with two [services](https://vercel.com/docs/services) (`vercel.json`): the
+Next.js app (`web/`) and the FastAPI engine (`engine/`, entry `engine/main.py`). `/api/*` goes to the engine, every
+other path to the app, on one domain. The engine's build copies `evidence/` and `unpaid.toml` next to it, and it writes
+only to the temp folder. Set no API keys on Vercel: the hosted app then runs in replay mode, answers every recorded
+question for free, and can never spend searches. `vercel dev -L` runs the same setup locally.
 
 **Tests and checks** (same as CI):
 
